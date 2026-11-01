@@ -4883,28 +4883,20 @@
 },
 "references": [
 {
-"authors": "Meng X et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "Structural insights into the activation of the human prostaglandin E(2) receptor EP1 subtype by prostaglandin E(2).",
-"year": "2025",
+"authors": "Abramovitz M et al.",
+"year": "1994",
+"title": "Cloning and expression of a cDNA for the human prostanoid FP receptor.",
+"journal": "J Biol Chem",
 "db": "pubmed",
-"id": "40366695"
+"id": "8300593"
 },
 {
-"authors": "Tabata H et al.",
-"journal": "Biochem Biophys Res Commun",
-"title": "Possible coupling of prostaglandin E receptor EP(1) to TRP5 expressed in Xenopus laevis oocytes.",
-"year": "2002",
+"authors": "Woodward DF et al.",
+"year": "2011",
+"title": "International Union of Basic and Clinical Pharmacology. LXXXIII: classification of prostanoid receptors, updating 15 years of progress.",
+"journal": "Pharmacol Rev",
 "db": "pubmed",
-"id": "12413954"
-},
-{
-"authors": "Wei D et al.",
-"journal": "J Neurosci",
-"title": "PGE2 Potentiates Orai1-Mediated Calcium Entry Contributing to Peripheral Sensitization.",
-"year": "2024",
-"db": "pubmed",
-"id": "37952941"
+"id": "21752876"
 }
 ]
 },
@@ -4932,28 +4924,20 @@
 },
 "references": [
 {
-"authors": "Berstein G et al.",
+"authors": "Abramovitz M et al.",
+"year": "1994",
+"title": "Cloning and expression of a cDNA for the human prostanoid FP receptor.",
 "journal": "J Biol Chem",
-"title": "Reconstitution of agonist-stimulated phosphatidylinositol 4,5-bisphosphate hydrolysis using purified m1 muscarinic receptor, Gq/11, and phospholipase C-beta 1.",
-"year": "1992",
 "db": "pubmed",
-"id": "1341877"
+"id": "8300593"
 },
 {
-"authors": "Nishimura A et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "Structural basis for the specific inhibition of heterotrimeric Gq protein by a small molecule.",
-"year": "2010",
+"authors": "Woodward DF et al.",
+"year": "2011",
+"title": "International Union of Basic and Clinical Pharmacology. LXXXIII: classification of prostanoid receptors, updating 15 years of progress.",
+"journal": "Pharmacol Rev",
 "db": "pubmed",
-"id": "20639466"
-},
-{
-"authors": "Gilman AG",
-"journal": "Annu Rev Biochem",
-"title": "G proteins: transducers of receptor-generated signals.",
-"year": "1987",
-"db": "pubmed",
-"id": "3113327"
+"id": "21752876"
 }
 ]
 },
@@ -4980,28 +4964,20 @@
 },
 "references": [
 {
-"authors": "Meng X et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "Structural insights into the activation of the human prostaglandin E(2) receptor EP1 subtype by prostaglandin E(2).",
-"year": "2025",
-"db": "pubmed",
-"id": "40366695"
-},
-{
-"authors": "Funk CD et al.",
+"authors": "Abramovitz M et al.",
+"year": "1994",
+"title": "Cloning and expression of a cDNA for the human prostanoid FP receptor.",
 "journal": "J Biol Chem",
-"title": "Cloning and expression of a cDNA for the human prostaglandin E receptor EP1 subtype.",
-"year": "1993",
 "db": "pubmed",
-"id": "8253813"
+"id": "8300593"
 },
 {
-"authors": "Wei D et al.",
-"journal": "J Neurosci",
-"title": "PGE2 Potentiates Orai1-Mediated Calcium Entry Contributing to Peripheral Sensitization.",
-"year": "2024",
+"authors": "Woodward DF et al.",
+"year": "2011",
+"title": "International Union of Basic and Clinical Pharmacology. LXXXIII: classification of prostanoid receptors, updating 15 years of progress.",
+"journal": "Pharmacol Rev",
 "db": "pubmed",
-"id": "37952941"
+"id": "21752876"
 }
 ]
 },
@@ -5030,28 +5006,20 @@
 },
 "references": [
 {
-"authors": "Heximer SP et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "RGS2/G0S8 is a selective inhibitor of Gqalpha function.",
-"year": "1997",
+"authors": "Abramovitz M et al.",
+"year": "1994",
+"title": "Cloning and expression of a cDNA for the human prostanoid FP receptor.",
+"journal": "J Biol Chem",
 "db": "pubmed",
-"id": "9405622"
+"id": "8300593"
 },
 {
-"authors": "Berstein G et al.",
-"journal": "Cell",
-"title": "Phospholipase C-beta 1 is a GTPase-activating protein for Gq/11, its physiologic regulator.",
-"year": "1992",
+"authors": "Woodward DF et al.",
+"year": "2011",
+"title": "International Union of Basic and Clinical Pharmacology. LXXXIII: classification of prostanoid receptors, updating 15 years of progress.",
+"journal": "Pharmacol Rev",
 "db": "pubmed",
-"id": "1322796"
-},
-{
-"authors": "Gilman AG",
-"journal": "Annu Rev Biochem",
-"title": "G proteins: transducers of receptor-generated signals.",
-"year": "1987",
-"db": "pubmed",
-"id": "3113327"
+"id": "21752876"
 }
 ]
 },
@@ -5078,20 +5046,20 @@
 },
 "references": [
 {
-"authors": "Nishimura A et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "Structural basis for the specific inhibition of heterotrimeric Gq protein by a small molecule.",
-"year": "2010",
+"authors": "Abramovitz M et al.",
+"year": "1994",
+"title": "Cloning and expression of a cDNA for the human prostanoid FP receptor.",
+"journal": "J Biol Chem",
 "db": "pubmed",
-"id": "20639466"
+"id": "8300593"
 },
 {
-"authors": "Gilman AG",
-"journal": "Annu Rev Biochem",
-"title": "G proteins: transducers of receptor-generated signals.",
-"year": "1987",
+"authors": "Woodward DF et al.",
+"year": "2011",
+"title": "International Union of Basic and Clinical Pharmacology. LXXXIII: classification of prostanoid receptors, updating 15 years of progress.",
+"journal": "Pharmacol Rev",
 "db": "pubmed",
-"id": "3113327"
+"id": "21752876"
 }
 ]
 },
@@ -5120,20 +5088,20 @@
 },
 "references": [
 {
-"authors": "Berstein G et al.",
+"authors": "Abramovitz M et al.",
+"year": "1994",
+"title": "Cloning and expression of a cDNA for the human prostanoid FP receptor.",
 "journal": "J Biol Chem",
-"title": "Reconstitution of agonist-stimulated phosphatidylinositol 4,5-bisphosphate hydrolysis using purified m1 muscarinic receptor, Gq/11, and phospholipase C-beta 1.",
-"year": "1992",
 "db": "pubmed",
-"id": "1341877"
+"id": "8300593"
 },
 {
-"authors": "Gilman AG",
-"journal": "Annu Rev Biochem",
-"title": "G proteins: transducers of receptor-generated signals.",
-"year": "1987",
+"authors": "Woodward DF et al.",
+"year": "2011",
+"title": "International Union of Basic and Clinical Pharmacology. LXXXIII: classification of prostanoid receptors, updating 15 years of progress.",
+"journal": "Pharmacol Rev",
 "db": "pubmed",
-"id": "3113327"
+"id": "21752876"
 }
 ]
 },
@@ -5160,28 +5128,20 @@
 },
 "references": [
 {
-"authors": "Waldo GL et al.",
-"journal": "Science",
-"title": "Kinetic scaffolding mediated by a phospholipase C-beta and Gq signaling complex.",
-"year": "2010",
+"authors": "Abramovitz M et al.",
+"year": "1994",
+"title": "Cloning and expression of a cDNA for the human prostanoid FP receptor.",
+"journal": "J Biol Chem",
 "db": "pubmed",
-"id": "20966218"
+"id": "8300593"
 },
 {
-"authors": "Smrcka AV et al.",
-"journal": "Science",
-"title": "Regulation of polyphosphoinositide-specific phospholipase C activity by purified Gq.",
-"year": "1991",
+"authors": "Woodward DF et al.",
+"year": "2011",
+"title": "International Union of Basic and Clinical Pharmacology. LXXXIII: classification of prostanoid receptors, updating 15 years of progress.",
+"journal": "Pharmacol Rev",
 "db": "pubmed",
-"id": "1846707"
-},
-{
-"authors": "Yagami T et al.",
-"journal": "Mol Neurobiol",
-"title": "Pathophysiological Roles of Cyclooxygenases and Prostaglandins in the Central Nervous System.",
-"year": "2016",
-"db": "pubmed",
-"id": "26328537"
+"id": "21752876"
 }
 ]
 },

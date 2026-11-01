@@ -1,0 +1,180 @@
+{
+"nodes": [
+{
+"label": "GPR18",
+"class": "Macromolecule",
+"box": [
+239.0,
+278.2,
+80.0,
+40.0
+],
+"props": [
+[
+"HGNC",
+"Q14330"
+],
+[
+"HGNC symbol",
+"GPR18"
+],
+[
+"UniProt",
+"HGNC:4472"
+]
+]
+},
+{
+"label": "RvD2",
+"class": "SimpleChemical",
+"box": [
+259.0,
+230.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"resolvin D2"
+],
+[
+"Synonyms",
+"(4Z,7R,8E,10Z,12E,14E,16R,17S,19Z)-7,16,17-trihydroxydocosa-4,8,10,12,14,19-hexaenoic acid; 7S,16R,17S-trihydroxy-4Z,8E,10Z,12E,14E,19Z-docosahexaenoic acid; RVD2"
+],
+[
+"Definition",
+"A member of the class of resolvins that is (4Z,8E,10Z,12E,14E,19Z)-docosahexaenoic acid carrying three hydroxy substituents at positions 7, 16 and 17 (the 7S,16R,17S-stereoisomer)."
+],
+[
+"Formula",
+"C22H32O5"
+],
+[
+"ChEBI",
+"CHEBI:81565"
+],
+[
+"KEGG",
+"C18179"
+],
+[
+"HMDB",
+"HMDB0002294"
+],
+[
+"InChI",
+"InChI=1S/C22H32O5/c1-2-3-9-16-20(24)21(25)17-12-7-5-4-6-10-14-19(23)15-11-8-13-18-22(26)27/h3-12,14,17,19-21,23-25H,2,13,15-16,18H2,1H3,(H,26,27)/b6-4-,7-5+,9-3-,11-8-,14-10+,17-12+/t19-,20+,21-/m1/s1"
+],
+[
+"InChIKey",
+"IKFAUGXNBOBQDM-XFMPMKITSA-N"
+]
+]
+},
+{
+"label": "GPR18",
+"class": "Macromolecule",
+"box": [
+47.0,
+264.5,
+80.0,
+40.0
+],
+"props": [
+[
+"HGNC",
+"Q14330"
+],
+[
+"HGNC symbol",
+"GPR18"
+],
+[
+"UniProt",
+"HGNC:4472"
+]
+]
+},
+{
+"id": "re183",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GPR18",
+"RvD2"
+],
+"out": [
+"RvD2:GPR18"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Chiang N et al.",
+"year": "2015",
+"title": "Identification of resolvin D2 receptor mediating resolution of infections and organ protection.",
+"journal": "J Exp Med",
+"db": "pubmed",
+"id": "26195725"
+}
+]
+},
+{
+"label": "RvD2",
+"class": "SimpleChemical",
+"box": [
+157.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"resolvin D2"
+],
+[
+"Synonyms",
+"(4Z,7R,8E,10Z,12E,14E,16R,17S,19Z)-7,16,17-trihydroxydocosa-4,8,10,12,14,19-hexaenoic acid; 7S,16R,17S-trihydroxy-4Z,8E,10Z,12E,14E,19Z-docosahexaenoic acid; RVD2"
+],
+[
+"Definition",
+"A member of the class of resolvins that is (4Z,8E,10Z,12E,14E,19Z)-docosahexaenoic acid carrying three hydroxy substituents at positions 7, 16 and 17 (the 7S,16R,17S-stereoisomer)."
+],
+[
+"Formula",
+"C22H32O5"
+],
+[
+"ChEBI",
+"CHEBI:81565"
+],
+[
+"KEGG",
+"C18179"
+],
+[
+"HMDB",
+"HMDB0002294"
+],
+[
+"InChI",
+"InChI=1S/C22H32O5/c1-2-3-9-16-20(24)21(25)17-12-7-5-4-6-10-14-19(23)15-11-8-13-18-22(26)27/h3-12,14,17,19-21,23-25H,2,13,15-16,18H2,1H3,(H,26,27)/b6-4-,7-5+,9-3-,11-8-,14-10+,17-12+/t19-,20+,21-/m1/s1"
+],
+[
+"InChIKey",
+"IKFAUGXNBOBQDM-XFMPMKITSA-N"
+]
+]
+}
+]
+}

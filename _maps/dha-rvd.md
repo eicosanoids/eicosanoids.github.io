@@ -24,7 +24,7 @@ One predicted step is drawn with a dashed arrow: the oxidation of resolvin D2, b
 
 ## Source
 
-New content, drawn in blue until reviewed. Each step carries at least three references, checked on PubMed.
+New content, drawn in blue until reviewed. Each drawn step carries its references, checked on PubMed, most of them three. The predicted steps carry none, which is what marks them out.
 
 ## References
 

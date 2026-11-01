@@ -24,7 +24,7 @@ Predicted steps, drawn with dashed arrows: the oxidation of 13R-HDPA and the asp
 
 ## Source
 
-New content, drawn in blue until reviewed. Each step carries at least three references, checked on PubMed.
+New content, drawn in blue until reviewed. Each drawn step carries at least three references, checked on PubMed. The predicted steps carry none, which is what marks them out.
 
 ## References
 

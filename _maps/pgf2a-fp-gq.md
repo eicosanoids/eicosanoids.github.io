@@ -22,7 +22,7 @@ PGF2α binds the FP receptor (PTGFR), which couples to Gq and raises calcium (Ab
 
 ## Source
 
-New content, drawn in blue until reviewed. The G protein cycle is drawn as in the Starting maps of the receptor blocks, so every receptor map of the atlas has the same form.
+New content, marked "new" on the atlas list until reviewed. The G protein cycle is drawn as in the Starting maps of the receptor blocks, so every receptor map of the atlas has the same form.
 
 ## References
 

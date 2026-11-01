@@ -1,0 +1,180 @@
+{
+"nodes": [
+{
+"label": "GPR32",
+"class": "Macromolecule",
+"box": [
+239.0,
+278.2,
+80.0,
+40.0
+],
+"props": [
+[
+"HGNC",
+"O75388"
+],
+[
+"HGNC symbol",
+"GPR32"
+],
+[
+"UniProt",
+"HGNC:4487"
+]
+]
+},
+{
+"label": "RvD1",
+"class": "SimpleChemical",
+"box": [
+259.0,
+230.2,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"resolvin D1"
+],
+[
+"Synonyms",
+"(4Z,7S,8R,9E,11E,13Z,15E,17S,19Z)-7,8,17-trihydroxydocosa-4,9,11,13,15,19-hexaenoic acid; 7S,8,17S-Trihydroxy-docosa-4Z,9E,11E,13Z,15E,19Z-hexaenoate; 7S,8,17S-Trihydroxy-docosa-4Z,9E,11E,13Z,15E,19Z-hexaenoic acid; 7S,8R,17S-Trihydroxydocosa-4Z,9E,11E,13Z,15E,19Z-hexaenoic acid; RvD1"
+],
+[
+"Definition",
+"A resolvin that is docosa-4Z,9E,11E,13Z,15E,19Z-hexaenoic acid which is substituted by hydroxy groups at the 7, 8, and 17 positions (the 7S,8R,17S-stereoisomer)."
+],
+[
+"Formula",
+"C22H32O5"
+],
+[
+"ChEBI",
+"CHEBI:81564"
+],
+[
+"KEGG",
+"C18178"
+],
+[
+"HMDB",
+"HMDB0003733"
+],
+[
+"InChI",
+"InChI=1S/C22H32O5/c1-2-3-9-14-19(23)15-10-6-4-5-7-11-16-20(24)21(25)17-12-8-13-18-22(26)27/h3-12,15-16,19-21,23-25H,2,13-14,17-18H2,1H3,(H,26,27)/b6-4-,7-5+,9-3-,12-8-,15-10+,16-11+/t19-,20+,21-/m0/s1"
+],
+[
+"InChIKey",
+"OIWTWACQMDFHJG-CCFUIAGSSA-N"
+]
+]
+},
+{
+"label": "GPR32",
+"class": "Macromolecule",
+"box": [
+47.0,
+264.5,
+80.0,
+40.0
+],
+"props": [
+[
+"HGNC",
+"O75388"
+],
+[
+"HGNC symbol",
+"GPR32"
+],
+[
+"UniProt",
+"HGNC:4487"
+]
+]
+},
+{
+"id": "re183",
+"label": "",
+"class": "Process",
+"box": [
+165.0,
+272.5,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GPR32",
+"RvD1"
+],
+"out": [
+"RvD1:GPR32"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Krishnamoorthy S et al.",
+"year": "2010",
+"title": "Resolvin D1 binds human phagocytes with evidence for proresolving receptors.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "20080636"
+}
+]
+},
+{
+"label": "RvD1",
+"class": "SimpleChemical",
+"box": [
+157.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"resolvin D1"
+],
+[
+"Synonyms",
+"(4Z,7S,8R,9E,11E,13Z,15E,17S,19Z)-7,8,17-trihydroxydocosa-4,9,11,13,15,19-hexaenoic acid; 7S,8,17S-Trihydroxy-docosa-4Z,9E,11E,13Z,15E,19Z-hexaenoate; 7S,8,17S-Trihydroxy-docosa-4Z,9E,11E,13Z,15E,19Z-hexaenoic acid; 7S,8R,17S-Trihydroxydocosa-4Z,9E,11E,13Z,15E,19Z-hexaenoic acid; RvD1"
+],
+[
+"Definition",
+"A resolvin that is docosa-4Z,9E,11E,13Z,15E,19Z-hexaenoic acid which is substituted by hydroxy groups at the 7, 8, and 17 positions (the 7S,8R,17S-stereoisomer)."
+],
+[
+"Formula",
+"C22H32O5"
+],
+[
+"ChEBI",
+"CHEBI:81564"
+],
+[
+"KEGG",
+"C18178"
+],
+[
+"HMDB",
+"HMDB0003733"
+],
+[
+"InChI",
+"InChI=1S/C22H32O5/c1-2-3-9-14-19(23)15-10-6-4-5-7-11-16-20(24)21(25)17-12-8-13-18-22(26)27/h3-12,15-16,19-21,23-25H,2,13-14,17-18H2,1H3,(H,26,27)/b6-4-,7-5+,9-3-,12-8-,15-10+,16-11+/t19-,20+,21-/m0/s1"
+],
+[
+"InChIKey",
+"OIWTWACQMDFHJG-CCFUIAGSSA-N"
+]
+]
+}
+]
+}

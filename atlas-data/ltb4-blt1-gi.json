@@ -5461,20 +5461,28 @@
 },
 "references": [
 {
-"authors": "Suno R et al.",
-"journal": "Cell Rep",
-"title": "Structural insights into the G protein selectivity revealed by the human EP3-G(i) signaling complex.",
-"year": "2022",
+"authors": "Gaudreau R et al.",
+"journal": "Biochem J",
+"title": "Signalling through the leukotriene B4 receptor involves both alphai and alpha16, but not alphaq or alpha11 G-protein subunits.",
+"year": "1998",
 "db": "pubmed",
-"id": "36103815"
+"id": "9742207"
 },
 {
-"authors": "Huang SM et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "Single hormone or synthetic agonist induces G(s)/G(i) coupling selectivity of EP receptors via distinct binding modes and propagating paths.",
-"year": "2023",
+"authors": "Arita M et al.",
+"year": "2007",
+"title": "Resolvin E1 selectively interacts with leukotriene B4 receptor BLT1 and ChemR23 to regulate inflammation.",
+"journal": "J Immunol",
 "db": "pubmed",
-"id": "37478163"
+"id": "17339491"
+},
+{
+"authors": "Yokomizo T et al.",
+"journal": "Nature",
+"title": "A G-protein-coupled receptor for leukotriene B4 that mediates chemotaxis.",
+"year": "1997",
+"db": "pubmed",
+"id": "9177352"
 }
 ]
 },
@@ -5502,20 +5510,28 @@
 },
 "references": [
 {
-"authors": "Oldham WM et al.",
-"journal": "Proc Natl Acad Sci U S A",
-"title": "Mapping allosteric connections from the receptor to the nucleotide-binding pocket of heterotrimeric G proteins.",
-"year": "2007",
+"authors": "Gaudreau R et al.",
+"journal": "Biochem J",
+"title": "Signalling through the leukotriene B4 receptor involves both alphai and alpha16, but not alphaq or alpha11 G-protein subunits.",
+"year": "1998",
 "db": "pubmed",
-"id": "17463080"
+"id": "9742207"
 },
 {
-"authors": "Gilman AG",
-"journal": "Annu Rev Biochem",
-"title": "G proteins: transducers of receptor-generated signals.",
-"year": "1987",
+"authors": "Arita M et al.",
+"year": "2007",
+"title": "Resolvin E1 selectively interacts with leukotriene B4 receptor BLT1 and ChemR23 to regulate inflammation.",
+"journal": "J Immunol",
 "db": "pubmed",
-"id": "3113327"
+"id": "17339491"
+},
+{
+"authors": "Yokomizo T et al.",
+"journal": "Nature",
+"title": "A G-protein-coupled receptor for leukotriene B4 that mediates chemotaxis.",
+"year": "1997",
+"db": "pubmed",
+"id": "9177352"
 }
 ]
 },
@@ -5542,20 +5558,28 @@
 },
 "references": [
 {
-"authors": "Morimoto K et al.",
-"journal": "Nat Chem Biol",
-"title": "Crystal structure of the endogenous agonist-bound prostanoid receptor EP3.",
-"year": "2019",
+"authors": "Gaudreau R et al.",
+"journal": "Biochem J",
+"title": "Signalling through the leukotriene B4 receptor involves both alphai and alpha16, but not alphaq or alpha11 G-protein subunits.",
+"year": "1998",
 "db": "pubmed",
-"id": "30510192"
+"id": "9742207"
 },
 {
-"authors": "Kunapuli SP et al.",
-"journal": "Biochem J",
-"title": "Cloning and expression of a prostaglandin E receptor EP3 subtype from human erythroleukaemia cells.",
-"year": "1994",
+"authors": "Arita M et al.",
+"year": "2007",
+"title": "Resolvin E1 selectively interacts with leukotriene B4 receptor BLT1 and ChemR23 to regulate inflammation.",
+"journal": "J Immunol",
 "db": "pubmed",
-"id": "8135729"
+"id": "17339491"
+},
+{
+"authors": "Yokomizo T et al.",
+"journal": "Nature",
+"title": "A G-protein-coupled receptor for leukotriene B4 that mediates chemotaxis.",
+"year": "1997",
+"db": "pubmed",
+"id": "9177352"
 }
 ]
 },
@@ -5584,28 +5608,28 @@
 },
 "references": [
 {
-"authors": "Wall MA et al.",
-"journal": "Cell",
-"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
-"year": "1995",
+"authors": "Gaudreau R et al.",
+"journal": "Biochem J",
+"title": "Signalling through the leukotriene B4 receptor involves both alphai and alpha16, but not alphaq or alpha11 G-protein subunits.",
+"year": "1998",
 "db": "pubmed",
-"id": "8521505"
+"id": "9742207"
 },
 {
-"authors": "Coleman DE et al.",
-"journal": "Science",
-"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
-"year": "1994",
+"authors": "Arita M et al.",
+"year": "2007",
+"title": "Resolvin E1 selectively interacts with leukotriene B4 receptor BLT1 and ChemR23 to regulate inflammation.",
+"journal": "J Immunol",
 "db": "pubmed",
-"id": "8073283"
+"id": "17339491"
 },
 {
-"authors": "Gilman AG",
-"journal": "Annu Rev Biochem",
-"title": "G proteins: transducers of receptor-generated signals.",
-"year": "1987",
+"authors": "Yokomizo T et al.",
+"journal": "Nature",
+"title": "A G-protein-coupled receptor for leukotriene B4 that mediates chemotaxis.",
+"year": "1997",
 "db": "pubmed",
-"id": "3113327"
+"id": "9177352"
 }
 ]
 },
@@ -5634,28 +5658,28 @@
 },
 "references": [
 {
-"authors": "Coleman DE et al.",
-"journal": "Science",
-"title": "Structures of active conformations of Gi alpha 1 and the mechanism of GTP hydrolysis.",
-"year": "1994",
+"authors": "Gaudreau R et al.",
+"journal": "Biochem J",
+"title": "Signalling through the leukotriene B4 receptor involves both alphai and alpha16, but not alphaq or alpha11 G-protein subunits.",
+"year": "1998",
 "db": "pubmed",
-"id": "8073283"
+"id": "9742207"
 },
 {
-"authors": "Berman DM et al.",
-"journal": "Cell",
-"title": "GAIP and RGS4 are GTPase-activating proteins for the Gi subfamily of G protein alpha subunits.",
-"year": "1996",
+"authors": "Arita M et al.",
+"year": "2007",
+"title": "Resolvin E1 selectively interacts with leukotriene B4 receptor BLT1 and ChemR23 to regulate inflammation.",
+"journal": "J Immunol",
 "db": "pubmed",
-"id": "8756726"
+"id": "17339491"
 },
 {
-"authors": "Tesmer JJ et al.",
-"journal": "Cell",
-"title": "Structure of RGS4 bound to AlF4--activated G(i alpha1): stabilization of the transition state for GTP hydrolysis.",
+"authors": "Yokomizo T et al.",
+"journal": "Nature",
+"title": "A G-protein-coupled receptor for leukotriene B4 that mediates chemotaxis.",
 "year": "1997",
 "db": "pubmed",
-"id": "9108480"
+"id": "9177352"
 }
 ]
 },
@@ -5682,20 +5706,28 @@
 },
 "references": [
 {
-"authors": "Wall MA et al.",
-"journal": "Cell",
-"title": "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma 2.",
-"year": "1995",
+"authors": "Gaudreau R et al.",
+"journal": "Biochem J",
+"title": "Signalling through the leukotriene B4 receptor involves both alphai and alpha16, but not alphaq or alpha11 G-protein subunits.",
+"year": "1998",
 "db": "pubmed",
-"id": "8521505"
+"id": "9742207"
 },
 {
-"authors": "Gilman AG",
-"journal": "Annu Rev Biochem",
-"title": "G proteins: transducers of receptor-generated signals.",
-"year": "1987",
+"authors": "Arita M et al.",
+"year": "2007",
+"title": "Resolvin E1 selectively interacts with leukotriene B4 receptor BLT1 and ChemR23 to regulate inflammation.",
+"journal": "J Immunol",
 "db": "pubmed",
-"id": "3113327"
+"id": "17339491"
+},
+{
+"authors": "Yokomizo T et al.",
+"journal": "Nature",
+"title": "A G-protein-coupled receptor for leukotriene B4 that mediates chemotaxis.",
+"year": "1997",
+"db": "pubmed",
+"id": "9177352"
 }
 ]
 },
@@ -5722,20 +5754,28 @@
 },
 "references": [
 {
-"authors": "Taussig R et al.",
-"journal": "Science",
-"title": "Inhibition of adenylyl cyclase by Gi alpha.",
-"year": "1993",
+"authors": "Gaudreau R et al.",
+"journal": "Biochem J",
+"title": "Signalling through the leukotriene B4 receptor involves both alphai and alpha16, but not alphaq or alpha11 G-protein subunits.",
+"year": "1998",
 "db": "pubmed",
-"id": "8327893"
+"id": "9742207"
 },
 {
-"authors": "Kunapuli SP et al.",
-"journal": "Biochem J",
-"title": "Cloning and expression of a prostaglandin E receptor EP3 subtype from human erythroleukaemia cells.",
-"year": "1994",
+"authors": "Arita M et al.",
+"year": "2007",
+"title": "Resolvin E1 selectively interacts with leukotriene B4 receptor BLT1 and ChemR23 to regulate inflammation.",
+"journal": "J Immunol",
 "db": "pubmed",
-"id": "8135729"
+"id": "17339491"
+},
+{
+"authors": "Yokomizo T et al.",
+"journal": "Nature",
+"title": "A G-protein-coupled receptor for leukotriene B4 that mediates chemotaxis.",
+"year": "1997",
+"db": "pubmed",
+"id": "9177352"
 }
 ]
 },

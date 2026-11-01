@@ -854,7 +854,7 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><node id="re181"><data key="dref">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="d103">pubmed:36103815 pubmed:37478163</data><data key="dev_node">re181</data><data key="ng">
+        </node><node id="re181"><data key="d103">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="dev_node">re181</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="397.0" y="300.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -868,7 +868,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re182"><data key="dref">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="d103">pubmed:17463080 pubmed:3113327</data><data key="dev_node">re182</data><data key="ng">
+    </node><node id="re182"><data key="d103">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="dev_node">re182</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="766.0" y="300.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -882,7 +882,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re183"><data key="dref">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="d103">pubmed:30510192 pubmed:8135729</data><data key="dev_node">re183</data><data key="ng">
+    </node><node id="re183"><data key="d103">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="dev_node">re183</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="193.0" y="300.5"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -896,7 +896,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re229"><data key="dref">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="d103">pubmed:8521505 pubmed:8073283 pubmed:3113327</data><data key="dev_node">re229</data><data key="ng">
+    </node><node id="re229"><data key="d103">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="dev_node">re229</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="965.0" y="503.25"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -910,7 +910,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re230"><data key="dref">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="d103">pubmed:8073283 pubmed:8756726 pubmed:9108480</data><data key="dev_node">re230</data><data key="ng">
+    </node><node id="re230"><data key="d103">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="dev_node">re230</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="826.0" y="712.75"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -924,7 +924,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re231"><data key="dref">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="d103">pubmed:8521505 pubmed:3113327</data><data key="dev_node">re231</data><data key="ng">
+    </node><node id="re231"><data key="d103">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="dev_node">re231</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="519.0" y="712.75"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -938,7 +938,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re232"><data key="dref">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="d103">pubmed:8327893 pubmed:8135729</data><data key="dev_node">re232</data><data key="ng">
+    </node><node id="re232"><data key="d103">pubmed:18378794 pubmed:10934230 pubmed:24009185</data><data key="dev_node">re232</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="965.0" y="871.0"/>
           <y:Fill transparent="false" hasColor="false"/>

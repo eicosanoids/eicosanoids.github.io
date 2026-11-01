@@ -24,7 +24,7 @@ This map corrects the Starting map LTB4 receptors (BLT1 and BLT2), which drew BL
 
 ## Source
 
-New content, drawn in blue until reviewed. The G protein cycle is drawn as in the Starting maps of the receptor blocks, so every receptor map of the atlas has the same form.
+New content, marked "new" on the atlas list until reviewed. The G protein cycle is drawn as in the Starting maps of the receptor blocks, so every receptor map of the atlas has the same form.
 
 ## References
 

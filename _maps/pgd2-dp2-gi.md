@@ -22,7 +22,7 @@ PGD2 acts on a second receptor besides DP1, called DP2 or CRTH2 (PTGDR2), which 
 
 ## Source
 
-New content, drawn in blue until reviewed. The G protein cycle is drawn as in the Starting maps of the receptor blocks, so every receptor map of the atlas has the same form.
+New content, marked "new" on the atlas list until reviewed. The G protein cycle is drawn as in the Starting maps of the receptor blocks, so every receptor map of the atlas has the same form.
 
 ## References
 

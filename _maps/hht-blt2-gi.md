@@ -24,7 +24,7 @@ BLT2 (LTB4R2) is the second, low-affinity receptor for LTB4 (Yokomizo 2000). Its
 
 ## Source
 
-New content, drawn in blue until reviewed. The G protein cycle is drawn as in the Starting maps of the receptor blocks, so every receptor map of the atlas has the same form.
+New content, marked "new" on the atlas list until reviewed. The G protein cycle is drawn as in the Starting maps of the receptor blocks, so every receptor map of the atlas has the same form.
 
 ## References
 

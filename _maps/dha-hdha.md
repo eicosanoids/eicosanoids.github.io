@@ -24,7 +24,7 @@ Predicted steps, drawn with dashed arrows: the oxidation of 7S-HDHA and 14S-HDHA
 
 ## Source
 
-New content, drawn in blue until reviewed. Each step carries at least three references, checked on PubMed.
+New content, drawn in blue until reviewed. Each drawn step carries its references, checked on PubMed, most of them three. The predicted steps carry none, which is what marks them out.
 
 ## References
 
