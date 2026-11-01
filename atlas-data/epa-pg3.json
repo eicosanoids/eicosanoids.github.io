@@ -1,0 +1,1292 @@
+{
+"nodes": [
+{
+"label": "EPA",
+"class": "SimpleChemical",
+"box": [
+315.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"all-cis-5,8,11,14,17-icosapentaenoic acid"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,14Z,17Z)-5,8,11,14,17-eicosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoate; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-icosa-5,8,11,14,17-pentaenoic acid; (all-Z)-5,8,11,14,17-eicosapentaenoic acid; 5,8,11,14,17-EICOSAPENTAENOIC ACID; 5,8,11,14,17-Icosapentaenoic acid; EPA; Eicosapentaenoic acid; Icosapentaenoic acid; Timnodonic acid; all-cis-5,8,11,14,17-eicosapentaenoic acid; all-cis-icosa-5,8,11,14,17-pentaenoic acid; cis, cis, cis, cis, cis-eicosa-5,8,11,14,17-pentaenoic acid; cis-5,8,11,14,17-EPA; cis-5,8,11,14,17-eicosapentaenoic acid; cis-Delta(5,8,11,14,17)-eicosapentaenoic acid; icosapent; icosapento; icosapentum"
+],
+[
+"Definition",
+"An icosapentaenoic acid having five cis-double bonds at positions 5, 8, 11, 14 and 17."
+],
+[
+"Formula",
+"C20H30O2"
+],
+[
+"ChEBI",
+"CHEBI:28364"
+],
+[
+"KEGG",
+"C06428"
+],
+[
+"HMDB",
+"HMDB0001999"
+],
+[
+"InChI",
+"InChI=1S/C20H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(21)22/h3-4,6-7,9-10,12-13,15-16H,2,5,8,11,14,17-19H2,1H3,(H,21,22)/b4-3-,7-6-,10-9-,13-12-,16-15-"
+],
+[
+"InChIKey",
+"JAZBEHYOTPTENJ-JLNKQSITSA-N"
+]
+]
+},
+{
+"label": "PGG3",
+"class": "SimpleChemical",
+"box": [
+315.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin G3"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1R,4S,5R,6R)-6-[(1E,3S,,5Z)-3-hydroperoxyocta-1,5-dien-1-yl]-2,3-dioxabicyclo[2.2.1]heptan-5-yl}hept-5-enoic acid; (5Z,9S,11R,13E,15S,17Z)-15-hydroperoxy-9,11-epidioxyprosta-5,13,17-trienoic acid; PGG3"
+],
+[
+"Definition",
+"A member of the class of prostaglandins G that is 9,11-epidioxyprosta-5,13,17-trienoic acid carrying an additional hydroperoxy substituent at the 15S-position."
+],
+[
+"Formula",
+"C20H30O6"
+],
+[
+"ChEBI",
+"CHEBI:134406"
+],
+[
+"InChI",
+"InChI=1S/C20H30O6/c1-2-3-6-9-15(24-23)12-13-17-16(18-14-19(17)26-25-18)10-7-4-5-8-11-20(21)22/h3-4,6-7,12-13,15-19,23H,2,5,8-11,14H2,1H3,(H,21,22)/b6-3-,7-4-,13-12+/t15-,16+,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"LRRNKTJTXRCNJX-SAMSIYEGSA-N"
+]
+]
+},
+{
+"label": "PGH3",
+"class": "SimpleChemical",
+"box": [
+315.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin H3"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1R,4S,5R,6R)-6-[(1E,3S,,5Z)-3-hydroxyocta-1,5-dien-1-yl]-2,3-dioxabicyclo[2.2.1]heptan-5-yl}hept-5-enoic acid; (5Z,9S,11R,13E,15S,17Z)-15-hydroxy-9,11-epidioxyprosta-5,13,17-trienoic acid; (5Z,9alpha,11alpha,13E,15S,17Z)-9,11-Epidioxy-15-hydroxyprosta-5,13,17-trien-1-oic acid; PGH3"
+],
+[
+"Definition",
+"A member of the class of prostaglandins H that is 9,11-epidioxyprosta-5,13,17-trienoic acid carrying an additional hydroxy substituent at the 15S-position."
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:134407"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-6-9-15(21)12-13-17-16(18-14-19(17)25-24-18)10-7-4-5-8-11-20(22)23/h3-4,6-7,12-13,15-19,21H,2,5,8-11,14H2,1H3,(H,22,23)/b6-3-,7-4-,13-12+/t15-,16+,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"PVTQTOGPOPGQGE-SAMSIYEGSA-N"
+]
+]
+},
+{
+"label": "PGE3",
+"class": "SimpleChemical",
+"box": [
+315.0,
+615.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin E3"
+],
+[
+"Synonyms",
+"(5Z,11alpha,13E,15S,17Z)-11,15-dihydroxy-9-oxoprosta-5,13,17-trien-1-oic acid; (5Z,13E,15S,17Z)-11alpha,15-dihydroxy-9-oxoprosta-5,13,17-trien-1-oic acid; 9-oxo-11R,15S-dihydroxy-5Z,13E,17Z-prostatrienoic acid; PGE3"
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:28031"
+],
+[
+"KEGG",
+"C06439"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h3-4,6-7,12-13,15-17,19,21,23H,2,5,8-11,14H2,1H3,(H,24,25)/b6-3-,7-4-,13-12+/t15-,16+,17+,19+/m0/s1"
+],
+[
+"InChIKey",
+"CBOMORHDRONZRN-QLOYDKTKSA-N"
+]
+]
+},
+{
+"label": "PGD3",
+"class": "SimpleChemical",
+"box": [
+615.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin D3"
+],
+[
+"Synonyms",
+"(5Z)-7-[(1R,2R,5S)-5-hydroxy-2-[(1E,3S,5Z)-3-hydroxyocta-1,5-dien-1-yl]-3-oxocyclopentyl]hept-5-enoic acid; (5Z,13E,15S,17Z)-9alpha,15-dihydroxy-11-oxoprosta-5,13,17-trien-1-oic acid; 9S,15S-Dihydroxy-11-oxo-5Z,13E,17Z-prostatrienoic acid"
+],
+[
+"Definition",
+"A member of the class of prostaglandins D that is prosta-5,13,17-trien-1-oic acid substituted by hydroxy groups at positions 9 and 15 and an oxo group at position 11 (the 5Z,13E,15S,17Z-stereoisomer)."
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:34939"
+],
+[
+"KEGG",
+"C13802"
+],
+[
+"HMDB",
+"HMDB0003034"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h3-4,6-7,12-13,15-18,21-22H,2,5,8-11,14H2,1H3,(H,24,25)/b6-3-,7-4-,13-12+/t15-,16+,17+,18-/m0/s1"
+],
+[
+"InChIKey",
+"ANOICLBSJIMQTA-WXGBOJPQSA-N"
+]
+]
+},
+{
+"label": "PGF3alpha",
+"class": "SimpleChemical",
+"box": [
+915.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin F3alpha"
+],
+[
+"Synonyms",
+"(5Z,13E,15S,17Z)-9alpha,11alpha,15-trihydroxyprosta-5,13,17-trien-1-oic acid; PGF3alpha"
+],
+[
+"Definition",
+"A prostaglandin Fα that is prosta-5,13,17-trien-1-oic acid carrying three hydroxy substituents at positions 9α, 11α and 15."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:36075"
+],
+[
+"KEGG",
+"C06476"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h3-4,6-7,12-13,15-19,21-23H,2,5,8-11,14H2,1H3,(H,24,25)/b6-3-,7-4-,13-12+/t15-,16+,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"SAKGBZWJAIABSY-SAMSIYEGSA-N"
+]
+]
+},
+{
+"label": "TXB3",
+"class": "SimpleChemical",
+"box": [
+1215.0,
+1015.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"thromboxane B3"
+],
+[
+"Synonyms",
+"(5Z,13E,15S,17Z)-9beta,11,15-trihydroxythromboxa-5,13,17-trien-1-oic acid; TXB3"
+],
+[
+"Definition",
+"A member of the class of thromboxanes B that is (5Z,13E,17Z)-thromboxa-5,13,17-trien-1-oic acid substituted by hydroxy groups at positions 9, 11 and 15."
+],
+[
+"Formula",
+"C20H32O6"
+],
+[
+"ChEBI",
+"CHEBI:84444"
+],
+[
+"HMDB",
+"HMDB0005099"
+],
+[
+"InChI",
+"InChI=1S/C20H32O6/c1-2-3-6-9-15(21)12-13-18-16(17(22)14-20(25)26-18)10-7-4-5-8-11-19(23)24/h3-4,6-7,12-13,15-18,20-22,25H,2,5,8-11,14H2,1H3,(H,23,24)/b6-3-,7-4-,13-12+/t15-,16-,17-,18+,20?/m0/s1"
+],
+[
+"InChIKey",
+"OYPPJMLKAYYWHH-NXJDUNGTSA-N"
+]
+]
+},
+{
+"id": "epa02",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EPA"
+],
+"out": [
+"PGG3"
+],
+"by": [
+"PTGS1",
+"PTGS2"
+]
+},
+"references": [
+{
+"authors": "Wada M et al.",
+"journal": "J Biol Chem",
+"title": "Enzymes and receptors of prostaglandin pathways with arachidonic acid-derived versus eicosapentaenoic acid-derived substrates and products.",
+"year": "2007",
+"db": "pubmed",
+"id": "17519235"
+},
+{
+"authors": "Needleman P et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Triene prostaglandins: prostacyclin and thromboxane biosynthesis and unique biological properties.",
+"year": "1979",
+"db": "pubmed",
+"id": "218223"
+}
+]
+},
+{
+"id": "epa03",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGG3"
+],
+"out": [
+"PGH3"
+],
+"by": [
+"PTGS1",
+"PTGS2"
+]
+},
+"references": [
+{
+"authors": "Wada M et al.",
+"journal": "J Biol Chem",
+"title": "Enzymes and receptors of prostaglandin pathways with arachidonic acid-derived versus eicosapentaenoic acid-derived substrates and products.",
+"year": "2007",
+"db": "pubmed",
+"id": "17519235"
+},
+{
+"authors": "Needleman P et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Triene prostaglandins: prostacyclin and thromboxane biosynthesis and unique biological properties.",
+"year": "1979",
+"db": "pubmed",
+"id": "218223"
+}
+]
+},
+{
+"id": "epa04",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH3"
+],
+"out": [
+"PGE3"
+],
+"by": [
+"PTGES2",
+"PTGES",
+"PTGES3"
+]
+},
+"references": [
+{
+"authors": "Wada M et al.",
+"journal": "J Biol Chem",
+"title": "Enzymes and receptors of prostaglandin pathways with arachidonic acid-derived versus eicosapentaenoic acid-derived substrates and products.",
+"year": "2007",
+"db": "pubmed",
+"id": "17519235"
+},
+{
+"authors": "Yang P et al.",
+"journal": "Cancer Lett",
+"title": "Prostaglandin E3 metabolism and cancer.",
+"year": "2014",
+"db": "pubmed",
+"id": "24657656"
+}
+]
+},
+{
+"id": "epa05",
+"label": "",
+"class": "Process",
+"box": [
+623.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH3"
+],
+"out": [
+"PGD3"
+],
+"by": [
+"PTGDS",
+"HPGDS"
+]
+},
+"references": [
+{
+"authors": "Wada M et al.",
+"journal": "J Biol Chem",
+"title": "Enzymes and receptors of prostaglandin pathways with arachidonic acid-derived versus eicosapentaenoic acid-derived substrates and products.",
+"year": "2007",
+"db": "pubmed",
+"id": "17519235"
+}
+]
+},
+{
+"id": "epa06",
+"label": "",
+"class": "Process",
+"box": [
+923.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH3"
+],
+"out": [
+"PGF3alpha"
+],
+"by": [
+"AKR1C3"
+]
+},
+"references": [
+{
+"authors": "Wada M et al.",
+"journal": "J Biol Chem",
+"title": "Enzymes and receptors of prostaglandin pathways with arachidonic acid-derived versus eicosapentaenoic acid-derived substrates and products.",
+"year": "2007",
+"db": "pubmed",
+"id": "17519235"
+}
+]
+},
+{
+"id": "epa07",
+"label": "",
+"class": "Process",
+"box": [
+23.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH3"
+],
+"out": [
+"PGI3"
+],
+"by": [
+"PTGIS"
+]
+},
+"references": [
+{
+"authors": "Needleman P et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Triene prostaglandins: prostacyclin and thromboxane biosynthesis and unique biological properties.",
+"year": "1979",
+"db": "pubmed",
+"id": "218223"
+},
+{
+"authors": "Fischer S et al.",
+"journal": "Prostaglandins",
+"title": "Dietary docosahexaenoic acid is retroconverted in man to eicosapentaenoic acid, which can be quickly transformed to prostaglandin I3.",
+"year": "1987",
+"db": "pubmed",
+"id": "2829279"
+},
+{
+"authors": "Knapp HR et al.",
+"journal": "N Engl J Med",
+"title": "In vivo indexes of platelet and vascular function during fish-oil administration in patients with atherosclerosis.",
+"year": "1986",
+"db": "pubmed",
+"id": "3007982"
+}
+]
+},
+{
+"id": "epa08",
+"label": "",
+"class": "Process",
+"box": [
+1223.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH3"
+],
+"out": [
+"TXA3"
+],
+"by": [
+"TBXAS1"
+]
+},
+"references": [
+{
+"authors": "Needleman P et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Triene prostaglandins: prostacyclin and thromboxane biosynthesis and unique biological properties.",
+"year": "1979",
+"db": "pubmed",
+"id": "218223"
+},
+{
+"authors": "Knapp HR et al.",
+"journal": "N Engl J Med",
+"title": "In vivo indexes of platelet and vascular function during fish-oil administration in patients with atherosclerosis.",
+"year": "1986",
+"db": "pubmed",
+"id": "3007982"
+}
+]
+},
+{
+"id": "epa09",
+"label": "",
+"class": "Process",
+"box": [
+1223.0,
+923.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"TXA3"
+],
+"out": [
+"TXB3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Knapp HR et al.",
+"journal": "N Engl J Med",
+"title": "In vivo indexes of platelet and vascular function during fish-oil administration in patients with atherosclerosis.",
+"year": "1986",
+"db": "pubmed",
+"id": "3007982"
+}
+]
+},
+{
+"id": "epa13",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGE3"
+],
+"out": [
+"15-keto-PGE3"
+],
+"by": [
+"HPGD"
+]
+},
+"references": [
+{
+"authors": "Wada M et al.",
+"journal": "J Biol Chem",
+"title": "Enzymes and receptors of prostaglandin pathways with arachidonic acid-derived versus eicosapentaenoic acid-derived substrates and products.",
+"year": "2007",
+"db": "pubmed",
+"id": "17519235"
+},
+{
+"authors": "Arita M et al.",
+"journal": "J Biol Chem",
+"title": "Metabolic inactivation of resolvin E1 and stabilization of its anti-inflammatory actions.",
+"year": "2006",
+"db": "pubmed",
+"id": "16757471"
+}
+]
+},
+{
+"label": "PTGS1",
+"class": "Macromolecule",
+"box": [
+431.0,
+215.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 1"
+],
+[
+"Alternative names",
+"Cyclooxygenase-1; Prostaglandin H2 synthase 1; Prostaglandin-endoperoxide synthase 1"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase that plays an important role in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9604"
+],
+[
+"HGNC symbol",
+"PTGS1"
+],
+[
+"Alias symbols",
+"COX1, PGHS-1, PTGHS"
+],
+[
+"Entrez",
+"5742"
+],
+[
+"Ensembl",
+"ENSG00000095303"
+],
+[
+"RefSeq",
+"NM_000962"
+],
+[
+"UniProt",
+"P23219"
+]
+]
+},
+{
+"label": "PTGS2",
+"class": "Macromolecule",
+"box": [
+159.0,
+215.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 2"
+],
+[
+"Alternative names",
+"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
+],
+[
+"HGNC",
+"HGNC:9605"
+],
+[
+"HGNC symbol",
+"PTGS2"
+],
+[
+"Alias symbols",
+"COX2"
+],
+[
+"Entrez",
+"5743"
+],
+[
+"Ensembl",
+"ENSG00000073756"
+],
+[
+"RefSeq",
+"NM_000963"
+],
+[
+"UniProt",
+"P35354"
+]
+]
+},
+{
+"label": "PTGES2",
+"class": "Macromolecule",
+"box": [
+214.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase 2"
+],
+[
+"Alternative names",
+"Membrane-associated prostaglandin E synthase-2; Microsomal prostaglandin E synthase 2; Prostaglandin-H(2) E-isomerase"
+],
+[
+"Function",
+"Isomerase that catalyzes the conversion of PGH2 into the more stable prostaglandin E2 (PGE2) (in vitro). The biological function and the GSH-dependent property of PTGES2 is still under debate."
+],
+[
+"Location",
+"Golgi apparatus membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:17822"
+],
+[
+"HGNC symbol",
+"PTGES2"
+],
+[
+"Previous symbols",
+"C9orf15"
+],
+[
+"Alias symbols",
+"mPGES-2, FLJ14038"
+],
+[
+"Entrez",
+"80142"
+],
+[
+"Ensembl",
+"ENSG00000148334"
+],
+[
+"RefSeq",
+"NM_001256335"
+],
+[
+"UniProt",
+"Q9H7Z7"
+]
+]
+},
+{
+"label": "PTGES",
+"class": "Macromolecule",
+"box": [
+376.0,
+480.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase"
+],
+[
+"Alternative names",
+"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
+],
+[
+"Function",
+"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
+],
+[
+"Location",
+"Membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:9599"
+],
+[
+"HGNC symbol",
+"PTGES"
+],
+[
+"Previous symbols",
+"MGST1L1"
+],
+[
+"Alias symbols",
+"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
+],
+[
+"Entrez",
+"9536"
+],
+[
+"Ensembl",
+"ENSG00000148344"
+],
+[
+"RefSeq",
+"NM_004878"
+],
+[
+"UniProt",
+"O14684"
+]
+]
+},
+{
+"label": "PTGES3",
+"class": "Macromolecule",
+"box": [
+376.0,
+550.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase 3"
+],
+[
+"Alternative names",
+"Cytosolic prostaglandin E2 synthase; Hsp90 co-chaperone; Progesterone receptor complex p23; Telomerase-binding protein p23"
+],
+[
+"Function",
+"Cytosolic prostaglandin synthase that catalyzes the oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2). Molecular chaperone that localizes to genomic response elements in a hormone-dependent manner and disrupts receptor-mediated transcriptional activation, by promoting disassembly of transcriptional regulatory complexes."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:16049"
+],
+[
+"HGNC symbol",
+"PTGES3"
+],
+[
+"Alias symbols",
+"p23, TEBP, cPGES"
+],
+[
+"Entrez",
+"10728"
+],
+[
+"Ensembl",
+"ENSG00000110958"
+],
+[
+"RefSeq",
+"NM_006601"
+],
+[
+"UniProt",
+"Q15185"
+]
+]
+},
+{
+"label": "PTGDS",
+"class": "Macromolecule",
+"box": [
+514.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin-H2 D-isomerase"
+],
+[
+"Alternative names",
+"Beta-trace protein; Cerebrin-28; Glutathione-independent PGD synthase; Lipocalin-type prostaglandin-D synthase; Prostaglandin-D2 synthase"
+],
+[
+"Function",
+"Catalyzes the conversion of PGH2 to PGD2, a prostaglandin involved in smooth muscle contraction/relaxation and a potent inhibitor of platelet aggregation. Involved in a variety of CNS functions, such as sedation, NREM sleep and PGE2-induced allodynia, and may have an anti-apoptotic role in oligodendrocytes."
+],
+[
+"Location",
+"Rough endoplasmic reticulum, Nucleus membrane, Golgi apparatus, Cytoplasm, perinuclear region, Secreted"
+],
+[
+"HGNC",
+"HGNC:9592"
+],
+[
+"HGNC symbol",
+"PTGDS"
+],
+[
+"Alias symbols",
+"PGDS, L-PGDS"
+],
+[
+"Entrez",
+"5730"
+],
+[
+"Ensembl",
+"ENSG00000107317"
+],
+[
+"RefSeq",
+"NM_000954"
+],
+[
+"UniProt",
+"P41222"
+]
+]
+},
+{
+"label": "HPGDS",
+"class": "Macromolecule",
+"box": [
+676.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Hematopoietic prostaglandin D synthase"
+],
+[
+"Alternative names",
+"GST class-sigma; Glutathione S-transferase; Glutathione-dependent PGD synthase; Glutathione-requiring prostaglandin D synthase; Prostaglandin-H2 D-isomerase"
+],
+[
+"Function",
+"Bifunctional enzyme which catalyzes both the conversion of PGH2 to PGD2, a prostaglandin involved in smooth muscle contraction/relaxation and a potent inhibitor of platelet aggregation, and the conjugation of glutathione with a wide range of aryl halides and organic isothiocyanates. Similarly, catalyzes the conversion of PGH3 (derived from eicosapentaenoate (EPA, C20:5n-3)) to PGD3, though PGH2 remains the preferred substrate."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:17890"
+],
+[
+"HGNC symbol",
+"HPGDS"
+],
+[
+"Alias symbols",
+"GSTS, PGDS, H-PGDS, PGD2, GSTS1-1, GSTS1"
+],
+[
+"Entrez",
+"27306"
+],
+[
+"Ensembl",
+"ENSG00000163106"
+],
+[
+"RefSeq",
+"NM_014485"
+],
+[
+"UniProt",
+"O60760"
+]
+]
+},
+{
+"label": "AKR1C3",
+"class": "Macromolecule",
+"box": [
+976.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aldo-keto reductase family 1 member C3"
+],
+[
+"Alternative names",
+"17-beta-hydroxysteroid dehydrogenase type 5; 3-alpha-HSD type II, brain; 3-alpha-hydroxysteroid dehydrogenase type 2; Chlordecone reductase homolog HAKRb; Dihydrodiol dehydrogenase 3; Dihydrodiol dehydrogenase type I; HA1753; Prostaglandin F synthase; Testosterone 17-beta-dehydrogenase 5"
+],
+[
+"Function",
+"Cytosolic aldo-keto reductase that catalyzes NADPH-dependent reduction of ketosteroids to hydroxysteroids. Displays broad substrate specificity with distinct positional and stereochemistry, primarily generating 17beta-hydroxysteroids, but also 3alpha- and 20alpha-hydroxysteroids."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:386"
+],
+[
+"HGNC symbol",
+"AKR1C3"
+],
+[
+"Previous symbols",
+"HSD17B5"
+],
+[
+"Alias symbols",
+"KIAA0119, DDX, HAKRB, PGFS"
+],
+[
+"Entrez",
+"8644"
+],
+[
+"Ensembl",
+"ENSG00000196139"
+],
+[
+"RefSeq",
+"NM_003739"
+],
+[
+"UniProt",
+"P42330"
+]
+]
+},
+{
+"label": "PTGIS",
+"class": "Macromolecule",
+"box": [
+76.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostacyclin synthase"
+],
+[
+"Alternative names",
+"Hydroperoxy icosatetraenoate dehydratase; Prostaglandin I2 synthase"
+],
+[
+"Function",
+"Catalyzes the biosynthesis and metabolism of eicosanoids. Catalyzes the isomerization of prostaglandin H2 to prostacyclin (= prostaglandin I2), a potent mediator of vasodilation and inhibitor of platelet aggregation."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9603"
+],
+[
+"HGNC symbol",
+"PTGIS"
+],
+[
+"Alias symbols",
+"PGIS, CYP8A1"
+],
+[
+"Entrez",
+"5740"
+],
+[
+"Ensembl",
+"ENSG00000124212"
+],
+[
+"RefSeq",
+"NM_000961"
+],
+[
+"UniProt",
+"Q16647"
+]
+]
+},
+{
+"label": "TBXAS1",
+"class": "Macromolecule",
+"box": [
+1276.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Thromboxane-A synthase"
+],
+[
+"Alternative names",
+"Cytochrome P450 5A1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"Catalyzes the conversion of prostaglandin H2 (PGH2) to thromboxane A2 (TXA2), a potent inducer of blood vessel constriction and platelet aggregation. Also cleaves PGH2 to 12-hydroxy-heptadecatrienoicacid (12-HHT) and malondialdehyde, which is known to act as a mediator of DNA damage."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:11609"
+],
+[
+"HGNC symbol",
+"TBXAS1"
+],
+[
+"Alias symbols",
+"CYP5, CYP5A1, THAS, TXS, TXAS, TS"
+],
+[
+"Entrez",
+"6916"
+],
+[
+"Ensembl",
+"ENSG00000059377"
+],
+[
+"RefSeq",
+"NM_001061"
+],
+[
+"UniProt",
+"P24557"
+]
+]
+},
+{
+"label": "HPGD",
+"class": "Macromolecule",
+"box": [
+376.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-hydroxyprostaglandin dehydrogenase [NAD(+)]"
+],
+[
+"Alternative names",
+"Eicosanoid/docosanoid dehydrogenase [NAD(+)]; Prostaglandin dehydrogenase 1; Short chain dehydrogenase/reductase family 36C member 1"
+],
+[
+"Function",
+"Catalyzes the NAD-dependent dehydrogenation (oxidation) of a broad array of hydroxylated polyunsaturated fatty acids (mainly eicosanoids and docosanoids, including prostaglandins, lipoxins and resolvins), yielding their corresponding keto (oxo) metabolites. Decreases the levels of the pro-proliferative prostaglandins such as prostaglandin E2 (whose activity is increased in cancer because of an increase in the expression of cyclooxygenase 2) and generates oxo-fatty acid products that can profoundly influence cell function by abrogating pro-inflammatory cytokine expression."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:5154"
+],
+[
+"HGNC symbol",
+"HPGD"
+],
+[
+"Alias symbols",
+"SDR36C1"
+],
+[
+"Entrez",
+"3248"
+],
+[
+"Ensembl",
+"ENSG00000164120"
+],
+[
+"RefSeq",
+"NM_000860"
+],
+[
+"UniProt",
+"P15428"
+]
+]
+}
+]
+}

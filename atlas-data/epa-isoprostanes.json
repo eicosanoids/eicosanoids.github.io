@@ -1,0 +1,91 @@
+{
+"nodes": [
+{
+"label": "EPA",
+"class": "SimpleChemical",
+"box": [
+15.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"all-cis-5,8,11,14,17-icosapentaenoic acid"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,14Z,17Z)-5,8,11,14,17-eicosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoate; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-icosa-5,8,11,14,17-pentaenoic acid; (all-Z)-5,8,11,14,17-eicosapentaenoic acid; 5,8,11,14,17-EICOSAPENTAENOIC ACID; 5,8,11,14,17-Icosapentaenoic acid; EPA; Eicosapentaenoic acid; Icosapentaenoic acid; Timnodonic acid; all-cis-5,8,11,14,17-eicosapentaenoic acid; all-cis-icosa-5,8,11,14,17-pentaenoic acid; cis, cis, cis, cis, cis-eicosa-5,8,11,14,17-pentaenoic acid; cis-5,8,11,14,17-EPA; cis-5,8,11,14,17-eicosapentaenoic acid; cis-Delta(5,8,11,14,17)-eicosapentaenoic acid; icosapent; icosapento; icosapentum"
+],
+[
+"Definition",
+"An icosapentaenoic acid having five cis-double bonds at positions 5, 8, 11, 14 and 17."
+],
+[
+"Formula",
+"C20H30O2"
+],
+[
+"ChEBI",
+"CHEBI:28364"
+],
+[
+"KEGG",
+"C06428"
+],
+[
+"HMDB",
+"HMDB0001999"
+],
+[
+"InChI",
+"InChI=1S/C20H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(21)22/h3-4,6-7,9-10,12-13,15-16H,2,5,8,11,14,17-19H2,1H3,(H,21,22)/b4-3-,7-6-,10-9-,13-12-,16-15-"
+],
+[
+"InChIKey",
+"JAZBEHYOTPTENJ-JLNKQSITSA-N"
+]
+]
+},
+{
+"id": "epa46",
+"label": "",
+"class": "Process",
+"box": [
+23.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EPA"
+],
+"out": [
+"F3-isoprostanes"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Roy J et al.",
+"journal": "Biochimie",
+"title": "Non-enzymatic cyclic oxygenated metabolites of omega-3 polyunsaturated fatty acid: Bioactive drugs?",
+"year": "2016",
+"db": "pubmed",
+"id": "26112019"
+},
+{
+"authors": "Nourooz-Zadeh J et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "F4-isoprostanes: a novel class of prostanoids formed during peroxidation of docosahexaenoic acid (DHA).",
+"year": "1998",
+"db": "pubmed",
+"id": "9446796"
+}
+]
+}
+]
+}
