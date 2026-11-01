@@ -1,4 +1,4 @@
-Copied from the Metabolism Regulation website (metabolismregulation/metabolismregulation.github.io), commit 83f15c3:
+Copied from the Metabolism Regulation website (metabolismregulation/metabolismregulation.github.io), commit 750dd64:
 _includes/atlas-app.html, _includes/atlas-tags.css, _includes/meta.html (default icon changed), _includes/analytics.html,
 _layouts/page.html, _layouts/map-data.html, style.scss, _sass/. The viewer code is changed there and copied here.
 Changed here: style.scss, the menu item of the current page not bold (user, 2026-11-01); keep it when copying again.
