@@ -1,0 +1,877 @@
+{
+"nodes": [
+{
+"label": "AA",
+"class": "SimpleChemical",
+"box": [
+416.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"arachidonic acid"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,14Z)-5,8,11,14-icosatetraenoic acid; (5Z,8Z,11Z,14Z)-Icosatetraenoic acid; (5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoic acid; AA; ARA; Arachidonate; Arachidonsaeure; all-cis-5,8,11,14-eicosatetraenoic acid; cis-5,8,11,14-Eicosatetraenoic acid; cis-Delta(5,8,11,14)-eicosatetraenoic acid"
+],
+[
+"Definition",
+"A long-chain fatty acid that is a C20, polyunsaturated fatty acid having four (Z)-double bonds at positions 5, 8, 11 and 14."
+],
+[
+"Formula",
+"C20H32O2"
+],
+[
+"ChEBI",
+"CHEBI:15843"
+],
+[
+"KEGG",
+"C00219"
+],
+[
+"HMDB",
+"HMDB0001043"
+],
+[
+"InChI",
+"InChI=1S/C20H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(21)22/h6-7,9-10,12-13,15-16H,2-5,8,11,14,17-19H2,1H3,(H,21,22)/b7-6-,10-9-,13-12-,16-15-"
+],
+[
+"InChIKey",
+"YZXBAPSDXZZRGB-DOFZRALJSA-N"
+]
+]
+},
+{
+"label": "5(S)-HETE",
+"class": "SimpleChemical",
+"box": [
+416.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5(S)-HETE"
+],
+[
+"Synonyms",
+"(5S,6E,8Z,11Z,14Z)-5-hydroxyeicosa-6,8,11,14-tetraenoic acid; (5S,6E,8Z,11Z,14Z)-5-hydroxyicosa-6,8,11,14-tetraenoic acid; (6E,8Z,11Z,14Z)-(5S)-5-Hydroxyicosa-6,8,11,14-tetraenoic acid; (S)-(E,Z,Z,Z)-5-hydroxyeicosa-6,8,11,14-tetraenoic acid; 5(S)-hydroxy-6(E),8(Z),11(Z),14(Z)-eicosatetraenoic acid; 5(S)-hydroxyeicosatetraenoic acid; 5-Hydroxyeicosatetraenoate; 5S-HETE; 6,8,11,14-Eicosatetraenoic acid, 5-hydroxy-, (S-(E,Z,Z,Z))-"
+],
+[
+"Definition",
+"A HETE having a (5S)-hydroxy group and (6E)-, (8Z)-, (11Z)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:28209"
+],
+[
+"KEGG",
+"C04805"
+],
+[
+"HMDB",
+"HMDB0011134"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(21)17-15-18-20(22)23/h6-7,9-10,12-14,16,19,21H,2-5,8,11,15,17-18H2,1H3,(H,22,23)/b7-6-,10-9-,13-12-,16-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"KGIJOOYOSFUGPC-JGKLHWIESA-N"
+]
+]
+},
+{
+"label": "5(S)-HpETE",
+"class": "SimpleChemical",
+"box": [
+416.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5(S)-HPETE"
+],
+[
+"Synonyms",
+"(5S,6E,8Z,11Z,14Z)-5-Hydroperoxyicosa-6,8,11,14-tetraenoate; (5S,6E,8Z,11Z,14Z)-5-hydroperoxyeicosa-6,8,11,14-tetraenoic acid; (5S,6E,8Z,11Z,14Z)-5-hydroperoxyicosa-6,8,11,14-tetraenoic acid; (6E,8Z,11Z,14Z)-(5S)-5-Hydroperoxyeicosa-6,8,11,14-tetraenoate; (6E,8Z,11Z,14Z)-(5S)-5-Hydroperoxyeicosa-6,8,11,14-tetraenoic acid; (S)-5-HPETE; 5(S)-Hydroperoxy-6-trans-8,11,14-cis-eicosatetraenoic acid; 5(S)-hydroperoxy-6(E),8(Z),11(Z),14(Z)-eicosatetraenoic acid; 5(S)-hydroxyperoxy-6E,8Z,11Z,14Z-icosatetraenoic acid; 5-Hydroperoxy-6-trans-8,11,14-cis-eicosatetraenoate; 5S-HpETE"
+],
+[
+"Definition",
+"An icosatetraenoic acid in which the double bonds are located at the 6-7, 8-9, 11-12, and 14-15 positions and have E, Z, Z, and Z geometry, respectively, and in which the pro-S hydrogen is substituted by a hydroperoxy group."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:15632"
+],
+[
+"KEGG",
+"C05356"
+],
+[
+"HMDB",
+"HMDB0011135"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(24-23)17-15-18-20(21)22/h6-7,9-10,12-14,16,19,23H,2-5,8,11,15,17-18H2,1H3,(H,21,22)/b7-6-,10-9-,13-12-,16-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"JNUUNUQHXIOFDA-JGKLHWIESA-N"
+]
+]
+},
+{
+"id": "re73",
+"label": "",
+"class": "Process",
+"box": [
+424.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HpETE"
+],
+"out": [
+"5(S)-HETE"
+],
+"by": [
+"MGST2",
+"MGST3"
+]
+},
+"references": [
+{
+"authors": "Jakobsson PJ et al.",
+"journal": "J Biol Chem",
+"title": "Identification and characterization of a novel microsomal enzyme with glutathione-dependent transferase and peroxidase activities.",
+"year": "1997",
+"db": "pubmed",
+"id": "9278457"
+}
+]
+},
+{
+"id": "re99",
+"label": "",
+"class": "Process",
+"box": [
+124.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HETE"
+],
+"out": [
+"5(S),20-diHETE"
+],
+"by": [
+"CYP4F3",
+"CYP4F2"
+]
+},
+"references": [
+{
+"authors": "O'Flaherty JT et al.",
+"journal": "J Immunol",
+"title": "Metabolism of 5-hydroxyicosatetraenoate by human neutrophils: production of a novel omega-oxidized derivative.",
+"year": "1986",
+"db": "pubmed",
+"id": "3095426"
+},
+{
+"authors": "Powell WS et al.",
+"journal": "J Biol Chem",
+"title": "Phorbol myristate acetate stimulates the formation of 5-oxo-6,8,11,14-eicosatetraenoic acid by human neutrophils by activating NADPH oxidase.",
+"year": "1994",
+"db": "pubmed",
+"id": "7929234"
+},
+{
+"authors": "Christmas P et al.",
+"journal": "J Biol Chem",
+"title": "Alternative splicing determines the function of CYP4F3 by switching substrate specificity.",
+"year": "2001",
+"db": "pubmed",
+"id": "11461919"
+},
+{
+"authors": "Kikuta Y et al.",
+"journal": "J Biol Chem",
+"title": "A novel form of cytochrome P-450 family 4 in human polymorphonuclear leukocytes. cDNA cloning and expression of leukotriene B4 omega-hydroxylase.",
+"year": "1993",
+"db": "pubmed",
+"id": "8486631"
+},
+{
+"authors": "Kikuta Y et al.",
+"journal": "J Biochem",
+"title": "Characterization of human liver leukotriene B(4) omega-hydroxylase P450 (CYP4F2).",
+"year": "2000",
+"db": "pubmed",
+"id": "10833273"
+}
+]
+},
+{
+"id": "re74",
+"label": "",
+"class": "Process",
+"box": [
+424.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HETE"
+],
+"out": [
+"5-oxo-ETE (5-KETE)"
+],
+"by": [
+"putative 5-HEDH"
+]
+},
+"references": [
+{
+"authors": "Powell WS et al.",
+"journal": "J Biol Chem",
+"title": "Metabolism of 5(S)-hydroxy-6,8,11,14-eicosatetraenoic acid and other 5(S)-hydroxyeicosanoids by a specific dehydrogenase in human polymorphonuclear leukocytes.",
+"year": "1992",
+"db": "pubmed",
+"id": "1326548"
+},
+{
+"authors": "Powell WS et al.",
+"journal": "J Biol Chem",
+"title": "Phorbol myristate acetate stimulates the formation of 5-oxo-6,8,11,14-eicosatetraenoic acid by human neutrophils by activating NADPH oxidase.",
+"year": "1994",
+"db": "pubmed",
+"id": "7929234"
+},
+{
+"authors": "Powell WS et al.",
+"journal": "Prog Lipid Res",
+"title": "The eosinophil chemoattractant 5-oxo-ETE and the OXE receptor.",
+"year": "2013",
+"db": "pubmed",
+"id": "24056189"
+}
+]
+},
+{
+"id": "re61",
+"label": "",
+"class": "Process",
+"box": [
+424.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"AA"
+],
+"out": [
+"5(S)-HpETE"
+],
+"by": [
+"ALOX5AP",
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Rouzer CA et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Single protein from human leukocytes possesses 5-lipoxygenase and leukotriene A4 synthase activities.",
+"year": "1986",
+"db": "pubmed",
+"id": "3006030"
+},
+{
+"authors": "Dixon RA et al.",
+"journal": "Nature",
+"title": "Requirement of a 5-lipoxygenase-activating protein for leukotriene synthesis.",
+"year": "1990",
+"db": "pubmed",
+"id": "2300173"
+}
+]
+},
+{
+"id": "re94",
+"label": "",
+"class": "Process",
+"box": [
+424.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5-oxo-ETE (5-KETE)"
+],
+"out": [
+"5-oxo-12S-HETE"
+],
+"by": [
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Powell WS et al.",
+"journal": "Blood",
+"title": "Biological inactivation of 5-oxo-6,8,11,14-eicosatetraenoic acid by human platelets.",
+"year": "1999",
+"db": "pubmed",
+"id": "9920859"
+},
+{
+"authors": "Funk CD et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Molecular cloning, primary structure, and expression of the human platelet/erythroleukemia cell 12-lipoxygenase.",
+"year": "1990",
+"db": "pubmed",
+"id": "2377602"
+}
+]
+},
+{
+"id": "re95",
+"label": "",
+"class": "Process",
+"box": [
+724.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5-oxo-ETE (5-KETE)"
+],
+"out": [
+"5-oxo-15S-HETE"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Schwenk U et al.",
+"journal": "J Biol Chem",
+"title": "5-Oxo-eicosanoids are potent eosinophil chemotactic factors. Functional characterization and structural requirements.",
+"year": "1995",
+"db": "pubmed",
+"id": "7797484"
+},
+{
+"authors": "Powell WS et al.",
+"journal": "J Biol Chem",
+"title": "Metabolism of 5(S)-hydroxy-6,8,11,14-eicosatetraenoic acid and other 5(S)-hydroxyeicosanoids by a specific dehydrogenase in human polymorphonuclear leukocytes.",
+"year": "1992",
+"db": "pubmed",
+"id": "1326548"
+},
+{
+"authors": "Powell WS et al.",
+"journal": "J Immunol",
+"title": "5-Oxo-6,8,11,14-eicosatetraenoic acid is a potent stimulator of human eosinophil migration.",
+"year": "1995",
+"db": "pubmed",
+"id": "7706749"
+}
+]
+},
+{
+"label": "ALOX5AP",
+"class": "Macromolecule",
+"box": [
+315.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Arachidonate 5-lipoxygenase-activating protein"
+],
+[
+"Alternative names",
+"FLAP; MK-886-binding protein"
+],
+[
+"Function",
+"Required for leukotriene biosynthesis by ALOX5 (5-lipoxygenase). Anchors ALOX5 to the membrane."
+],
+[
+"Location",
+"Nucleus membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:436"
+],
+[
+"HGNC symbol",
+"ALOX5AP"
+],
+[
+"Alias symbols",
+"FLAP"
+],
+[
+"Entrez",
+"241"
+],
+[
+"Ensembl",
+"ENSG00000132965"
+],
+[
+"RefSeq",
+"NM_001629"
+],
+[
+"UniProt",
+"P20292"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+477.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "MGST2",
+"class": "Macromolecule",
+"box": [
+315.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Microsomal glutathione S-transferase 2"
+],
+[
+"Alternative names",
+"Glutathione peroxidase MGST2; Leukotriene C4 synthase MGST2; Microsomal glutathione S-transferase II"
+],
+[
+"Function",
+"Catalyzes several different glutathione-dependent reactions. Catalyzes the glutathione-dependent reduction of lipid hydroperoxides, such as 5-HPETE."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:7063"
+],
+[
+"HGNC symbol",
+"MGST2"
+],
+[
+"Alias symbols",
+"MGST-II"
+],
+[
+"Entrez",
+"4258"
+],
+[
+"Ensembl",
+"ENSG00000085871"
+],
+[
+"RefSeq",
+"NM_002413"
+],
+[
+"UniProt",
+"Q99735"
+]
+]
+},
+{
+"label": "MGST3",
+"class": "Macromolecule",
+"box": [
+477.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione S-transferase 3, mitochondrial"
+],
+[
+"Alternative names",
+"Glutathione peroxidase MGST3; LTC4 synthase MGST3"
+],
+[
+"Function",
+"Displays both glutathione S-transferase and glutathione peroxidase activities toward oxyeicosanoids, as part of cellular detoxification as well as synthesis of bioactive metabolites. Catalyzes conjugate addition of reduced glutathione to the alpha, beta-unsaturated C=C carbonyl group of eisosanoids such as leukotriene A4 and 15-deoxy-Delta12,14-prostaglandin J2 to form GSH adducts relevant to the inflammatory response."
+],
+[
+"Location",
+"Mitochondrion outer membrane"
+],
+[
+"HGNC",
+"HGNC:7064"
+],
+[
+"HGNC symbol",
+"MGST3"
+],
+[
+"Alias symbols",
+"GST-III"
+],
+[
+"Entrez",
+"4259"
+],
+[
+"Ensembl",
+"ENSG00000143198"
+],
+[
+"RefSeq",
+"NM_004528"
+],
+[
+"UniProt",
+"O14880"
+]
+]
+},
+{
+"label": "CYP4F3",
+"class": "Macromolecule",
+"box": [
+15.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F3"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2646"
+],
+[
+"HGNC symbol",
+"CYP4F3"
+],
+[
+"Previous symbols",
+"LTB4H"
+],
+[
+"Alias symbols",
+"CYP4F"
+],
+[
+"Entrez",
+"4051"
+],
+[
+"Ensembl",
+"ENSG00000186529"
+],
+[
+"RefSeq",
+"NM_000896"
+],
+[
+"UniProt",
+"Q08477"
+]
+]
+},
+{
+"label": "CYP4F2",
+"class": "Macromolecule",
+"box": [
+177.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F2"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:2645"
+],
+[
+"HGNC symbol",
+"CYP4F2"
+],
+[
+"Entrez",
+"8529"
+],
+[
+"Ensembl",
+"ENSG00000186115"
+],
+[
+"RefSeq",
+"NM_001082"
+],
+[
+"UniProt",
+"P78329"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+477.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+777.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+}
+]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="272" height="270" viewBox="0 0 272 270" stroke-linecap="butt" stroke-miterlimit="10">
+<g transform="translate(136,35)">
+<path d="M-20 200 C-20 188.954 -11.046 180 0 180 L0 180 C11.046 180 20 188.954 20 200 L20 200 C20 211.046 11.046 220 0 220 L0 220 C-11.046 220 -20 211.046 -20 200 Z" fill="#DBEBDB" stroke="none"/><path d="M-20 200 C-20 188.954 -11.046 180 0 180 L0 180 C11.046 180 20 188.954 20 200 L20 200 C20 211.046 11.046 220 0 220 L0 220 C-11.046 220 -20 211.046 -20 200 Z" fill="none" stroke="#000000"/><text x="0" y="204.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">AA</text>
+<path d="M-20 0 C-20 -11.046 -11.046 -20 0 -20 L0 -20 C11.046 -20 20 -11.046 20 0 L20 0 C20 11.046 11.046 20 0 20 L0 20 C-11.046 20 -20 11.046 -20 0 Z" fill="#DBEBDB" stroke="none"/><path d="M-20 0 C-20 -11.046 -11.046 -20 0 -20 L0 -20 C11.046 -20 20 -11.046 20 0 L20 0 C20 11.046 11.046 20 0 20 L0 20 C-11.046 20 -20 11.046 -20 0 Z" fill="none" stroke="#000000"/><text x="0" y="4.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">Lecithin</text>
+<path d="M-9 91 L9 91 L9 109 L-9 109 Z" fill="none" stroke="#000000"/>
+<path d="M-121 90 Q-121 80 -111 80 L-51 80 Q-41 80 -41 90 L-41 110 Q-41 120 -51 120 L-111 120 Q-121 120 -121 110 Z" fill="#C8D8EB" stroke="none"/><path d="M-121 90 Q-121 80 -111 80 L-51 80 Q-41 80 -41 90 L-41 110 Q-41 120 -51 120 L-111 120 Q-121 120 -121 110 Z" fill="none" stroke="#000000"/><text x="-81" y="104.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">PLA2G4C</text>
+<path d="M41 90 Q41 80 51 80 L111 80 Q121 80 121 90 L121 110 Q121 120 111 120 L51 120 Q41 120 41 110 Z" fill="#C8D8EB" stroke="none"/><path d="M41 90 Q41 80 51 80 L111 80 Q121 80 121 90 L121 110 Q121 120 111 120 L51 120 Q41 120 41 110 Z" fill="none" stroke="#000000"/><text x="81" y="104.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">PLA2G4A</text>
+<path d="M-41 100 L-17 100" fill="none" stroke="#000000"/><circle cx="-13" cy="100" r="4" fill="white" stroke="#000000"/>
+<path d="M41 100 L17 100" fill="none" stroke="#000000"/><circle cx="13" cy="100" r="4" fill="white" stroke="#000000"/>
+<path d="M0 20 L0 91" fill="none" stroke="#000000"/>
+<path d="M0 109 L0 169" fill="none" stroke="#000000"/><path d="M0 180 L-6 168 L6 168 Z" fill="#000000" stroke="none"/>
+</g>
+</svg>
