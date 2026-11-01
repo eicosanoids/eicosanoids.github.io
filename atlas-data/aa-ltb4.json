@@ -518,9 +518,9 @@
 "20-hydroxy-LTB4"
 ],
 "by": [
-"CYP4F3",
+"CYP4F12",
 "CYP4F2",
-"CYP4F12"
+"CYP4F3"
 ]
 },
 "references": [
@@ -735,7 +735,7 @@
 "label": "ALOX5AP",
 "class": "Macromolecule",
 "box": [
-239.0,
+401.0,
 115.0,
 80.0,
 40.0
@@ -791,64 +791,8 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-401.0,
-115.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Polyunsaturated fatty acid 5-lipoxygenase"
-],
-[
-"Alternative names",
-"Arachidonate 5-lipoxygenase"
-],
-[
-"Function",
-"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
-],
-[
-"Location",
-"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
-],
-[
-"HGNC",
-"HGNC:435"
-],
-[
-"HGNC symbol",
-"ALOX5"
-],
-[
-"Alias symbols",
-"5-LOX"
-],
-[
-"Entrez",
-"240"
-],
-[
-"Ensembl",
-"ENSG00000012779"
-],
-[
-"RefSeq",
-"NM_000698"
-],
-[
-"UniProt",
-"P09917"
-]
-]
-},
-{
-"label": "ALOX5",
-"class": "Macromolecule",
-"box": [
-401.0,
-315.0,
+456.0,
+215.0,
 80.0,
 40.0
 ],
@@ -952,123 +896,11 @@
 ]
 },
 {
-"label": "CYP4F3",
+"label": "CYP4F12",
 "class": "Macromolecule",
 "box": [
 239.0,
 715.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cytochrome P450 4F3"
-],
-[
-"Alternative names",
-"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
-],
-[
-"Function",
-"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Microsome membrane"
-],
-[
-"HGNC",
-"HGNC:2646"
-],
-[
-"HGNC symbol",
-"CYP4F3"
-],
-[
-"Previous symbols",
-"LTB4H"
-],
-[
-"Alias symbols",
-"CYP4F"
-],
-[
-"Entrez",
-"4051"
-],
-[
-"Ensembl",
-"ENSG00000186529"
-],
-[
-"RefSeq",
-"NM_000896"
-],
-[
-"UniProt",
-"Q08477"
-]
-]
-},
-{
-"label": "CYP4F2",
-"class": "Macromolecule",
-"box": [
-401.0,
-680.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cytochrome P450 4F2"
-],
-[
-"Alternative names",
-"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
-],
-[
-"Function",
-"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
-],
-[
-"Location",
-"Microsome membrane, Endoplasmic reticulum membrane"
-],
-[
-"HGNC",
-"HGNC:2645"
-],
-[
-"HGNC symbol",
-"CYP4F2"
-],
-[
-"Entrez",
-"8529"
-],
-[
-"Ensembl",
-"ENSG00000186115"
-],
-[
-"RefSeq",
-"NM_001082"
-],
-[
-"UniProt",
-"P78329"
-]
-]
-},
-{
-"label": "CYP4F12",
-"class": "Macromolecule",
-"box": [
-401.0,
-750.0,
 80.0,
 40.0
 ],
@@ -1116,62 +948,54 @@
 ]
 },
 {
-"label": "CYP4F3",
+"label": "CYP4F2",
 "class": "Macromolecule",
 "box": [
 401.0,
-915.0,
+715.0,
 80.0,
 40.0
 ],
 "props": [
 [
 "Full name",
-"Cytochrome P450 4F3"
+"Cytochrome P450 4F2"
 ],
 [
 "Alternative names",
-"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
 ],
 [
 "Function",
-"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
 ],
 [
 "Location",
-"Endoplasmic reticulum membrane, Microsome membrane"
+"Microsome membrane, Endoplasmic reticulum membrane"
 ],
 [
 "HGNC",
-"HGNC:2646"
+"HGNC:2645"
 ],
 [
 "HGNC symbol",
-"CYP4F3"
-],
-[
-"Previous symbols",
-"LTB4H"
-],
-[
-"Alias symbols",
-"CYP4F"
+"CYP4F2"
 ],
 [
 "Entrez",
-"4051"
+"8529"
 ],
 [
 "Ensembl",
-"ENSG00000186529"
+"ENSG00000186115"
 ],
 [
 "RefSeq",
-"NM_000896"
+"NM_001082"
 ],
 [
 "UniProt",
-"Q08477"
+"P78329"
 ]
 ]
 },
@@ -1179,8 +1003,8 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-227.0,
-1115.0,
+184.0,
+915.0,
 80.0,
 40.0
 ],

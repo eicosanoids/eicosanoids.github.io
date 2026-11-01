@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/aa-pge2.svg"
-width: 1071
+width: 1012
 height: 1270
 scale: 1
 annotation: "/atlas-data/aa-pge2.json"

@@ -4,7 +4,7 @@
 "label": "PGH2",
 "class": "SimpleChemical",
 "box": [
-416.0,
+357.0,
 415.0,
 40.0,
 40.0
@@ -44,7 +44,7 @@
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
-416.0,
+357.0,
 615.0,
 40.0,
 40.0
@@ -92,7 +92,7 @@
 "label": "PGA2",
 "class": "SimpleChemical",
 "box": [
-1016.0,
+957.0,
 815.0,
 40.0,
 40.0
@@ -132,7 +132,7 @@
 "label": "PGC2",
 "class": "SimpleChemical",
 "box": [
-1016.0,
+957.0,
 1015.0,
 40.0,
 40.0
@@ -176,7 +176,7 @@
 "label": "PGB2",
 "class": "SimpleChemical",
 "box": [
-1016.0,
+957.0,
 1215.0,
 40.0,
 40.0
@@ -216,7 +216,7 @@
 "label": "19-hydroxy-PGH2",
 "class": "SimpleChemical",
 "box": [
-116.0,
+57.0,
 615.0,
 40.0,
 40.0
@@ -256,7 +256,7 @@
 "label": "PGG2",
 "class": "SimpleChemical",
 "box": [
-416.0,
+357.0,
 215.0,
 40.0,
 40.0
@@ -296,7 +296,7 @@
 "label": "AA",
 "class": "SimpleChemical",
 "box": [
-416.0,
+357.0,
 15.0,
 40.0,
 40.0
@@ -344,7 +344,7 @@
 "label": "15-keto-PGE2",
 "class": "SimpleChemical",
 "box": [
-416.0,
+357.0,
 815.0,
 40.0,
 40.0
@@ -388,7 +388,7 @@
 "label": "13,14-dihydro-15-keto-PGE2",
 "class": "SimpleChemical",
 "box": [
-416.0,
+357.0,
 1015.0,
 40.0,
 40.0
@@ -432,7 +432,7 @@
 "label": "tetranor-PGEM",
 "class": "SimpleChemical",
 "box": [
-716.0,
+657.0,
 815.0,
 40.0,
 40.0
@@ -472,7 +472,7 @@
 "label": "11(R)-HETE",
 "class": "SimpleChemical",
 "box": [
-116.0,
+57.0,
 215.0,
 40.0,
 40.0
@@ -517,7 +517,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+665.0,
 323.0,
 24.0,
 24.0
@@ -558,7 +558,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+365.0,
 123.0,
 24.0,
 24.0
@@ -572,8 +572,8 @@
 "PGG2"
 ],
 "by": [
-"PTGS2",
-"PTGS1"
+"PTGS1",
+"PTGS2"
 ]
 },
 "references": [
@@ -608,7 +608,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+65.0,
 123.0,
 24.0,
 24.0
@@ -650,7 +650,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+365.0,
 323.0,
 24.0,
 24.0
@@ -692,7 +692,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+365.0,
 523.0,
 24.0,
 24.0
@@ -706,9 +706,9 @@
 "PGE2"
 ],
 "by": [
+"PTGES2",
 "PTGES3",
-"PTGES",
-"PTGES2"
+"PTGES"
 ]
 },
 "references": [
@@ -751,7 +751,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1024.0,
+965.0,
 723.0,
 24.0,
 24.0
@@ -790,7 +790,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+365.0,
 923.0,
 24.0,
 24.0
@@ -848,7 +848,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+65.0,
 523.0,
 24.0,
 24.0
@@ -897,7 +897,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1024.0,
+965.0,
 923.0,
 24.0,
 24.0
@@ -928,7 +928,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1024.0,
+965.0,
 1123.0,
 24.0,
 24.0
@@ -959,7 +959,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+665.0,
 723.0,
 24.0,
 24.0
@@ -998,7 +998,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+365.0,
 723.0,
 24.0,
 24.0
@@ -1035,66 +1035,10 @@
 ]
 },
 {
-"label": "PTGS2",
-"class": "Macromolecule",
-"box": [
-315.0,
-115.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin G/H synthase 2"
-],
-[
-"Alternative names",
-"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
-],
-[
-"Function",
-"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
-],
-[
-"Location",
-"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
-],
-[
-"HGNC",
-"HGNC:9605"
-],
-[
-"HGNC symbol",
-"PTGS2"
-],
-[
-"Alias symbols",
-"COX2"
-],
-[
-"Entrez",
-"5743"
-],
-[
-"Ensembl",
-"ENSG00000073756"
-],
-[
-"RefSeq",
-"NM_000963"
-],
-[
-"UniProt",
-"P35354"
-]
-]
-},
-{
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-477.0,
+418.0,
 115.0,
 80.0,
 40.0
@@ -1150,8 +1094,8 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-15.0,
-115.0,
+201.0,
+207.0,
 80.0,
 40.0
 ],
@@ -1206,7 +1150,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-177.0,
+118.0,
 115.0,
 80.0,
 40.0
@@ -1259,66 +1203,10 @@
 ]
 },
 {
-"label": "PTGS2",
-"class": "Macromolecule",
-"box": [
-315.0,
-315.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin G/H synthase 2"
-],
-[
-"Alternative names",
-"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
-],
-[
-"Function",
-"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
-],
-[
-"Location",
-"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
-],
-[
-"HGNC",
-"HGNC:9605"
-],
-[
-"HGNC symbol",
-"PTGS2"
-],
-[
-"Alias symbols",
-"COX2"
-],
-[
-"Entrez",
-"5743"
-],
-[
-"Ensembl",
-"ENSG00000073756"
-],
-[
-"RefSeq",
-"NM_000963"
-],
-[
-"UniProt",
-"P35354"
-]
-]
-},
-{
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-477.0,
+418.0,
 315.0,
 80.0,
 40.0
@@ -1367,182 +1255,6 @@
 [
 "UniProt",
 "P23219"
-]
-]
-},
-{
-"label": "PTGES",
-"class": "Macromolecule",
-"box": [
-777.0,
-315.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin E synthase"
-],
-[
-"Alternative names",
-"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
-],
-[
-"Function",
-"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
-],
-[
-"Location",
-"Membrane, Cytoplasm, perinuclear region"
-],
-[
-"HGNC",
-"HGNC:9599"
-],
-[
-"HGNC symbol",
-"PTGES"
-],
-[
-"Previous symbols",
-"MGST1L1"
-],
-[
-"Alias symbols",
-"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
-],
-[
-"Entrez",
-"9536"
-],
-[
-"Ensembl",
-"ENSG00000148344"
-],
-[
-"RefSeq",
-"NM_004878"
-],
-[
-"UniProt",
-"O14684"
-]
-]
-},
-{
-"label": "PTGES3",
-"class": "Macromolecule",
-"box": [
-315.0,
-515.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin E synthase 3"
-],
-[
-"Alternative names",
-"Cytosolic prostaglandin E2 synthase; Hsp90 co-chaperone; Progesterone receptor complex p23; Telomerase-binding protein p23"
-],
-[
-"Function",
-"Cytosolic prostaglandin synthase that catalyzes the oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2). Molecular chaperone that localizes to genomic response elements in a hormone-dependent manner and disrupts receptor-mediated transcriptional activation, by promoting disassembly of transcriptional regulatory complexes."
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:16049"
-],
-[
-"HGNC symbol",
-"PTGES3"
-],
-[
-"Alias symbols",
-"p23, TEBP, cPGES"
-],
-[
-"Entrez",
-"10728"
-],
-[
-"Ensembl",
-"ENSG00000110958"
-],
-[
-"RefSeq",
-"NM_006601"
-],
-[
-"UniProt",
-"Q15185"
-]
-]
-},
-{
-"label": "PTGES",
-"class": "Macromolecule",
-"box": [
-477.0,
-480.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin E synthase"
-],
-[
-"Alternative names",
-"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
-],
-[
-"Function",
-"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
-],
-[
-"Location",
-"Membrane, Cytoplasm, perinuclear region"
-],
-[
-"HGNC",
-"HGNC:9599"
-],
-[
-"HGNC symbol",
-"PTGES"
-],
-[
-"Previous symbols",
-"MGST1L1"
-],
-[
-"Alias symbols",
-"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
-],
-[
-"Entrez",
-"9536"
-],
-[
-"Ensembl",
-"ENSG00000148344"
-],
-[
-"RefSeq",
-"NM_004878"
-],
-[
-"UniProt",
-"O14684"
 ]
 ]
 },
@@ -1550,8 +1262,8 @@
 "label": "PTGES2",
 "class": "Macromolecule",
 "box": [
-477.0,
-550.0,
+256.0,
+515.0,
 80.0,
 40.0
 ],
@@ -1607,10 +1319,126 @@
 ]
 },
 {
+"label": "PTGES3",
+"class": "Macromolecule",
+"box": [
+418.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase 3"
+],
+[
+"Alternative names",
+"Cytosolic prostaglandin E2 synthase; Hsp90 co-chaperone; Progesterone receptor complex p23; Telomerase-binding protein p23"
+],
+[
+"Function",
+"Cytosolic prostaglandin synthase that catalyzes the oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2). Molecular chaperone that localizes to genomic response elements in a hormone-dependent manner and disrupts receptor-mediated transcriptional activation, by promoting disassembly of transcriptional regulatory complexes."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:16049"
+],
+[
+"HGNC symbol",
+"PTGES3"
+],
+[
+"Alias symbols",
+"p23, TEBP, cPGES"
+],
+[
+"Entrez",
+"10728"
+],
+[
+"Ensembl",
+"ENSG00000110958"
+],
+[
+"RefSeq",
+"NM_006601"
+],
+[
+"UniProt",
+"Q15185"
+]
+]
+},
+{
+"label": "PTGES",
+"class": "Macromolecule",
+"box": [
+489.0,
+415.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase"
+],
+[
+"Alternative names",
+"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
+],
+[
+"Function",
+"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
+],
+[
+"Location",
+"Membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:9599"
+],
+[
+"HGNC symbol",
+"PTGES"
+],
+[
+"Previous symbols",
+"MGST1L1"
+],
+[
+"Alias symbols",
+"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
+],
+[
+"Entrez",
+"9536"
+],
+[
+"Ensembl",
+"ENSG00000148344"
+],
+[
+"RefSeq",
+"NM_004878"
+],
+[
+"UniProt",
+"O14684"
+]
+]
+},
+{
 "label": "CYP4F8",
 "class": "Macromolecule",
 "box": [
-177.0,
+118.0,
 515.0,
 80.0,
 40.0
@@ -1662,7 +1490,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-477.0,
+418.0,
 715.0,
 80.0,
 40.0
@@ -1718,7 +1546,7 @@
 "label": "PTGR2",
 "class": "Macromolecule",
 "box": [
-315.0,
+256.0,
 915.0,
 80.0,
 40.0
@@ -1778,7 +1606,7 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-477.0,
+418.0,
 915.0,
 80.0,
 40.0

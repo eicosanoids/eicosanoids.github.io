@@ -1207,62 +1207,6 @@
 ]
 },
 {
-"label": "TBXAS1",
-"class": "Macromolecule",
-"box": [
-1301.0,
-115.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Thromboxane-A synthase"
-],
-[
-"Alternative names",
-"Cytochrome P450 5A1; Hydroperoxy icosatetraenoate dehydratase"
-],
-[
-"Function",
-"Catalyzes the conversion of prostaglandin H2 (PGH2) to thromboxane A2 (TXA2), a potent inducer of blood vessel constriction and platelet aggregation. Also cleaves PGH2 to 12-hydroxy-heptadecatrienoicacid (12-HHT) and malondialdehyde, which is known to act as a mediator of DNA damage."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane"
-],
-[
-"HGNC",
-"HGNC:11609"
-],
-[
-"HGNC symbol",
-"TBXAS1"
-],
-[
-"Alias symbols",
-"CYP5, CYP5A1, THAS, TXS, TXAS, TS"
-],
-[
-"Entrez",
-"6916"
-],
-[
-"Ensembl",
-"ENSG00000059377"
-],
-[
-"RefSeq",
-"NM_001061"
-],
-[
-"UniProt",
-"P24557"
-]
-]
-},
-{
 "label": "ALDH1A1",
 "class": "Macromolecule",
 "box": [
@@ -1326,7 +1270,7 @@
 "label": "TBXAS1",
 "class": "Macromolecule",
 "box": [
-1001.0,
+1070.0,
 115.0,
 80.0,
 40.0

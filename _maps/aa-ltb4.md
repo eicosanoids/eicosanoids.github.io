@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/aa-ltb4.svg"
-width: 508
+width: 551
 height: 1270
 scale: 1
 annotation: "/atlas-data/aa-ltb4.json"

@@ -847,7 +847,7 @@
 "class": "Macromolecule",
 "box": [
 333.0,
-276.0,
+315.0,
 80.0,
 40.0
 ],
@@ -955,126 +955,6 @@
 [
 "UniProt",
 "P15428"
-]
-]
-},
-{
-"label": "CBR1",
-"class": "Macromolecule",
-"box": [
-201.0,
-315.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Carbonyl reductase [NADPH] 1"
-],
-[
-"Alternative names",
-"15-hydroxyprostaglandin dehydrogenase [NADP(+)]; 20-beta-hydroxysteroid dehydrogenase; Alcohol dehydrogenase [NAD(P)+] CBR1; NADPH-dependent carbonyl reductase 1; Prostaglandin 9-ketoreductase; Prostaglandin-E(2) 9-reductase; Short chain dehydrogenase/reductase family 21C member 1"
-],
-[
-"Function",
-"NADPH-dependent reductase with broad substrate specificity. Catalyzes the reduction of a wide variety of carbonyl compounds including quinones, prostaglandins, menadione, plus various xenobiotics."
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:1548"
-],
-[
-"HGNC symbol",
-"CBR1"
-],
-[
-"Previous symbols",
-"CBR"
-],
-[
-"Alias symbols",
-"SDR21C1"
-],
-[
-"Entrez",
-"873"
-],
-[
-"Ensembl",
-"ENSG00000159228"
-],
-[
-"RefSeq",
-"NM_001286789"
-],
-[
-"UniProt",
-"P16152"
-]
-]
-},
-{
-"label": "CBR1",
-"class": "Macromolecule",
-"box": [
-333.0,
-476.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Carbonyl reductase [NADPH] 1"
-],
-[
-"Alternative names",
-"15-hydroxyprostaglandin dehydrogenase [NADP(+)]; 20-beta-hydroxysteroid dehydrogenase; Alcohol dehydrogenase [NAD(P)+] CBR1; NADPH-dependent carbonyl reductase 1; Prostaglandin 9-ketoreductase; Prostaglandin-E(2) 9-reductase; Short chain dehydrogenase/reductase family 21C member 1"
-],
-[
-"Function",
-"NADPH-dependent reductase with broad substrate specificity. Catalyzes the reduction of a wide variety of carbonyl compounds including quinones, prostaglandins, menadione, plus various xenobiotics."
-],
-[
-"Location",
-"Cytoplasm"
-],
-[
-"HGNC",
-"HGNC:1548"
-],
-[
-"HGNC symbol",
-"CBR1"
-],
-[
-"Previous symbols",
-"CBR"
-],
-[
-"Alias symbols",
-"SDR21C1"
-],
-[
-"Entrez",
-"873"
-],
-[
-"Ensembl",
-"ENSG00000159228"
-],
-[
-"RefSeq",
-"NM_001286789"
-],
-[
-"UniProt",
-"P16152"
 ]
 ]
 },
