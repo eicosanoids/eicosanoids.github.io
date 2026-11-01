@@ -285,6 +285,86 @@
 ]
 },
 {
+"label": "PCTR2",
+"class": "SimpleChemical",
+"box": [
+716.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"16(S)-glycinylcystein-S-yl-17(R)-hydroxy-(4Z,7Z,10,12,14,19Z)-docosahexaenoic acid"
+],
+[
+"Synonyms",
+"16-cysteinylglycinyl,17-hydroxy-4Z,7Z,10,12,14,19Z-docosahexaenoic acid; PCTR2; S-[(3Z,6R,7S,15Z,18Z)-21-carboxy-6-hydroxyhenicosa-3,8,10,12,15,18-hexaen-7-yl]-L-cysteinylglycine; protectin conjugate in tissue regeneration 2"
+],
+[
+"Definition",
+"A docosanoid that is 17(R)-hydroxy-(4Z,7Z,10,12,14,19Z)-docosahexaenoic acid in which a cysteinylglycinyl group is attached at position 16S via a sulfide linkage. An intermediate of specialized proresolving mediators"
+],
+[
+"Formula",
+"C27H40N2O6S"
+],
+[
+"ChEBI",
+"CHEBI:140263"
+],
+[
+"InChI",
+"InChI=1S/C27H40N2O6S/c1-2-3-14-17-23(30)24(36-21-22(28)27(35)29-20-26(33)34)18-15-12-10-8-6-4-5-7-9-11-13-16-19-25(31)32/h3,5-8,10-15,18,22-24,30H,2,4,9,16-17,19-21,28H2,1H3,(H,29,35)(H,31,32)(H,33,34)/b7-5-,8-6?,12-10?,13-11-,14-3-,18-15?/t22-,23+,24-/m0/s1"
+],
+[
+"InChIKey",
+"WUKLNYKELYBPSU-XFTLILIKSA-N"
+]
+]
+},
+{
+"label": "PCTR3",
+"class": "SimpleChemical",
+"box": [
+716.0,
+1015.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"16(S)-cystein-S-yl,17(R)-hydroxy-(4Z,7Z,10,12,14,19Z)-docosahexaenoic acid"
+],
+[
+"Synonyms",
+"(4Z,7Z,16S,17R,19Z)-16-{[(2R)-2-amino-2-carboxyethyl]sulfanyl}-17-hydroxydocosa-4,7,10,12,14,19-hexaenoic acid; 16-cysteinyl,17-hydroxy-4Z,7Z,16S,17R,19Z-docosahexaenoic acid; PCTR3; protectin conjugate in tissue regeneration 3"
+],
+[
+"Definition",
+"A docosanoid that is 17(R)-hydroxy-(4Z,7Z,10,12,14,19Z)-docosahexaenoic acid in which a glycinyl group is attached at position 16S via a sulfide linkage. An intermediate of specialised proresolving mediators"
+],
+[
+"Formula",
+"C25H37NO5S"
+],
+[
+"ChEBI",
+"CHEBI:140264"
+],
+[
+"InChI",
+"InChI=1S/C25H37NO5S/c1-2-3-14-17-22(27)23(32-20-21(26)25(30)31)18-15-12-10-8-6-4-5-7-9-11-13-16-19-24(28)29/h3,5-8,10-15,18,21-23,27H,2,4,9,16-17,19-20,26H2,1H3,(H,28,29)(H,30,31)/b7-5-,8-6?,12-10?,13-11-,14-3-,18-15?/t21-,22+,23-/m0/s1"
+],
+[
+"InChIKey",
+"GFHRZNBJDWPKHL-XUVPQBAGSA-N"
+]
+]
+},
+{
 "id": "P1",
 "label": "",
 "class": "Process",
@@ -309,25 +389,25 @@
 "references": [
 {
 "authors": "Tsai WC et al.",
-"year": "2021",
-"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
 "journal": "Biochemistry",
+"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
+"year": "2021",
 "db": "pubmed",
 "id": "34029049"
 },
 {
 "authors": "Serhan CN et al.",
-"year": "2006",
-"title": "Anti-inflammatory actions of neuroprotectin D1/protectin D1 and its natural stereoisomers: assignments of dihydroxy-containing docosatrienes.",
 "journal": "J Immunol",
+"title": "Anti-inflammatory actions of neuroprotectin D1/protectin D1 and its natural stereoisomers: assignments of dihydroxy-containing docosatrienes.",
+"year": "2006",
 "db": "pubmed",
 "id": "16424216"
 },
 {
 "authors": "Hong S et al.",
-"year": "2003",
-"title": "Novel docosatrienes and 17S-resolvins generated from docosahexaenoic acid in murine brain, human blood, and glial cells. Autacoids in anti-inflammation.",
 "journal": "J Biol Chem",
+"title": "Novel docosatrienes and 17S-resolvins generated from docosahexaenoic acid in murine brain, human blood, and glial cells. Autacoids in anti-inflammation.",
+"year": "2003",
 "db": "pubmed",
 "id": "12590139"
 }
@@ -356,33 +436,33 @@
 "references": [
 {
 "authors": "Serhan CN et al.",
-"year": "2006",
-"title": "Anti-inflammatory actions of neuroprotectin D1/protectin D1 and its natural stereoisomers: assignments of dihydroxy-containing docosatrienes.",
 "journal": "J Immunol",
+"title": "Anti-inflammatory actions of neuroprotectin D1/protectin D1 and its natural stereoisomers: assignments of dihydroxy-containing docosatrienes.",
+"year": "2006",
 "db": "pubmed",
 "id": "16424216"
 },
 {
 "authors": "Mukherjee PK et al.",
-"year": "2004",
-"title": "Neuroprotectin D1: a docosahexaenoic acid-derived docosatriene protects human retinal pigment epithelial cells from oxidative stress.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Neuroprotectin D1: a docosahexaenoic acid-derived docosatriene protects human retinal pigment epithelial cells from oxidative stress.",
+"year": "2004",
 "db": "pubmed",
 "id": "15152078"
 },
 {
 "authors": "Lukiw WJ et al.",
-"year": "2005",
-"title": "A role for docosahexaenoic acid-derived neuroprotectin D1 in neural cell survival and Alzheimer disease.",
 "journal": "J Clin Invest",
+"title": "A role for docosahexaenoic acid-derived neuroprotectin D1 in neural cell survival and Alzheimer disease.",
+"year": "2005",
 "db": "pubmed",
 "id": "16151530"
 },
 {
 "authors": "Tsai WC et al.",
-"year": "2021",
-"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
 "journal": "Biochemistry",
+"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
+"year": "2021",
 "db": "pubmed",
 "id": "34029049"
 }
@@ -414,33 +494,33 @@
 "references": [
 {
 "authors": "Serhan CN et al.",
-"year": "2006",
-"title": "Anti-inflammatory actions of neuroprotectin D1/protectin D1 and its natural stereoisomers: assignments of dihydroxy-containing docosatrienes.",
 "journal": "J Immunol",
+"title": "Anti-inflammatory actions of neuroprotectin D1/protectin D1 and its natural stereoisomers: assignments of dihydroxy-containing docosatrienes.",
+"year": "2006",
 "db": "pubmed",
 "id": "16424216"
 },
 {
 "authors": "Tsai WC et al.",
-"year": "2021",
-"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
 "journal": "Biochemistry",
+"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
+"year": "2021",
 "db": "pubmed",
 "id": "34029049"
 },
 {
 "authors": "Chen P et al.",
-"year": "2009",
-"title": "Full characterization of PDX, a neuroprotectin/protectin D1 isomer, which inhibits blood platelet aggregation.",
 "journal": "FEBS Lett",
+"title": "Full characterization of PDX, a neuroprotectin/protectin D1 isomer, which inhibits blood platelet aggregation.",
+"year": "2009",
 "db": "pubmed",
 "id": "19818771"
 },
 {
 "authors": "Butovich IA",
-"year": "2005",
-"title": "On the structure and synthesis of neuroprotectin D1, a novel anti-inflammatory compound of the docosahexaenoic acid family.",
 "journal": "J Lipid Res",
+"title": "On the structure and synthesis of neuroprotectin D1, a novel anti-inflammatory compound of the docosahexaenoic acid family.",
+"year": "2005",
 "db": "pubmed",
 "id": "16150835"
 }
@@ -471,25 +551,25 @@
 "references": [
 {
 "authors": "Serhan CN et al.",
-"year": "2011",
-"title": "Novel proresolving aspirin-triggered DHA pathway.",
 "journal": "Chem Biol",
+"title": "Novel proresolving aspirin-triggered DHA pathway.",
+"year": "2011",
 "db": "pubmed",
 "id": "21867913"
 },
 {
 "authors": "Dalli J et al.",
-"year": "2017",
-"title": "Human Sepsis Eicosanoid and Proresolving Lipid Mediator Temporal Profiles: Correlations With Survival and Clinical Outcomes.",
 "journal": "Crit Care Med",
+"title": "Human Sepsis Eicosanoid and Proresolving Lipid Mediator Temporal Profiles: Correlations With Survival and Clinical Outcomes.",
+"year": "2017",
 "db": "pubmed",
 "id": "27632672"
 },
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 }
@@ -523,27 +603,110 @@
 "references": [
 {
 "authors": "Jouvene CC et al.",
-"year": "2019",
-"title": "Biosynthetic metabolomes of cysteinyl-containing immunoresolvents.",
 "journal": "FASEB J",
+"title": "Biosynthetic metabolomes of cysteinyl-containing immunoresolvents.",
+"year": "2019",
 "db": "pubmed",
 "id": "31589826"
 },
 {
 "authors": "Dalli J et al.",
-"year": "2015",
-"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
 "journal": "FASEB J",
+"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
+"year": "2015",
 "db": "pubmed",
 "id": "25713027"
 },
 {
 "authors": "Ramon S et al.",
-"year": "2016",
-"title": "The Protectin PCTR1 Is Produced by Human M2 Macrophages and Enhances Resolution of Infectious Inflammation.",
 "journal": "Am J Pathol",
+"title": "The Protectin PCTR1 Is Produced by Human M2 Macrophages and Enhances Resolution of Infectious Inflammation.",
+"year": "2016",
 "db": "pubmed",
 "id": "26878209"
+}
+]
+},
+{
+"id": "C5",
+"label": "",
+"class": "Process",
+"box": [
+724.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PCTR1"
+],
+"out": [
+"PCTR2"
+],
+"by": [
+"GGT1"
+]
+},
+"references": [
+{
+"authors": "Dalli J et al.",
+"journal": "FASEB J",
+"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
+"year": "2015",
+"db": "pubmed",
+"id": "25713027"
+},
+{
+"authors": "Jouvene CC et al.",
+"journal": "FASEB J",
+"title": "Biosynthetic metabolomes of cysteinyl-containing immunoresolvents.",
+"year": "2019",
+"db": "pubmed",
+"id": "31589826"
+}
+]
+},
+{
+"id": "C6",
+"label": "",
+"class": "Process",
+"box": [
+724.0,
+923.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PCTR2"
+],
+"out": [
+"PCTR3"
+],
+"by": [
+"DPEP2",
+"DPEP1"
+]
+},
+"references": [
+{
+"authors": "Dalli J et al.",
+"journal": "FASEB J",
+"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
+"year": "2015",
+"db": "pubmed",
+"id": "25713027"
+},
+{
+"authors": "Dalli J et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Maresin conjugates in tissue regeneration biosynthesis enzymes in human macrophages.",
+"year": "2016",
+"db": "pubmed",
+"id": "27791009"
 }
 ]
 },
@@ -876,6 +1039,166 @@
 [
 "UniProt",
 "Q99735"
+]
+]
+},
+{
+"label": "GGT1",
+"class": "Macromolecule",
+"box": [
+777.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione hydrolase 1 proenzyme"
+],
+[
+"Alternative names",
+"Gamma-glutamyltransferase 1; Gamma-glutamyltranspeptidase 1; Leukotriene-C4 hydrolase"
+],
+[
+"Function",
+"Cleaves the gamma-glutamyl bond of extracellular glutathione (gamma-Glu-Cys-Gly), glutathione conjugates (such as maresin conjugate (13R)-S-glutathionyl-(14S)-hydroxy-(4Z,7Z,9E,11E,16Z,19Z)-docosahexaenoate, MCTR1) and other gamma-glutamyl compounds (such as leukotriene C4, LTC4). The metabolism of glutathione by GGT1 releases free glutamate and the dipeptide cysteinyl-glycine, which is hydrolyzed to cysteine and glycine by dipeptidases."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4250"
+],
+[
+"HGNC symbol",
+"GGT1"
+],
+[
+"Previous symbols",
+"GGT"
+],
+[
+"Alias symbols",
+"D22S672, D22S732, CD224"
+],
+[
+"Entrez",
+"2678"
+],
+[
+"Ensembl",
+"ENSG00000100031"
+],
+[
+"RefSeq",
+"NM_013430"
+],
+[
+"UniProt",
+"P19440"
+]
+]
+},
+{
+"label": "DPEP2",
+"class": "Macromolecule",
+"box": [
+615.0,
+915.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dipeptidase 2"
+],
+[
+"Function",
+"Dipeptidase that hydrolyzes leukotriene D4 (LTD4) into leukotriene E4 (LTE4). Hydrolyzes cystinyl-bis-glycine"
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:23028"
+],
+[
+"HGNC symbol",
+"DPEP2"
+],
+[
+"Entrez",
+"64174"
+],
+[
+"Ensembl",
+"ENSG00000167261"
+],
+[
+"RefSeq",
+"NM_022355"
+],
+[
+"UniProt",
+"Q9H4A9"
+]
+]
+},
+{
+"label": "DPEP1",
+"class": "Macromolecule",
+"box": [
+777.0,
+915.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dipeptidase 1"
+],
+[
+"Alternative names",
+"Beta-lactamase; Dehydropeptidase-I; Microsomal dipeptidase; Renal dipeptidase"
+],
+[
+"Function",
+"Hydrolyzes a wide range of dipeptides including the conversion of leukotriene D4 to leukotriene E4. Hydrolyzes cystinyl-bis-glycine (cys-bis-gly) formed during glutathione degradation."
+],
+[
+"Location",
+"Apical cell membrane, Cell projection, microvillus membrane"
+],
+[
+"HGNC",
+"HGNC:3002"
+],
+[
+"HGNC symbol",
+"DPEP1"
+],
+[
+"Entrez",
+"1800"
+],
+[
+"Ensembl",
+"ENSG00000015413"
+],
+[
+"RefSeq",
+"NM_001128141"
+],
+[
+"UniProt",
+"P16444"
 ]
 ]
 },

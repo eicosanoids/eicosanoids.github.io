@@ -103,33 +103,33 @@
 "references": [
 {
 "authors": "Roberts LJ 2nd et al.",
-"year": "1998",
-"title": "Formation of isoprostane-like compounds (neuroprostanes) in vivo from docosahexaenoic acid.",
 "journal": "J Biol Chem",
+"title": "Formation of isoprostane-like compounds (neuroprostanes) in vivo from docosahexaenoic acid.",
+"year": "1998",
 "db": "pubmed",
 "id": "9593698"
 },
 {
 "authors": "Milatovic D et al.",
-"year": "2005",
-"title": "Suppression of murine cerebral F2-isoprostanes and F4-neuroprostanes from excitotoxicity and innate immune response in vivo by alpha- or gamma-tocopherol.",
 "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
+"title": "Suppression of murine cerebral F2-isoprostanes and F4-neuroprostanes from excitotoxicity and innate immune response in vivo by alpha- or gamma-tocopherol.",
+"year": "2005",
 "db": "pubmed",
 "id": "16260380"
 },
 {
 "authors": "Montine TJ et al.",
-"year": "2002",
-"title": "Peripheral F2-isoprostanes and F4-neuroprostanes are not increased in Alzheimer's disease.",
 "journal": "Ann Neurol",
+"title": "Peripheral F2-isoprostanes and F4-neuroprostanes are not increased in Alzheimer's disease.",
+"year": "2002",
 "db": "pubmed",
 "id": "12210787"
 },
 {
 "authors": "Milatovic D et al.",
-"year": "2003",
-"title": "Pharmacologic suppression of neuronal oxidative damage and dendritic degeneration following direct activation of glial innate immunity in mouse cerebrum.",
 "journal": "J Neurochem",
+"title": "Pharmacologic suppression of neuronal oxidative damage and dendritic degeneration following direct activation of glial innate immunity in mouse cerebrum.",
+"year": "2003",
 "db": "pubmed",
 "id": "14713307"
 }
@@ -158,25 +158,25 @@
 "references": [
 {
 "authors": "Guichardant M et al.",
-"year": "2004",
-"title": "Specific markers of lipid peroxidation issued from n-3 and n-6 fatty acids.",
 "journal": "Biochem Soc Trans",
+"title": "Specific markers of lipid peroxidation issued from n-3 and n-6 fatty acids.",
+"year": "2004",
 "db": "pubmed",
 "id": "14748733"
 },
 {
 "authors": "Ishikado A et al.",
-"year": "2013",
-"title": "4-Hydroxy hexenal derived from docosahexaenoic acid protects endothelial cells via Nrf2 activation.",
 "journal": "PLoS One",
+"title": "4-Hydroxy hexenal derived from docosahexaenoic acid protects endothelial cells via Nrf2 activation.",
+"year": "2013",
 "db": "pubmed",
 "id": "23936010"
 },
 {
 "authors": "Tanito M et al.",
-"year": "2009",
-"title": "High levels of retinal membrane docosahexaenoic acid increase susceptibility to stress-induced degeneration.",
 "journal": "J Lipid Res",
+"title": "High levels of retinal membrane docosahexaenoic acid increase susceptibility to stress-induced degeneration.",
+"year": "2009",
 "db": "pubmed",
 "id": "19023138"
 }

@@ -15,6 +15,14 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="3.7" xml:space="preserve" y="10.9" hasText="true">DHA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
+    </node><node id="s_23"><data key="d0">CHEBI:78861</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40" width="40" x="580.0" y="180.0"/>
+          <y:Fill color="#DBEBDB" transparent="false"/>
+          <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="3.7" xml:space="preserve" y="10.9" hasText="true">14S-HpDHA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
     </node><node id="s_31"><data key="d0">CHEBI:72624</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
           <y:Geometry height="40" width="40" x="-20.0" y="180.0"/>
@@ -37,6 +45,44 @@
           <y:Fill color="#DBEBDB" transparent="false"/>
           <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="3.7" xml:space="preserve" y="10.9" hasText="true">13-HDHA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="s_54"><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40" width="40" x="580.0" y="380.0"/>
+          <y:Fill color="#DBEBDB" transparent="false"/>
+          <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="3.7" xml:space="preserve" y="10.9" hasText="true">14S-HDHA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="s_55"><data key="d0">CHEBI:140194</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40" width="40" x="880.0" y="380.0"/>
+          <y:Fill color="#DBEBDB" transparent="false"/>
+          <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="3.7" xml:space="preserve" y="10.9" hasText="true">7S,14S-diHDHA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="s_56"><data key="d0">CHEBI:137354</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.SimpleChemical">
+          <y:Geometry height="40" width="40" x="580.0" y="580.0"/>
+          <y:Fill color="#DBEBDB" transparent="false"/>
+          <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="3.7" xml:space="preserve" y="10.9" hasText="true">14S,21-diHDHA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="M1"><data key="dref">pubmed:2977725 pubmed:25036362 pubmed:28400162 pubmed:32324389 pubmed:19103881</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="591.0" y="91.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
         </y:GenericNode>
       </data>
     </node><node id="H1"><data key="dref">pubmed:21307302 pubmed:31931275 pubmed:39997730</data><data key="ng">
@@ -81,6 +127,48 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
+    </node><node id="M1b"><data key="dref">pubmed:2977725 pubmed:25036362 pubmed:28400162</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="591.0" y="291.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="M6"><data key="dref">pubmed:32404334 pubmed:36878381</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="891.0" y="291.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node><node id="H5"><data key="dref">pubmed:19965612 pubmed:29224348 pubmed:21839062 pubmed:37980005</data><data key="ng">
+        <y:GenericNode configuration="com.yworks.sbgn.Process">
+          <y:Geometry height="18.0" width="18.0" x="591.0" y="491.0"/>
+          <y:Fill transparent="false" hasColor="false"/>
+          <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" bottomInset="0" fontFamily="Dialog" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" leftInset="0" modelName="custom" rightInset="0" textColor="#000000" topInset="0" verticalTextPosition="center" visible="true" width="0.0" x="9.0" y="7.0"><y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
     </node><node id="ALOX5_H1_shared_H1"><data key="d3">P09917</data><data key="d2">HGNC:435</data><data key="d1">ALOX5</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
               <y:Geometry height="40" width="80" x="110.0" y="80.0"/>
@@ -103,7 +191,73 @@
                 </y:StyleProperties>
             </y:GenericNode>
           </data>
-        </node><edge id="e0" source="ALOX5_H1_shared_H1" target="H1"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e1" source="ALOX5_H1_shared_H1" target="H2"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e2" source="s_0" target="H1"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e3" source="H1" target="s_31"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e4" source="s_0" target="H2"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="0.0" y="44.0"/><y:Point x="300.0" y="44.0"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e5" source="H2" target="s_32"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e6" source="PTGS2_A4_A4" target="A4"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e7" source="s_0" target="A4"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="0.0" y="44.0"/><y:Point x="-300.0" y="44.0"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e8" source="A4" target="s_33"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge></graph>
+        </node><node id="ALOX15_M1_M1"><data key="d3">P16050</data><data key="d2">HGNC:433</data><data key="d1">ALOX15</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40" width="80" x="479.0" y="80.0"/>
+              <y:Fill color="#E8E8E8" transparent="false"/>
+              <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#7A7A7A" verticalTextPosition="center" visible="true" width="48.857142857142854" x="15.6" xml:space="preserve" y="10.9" hasText="true">ALOX15<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="ALOX12_M1_M1"><data key="d3">P18054</data><data key="d2">HGNC:429</data><data key="d1">ALOX12</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40" width="80" x="641.0" y="80.0"/>
+              <y:Fill color="#E8E8E8" transparent="false"/>
+              <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#7A7A7A" verticalTextPosition="center" visible="true" width="48.857142857142854" x="15.6" xml:space="preserve" y="10.9" hasText="true">ALOX12<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="ALOX5_M6_M6"><data key="d3">P09917</data><data key="d2">HGNC:435</data><data key="d1">ALOX5</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40" width="80" x="941.0" y="210.0"/>
+              <y:Fill color="#C8D8EB" transparent="false"/>
+              <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="40.714285714285715" x="19.6" xml:space="preserve" y="10.9" hasText="true">ALOX5<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="ALOX12_M6_M6"><data key="d3">P18054</data><data key="d2">HGNC:429</data><data key="d1">ALOX12</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40" width="80" x="941.0" y="280.0"/>
+              <y:Fill color="#C8D8EB" transparent="false"/>
+              <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="48.857142857142854" x="15.6" xml:space="preserve" y="10.9" hasText="true">ALOX12<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="ALOX15_M6_M6"><data key="d3">P16050</data><data key="d2">HGNC:433</data><data key="d1">ALOX15</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40" width="80" x="941.0" y="350.0"/>
+              <y:Fill color="#C8D8EB" transparent="false"/>
+              <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="48.857142857142854" x="15.6" xml:space="preserve" y="10.9" hasText="true">ALOX15<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><node id="ALOX12_H5_H5"><data key="d3">P18054</data><data key="d2">HGNC:429</data><data key="d1">ALOX12</data><data key="ng">
+            <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
+              <y:Geometry height="40" width="80" x="641.0" y="480.0"/>
+              <y:Fill color="#C8D8EB" transparent="false"/>
+              <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="48.857142857142854" x="15.6" xml:space="preserve" y="10.9" hasText="true">ALOX12<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+              <y:StyleProperties>
+                <y:Property class="java.lang.Integer" name="com.yworks.sbgn.style.radius" value="10"/>
+                </y:StyleProperties>
+            </y:GenericNode>
+          </data>
+        </node><edge id="e0" source="ALOX5_H1_shared_H1" target="H1"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e1" source="ALOX5_H1_shared_H1" target="H2"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e2" source="s_0" target="H1"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e3" source="H1" target="s_31"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e4" source="s_0" target="H2"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="0.0" y="44.0"/><y:Point x="300.0" y="44.0"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e5" source="H2" target="s_32"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e6" source="PTGS2_A4_A4" target="A4"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e7" source="s_0" target="A4"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="0.0" y="44.0"/><y:Point x="-300.0" y="44.0"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e8" source="A4" target="s_33"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e9" source="ALOX15_M1_M1" target="M1"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#9A9A9A" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e10" source="ALOX12_M1_M1" target="M1"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#9A9A9A" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e11" source="s_0" target="M1"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="0.0" y="44.0"/><y:Point x="600.0" y="44.0"/></y:Path><y:LineStyle color="#9A9A9A" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e12" source="M1" target="s_23"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#9A9A9A" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e13" source="s_23" target="M1b"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e14" source="M1b" target="s_54"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e15" source="ALOX5_M6_M6" target="M6"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e16" source="ALOX12_M6_M6" target="M6"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e17" source="ALOX15_M6_M6" target="M6"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e18" source="s_23" target="M6"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"><y:Point x="600.0" y="244.0"/><y:Point x="900.0" y="244.0"/></y:Path><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e19" source="M6" target="s_55"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e20" source="ALOX12_H5_H5" target="H5"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="white_circle"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e21" source="s_54" target="H5"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="none"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge><edge id="e22" source="H5" target="s_56"><data key="eg"><y:PolyLineEdge><y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/><y:LineStyle color="#000000" type="line" width="1.0"/><y:Arrows source="none" target="delta"/><y:BendStyle smoothed="true"/></y:PolyLineEdge></data></edge></graph>
   <data key="res">
     <y:Resources/>
   </data>

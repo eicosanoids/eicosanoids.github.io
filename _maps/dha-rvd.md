@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/dha-rvd.svg"
-width: 2170
+width: 2470
 height: 1270
 scale: 1
 annotation: "/atlas-data/dha-rvd.json"
@@ -18,7 +18,7 @@ downloads:
   - {label: "GraphML", url: "/downloads/dha-rvd.graphml"}
   - {label: "SVG", url: "/downloads/dha-rvd.svg"}
 ---
-15-lipoxygenase turns docosahexaenoic acid (DHA) into 17S-HpDHA, and 5-lipoxygenase in leukocytes adds a second oxygen at carbon 7 or 4. The 7-hydroperoxide is reduced to resolvin D5 or turned into a 7S(8)-epoxide that opens to resolvin D1 and D2, and the 4-hydroperoxide gives the 4S(5)-epoxide behind resolvins D3 and D4 (Serhan 2002; Sun 2007). Aspirin-acetylated COX-2 makes 17R-HpDHA, the start of the aspirin-triggered resolvins. The epoxide is also conjugated with glutathione to the RCTR series. How much of the epoxide route runs in human leukocytes is debated: human 5-lipoxygenase acts slowly on 17S-HpDHA, and the dihydroxy product resolvin D5 is found more consistently than the trihydroxy resolvins (Perry 2020; Kahnt 2023).
+15-lipoxygenase turns docosahexaenoic acid (DHA) into 17S-HpDHA, and 5-lipoxygenase in leukocytes adds a second oxygen at carbon 7 or 4. The 7-hydroperoxide is reduced to resolvin D5 or turned into a 7S(8)-epoxide that opens to resolvin D1 and D2, and the 4-hydroperoxide gives the 4S(5)-epoxide behind resolvins D3 and D4 (Serhan 2002; Sun 2007). Aspirin-acetylated COX-2 makes 17R-HpDHA, the start of the aspirin-triggered resolvins. The 4-hydroperoxide also gives resolvin D6 directly. Resolvin D1 is inactivated by oxidation at carbon 8 or 17. The epoxide is conjugated with glutathione to the RCTR series, and the aspirin-triggered route gives AT-resolvin D3 as well. How much of the epoxide route runs in human leukocytes is debated: human 5-lipoxygenase acts slowly on 17S-HpDHA, and the dihydroxy product resolvin D5 is found more consistently than the trihydroxy resolvins (Perry 2020; Kahnt 2023).
 
 ## Source
 

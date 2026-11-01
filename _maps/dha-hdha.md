@@ -9,8 +9,8 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/dha-hdha.svg"
-width: 670
-height: 270
+width: 1371
+height: 670
 scale: 1
 annotation: "/atlas-data/dha-hdha.json"
 image_error: ""
@@ -18,7 +18,7 @@ downloads:
   - {label: "GraphML", url: "/downloads/dha-hdha.graphml"}
   - {label: "SVG", url: "/downloads/dha-hdha.svg"}
 ---
-5-lipoxygenase turns DHA into 4-HDHA and 7S-HDHA, and COX-2 makes 13-HDHA. 4-HDHA mediates part of the antiangiogenic effect of ω-3 fatty acids in the retina (Sapieha 2011), and 7S-HDHA is the first step of a resolvin D5 route that begins with 5-lipoxygenase (Perry 2020).
+5-lipoxygenase turns DHA into 4-HDHA and 7S-HDHA, and COX-2 makes 13-HDHA. 12-lipoxygenase makes 14S-HpDHA, reduced to 14S-HDHA and hydroxylated further to 14S,21-diHDHA, and a second lipoxygenation gives 7S,14S-diHDHA. The step from DHA to 14S-HpDHA, drawn in grey, belongs to the maresin map. 4-HDHA mediates part of the antiangiogenic effect of ω-3 fatty acids in the retina (Sapieha 2011), and 7S-HDHA is the first step of a resolvin D5 route that begins with 5-lipoxygenase (Perry 2020).
 
 ## Source
 

@@ -10,7 +10,7 @@ draft: false
 tag: "new"
 image: "/downloads/dha-pd.svg"
 width: 1172
-height: 670
+height: 1070
 scale: 1
 annotation: "/atlas-data/dha-pd.json"
 image_error: ""
@@ -18,7 +18,7 @@ downloads:
   - {label: "GraphML", url: "/downloads/dha-pd.graphml"}
   - {label: "SVG", url: "/downloads/dha-pd.svg"}
 ---
-15-lipoxygenase turns 17S-HpDHA into a 16S,17S-epoxide, which opens to protectin D1 (neuroprotectin D1), or oxygenates it a second time at carbon 10 to give protectin DX, a stereoisomer made without the epoxide (Serhan 2006; Tsai 2021). The epoxide is also conjugated with glutathione to PCTR1. From 17R-HpDHA, the aspirin-triggered route gives the 17R epimer of protectin D1.
+15-lipoxygenase turns 17S-HpDHA into a 16S,17S-epoxide, which opens to protectin D1 (neuroprotectin D1), or oxygenates it a second time at carbon 10 to give protectin DX, a stereoisomer made without the epoxide (Serhan 2006; Tsai 2021). The epoxide is also conjugated with glutathione to PCTR1, which γ-glutamyl transferase and a dipeptidase trim to PCTR2 and PCTR3. From 17R-HpDHA, the aspirin-triggered route gives the 17R epimer of protectin D1.
 
 ## Source
 

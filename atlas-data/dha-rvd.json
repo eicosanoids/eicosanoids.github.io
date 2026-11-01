@@ -589,6 +589,206 @@
 ]
 },
 {
+"label": "17S-HDHA",
+"class": "SimpleChemical",
+"box": [
+1215.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"17(S)-HDoHE"
+],
+[
+"Synonyms",
+"(17S)-hydroxydocosahexaenoic acid; (4Z,7Z,10Z,13Z,15E,17S,19Z)-17-hydroxydocosa-4,7,10,13,15,19-hexaenoic acid; 17S-HDHA; 17S-hydroxy DHA; 17S-hydroxy-4Z,7Z,10Z,13Z,15E,19Z-docosahexaenoic acid"
+],
+[
+"Definition",
+"A polyunsaturated fatty acid that is (4Z,7Z,10Z,13Z,15E,19Z)-docosa-4,7,10,13,15,19-hexaenoic acid carrying a hydroxy substituent at the 17S-position. It is a metabolite of docosahexaenoic acid in human blood and mouse brain, and serves as a precursor to 17(S)-resolvins."
+],
+[
+"Formula",
+"C22H32O3"
+],
+[
+"ChEBI",
+"CHEBI:138640"
+],
+[
+"InChI",
+"InChI=1S/C22H32O3/c1-2-3-15-18-21(23)19-16-13-11-9-7-5-4-6-8-10-12-14-17-20-22(24)25/h3,5-8,11-16,19,21,23H,2,4,9-10,17-18,20H2,1H3,(H,24,25)/b7-5-,8-6-,13-11-,14-12-,15-3-,19-16+/t21-/m0/s1"
+],
+[
+"InChIKey",
+"SWTYBBUBEPPYCX-YTQNUIGOSA-N"
+]
+]
+},
+{
+"label": "RvD6",
+"class": "SimpleChemical",
+"box": [
+15.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"resolvin D6"
+],
+[
+"Synonyms",
+"(4S,5E,7Z,10Z,13Z,15E,17S,19Z)-4,17-dihydroxydocosa-5,7,10,13,15,19-hexaenoic acid; (4S,5E,7Z,10Z,13Z,15E,17S,19Z)-4,17-dihydroxydocosahexaenoic acid; 4S,17S-dihydroxy-5E,7Z,10Z,13Z,15E,19Z-docosahexaenoic acid; RvD6"
+],
+[
+"Definition",
+"A member of the class of resolvins that is (5E,7Z,10Z,13Z,15E,19Z)-docosahexaenoic acid carrying two hydroxy substituents at positions 4 and 17 (the 4S,17S-stereoisomer)."
+],
+[
+"Formula",
+"C22H32O4"
+],
+[
+"ChEBI",
+"CHEBI:138643"
+],
+[
+"InChI",
+"InChI=1S/C22H32O4/c1-2-3-12-15-20(23)16-13-10-8-6-4-5-7-9-11-14-17-21(24)18-19-22(25)26/h3-5,8-14,16-17,20-21,23-24H,2,6-7,15,18-19H2,1H3,(H,25,26)/b5-4-,10-8-,11-9-,12-3-,16-13+,17-14+/t20-,21+/m0/s1"
+],
+[
+"InChIKey",
+"JKPUWSZSJINVLB-OSKNXYPTSA-N"
+]
+]
+},
+{
+"label": "AT-RvD3",
+"class": "SimpleChemical",
+"box": [
+2415.0,
+615.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"aspirin-triggered resolvin D3"
+],
+[
+"Synonyms",
+"(4S,5Z,7E,9E,11R,13Z,15E,17R,19Z)-4,11,17-trihydroxydocosa-5,7,9,13,15,19-hexaenoic acid; (4S,5Z,7E,9E,11R,13Z,15E,17R,19Z)-4,11,17-trihydroxydocosahexaenoic acid; 17-epi-RvD3; 17-epi-resolvin D3; AT-RvD3; AT-resolvin D3; aspirin-triggered RvD3"
+],
+[
+"Definition",
+"A member of the class of resolvins that is (5Z,7E,9E,13Z,15E,19Z)-docosahexaenoic acid carrying three hydroxy substituents at positions 4, 11 and 17 (the 4S,11R,17R-stereoisomer)"
+],
+[
+"Formula",
+"C22H32O5"
+],
+[
+"ChEBI",
+"CHEBI:138615"
+],
+[
+"InChI",
+"InChI=1S/C22H32O5/c1-2-3-7-12-19(23)14-10-6-11-15-20(24)13-8-4-5-9-16-21(25)17-18-22(26)27/h3-11,13-14,16,19-21,23-25H,2,12,15,17-18H2,1H3,(H,26,27)/b5-4+,7-3-,11-6-,13-8+,14-10+,16-9-/t19-,20+,21-/m1/s1"
+],
+[
+"InChIKey",
+"QBTJOLCUKWLTIC-AXRBAIMGSA-N"
+]
+]
+},
+{
+"label": "8-oxo-RvD1",
+"class": "SimpleChemical",
+"box": [
+915.0,
+1015.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"8-oxoresolvin D1"
+],
+[
+"Synonyms",
+"(4Z,7S,9E,11E,13Z,15E,17S,19Z)-7,17-dihydroxy-8-oxodocosa-4,9,11,13,15,19-hexaenoic acid; 8-oxo-(7S,17S)-dihydroxy-(4Z,9E,11E,13Z,15E,19Z)-docosahexaenoic acid; 8-oxo-7S,17S-dihydroxy-4Z,9E,11E,13Z,15E,19Z-docosahexaenoic acid; 8-oxo-RvD1"
+],
+[
+"Definition",
+"A resolvin that is docosa-4Z,9E,11E,13Z,15E,19Z-hexaenoic acid which is substituted by hydroxy groups at the 7 and 17 positions as well as an oxo group at the 8-position (the 7S,17S-stereoisomer)."
+],
+[
+"Formula",
+"C22H30O5"
+],
+[
+"ChEBI",
+"CHEBI:132797"
+],
+[
+"InChI",
+"InChI=1S/C22H30O5/c1-2-3-9-14-19(23)15-10-6-4-5-7-11-16-20(24)21(25)17-12-8-13-18-22(26)27/h3-12,15-16,19,21,23,25H,2,13-14,17-18H2,1H3,(H,26,27)/b6-4-,7-5+,9-3-,12-8-,15-10+,16-11+/t19-,21-/m0/s1"
+],
+[
+"InChIKey",
+"LUPPRXHPUZNWES-BZRROHBCSA-N"
+]
+]
+},
+{
+"label": "17-oxo-RvD1",
+"class": "SimpleChemical",
+"box": [
+615.0,
+1015.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"17-oxoresolvin D1"
+],
+[
+"Synonyms",
+"(4Z,7S,8R,9E,11E,13Z,15E,19Z)-7,8-dihydroxy-17-oxodocosa-4,9,11,13,15,19-hexaenoic acid; 17-oxo-(7S,8R)-dihydroxy-(4Z,9E,11E,13Z,15E,19Z)-docosahexaenoic acid; 17-oxo-7S,8R-dihydroxy-4Z,9E,11E,13Z,15E,19Z-docosahexaenoic acid; 17-oxo-RvD1"
+],
+[
+"Definition",
+"A resolvin that is docosa-4Z,9E,11E,13Z,15E,19Z-hexaenoic acid which is substituted by hydroxy groups at the 7 and 8 positions as well as an oxo group at the 17-position (the 7S,8R-stereoisomer)."
+],
+[
+"Formula",
+"C22H30O5"
+],
+[
+"ChEBI",
+"CHEBI:132800"
+],
+[
+"InChI",
+"InChI=1S/C22H30O5/c1-2-3-9-14-19(23)15-10-6-4-5-7-11-16-20(24)21(25)17-12-8-13-18-22(26)27/h3-12,15-16,20-21,24-25H,2,13-14,17-18H2,1H3,(H,26,27)/b6-4-,7-5+,9-3-,12-8-,15-10+,16-11+/t20-,21+/m1/s1"
+],
+[
+"InChIKey",
+"UKRCOMRGFCFHQM-VPHBCXEASA-N"
+]
+]
+},
+{
 "id": "A1",
 "label": "",
 "class": "Process",
@@ -613,33 +813,33 @@
 "references": [
 {
 "authors": "Kutzner L et al.",
-"year": "2017",
-"title": "Mammalian ALOX15 orthologs exhibit pronounced dual positional specificity with docosahexaenoic acid.",
 "journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Mammalian ALOX15 orthologs exhibit pronounced dual positional specificity with docosahexaenoic acid.",
+"year": "2017",
 "db": "pubmed",
 "id": "28400162"
 },
 {
 "authors": "Tsai WC et al.",
-"year": "2021",
-"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
 "journal": "Biochemistry",
+"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
+"year": "2021",
 "db": "pubmed",
 "id": "34029049"
 },
 {
 "authors": "Hong S et al.",
-"year": "2003",
-"title": "Novel docosatrienes and 17S-resolvins generated from docosahexaenoic acid in murine brain, human blood, and glial cells. Autacoids in anti-inflammation.",
 "journal": "J Biol Chem",
+"title": "Novel docosatrienes and 17S-resolvins generated from docosahexaenoic acid in murine brain, human blood, and glial cells. Autacoids in anti-inflammation.",
+"year": "2003",
 "db": "pubmed",
 "id": "12590139"
 },
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 }
@@ -670,33 +870,33 @@
 "references": [
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 },
 {
 "authors": "Perry SC et al.",
-"year": "2020",
-"title": "15-Lipoxygenase-1 biosynthesis of 7S,14S-diHDHA implicates 15-lipoxygenase-2 in biosynthesis of resolvin D5.",
 "journal": "J Lipid Res",
+"title": "15-Lipoxygenase-1 biosynthesis of 7S,14S-diHDHA implicates 15-lipoxygenase-2 in biosynthesis of resolvin D5.",
+"year": "2020",
 "db": "pubmed",
 "id": "32404334"
 },
 {
 "authors": "Kahnt AS et al.",
-"year": "2023",
-"title": "Formation of lipoxins and resolvins in human leukocytes.",
 "journal": "Prostaglandins Other Lipid Mediat",
+"title": "Formation of lipoxins and resolvins in human leukocytes.",
+"year": "2023",
 "db": "pubmed",
 "id": "36878381"
 },
 {
 "authors": "Sun YP et al.",
-"year": "2007",
-"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
 "journal": "J Biol Chem",
+"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
+"year": "2007",
 "db": "pubmed",
 "id": "17244615"
 }
@@ -727,33 +927,33 @@
 "references": [
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 },
 {
 "authors": "Perry SC et al.",
-"year": "2020",
-"title": "15-Lipoxygenase-1 biosynthesis of 7S,14S-diHDHA implicates 15-lipoxygenase-2 in biosynthesis of resolvin D5.",
 "journal": "J Lipid Res",
+"title": "15-Lipoxygenase-1 biosynthesis of 7S,14S-diHDHA implicates 15-lipoxygenase-2 in biosynthesis of resolvin D5.",
+"year": "2020",
 "db": "pubmed",
 "id": "32404334"
 },
 {
 "authors": "Kahnt AS et al.",
-"year": "2023",
-"title": "Formation of lipoxins and resolvins in human leukocytes.",
 "journal": "Prostaglandins Other Lipid Mediat",
+"title": "Formation of lipoxins and resolvins in human leukocytes.",
+"year": "2023",
 "db": "pubmed",
 "id": "36878381"
 },
 {
 "authors": "Sun YP et al.",
-"year": "2007",
-"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
 "journal": "J Biol Chem",
+"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
+"year": "2007",
 "db": "pubmed",
 "id": "17244615"
 }
@@ -782,41 +982,41 @@
 "references": [
 {
 "authors": "Sun YP et al.",
-"year": "2007",
-"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
 "journal": "J Biol Chem",
+"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
+"year": "2007",
 "db": "pubmed",
 "id": "17244615"
 },
 {
 "authors": "Mas E et al.",
-"year": "2012",
-"title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation.",
 "journal": "Clin Chem",
+"title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation.",
+"year": "2012",
 "db": "pubmed",
 "id": "22912397"
 },
 {
 "authors": "Hong S et al.",
-"year": "2003",
-"title": "Novel docosatrienes and 17S-resolvins generated from docosahexaenoic acid in murine brain, human blood, and glial cells. Autacoids in anti-inflammation.",
 "journal": "J Biol Chem",
+"title": "Novel docosatrienes and 17S-resolvins generated from docosahexaenoic acid in murine brain, human blood, and glial cells. Autacoids in anti-inflammation.",
+"year": "2003",
 "db": "pubmed",
 "id": "12590139"
 },
 {
 "authors": "Dalli J et al.",
-"year": "2012",
-"title": "Specific lipid mediator signatures of human phagocytes: microparticles stimulate macrophage efferocytosis and pro-resolving mediators.",
 "journal": "Blood",
+"title": "Specific lipid mediator signatures of human phagocytes: microparticles stimulate macrophage efferocytosis and pro-resolving mediators.",
+"year": "2012",
 "db": "pubmed",
 "id": "22904297"
 },
 {
 "authors": "Colas RA et al.",
-"year": "2014",
-"title": "Identification and signature profiles for pro-resolving and inflammatory lipid mediators in human tissue.",
 "journal": "Am J Physiol Cell Physiol",
+"title": "Identification and signature profiles for pro-resolving and inflammatory lipid mediators in human tissue.",
+"year": "2014",
 "db": "pubmed",
 "id": "24696140"
 }
@@ -845,41 +1045,41 @@
 "references": [
 {
 "authors": "Spite M et al.",
-"year": "2009",
-"title": "Resolvin D2 is a potent regulator of leukocytes and controls microbial sepsis.",
 "journal": "Nature",
+"title": "Resolvin D2 is a potent regulator of leukocytes and controls microbial sepsis.",
+"year": "2009",
 "db": "pubmed",
 "id": "19865173"
 },
 {
 "authors": "Mas E et al.",
-"year": "2012",
-"title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation.",
 "journal": "Clin Chem",
+"title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation.",
+"year": "2012",
 "db": "pubmed",
 "id": "22912397"
 },
 {
 "authors": "Dalli J et al.",
-"year": "2012",
-"title": "Specific lipid mediator signatures of human phagocytes: microparticles stimulate macrophage efferocytosis and pro-resolving mediators.",
 "journal": "Blood",
+"title": "Specific lipid mediator signatures of human phagocytes: microparticles stimulate macrophage efferocytosis and pro-resolving mediators.",
+"year": "2012",
 "db": "pubmed",
 "id": "22904297"
 },
 {
 "authors": "Werz O et al.",
-"year": "2018",
-"title": "Human macrophages differentially produce specific resolvin or leukotriene signals that depend on bacterial pathogenicity.",
 "journal": "Nat Commun",
+"title": "Human macrophages differentially produce specific resolvin or leukotriene signals that depend on bacterial pathogenicity.",
+"year": "2018",
 "db": "pubmed",
 "id": "29302056"
 },
 {
 "authors": "Colas RA et al.",
-"year": "2014",
-"title": "Identification and signature profiles for pro-resolving and inflammatory lipid mediators in human tissue.",
 "journal": "Am J Physiol Cell Physiol",
+"title": "Identification and signature profiles for pro-resolving and inflammatory lipid mediators in human tissue.",
+"year": "2014",
 "db": "pubmed",
 "id": "24696140"
 }
@@ -910,25 +1110,25 @@
 "references": [
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 },
 {
 "authors": "Dalli J et al.",
-"year": "2013",
-"title": "Resolvin D3 and aspirin-triggered resolvin D3 are potent immunoresolvents.",
 "journal": "Chem Biol",
+"title": "Resolvin D3 and aspirin-triggered resolvin D3 are potent immunoresolvents.",
+"year": "2013",
 "db": "pubmed",
 "id": "23438748"
 },
 {
 "authors": "Winkler JW et al.",
-"year": "2016",
-"title": "Resolvin D4 stereoassignment and its novel actions in host protection and bacterial clearance.",
 "journal": "Sci Rep",
+"title": "Resolvin D4 stereoassignment and its novel actions in host protection and bacterial clearance.",
+"year": "2016",
 "db": "pubmed",
 "id": "26743932"
 }
@@ -959,25 +1159,25 @@
 "references": [
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 },
 {
 "authors": "Dalli J et al.",
-"year": "2013",
-"title": "Resolvin D3 and aspirin-triggered resolvin D3 are potent immunoresolvents.",
 "journal": "Chem Biol",
+"title": "Resolvin D3 and aspirin-triggered resolvin D3 are potent immunoresolvents.",
+"year": "2013",
 "db": "pubmed",
 "id": "23438748"
 },
 {
 "authors": "Winkler JW et al.",
-"year": "2016",
-"title": "Resolvin D4 stereoassignment and its novel actions in host protection and bacterial clearance.",
 "journal": "Sci Rep",
+"title": "Resolvin D4 stereoassignment and its novel actions in host protection and bacterial clearance.",
+"year": "2016",
 "db": "pubmed",
 "id": "26743932"
 }
@@ -1006,41 +1206,41 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2013",
-"title": "Resolvin D3 and aspirin-triggered resolvin D3 are potent immunoresolvents.",
 "journal": "Chem Biol",
+"title": "Resolvin D3 and aspirin-triggered resolvin D3 are potent immunoresolvents.",
+"year": "2013",
 "db": "pubmed",
 "id": "23438748"
 },
 {
 "authors": "Winkler JW et al.",
-"year": "2016",
-"title": "Resolvin D4 stereoassignment and its novel actions in host protection and bacterial clearance.",
 "journal": "Sci Rep",
+"title": "Resolvin D4 stereoassignment and its novel actions in host protection and bacterial clearance.",
+"year": "2016",
 "db": "pubmed",
 "id": "26743932"
 },
 {
 "authors": "Arnardottir HH et al.",
-"year": "2016",
-"title": "Resolvin D3 Is Dysregulated in Arthritis and Reduces Arthritic Inflammation.",
 "journal": "J Immunol",
+"title": "Resolvin D3 Is Dysregulated in Arthritis and Reduces Arthritic Inflammation.",
+"year": "2016",
 "db": "pubmed",
 "id": "27534559"
 },
 {
 "authors": "Arnardottir H et al.",
-"year": "2016",
-"title": "Human milk proresolving mediators stimulate resolution of acute inflammation.",
 "journal": "Mucosal Immunol",
+"title": "Human milk proresolving mediators stimulate resolution of acute inflammation.",
+"year": "2016",
 "db": "pubmed",
 "id": "26462421"
 },
 {
 "authors": "Colas RA et al.",
-"year": "2014",
-"title": "Identification and signature profiles for pro-resolving and inflammatory lipid mediators in human tissue.",
 "journal": "Am J Physiol Cell Physiol",
+"title": "Identification and signature profiles for pro-resolving and inflammatory lipid mediators in human tissue.",
+"year": "2014",
 "db": "pubmed",
 "id": "24696140"
 }
@@ -1069,41 +1269,41 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2013",
-"title": "Resolvin D3 and aspirin-triggered resolvin D3 are potent immunoresolvents.",
 "journal": "Chem Biol",
+"title": "Resolvin D3 and aspirin-triggered resolvin D3 are potent immunoresolvents.",
+"year": "2013",
 "db": "pubmed",
 "id": "23438748"
 },
 {
 "authors": "Winkler JW et al.",
-"year": "2016",
-"title": "Resolvin D4 stereoassignment and its novel actions in host protection and bacterial clearance.",
 "journal": "Sci Rep",
+"title": "Resolvin D4 stereoassignment and its novel actions in host protection and bacterial clearance.",
+"year": "2016",
 "db": "pubmed",
 "id": "26743932"
 },
 {
 "authors": "Arnardottir HH et al.",
-"year": "2016",
-"title": "Resolvin D3 Is Dysregulated in Arthritis and Reduces Arthritic Inflammation.",
 "journal": "J Immunol",
+"title": "Resolvin D3 Is Dysregulated in Arthritis and Reduces Arthritic Inflammation.",
+"year": "2016",
 "db": "pubmed",
 "id": "27534559"
 },
 {
 "authors": "Arnardottir H et al.",
-"year": "2016",
-"title": "Human milk proresolving mediators stimulate resolution of acute inflammation.",
 "journal": "Mucosal Immunol",
+"title": "Human milk proresolving mediators stimulate resolution of acute inflammation.",
+"year": "2016",
 "db": "pubmed",
 "id": "26462421"
 },
 {
 "authors": "Colas RA et al.",
-"year": "2014",
-"title": "Identification and signature profiles for pro-resolving and inflammatory lipid mediators in human tissue.",
 "journal": "Am J Physiol Cell Physiol",
+"title": "Identification and signature profiles for pro-resolving and inflammatory lipid mediators in human tissue.",
+"year": "2014",
 "db": "pubmed",
 "id": "24696140"
 }
@@ -1132,41 +1332,41 @@
 "references": [
 {
 "authors": "Chiang N et al.",
-"year": "2012",
-"title": "Infection regulates pro-resolving mediators that lower antibiotic requirements.",
 "journal": "Nature",
+"title": "Infection regulates pro-resolving mediators that lower antibiotic requirements.",
+"year": "2012",
 "db": "pubmed",
 "id": "22538616"
 },
 {
 "authors": "Perry SC et al.",
-"year": "2020",
-"title": "15-Lipoxygenase-1 biosynthesis of 7S,14S-diHDHA implicates 15-lipoxygenase-2 in biosynthesis of resolvin D5.",
 "journal": "J Lipid Res",
+"title": "15-Lipoxygenase-1 biosynthesis of 7S,14S-diHDHA implicates 15-lipoxygenase-2 in biosynthesis of resolvin D5.",
+"year": "2020",
 "db": "pubmed",
 "id": "32404334"
 },
 {
 "authors": "Werz O et al.",
-"year": "2018",
-"title": "Human macrophages differentially produce specific resolvin or leukotriene signals that depend on bacterial pathogenicity.",
 "journal": "Nat Commun",
+"title": "Human macrophages differentially produce specific resolvin or leukotriene signals that depend on bacterial pathogenicity.",
+"year": "2018",
 "db": "pubmed",
 "id": "29302056"
 },
 {
 "authors": "Dalli J et al.",
-"year": "2017",
-"title": "Human Sepsis Eicosanoid and Proresolving Lipid Mediator Temporal Profiles: Correlations With Survival and Clinical Outcomes.",
 "journal": "Crit Care Med",
+"title": "Human Sepsis Eicosanoid and Proresolving Lipid Mediator Temporal Profiles: Correlations With Survival and Clinical Outcomes.",
+"year": "2017",
 "db": "pubmed",
 "id": "27632672"
 },
 {
 "authors": "Kahnt AS et al.",
-"year": "2023",
-"title": "Formation of lipoxins and resolvins in human leukocytes.",
 "journal": "Prostaglandins Other Lipid Mediat",
+"title": "Formation of lipoxins and resolvins in human leukocytes.",
+"year": "2023",
 "db": "pubmed",
 "id": "36878381"
 }
@@ -1197,33 +1397,33 @@
 "references": [
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 },
 {
 "authors": "Sharma NP et al.",
-"year": "2010",
-"title": "Asymmetric acetylation of the cyclooxygenase-2 homodimer by aspirin and its effects on the oxygenation of arachidonic, eicosapentaenoic, and docosahexaenoic acids.",
 "journal": "Mol Pharmacol",
+"title": "Asymmetric acetylation of the cyclooxygenase-2 homodimer by aspirin and its effects on the oxygenation of arachidonic, eicosapentaenoic, and docosahexaenoic acids.",
+"year": "2010",
 "db": "pubmed",
 "id": "20194532"
 },
 {
 "authors": "Marcheselli VL et al.",
-"year": "2003",
-"title": "Novel docosanoids inhibit brain ischemia-reperfusion-mediated leukocyte infiltration and pro-inflammatory gene expression.",
 "journal": "J Biol Chem",
+"title": "Novel docosanoids inhibit brain ischemia-reperfusion-mediated leukocyte infiltration and pro-inflammatory gene expression.",
+"year": "2003",
 "db": "pubmed",
 "id": "12923200"
 },
 {
 "authors": "Serhan CN et al.",
-"year": "2011",
-"title": "Novel proresolving aspirin-triggered DHA pathway.",
 "journal": "Chem Biol",
+"title": "Novel proresolving aspirin-triggered DHA pathway.",
+"year": "2011",
 "db": "pubmed",
 "id": "21867913"
 }
@@ -1252,33 +1452,33 @@
 "references": [
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 },
 {
 "authors": "Sharma NP et al.",
-"year": "2010",
-"title": "Asymmetric acetylation of the cyclooxygenase-2 homodimer by aspirin and its effects on the oxygenation of arachidonic, eicosapentaenoic, and docosahexaenoic acids.",
 "journal": "Mol Pharmacol",
+"title": "Asymmetric acetylation of the cyclooxygenase-2 homodimer by aspirin and its effects on the oxygenation of arachidonic, eicosapentaenoic, and docosahexaenoic acids.",
+"year": "2010",
 "db": "pubmed",
 "id": "20194532"
 },
 {
 "authors": "Marcheselli VL et al.",
-"year": "2003",
-"title": "Novel docosanoids inhibit brain ischemia-reperfusion-mediated leukocyte infiltration and pro-inflammatory gene expression.",
 "journal": "J Biol Chem",
+"title": "Novel docosanoids inhibit brain ischemia-reperfusion-mediated leukocyte infiltration and pro-inflammatory gene expression.",
+"year": "2003",
 "db": "pubmed",
 "id": "12923200"
 },
 {
 "authors": "Serhan CN et al.",
-"year": "2011",
-"title": "Novel proresolving aspirin-triggered DHA pathway.",
 "journal": "Chem Biol",
+"title": "Novel proresolving aspirin-triggered DHA pathway.",
+"year": "2011",
 "db": "pubmed",
 "id": "21867913"
 }
@@ -1309,25 +1509,25 @@
 "references": [
 {
 "authors": "Sun YP et al.",
-"year": "2007",
-"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
 "journal": "J Biol Chem",
+"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
+"year": "2007",
 "db": "pubmed",
 "id": "17244615"
 },
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 },
 {
 "authors": "Mas E et al.",
-"year": "2012",
-"title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation.",
 "journal": "Clin Chem",
+"title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation.",
+"year": "2012",
 "db": "pubmed",
 "id": "22912397"
 }
@@ -1358,25 +1558,25 @@
 "references": [
 {
 "authors": "Sun YP et al.",
-"year": "2007",
-"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
 "journal": "J Biol Chem",
+"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
+"year": "2007",
 "db": "pubmed",
 "id": "17244615"
 },
 {
 "authors": "Serhan CN et al.",
-"year": "2002",
-"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
 "journal": "J Exp Med",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"year": "2002",
 "db": "pubmed",
 "id": "12391014"
 },
 {
 "authors": "Mas E et al.",
-"year": "2012",
-"title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation.",
 "journal": "Clin Chem",
+"title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation.",
+"year": "2012",
 "db": "pubmed",
 "id": "22912397"
 }
@@ -1407,21 +1607,25 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2015",
-"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
 "journal": "FASEB J",
+"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
+"year": "2015",
 "db": "pubmed",
 "id": "25713027"
 },
 {
+"authors": "Nshimiyimana R et al.",
+"year": "2024",
+"title": "Biosynthesis of resolvin D1, resolvin D2, and RCTR1 from 7,8(S,S)-epoxytetraene in human neutrophils and macrophages.",
+"journal": "Proc Natl Acad Sci U S A",
 "db": "pubmed",
 "id": "39236243"
 },
 {
 "authors": "de la Rosa X et al.",
-"year": "2018",
-"title": "Identification and Complete Stereochemical Assignments of the New Resolvin Conjugates in Tissue Regeneration in Human Tissues that Stimulate Proresolving Phagocyte Functions and Tissue Regeneration.",
 "journal": "Am J Pathol",
+"title": "Identification and Complete Stereochemical Assignments of the New Resolvin Conjugates in Tissue Regeneration in Human Tissues that Stimulate Proresolving Phagocyte Functions and Tissue Regeneration.",
+"year": "2018",
 "db": "pubmed",
 "id": "29571326"
 }
@@ -1452,25 +1656,25 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2015",
-"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
 "journal": "FASEB J",
+"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
+"year": "2015",
 "db": "pubmed",
 "id": "25713027"
 },
 {
 "authors": "de la Rosa X et al.",
-"year": "2018",
-"title": "Identification and Complete Stereochemical Assignments of the New Resolvin Conjugates in Tissue Regeneration in Human Tissues that Stimulate Proresolving Phagocyte Functions and Tissue Regeneration.",
 "journal": "Am J Pathol",
+"title": "Identification and Complete Stereochemical Assignments of the New Resolvin Conjugates in Tissue Regeneration in Human Tissues that Stimulate Proresolving Phagocyte Functions and Tissue Regeneration.",
+"year": "2018",
 "db": "pubmed",
 "id": "29571326"
 },
 {
 "authors": "Jouvene CC et al.",
-"year": "2019",
-"title": "Biosynthetic metabolomes of cysteinyl-containing immunoresolvents.",
 "journal": "FASEB J",
+"title": "Biosynthetic metabolomes of cysteinyl-containing immunoresolvents.",
+"year": "2019",
 "db": "pubmed",
 "id": "31589826"
 }
@@ -1502,27 +1706,246 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2015",
-"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
 "journal": "FASEB J",
+"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
+"year": "2015",
 "db": "pubmed",
 "id": "25713027"
 },
 {
 "authors": "de la Rosa X et al.",
-"year": "2018",
-"title": "Identification and Complete Stereochemical Assignments of the New Resolvin Conjugates in Tissue Regeneration in Human Tissues that Stimulate Proresolving Phagocyte Functions and Tissue Regeneration.",
 "journal": "Am J Pathol",
+"title": "Identification and Complete Stereochemical Assignments of the New Resolvin Conjugates in Tissue Regeneration in Human Tissues that Stimulate Proresolving Phagocyte Functions and Tissue Regeneration.",
+"year": "2018",
 "db": "pubmed",
 "id": "29571326"
 },
 {
 "authors": "Dalli J et al.",
-"year": "2016",
-"title": "Maresin conjugates in tissue regeneration biosynthesis enzymes in human macrophages.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Maresin conjugates in tissue regeneration biosynthesis enzymes in human macrophages.",
+"year": "2016",
 "db": "pubmed",
 "id": "27791009"
+}
+]
+},
+{
+"id": "A2",
+"label": "",
+"class": "Process",
+"box": [
+1073.0,
+223.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"17S-HpDHA"
+],
+"out": [
+"17S-HDHA"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Hong S et al.",
+"journal": "J Biol Chem",
+"title": "Novel docosatrienes and 17S-resolvins generated from docosahexaenoic acid in murine brain, human blood, and glial cells. Autacoids in anti-inflammation.",
+"year": "2003",
+"db": "pubmed",
+"id": "12590139"
+},
+{
+"authors": "Levy BD et al.",
+"year": "2007",
+"title": "Protectin D1 is generated in asthma and dampens airway inflammation and hyperresponsiveness.",
+"journal": "J Immunol",
+"db": "pubmed",
+"id": "17182589"
+},
+{
+"authors": "Mas E et al.",
+"journal": "Clin Chem",
+"title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation.",
+"year": "2012",
+"db": "pubmed",
+"id": "22912397"
+}
+]
+},
+{
+"id": "A11",
+"label": "",
+"class": "Process",
+"box": [
+173.0,
+423.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"4S-Hp,17S-HDHA"
+],
+"out": [
+"RvD6"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Holopainen M et al.",
+"year": "2019",
+"title": "Polyunsaturated fatty acids modify the extracellular vesicle membranes and increase the production of proresolving lipid mediators of human mesenchymal stromal cells.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"db": "pubmed",
+"id": "31207356"
+},
+{
+"authors": "Pham TL et al.",
+"year": "2020",
+"title": "Novel RvD6 stereoisomer induces corneal nerve regeneration and wound healing post-injury by modulating trigeminal transcriptomic signature.",
+"journal": "Sci Rep",
+"db": "pubmed",
+"id": "32165657"
+},
+{
+"authors": "Jové M et al.",
+"year": "2016",
+"title": "Human Aging Is a Metabolome-related Matter of Gender.",
+"journal": "J Gerontol A Biol Sci Med Sci",
+"db": "pubmed",
+"id": "26019184"
+}
+]
+},
+{
+"id": "A13",
+"label": "",
+"class": "Process",
+"box": [
+2423.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"17R-HDHA"
+],
+"out": [
+"AT-RvD3"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Dalli J et al.",
+"journal": "Chem Biol",
+"title": "Resolvin D3 and aspirin-triggered resolvin D3 are potent immunoresolvents.",
+"year": "2013",
+"db": "pubmed",
+"id": "23438748"
+},
+{
+"authors": "Arnardottir H et al.",
+"journal": "Mucosal Immunol",
+"title": "Human milk proresolving mediators stimulate resolution of acute inflammation.",
+"year": "2016",
+"db": "pubmed",
+"id": "26462421"
+},
+{
+"authors": "Winkler JW et al.",
+"year": "2013",
+"title": "Stereocontrolled total synthesis of the potent anti-inflammatory and pro-resolving lipid mediator resolvin D3 and its aspirin-triggered 17R-epimer.",
+"journal": "Org Lett",
+"db": "pubmed",
+"id": "23510485"
+}
+]
+},
+{
+"id": "A14a",
+"label": "",
+"class": "Process",
+"box": [
+923.0,
+923.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"RvD1"
+],
+"out": [
+"8-oxo-RvD1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sun YP et al.",
+"journal": "J Biol Chem",
+"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
+"year": "2007",
+"db": "pubmed",
+"id": "17244615"
+},
+{
+"authors": "Kang GJ et al.",
+"year": "2015",
+"title": "High-mobility group box 1 suppresses resolvin D1-induced phagocytosis via induction of resolvin D1-inactivating enzyme, 15-hydroxyprostaglandin dehydrogenase.",
+"journal": "Biochim Biophys Acta",
+"db": "pubmed",
+"id": "26170058"
+}
+]
+},
+{
+"id": "A14b",
+"label": "",
+"class": "Process",
+"box": [
+623.0,
+923.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"RvD1"
+],
+"out": [
+"17-oxo-RvD1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Sun YP et al.",
+"journal": "J Biol Chem",
+"title": "Resolvin D1 and its aspirin-triggered 17R epimer. Stereochemical assignments, anti-inflammatory properties, and enzymatic inactivation.",
+"year": "2007",
+"db": "pubmed",
+"id": "17244615"
+},
+{
+"authors": "Kang GJ et al.",
+"year": "2015",
+"title": "High-mobility group box 1 suppresses resolvin D1-induced phagocytosis via induction of resolvin D1-inactivating enzyme, 15-hydroxyprostaglandin dehydrogenase.",
+"journal": "Biochim Biophys Acta",
+"db": "pubmed",
+"id": "26170058"
 }
 ]
 },

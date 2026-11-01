@@ -4,7 +4,7 @@
 "label": "n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-471.0,
+615.0,
 15.0,
 40.0,
 40.0
@@ -52,7 +52,7 @@
 "label": "RvD5 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-471.0,
+615.0,
 415.0,
 40.0,
 40.0
@@ -92,7 +92,7 @@
 "label": "PD1 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-771.0,
+915.0,
 415.0,
 40.0,
 40.0
@@ -132,7 +132,7 @@
 "label": "MaR1 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-171.0,
+315.0,
 415.0,
 40.0,
 40.0
@@ -172,7 +172,7 @@
 "label": "13R-HDPA",
 "class": "SimpleChemical",
 "box": [
-1071.0,
+15.0,
 215.0,
 40.0,
 40.0
@@ -209,11 +209,51 @@
 ]
 },
 {
+"label": "RvD1 n-3 DPA",
+"class": "SimpleChemical",
+"box": [
+915.0,
+615.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(7S,8,17S)-trihydroxy-(15E,19Z)-docosa-9,11,13,15,19-pentaenoic acid"
+],
+[
+"Synonyms",
+"(7S,15E,17S,19Z)-7,8,17-trihydroxydocosa-9,11,13,15,19-pentaenoic acid; (7S,8,17S)-trihydroxy-(9,11,13,15E,19Z)-docosapentaenoic acid; 7,8,17-trihydroxy-omega3-docosapentaenoic acid; RvD1n-3 DPA; resolvin D1n-3 DPA"
+],
+[
+"Definition",
+"A docosanoid that is (15E,19Z)-docosa-9,11,13,15,19-pentaenoic acid carrying three hydroxy substituents at positions 7S, 8 and 17S. An intermediate of specialised proresolving mediators"
+],
+[
+"Formula",
+"C22H34O5"
+],
+[
+"ChEBI",
+"CHEBI:140271"
+],
+[
+"InChI",
+"InChI=1S/C22H34O5/c1-2-3-9-14-19(23)15-10-6-4-5-7-11-16-20(24)21(25)17-12-8-13-18-22(26)27/h3-7,9-11,15-16,19-21,23-25H,2,8,12-14,17-18H2,1H3,(H,26,27)/b6-4?,7-5?,9-3-,15-10+,16-11?/t19-,20?,21-/m0/s1"
+],
+[
+"InChIKey",
+"SWPCIZFPFUNPQW-AAZNDIRKSA-N"
+]
+]
+},
+{
 "id": "D1",
 "label": "",
 "class": "Process",
 "box": [
-479.0,
+623.0,
 123.0,
 24.0,
 24.0
@@ -233,33 +273,33 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2013",
-"title": "Novel n-3 immunoresolvents: structures and actions.",
 "journal": "Sci Rep",
+"title": "Novel n-3 immunoresolvents: structures and actions.",
+"year": "2013",
 "db": "pubmed",
 "id": "23736886"
 },
 {
 "authors": "Lei J et al.",
-"year": "2021",
-"title": "Dabigatran activates inflammation resolution by promoting fibrinogen-like protein 2 shedding and RvD5(n-3 DPA) production.",
 "journal": "Theranostics",
+"title": "Dabigatran activates inflammation resolution by promoting fibrinogen-like protein 2 shedding and RvD5(n-3 DPA) production.",
+"year": "2021",
 "db": "pubmed",
 "id": "33754059"
 },
 {
 "authors": "Pangopoulos MK et al.",
-"year": "2020",
-"title": "Enzymatic studies with 3-oxa n-3 DPA.",
 "journal": "Bioorg Chem",
+"title": "Enzymatic studies with 3-oxa n-3 DPA.",
+"year": "2020",
 "db": "pubmed",
 "id": "32062066"
 },
 {
 "authors": "Reinertsen AF et al.",
-"year": "2024",
-"title": "Biology and Total Synthesis of n-3 Docosapentaenoic Acid-Derived Specialized Pro-Resolving Mediators.",
 "journal": "Molecules",
+"title": "Biology and Total Synthesis of n-3 Docosapentaenoic Acid-Derived Specialized Pro-Resolving Mediators.",
+"year": "2024",
 "db": "pubmed",
 "id": "38930898"
 }
@@ -270,7 +310,7 @@
 "label": "",
 "class": "Process",
 "box": [
-479.0,
+623.0,
 323.0,
 24.0,
 24.0
@@ -291,41 +331,41 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2013",
-"title": "Novel n-3 immunoresolvents: structures and actions.",
 "journal": "Sci Rep",
+"title": "Novel n-3 immunoresolvents: structures and actions.",
+"year": "2013",
 "db": "pubmed",
 "id": "23736886"
 },
 {
 "authors": "Markworth JF et al.",
-"year": "2016",
-"title": "Divergent shifts in lipid mediator profile following supplementation with n-3 docosapentaenoic acid and eicosapentaenoic acid.",
 "journal": "FASEB J",
+"title": "Divergent shifts in lipid mediator profile following supplementation with n-3 docosapentaenoic acid and eicosapentaenoic acid.",
+"year": "2016",
 "db": "pubmed",
 "id": "27461565"
 },
 {
 "authors": "Colas RA et al.",
-"year": "2018",
-"title": "Impaired Production and Diurnal Regulation of Vascular RvD(n-3 DPA) Increase Systemic Inflammation and Cardiovascular Disease.",
 "journal": "Circ Res",
+"title": "Impaired Production and Diurnal Regulation of Vascular RvD(n-3 DPA) Increase Systemic Inflammation and Cardiovascular Disease.",
+"year": "2018",
 "db": "pubmed",
 "id": "29437834"
 },
 {
 "authors": "Ervik K et al.",
-"year": "2023",
-"title": "Stereoselective Synthesis, Pro-resolution, and Anti-inflammatory Actions of RvD5(n-3 DPA).",
 "journal": "J Nat Prod",
+"title": "Stereoselective Synthesis, Pro-resolution, and Anti-inflammatory Actions of RvD5(n-3 DPA).",
+"year": "2023",
 "db": "pubmed",
 "id": "37879110"
 },
 {
 "authors": "Flak MB et al.",
-"year": "2020",
-"title": "GPR101 mediates the pro-resolving actions of RvD5n-3 DPA in arthritis and infections.",
 "journal": "J Clin Invest",
+"title": "GPR101 mediates the pro-resolving actions of RvD5n-3 DPA in arthritis and infections.",
+"year": "2020",
 "db": "pubmed",
 "id": "31793912"
 }
@@ -336,7 +376,7 @@
 "label": "",
 "class": "Process",
 "box": [
-779.0,
+923.0,
 323.0,
 24.0,
 24.0
@@ -356,33 +396,33 @@
 "references": [
 {
 "authors": "Aursnes M et al.",
-"year": "2014",
-"title": "Total synthesis of the lipid mediator PD1n-3 DPA: configurational assignments and anti-inflammatory and pro-resolving actions.",
 "journal": "J Nat Prod",
+"title": "Total synthesis of the lipid mediator PD1n-3 DPA: configurational assignments and anti-inflammatory and pro-resolving actions.",
+"year": "2014",
 "db": "pubmed",
 "id": "24576195"
 },
 {
 "authors": "Dalli J et al.",
-"year": "2013",
-"title": "Novel n-3 immunoresolvents: structures and actions.",
 "journal": "Sci Rep",
+"title": "Novel n-3 immunoresolvents: structures and actions.",
+"year": "2013",
 "db": "pubmed",
 "id": "23736886"
 },
 {
 "authors": "Tungen JE et al.",
-"year": "2020",
-"title": "The First Total Synthesis of the Lipid Mediator PD2(n-3 DPA).",
 "journal": "J Nat Prod",
+"title": "The First Total Synthesis of the Lipid Mediator PD2(n-3 DPA).",
+"year": "2020",
 "db": "pubmed",
 "id": "32543839"
 },
 {
 "authors": "Frigerio F et al.",
-"year": "2018",
-"title": "n-3 Docosapentaenoic acid-derived protectin D1 promotes resolution of neuroinflammation and arrests epileptogenesis.",
 "journal": "Brain",
+"title": "n-3 Docosapentaenoic acid-derived protectin D1 promotes resolution of neuroinflammation and arrests epileptogenesis.",
+"year": "2018",
 "db": "pubmed",
 "id": "30307467"
 }
@@ -393,7 +433,7 @@
 "label": "",
 "class": "Process",
 "box": [
-179.0,
+323.0,
 123.0,
 24.0,
 24.0
@@ -413,25 +453,25 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2013",
-"title": "Novel n-3 immunoresolvents: structures and actions.",
 "journal": "Sci Rep",
+"title": "Novel n-3 immunoresolvents: structures and actions.",
+"year": "2013",
 "db": "pubmed",
 "id": "23736886"
 },
 {
 "authors": "Pangopoulos MK et al.",
-"year": "2020",
-"title": "Enzymatic studies with 3-oxa n-3 DPA.",
 "journal": "Bioorg Chem",
+"title": "Enzymatic studies with 3-oxa n-3 DPA.",
+"year": "2020",
 "db": "pubmed",
 "id": "32062066"
 },
 {
 "authors": "Kim TH et al.",
-"year": "2021",
-"title": "Biocatalytic synthesis of dihydroxy fatty acids as lipid mediators from polyunsaturated fatty acids by double dioxygenation of the microbial 12S-lipoxygenase.",
 "journal": "Biotechnol Bioeng",
+"title": "Biocatalytic synthesis of dihydroxy fatty acids as lipid mediators from polyunsaturated fatty acids by double dioxygenation of the microbial 12S-lipoxygenase.",
+"year": "2021",
 "db": "pubmed",
 "id": "33990936"
 }
@@ -442,7 +482,7 @@
 "label": "",
 "class": "Process",
 "box": [
-179.0,
+323.0,
 323.0,
 24.0,
 24.0
@@ -462,33 +502,33 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2013",
-"title": "Novel n-3 immunoresolvents: structures and actions.",
 "journal": "Sci Rep",
+"title": "Novel n-3 immunoresolvents: structures and actions.",
+"year": "2013",
 "db": "pubmed",
 "id": "23736886"
 },
 {
 "authors": "Markworth JF et al.",
-"year": "2016",
-"title": "Divergent shifts in lipid mediator profile following supplementation with n-3 docosapentaenoic acid and eicosapentaenoic acid.",
 "journal": "FASEB J",
+"title": "Divergent shifts in lipid mediator profile following supplementation with n-3 docosapentaenoic acid and eicosapentaenoic acid.",
+"year": "2016",
 "db": "pubmed",
 "id": "27461565"
 },
 {
 "authors": "Sønderskov J et al.",
-"year": "2020",
-"title": "Stereoselective synthesis of MaR2(n-3 DPA).",
 "journal": "Tetrahedron Lett",
+"title": "Stereoselective synthesis of MaR2(n-3 DPA).",
+"year": "2020",
 "db": "pubmed",
 "id": "33273748"
 },
 {
 "authors": "Hartling I et al.",
-"year": "2021",
-"title": "Quantitative profiling of inflammatory and pro-resolving lipid mediators in human adolescents and mouse plasma using UHPLC-MS/MS.",
 "journal": "Clin Chem Lab Med",
+"title": "Quantitative profiling of inflammatory and pro-resolving lipid mediators in human adolescents and mouse plasma using UHPLC-MS/MS.",
+"year": "2021",
 "db": "pubmed",
 "id": "34243224"
 }
@@ -499,7 +539,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1079.0,
+23.0,
 123.0,
 24.0,
 24.0
@@ -519,25 +559,25 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2015",
-"title": "Elucidation of novel 13-series resolvins that increase with atorvastatin and clear infections.",
 "journal": "Nat Med",
+"title": "Elucidation of novel 13-series resolvins that increase with atorvastatin and clear infections.",
+"year": "2015",
 "db": "pubmed",
 "id": "26236990"
 },
 {
 "authors": "Walker ME et al.",
-"year": "2017",
-"title": "13-Series resolvins mediate the leukocyte-platelet actions of atorvastatin and pravastatin in inflammatory arthritis.",
 "journal": "FASEB J",
+"title": "13-Series resolvins mediate the leukocyte-platelet actions of atorvastatin and pravastatin in inflammatory arthritis.",
+"year": "2017",
 "db": "pubmed",
 "id": "28465323"
 },
 {
 "authors": "Pangopoulos MK et al.",
-"year": "2020",
-"title": "Enzymatic studies with 3-oxa n-3 DPA.",
 "journal": "Bioorg Chem",
+"title": "Enzymatic studies with 3-oxa n-3 DPA.",
+"year": "2020",
 "db": "pubmed",
 "id": "32062066"
 }
@@ -548,7 +588,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1079.0,
+23.0,
 323.0,
 24.0,
 24.0
@@ -568,35 +608,233 @@
 "references": [
 {
 "authors": "Dalli J et al.",
-"year": "2015",
-"title": "Elucidation of novel 13-series resolvins that increase with atorvastatin and clear infections.",
 "journal": "Nat Med",
+"title": "Elucidation of novel 13-series resolvins that increase with atorvastatin and clear infections.",
+"year": "2015",
 "db": "pubmed",
 "id": "26236990"
 },
 {
 "authors": "Colas RA et al.",
-"year": "2019",
-"title": "Proresolving mediator profiles in cerebrospinal fluid are linked with disease severity and outcome in adults with tuberculous meningitis.",
 "journal": "FASEB J",
+"title": "Proresolving mediator profiles in cerebrospinal fluid are linked with disease severity and outcome in adults with tuberculous meningitis.",
+"year": "2019",
 "db": "pubmed",
 "id": "31500466"
 },
 {
 "authors": "Walker ME et al.",
-"year": "2024",
-"title": "Resolvin T4 enhances macrophage cholesterol efflux to reduce vascular disease.",
 "journal": "Nat Commun",
+"title": "Resolvin T4 enhances macrophage cholesterol efflux to reduce vascular disease.",
+"year": "2024",
 "db": "pubmed",
 "id": "38316794"
 },
 {
 "authors": "Chiang N et al.",
-"year": "2022",
-"title": "Resolvin T-series reduce neutrophil extracellular traps.",
 "journal": "Blood",
+"title": "Resolvin T-series reduce neutrophil extracellular traps.",
+"year": "2022",
 "db": "pubmed",
 "id": "34814186"
+}
+]
+},
+{
+"id": "D3a",
+"label": "",
+"class": "Process",
+"box": [
+923.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"17-HpDPA"
+],
+"out": [
+"RvD1 n-3 DPA"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Dalli J et al.",
+"journal": "Sci Rep",
+"title": "Novel n-3 immunoresolvents: structures and actions.",
+"year": "2013",
+"db": "pubmed",
+"id": "23736886"
+},
+{
+"authors": "Reinertsen AF et al.",
+"journal": "Molecules",
+"title": "Biology and Total Synthesis of n-3 Docosapentaenoic Acid-Derived Specialized Pro-Resolving Mediators.",
+"year": "2024",
+"db": "pubmed",
+"id": "38930898"
+},
+{
+"authors": "Kahnt AS et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Formation of lipoxins and resolvins in human leukocytes.",
+"year": "2023",
+"db": "pubmed",
+"id": "36878381"
+}
+]
+},
+{
+"id": "D3b",
+"label": "",
+"class": "Process",
+"box": [
+1223.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"17-HpDPA"
+],
+"out": [
+"RvD2 n-3 DPA"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Dalli J et al.",
+"journal": "Sci Rep",
+"title": "Novel n-3 immunoresolvents: structures and actions.",
+"year": "2013",
+"db": "pubmed",
+"id": "23736886"
+},
+{
+"authors": "Reinertsen AF et al.",
+"journal": "Molecules",
+"title": "Biology and Total Synthesis of n-3 Docosapentaenoic Acid-Derived Specialized Pro-Resolving Mediators.",
+"year": "2024",
+"db": "pubmed",
+"id": "38930898"
+},
+{
+"authors": "Kahnt AS et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Formation of lipoxins and resolvins in human leukocytes.",
+"year": "2023",
+"db": "pubmed",
+"id": "36878381"
+}
+]
+},
+{
+"id": "D10a",
+"label": "",
+"class": "Process",
+"box": [
+1523.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"n-3 DPA"
+],
+"out": [
+"n-3 DPA epoxides"
+],
+"by": [
+"CYP2C19",
+"CYP2C9",
+"CYP1A2"
+]
+},
+"references": [
+{
+"authors": "Markworth JF et al.",
+"journal": "FASEB J",
+"title": "Divergent shifts in lipid mediator profile following supplementation with n-3 docosapentaenoic acid and eicosapentaenoic acid.",
+"year": "2016",
+"db": "pubmed",
+"id": "27461565"
+},
+{
+"authors": "Fer M et al.",
+"journal": "Arch Biochem Biophys",
+"title": "Metabolism of eicosapentaenoic and docosahexaenoic acids by recombinant human cytochromes P450.",
+"year": "2008",
+"db": "pubmed",
+"id": "18206980"
+},
+{
+"authors": "Harmon SD et al.",
+"journal": "Prostaglandins Leukot Essent Fatty Acids",
+"title": "Oxygenation of omega-3 fatty acids by human cytochrome P450 4F3B: effect on 20-hydroxyeicosatetraenoic acid production.",
+"year": "2006",
+"db": "pubmed",
+"id": "16820285"
+}
+]
+},
+{
+"id": "D10b",
+"label": "",
+"class": "Process",
+"box": [
+1523.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"n-3 DPA epoxides"
+],
+"out": [
+"n-3 DPA diols"
+],
+"by": [
+"EPHX2"
+]
+},
+"references": [
+{
+"authors": "Markworth JF et al.",
+"journal": "FASEB J",
+"title": "Divergent shifts in lipid mediator profile following supplementation with n-3 docosapentaenoic acid and eicosapentaenoic acid.",
+"year": "2016",
+"db": "pubmed",
+"id": "27461565"
+},
+{
+"authors": "Fer M et al.",
+"journal": "Arch Biochem Biophys",
+"title": "Metabolism of eicosapentaenoic and docosahexaenoic acids by recombinant human cytochromes P450.",
+"year": "2008",
+"db": "pubmed",
+"id": "18206980"
+},
+{
+"authors": "Harmon SD et al.",
+"journal": "Prostaglandins Leukot Essent Fatty Acids",
+"title": "Oxygenation of omega-3 fatty acids by human cytochrome P450 4F3B: effect on 20-hydroxyeicosatetraenoic acid production.",
+"year": "2006",
+"db": "pubmed",
+"id": "16820285"
 }
 ]
 },
@@ -604,7 +842,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-532.0,
+676.0,
 115.0,
 80.0,
 40.0
@@ -660,7 +898,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-370.0,
+514.0,
 315.0,
 80.0,
 40.0
@@ -716,7 +954,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-601.0,
+745.0,
 315.0,
 80.0,
 40.0
@@ -769,10 +1007,122 @@
 ]
 },
 {
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+976.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+1276.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-15.0,
+159.0,
 215.0,
 80.0,
 40.0
@@ -828,7 +1178,7 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-1132.0,
+76.0,
 115.0,
 80.0,
 40.0
@@ -884,7 +1234,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-1132.0,
+76.0,
 315.0,
 80.0,
 40.0
@@ -933,6 +1283,234 @@
 [
 "UniProt",
 "P09917"
+]
+]
+},
+{
+"label": "CYP2C19",
+"class": "Macromolecule",
+"box": [
+1414.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2C19"
+],
+[
+"Alternative names",
+"(R)-limonene 6-monooxygenase; (S)-limonene 6-monooxygenase; (S)-limonene 7-monooxygenase; CYPIIC17; CYPIIC19; Cytochrome P450-11A; Cytochrome P450-254C; Fenbendazole monooxygenase (4'-hydroxylating); Mephenytoin 4-hydroxylase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of polyunsaturated fatty acids (PUFA). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2621"
+],
+[
+"HGNC symbol",
+"CYP2C19"
+],
+[
+"Previous symbols",
+"CYP2C"
+],
+[
+"Alias symbols",
+"P450IIC19, CPCJ"
+],
+[
+"Entrez",
+"1557"
+],
+[
+"Ensembl",
+"ENSG00000165841"
+],
+[
+"RefSeq",
+"NM_000769"
+],
+[
+"UniProt",
+"P33261"
+]
+]
+},
+{
+"label": "CYP2C9",
+"class": "Macromolecule",
+"box": [
+1576.0,
+80.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2C9"
+],
+[
+"Alternative names",
+"(R)-limonene 6-monooxygenase; (S)-limonene 6-monooxygenase; (S)-limonene 7-monooxygenase; CYPIIC9; Cholesterol 25-hydroxylase; Cytochrome P-450MP; Cytochrome P450 MP-4; Cytochrome P450 MP-8; Cytochrome P450 PB-1; S-mephenytoin 4-hydroxylase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and steroids. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2623"
+],
+[
+"HGNC symbol",
+"CYP2C9"
+],
+[
+"Previous symbols",
+"CYP2C10"
+],
+[
+"Alias symbols",
+"P450IIC9"
+],
+[
+"Entrez",
+"1559"
+],
+[
+"Ensembl",
+"ENSG00000138109"
+],
+[
+"RefSeq",
+"NM_000771"
+],
+[
+"UniProt",
+"P11712"
+]
+]
+},
+{
+"label": "CYP1A2",
+"class": "Macromolecule",
+"box": [
+1576.0,
+150.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A2"
+],
+[
+"Alternative names",
+"CYPIA2; Cholesterol 25-hydroxylase; Cytochrome P(3)450; Cytochrome P450 4; Cytochrome P450-P3; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2596"
+],
+[
+"HGNC symbol",
+"CYP1A2"
+],
+[
+"Alias symbols",
+"P3-450, CP12"
+],
+[
+"Entrez",
+"1544"
+],
+[
+"Ensembl",
+"ENSG00000140505"
+],
+[
+"RefSeq",
+"NM_000761"
+],
+[
+"UniProt",
+"P05177"
+]
+]
+},
+{
+"label": "EPHX2",
+"class": "Macromolecule",
+"box": [
+1576.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Bifunctional epoxide hydrolase 2"
+],
+[
+"Function",
+"Bifunctional enzyme. The C-terminal domain has epoxide hydrolase activity and acts on epoxides (alkene oxides, oxiranes) and arene oxides."
+],
+[
+"Location",
+"Cytoplasm, Peroxisome"
+],
+[
+"HGNC",
+"HGNC:3402"
+],
+[
+"HGNC symbol",
+"EPHX2"
+],
+[
+"Alias symbols",
+"ABHD20, sEH"
+],
+[
+"Entrez",
+"2053"
+],
+[
+"Ensembl",
+"ENSG00000120915"
+],
+[
+"RefSeq",
+"NM_001979"
+],
+[
+"UniProt",
+"P34913"
 ]
 ]
 }
