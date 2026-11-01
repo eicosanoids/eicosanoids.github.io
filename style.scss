@@ -312,7 +312,7 @@ nav .navdd-menu {
   }
   @include mobile { right: auto; left: 0; }
 }
-nav a.active, nav .navdd.active summary { font-weight: normal; } // the current page not bold (user, 2026-11-01)
+nav a.active, nav .navdd.active summary { font-weight: 300; } // the current page not bold (user, 2026-11-01)
 
 //
 // .main
