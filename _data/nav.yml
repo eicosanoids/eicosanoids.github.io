@@ -10,3 +10,4 @@
     - {label: "Overview", url: "/branch/"}
     - {label: "Layers", url: "/branch/layers/"}
     - {label: "List", url: "/branch/list/"}
+- {label: "Source structure", url: "/source/"}
