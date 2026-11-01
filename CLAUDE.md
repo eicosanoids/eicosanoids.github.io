@@ -24,7 +24,7 @@ comments, commit messages): the maps are built in "a private repository", whose 
 ## Rules
 
 - Push to `main`; the site is how the user sees the work.
-- The site is kept out of search engines for now (noindex on every page, `_config.yml` defaults).
+- The site is kept out of search engines for now (user, 2026-11-01: hidden; noindex on every page, `_config.yml` defaults).
 - Page text as on the Metabolism Regulation map pages: the biology for a reader, no semicolons, no curation notes. The
   Metabolism Regulation Atlas is named MRegAtlas, and links to it are absolute.
 - A push that does not show: look at "pages build and deployment" in Actions; when the deploy step fails with "due to
