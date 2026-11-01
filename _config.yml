@@ -1,0 +1,40 @@
+# The Eicosanoid Atlas: maps of eicosanoids and related lipid mediators, their production, receptors and regulation.
+name: Eicosanoids
+description: Production, receptors, regulation
+avatar: /images/logo.svg
+footer-links:
+  github: eicosanoids
+google_analytics:
+url: https://eicosanoids.github.io
+baseurl: ""
+
+collections:
+  # one file per map in _maps/, published as /data/<name>/ (JSON), read by the atlas page when a map is chosen
+  maps:
+    output: true
+    permalink: /data/:name/
+
+defaults:
+  # the whole site is kept out of search engines for now (noindex in _includes/meta.html), as it was under the
+  # Metabolism Regulation site
+  - scope:
+      path: ""
+    values:
+      noindex: true
+  - scope:
+      type: maps
+    values:
+      layout: map-data
+
+permalink: /:title/
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+sass:
+  style: :expanded
+exclude:
+  - README.md
+  - CLAUDE.md
+  - VERSION

@@ -1,0 +1,12 @@
+# The menu. An entry with items is a drop-down, opened by a click (so it works on phones).
+- {label: "Atlas", url: "/"}
+- label: "By enzyme"
+  items:
+    - {label: "Overview", url: "/enzyme/"}
+    - {label: "Layers", url: "/enzyme/layers/"}
+    - {label: "List", url: "/enzyme/list/"}
+- label: "By branch"
+  items:
+    - {label: "Overview", url: "/branch/"}
+    - {label: "Layers", url: "/branch/layers/"}
+    - {label: "List", url: "/branch/list/"}
