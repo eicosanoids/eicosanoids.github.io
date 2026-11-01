@@ -1,0 +1,939 @@
+{
+"nodes": [
+{
+"label": "17S-HpDHA",
+"class": "SimpleChemical",
+"box": [
+416.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(4Z,7Z,10Z,13Z,15E,17S,19Z)-17-hydroperoxydocosahexaenoic acid"
+],
+[
+"Synonyms",
+"(17S)-HPDHA; (17S)-HPDoHE; (17S)-hydroperoxy-(4Z,7Z,10Z,13Z,15E,19Z)-docosahexaenoic acid; (4Z,7Z,10Z,13Z,15E,17S,19Z)-17-hydroperoxydocosa-4,7,10,13,15,19-hexaenoic acid; (4Z,7Z,10Z,13Z,15E,17S,19Z)-hydroperoxydocosahexaenoic acid; 17S-HpDHA; 17S-hydroperoxy-4Z,7Z,10Z,13Z,15E,19Z-docosahexaenoic acid"
+],
+[
+"Definition",
+"A docosanoid that is (4Z,7Z,10Z,13Z,15E,19Z)-docosahexaenoic acid carrying a hydroperoxy substituent at position 17S."
+],
+[
+"Formula",
+"C22H32O4"
+],
+[
+"ChEBI",
+"CHEBI:136113"
+],
+[
+"InChI",
+"InChI=1S/C22H32O4/c1-2-3-15-18-21(26-25)19-16-13-11-9-7-5-4-6-8-10-12-14-17-20-22(23)24/h3,5-8,11-16,19,21,25H,2,4,9-10,17-18,20H2,1H3,(H,23,24)/b7-5-,8-6-,13-11-,14-12-,15-3-,19-16+/t21-/m0/s1"
+],
+[
+"InChIKey",
+"BNHQALRBDJVUQB-YTQNUIGOSA-N"
+]
+]
+},
+{
+"label": "17R-HpDHA",
+"class": "SimpleChemical",
+"box": [
+1016.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(4Z,7Z,10Z,13Z,15E,17R,19Z)-17-hydroperoxydocosahexaenoic acid"
+],
+[
+"Synonyms",
+"(17R)-HpDHA; (4Z,7Z,10Z,13Z,15E,17R,19Z)-17-hydroperoxydocosa-4,7,10,13,15,19-hexaenoic acid; 17(R)-Hp-DHA; 17(R)-HpDHA; 17R-HpDHA; 17R-hydroperoxy-(4Z,7Z,10Z,13Z,15E,19Z)-docosahexaenoic acid"
+],
+[
+"Definition",
+"A docosanoid that is (4Z,7Z,10Z,13Z,15E,19Z)-docosahexaenoic acid carrying a hydroperoxy substituent at position 17R."
+],
+[
+"Formula",
+"C22H32O4"
+],
+[
+"ChEBI",
+"CHEBI:138590"
+],
+[
+"InChI",
+"InChI=1S/C22H32O4/c1-2-3-15-18-21(26-25)19-16-13-11-9-7-5-4-6-8-10-12-14-17-20-22(23)24/h3,5-8,11-16,19,21,25H,2,4,9-10,17-18,20H2,1H3,(H,23,24)/b7-5-,8-6-,13-11-,14-12-,15-3-,19-16+/t21-/m1/s1"
+],
+[
+"InChIKey",
+"BNHQALRBDJVUQB-NGHKTGSUSA-N"
+]
+]
+},
+{
+"label": "16S,17S-epoxy-DHA",
+"class": "SimpleChemical",
+"box": [
+416.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(16S,17S)-epoxy-(4Z,7Z,10Z,12E,14E,19Z)-docosahexaenoic acid"
+],
+[
+"Synonyms",
+"(16S,17S)-epoxydocosahexaenoic acid; (16S,17S)-epoxyprotectin; (4Z,7Z,10Z,12E,14E)-15-{(2S,3S)-3-[(2Z)-pent-2-en-1-yl]oxiran-2-yl}pentadeca-4,7,10,12,14-pentaenoic acid"
+],
+[
+"Definition",
+"An epoxy fatty acid consisting of (4Z,7Z,10Z,12E,14E,19Z)-docosahexaenoic acid having an epoxy group located at the 16,17-position. An intermediate lipid in specialized proresolving mediators."
+],
+[
+"Formula",
+"C22H30O3"
+],
+[
+"ChEBI",
+"CHEBI:140225"
+],
+[
+"InChI",
+"InChI=1S/C22H30O3/c1-2-3-14-17-20-21(25-20)18-15-12-10-8-6-4-5-7-9-11-13-16-19-22(23)24/h3,5-8,10-15,18,20-21H,2,4,9,16-17,19H2,1H3,(H,23,24)/b7-5-,8-6-,12-10+,13-11-,14-3-,18-15+/t20-,21-/m0/s1"
+],
+[
+"InChIKey",
+"XLYRHVKBJYDBOS-JTFGAIIUSA-N"
+]
+]
+},
+{
+"label": "PD1",
+"class": "SimpleChemical",
+"box": [
+416.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"protectin D1"
+],
+[
+"Synonyms",
+"(4Z,7Z,10R,11E,13E,15Z,17S,19Z)-10,17-dihydroxydocosa-4,7,11,13,15,19-hexaenoic acid; (4Z,7Z,10R,11E,13E,15Z,17S,19Z)-10,17-dihydroxydocosahexaenoic acid; (N)PD1; (neuro)protectin D1; 10(R),17(S)-dihydroxydocosa-4Z,7Z,11E,13E,15Z,19Z-hexaenoic acid; NPD1; PD1; neuroprotectin D1"
+],
+[
+"Definition",
+"A dihydroxydocosahexaenoic acid that is (4Z,7Z,11E,13E,15Z,19Z)-docosahexaenoic acid in which the two hydroxy substituents are located at positions 10 and 17 (the 10R,17S-stereoisomer). Protectin D1 is one of the specialised proresolving mediators. When produced in neural tissues, it is called neuroprotectin D1"
+],
+[
+"Formula",
+"C22H32O4"
+],
+[
+"ChEBI",
+"CHEBI:138655"
+],
+[
+"HMDB",
+"HMDB0003689"
+],
+[
+"InChI",
+"InChI=1S/C22H32O4/c1-2-3-10-15-20(23)17-12-8-9-13-18-21(24)16-11-6-4-5-7-14-19-22(25)26/h3,5-13,17-18,20-21,23-24H,2,4,14-16,19H2,1H3,(H,25,26)/b7-5-,9-8+,10-3-,11-6-,17-12-,18-13+/t20-,21+/m0/s1"
+],
+[
+"InChIKey",
+"CRDZYJSQHCXHEG-SFVBTVKNSA-N"
+]
+]
+},
+{
+"label": "PDX",
+"class": "SimpleChemical",
+"box": [
+116.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(4Z,7Z,10S,11E,13Z,15E,17S,19Z)-10,17-dihydroxydocosahexaenoic acid"
+],
+[
+"Synonyms",
+"(10S,17S)-DiHDHA; (4Z,7Z,10S,11E,13Z,15E,17S,19Z)-10,17-dihydroxydocosa-4,7,11,13,15,19-hexaenoic acid; 10(S),17(S)-DiHDHA; 10(S),17(S)-dihydroxydocosa-4Z,7Z,11E,13Z,15E,19Z-hexaenoic acid; 10S,17S-DiHDoHE; 10S,17S-diHDHA; 10S,17S-dihydroxy-4Z,7Z,11E,13Z,15E,19Z-docosahexaenoic acid; PDX; protectin DX"
+],
+[
+"Definition",
+"A dihydroxydocosahexaenoic acid that is  (4Z,7Z,11E,13Z,15E,19Z)-docosahexaenoic acid in which the two hydroxy substituents are located at positions 10 and 17 (the 10S,17S-stereoisomer). A natural isomer of protectin D1, one of the specialised proresolving mediators."
+],
+[
+"Formula",
+"C22H32O4"
+],
+[
+"ChEBI",
+"CHEBI:138653"
+],
+[
+"InChI",
+"InChI=1S/C22H32O4/c1-2-3-10-15-20(23)17-12-8-9-13-18-21(24)16-11-6-4-5-7-14-19-22(25)26/h3,5-13,17-18,20-21,23-24H,2,4,14-16,19H2,1H3,(H,25,26)/b7-5-,9-8-,10-3-,11-6-,17-12+,18-13+/t20-,21-/m0/s1"
+],
+[
+"InChIKey",
+"CRDZYJSQHCXHEG-XLBFCUQGSA-N"
+]
+]
+},
+{
+"label": "PCTR1",
+"class": "SimpleChemical",
+"box": [
+716.0,
+615.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"16(S)-glutathionyl-17(R)-hydroxy-(4Z,7Z,10,12,14,19Z)-docosahexaenoic acid"
+],
+[
+"Synonyms",
+"16-glutathionyl-17-hydroxy-4Z,7Z,10,12,14,19Z-docosahexaenoic acid; L-gamma-glutamyl-S-[(3Z,6R,7S,15Z,18Z)-21-carboxy-6-hydroxyhenicosa-3,8,10,12,15,18-hexaen-7-yl]-L-cysteinylglycine; PCTR1; protectin conjugate in tissue regeneration 1"
+],
+[
+"Definition",
+"A docosanoid that is 17(R)-hydroxy-(4Z,7Z,10,12,14,19Z)-docosahexaenoic acid in which a glutathionyl group is attached at position 16S via a sulfide linkage. An intermediate of specialised proresolving mediators."
+],
+[
+"Formula",
+"C32H47N3O9S"
+],
+[
+"ChEBI",
+"CHEBI:140262"
+],
+[
+"InChI",
+"InChI=1S/C32H47N3O9S/c1-2-3-14-17-26(36)27(18-15-12-10-8-6-4-5-7-9-11-13-16-19-29(38)39)45-23-25(31(42)34-22-30(40)41)35-28(37)21-20-24(33)32(43)44/h3,5-8,10-15,18,24-27,36H,2,4,9,16-17,19-23,33H2,1H3,(H,34,42)(H,35,37)(H,38,39)(H,40,41)(H,43,44)/b7-5-,8-6?,12-10?,13-11-,14-3-,18-15?/t24-,25-,26+,27-/m0/s1"
+],
+[
+"InChIKey",
+"RYALZZFZNGJXAF-AKGNYEKSSA-N"
+]
+]
+},
+{
+"label": "AT-PD1",
+"class": "SimpleChemical",
+"box": [
+1016.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"aspirin-triggered protectin D1"
+],
+[
+"Synonyms",
+"(4Z,7Z,10R,11E,13E,15Z,17R,19Z)-10,17-dihydroxydocosa-4,7,11,13,15,19-hexaenoic acid; (4Z,7Z,10R,11E,13E,15Z,17R,19Z)-10,17-dihydroxydocosahexaenoic acid; 10(R),17(R)-dihydroxydocosa-4Z,7Z,11E,13E,15Z,19Z-hexaenoic acid; AT-(NPD1/PD1); AT-NPD1; AT-PD1; aspirin-triggered neuroprotectin D1"
+],
+[
+"Definition",
+"A dihydroxydocosahexaenoic acid that is (4Z,7Z,11E,13E,15Z,19Z)-docosahexaenoic acid in which the two hydroxy substituents are located at positions 10 and 17 (the 10R,17R-stereoisomer)."
+],
+[
+"Formula",
+"C22H32O4"
+],
+[
+"ChEBI",
+"CHEBI:140202"
+],
+[
+"InChI",
+"InChI=1S/C22H32O4/c1-2-3-10-15-20(23)17-12-8-9-13-18-21(24)16-11-6-4-5-7-14-19-22(25)26/h3,5-13,17-18,20-21,23-24H,2,4,14-16,19H2,1H3,(H,25,26)/b7-5-,9-8+,10-3-,11-6-,17-12-,18-13+/t20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"CRDZYJSQHCXHEG-HBMALMRFSA-N"
+]
+]
+},
+{
+"id": "P1",
+"label": "",
+"class": "Process",
+"box": [
+424.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"17S-HpDHA"
+],
+"out": [
+"16S,17S-epoxy-DHA"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Tsai WC et al.",
+"year": "2021",
+"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
+"journal": "Biochemistry",
+"db": "pubmed",
+"id": "34029049"
+},
+{
+"authors": "Serhan CN et al.",
+"year": "2006",
+"title": "Anti-inflammatory actions of neuroprotectin D1/protectin D1 and its natural stereoisomers: assignments of dihydroxy-containing docosatrienes.",
+"journal": "J Immunol",
+"db": "pubmed",
+"id": "16424216"
+},
+{
+"authors": "Hong S et al.",
+"year": "2003",
+"title": "Novel docosatrienes and 17S-resolvins generated from docosahexaenoic acid in murine brain, human blood, and glial cells. Autacoids in anti-inflammation.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "12590139"
+}
+]
+},
+{
+"id": "P2",
+"label": "",
+"class": "Process",
+"box": [
+424.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"16S,17S-epoxy-DHA"
+],
+"out": [
+"PD1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Serhan CN et al.",
+"year": "2006",
+"title": "Anti-inflammatory actions of neuroprotectin D1/protectin D1 and its natural stereoisomers: assignments of dihydroxy-containing docosatrienes.",
+"journal": "J Immunol",
+"db": "pubmed",
+"id": "16424216"
+},
+{
+"authors": "Mukherjee PK et al.",
+"year": "2004",
+"title": "Neuroprotectin D1: a docosahexaenoic acid-derived docosatriene protects human retinal pigment epithelial cells from oxidative stress.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "15152078"
+},
+{
+"authors": "Lukiw WJ et al.",
+"year": "2005",
+"title": "A role for docosahexaenoic acid-derived neuroprotectin D1 in neural cell survival and Alzheimer disease.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "16151530"
+},
+{
+"authors": "Tsai WC et al.",
+"year": "2021",
+"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
+"journal": "Biochemistry",
+"db": "pubmed",
+"id": "34029049"
+}
+]
+},
+{
+"id": "P3",
+"label": "",
+"class": "Process",
+"box": [
+124.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"17S-HpDHA"
+],
+"out": [
+"PDX"
+],
+"by": [
+"ALOX15",
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Serhan CN et al.",
+"year": "2006",
+"title": "Anti-inflammatory actions of neuroprotectin D1/protectin D1 and its natural stereoisomers: assignments of dihydroxy-containing docosatrienes.",
+"journal": "J Immunol",
+"db": "pubmed",
+"id": "16424216"
+},
+{
+"authors": "Tsai WC et al.",
+"year": "2021",
+"title": "In Vitro Biosynthetic Pathway Investigations of Neuroprotectin D1 (NPD1) and Protectin DX (PDX) by Human 12-Lipoxygenase, 15-Lipoxygenase-1, and 15-Lipoxygenase-2.",
+"journal": "Biochemistry",
+"db": "pubmed",
+"id": "34029049"
+},
+{
+"authors": "Chen P et al.",
+"year": "2009",
+"title": "Full characterization of PDX, a neuroprotectin/protectin D1 isomer, which inhibits blood platelet aggregation.",
+"journal": "FEBS Lett",
+"db": "pubmed",
+"id": "19818771"
+},
+{
+"authors": "Butovich IA",
+"year": "2005",
+"title": "On the structure and synthesis of neuroprotectin D1, a novel anti-inflammatory compound of the docosahexaenoic acid family.",
+"journal": "J Lipid Res",
+"db": "pubmed",
+"id": "16150835"
+}
+]
+},
+{
+"id": "P6",
+"label": "",
+"class": "Process",
+"box": [
+1024.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"17R-HpDHA"
+],
+"out": [
+"AT-PD1"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Serhan CN et al.",
+"year": "2011",
+"title": "Novel proresolving aspirin-triggered DHA pathway.",
+"journal": "Chem Biol",
+"db": "pubmed",
+"id": "21867913"
+},
+{
+"authors": "Dalli J et al.",
+"year": "2017",
+"title": "Human Sepsis Eicosanoid and Proresolving Lipid Mediator Temporal Profiles: Correlations With Survival and Clinical Outcomes.",
+"journal": "Crit Care Med",
+"db": "pubmed",
+"id": "27632672"
+},
+{
+"authors": "Serhan CN et al.",
+"year": "2002",
+"title": "Resolvins: a family of bioactive products of omega-3 fatty acid transformation circuits initiated by aspirin treatment that counter proinflammation signals.",
+"journal": "J Exp Med",
+"db": "pubmed",
+"id": "12391014"
+}
+]
+},
+{
+"id": "C4",
+"label": "",
+"class": "Process",
+"box": [
+724.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"16S,17S-epoxy-DHA"
+],
+"out": [
+"PCTR1"
+],
+"by": [
+"GSTM4",
+"MGST3",
+"LTC4S",
+"MGST2"
+]
+},
+"references": [
+{
+"authors": "Jouvene CC et al.",
+"year": "2019",
+"title": "Biosynthetic metabolomes of cysteinyl-containing immunoresolvents.",
+"journal": "FASEB J",
+"db": "pubmed",
+"id": "31589826"
+},
+{
+"authors": "Dalli J et al.",
+"year": "2015",
+"title": "Novel proresolving and tissue-regenerative resolvin and protectin sulfido-conjugated pathways.",
+"journal": "FASEB J",
+"db": "pubmed",
+"id": "25713027"
+},
+{
+"authors": "Ramon S et al.",
+"year": "2016",
+"title": "The Protectin PCTR1 Is Produced by Human M2 Macrophages and Enhances Resolution of Infectious Inflammation.",
+"journal": "Am J Pathol",
+"db": "pubmed",
+"id": "26878209"
+}
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+246.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+15.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "GSTM4",
+"class": "Macromolecule",
+"box": [
+615.0,
+480.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione S-transferase Mu 4"
+],
+[
+"Alternative names",
+"GST class-mu 4; GST-Mu2; GSTM4-4; Leukotriene C4 synthase GSTM4"
+],
+[
+"Function",
+"Conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophiles. Catalyzes the conjugation of leukotriene A4 with reduced glutathione (GSH) to form leukotriene C4."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4636"
+],
+[
+"HGNC symbol",
+"GSTM4"
+],
+[
+"Entrez",
+"2948"
+],
+[
+"Ensembl",
+"ENSG00000168765"
+],
+[
+"RefSeq",
+"NM_000850"
+],
+[
+"UniProt",
+"Q03013"
+]
+]
+},
+{
+"label": "MGST3",
+"class": "Macromolecule",
+"box": [
+615.0,
+550.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione S-transferase 3, mitochondrial"
+],
+[
+"Alternative names",
+"Glutathione peroxidase MGST3; LTC4 synthase MGST3"
+],
+[
+"Function",
+"Displays both glutathione S-transferase and glutathione peroxidase activities toward oxyeicosanoids, as part of cellular detoxification as well as synthesis of bioactive metabolites. Catalyzes conjugate addition of reduced glutathione to the alpha, beta-unsaturated C=C carbonyl group of eisosanoids such as leukotriene A4 and 15-deoxy-Delta12,14-prostaglandin J2 to form GSH adducts relevant to the inflammatory response."
+],
+[
+"Location",
+"Mitochondrion outer membrane"
+],
+[
+"HGNC",
+"HGNC:7064"
+],
+[
+"HGNC symbol",
+"MGST3"
+],
+[
+"Alias symbols",
+"GST-III"
+],
+[
+"Entrez",
+"4259"
+],
+[
+"Ensembl",
+"ENSG00000143198"
+],
+[
+"RefSeq",
+"NM_004528"
+],
+[
+"UniProt",
+"O14880"
+]
+]
+},
+{
+"label": "LTC4S",
+"class": "Macromolecule",
+"box": [
+777.0,
+480.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Leukotriene C4 synthase"
+],
+[
+"Alternative names",
+"Glutathione S-transferase LTC4; Leukotriene-C(4) synthase; Leukotriene-C4 synthase"
+],
+[
+"Function",
+"Catalyzes the conjugation of leukotriene A4 with reduced glutathione (GSH) to form leukotriene C4 with high specificity. Can also catalyze the transfer of a glutathionyl group from glutathione (GSH) to 13(S),14(S)-epoxy-docosahexaenoic acid to form maresin conjugate in tissue regeneration 1 (MCTR1), a bioactive lipid mediator that possess potent anti-inflammatory and proresolving actions"
+],
+[
+"Location",
+"Nucleus outer membrane, Endoplasmic reticulum membrane, Nucleus membrane"
+],
+[
+"HGNC",
+"HGNC:6719"
+],
+[
+"HGNC symbol",
+"LTC4S"
+],
+[
+"Alias symbols",
+"MGC33147"
+],
+[
+"Entrez",
+"4056"
+],
+[
+"Ensembl",
+"ENSG00000213316"
+],
+[
+"RefSeq",
+"NM_000897"
+],
+[
+"UniProt",
+"Q16873"
+]
+]
+},
+{
+"label": "MGST2",
+"class": "Macromolecule",
+"box": [
+777.0,
+550.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Microsomal glutathione S-transferase 2"
+],
+[
+"Alternative names",
+"Glutathione peroxidase MGST2; Leukotriene C4 synthase MGST2; Microsomal glutathione S-transferase II"
+],
+[
+"Function",
+"Catalyzes several different glutathione-dependent reactions. Catalyzes the glutathione-dependent reduction of lipid hydroperoxides, such as 5-HPETE."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:7063"
+],
+[
+"HGNC symbol",
+"MGST2"
+],
+[
+"Alias symbols",
+"MGST-II"
+],
+[
+"Entrez",
+"4258"
+],
+[
+"Ensembl",
+"ENSG00000085871"
+],
+[
+"RefSeq",
+"NM_002413"
+],
+[
+"UniProt",
+"Q99735"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+1077.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+}
+]
+}

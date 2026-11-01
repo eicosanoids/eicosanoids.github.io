@@ -1,0 +1,1041 @@
+{
+"nodes": [
+{
+"label": "DHA",
+"class": "SimpleChemical",
+"box": [
+15.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"all-cis-docosa-4,7,10,13,16,19-hexaenoic acid"
+],
+[
+"Synonyms",
+"(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid; (4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoic acid; 22:6(n-3); 22:6-4, 7,10,13,16,19; 4,7,10,13,16,19-Docosahexaenoic acid; DHA; DOCOSA-4,7,10,13,16,19-HEXAENOIC ACID; Doconexent; Docosahexaenoic acid; all-cis-4,7,10,13,16,19-docosahexaenoic acid; all-cis-DHA; cervonic acid"
+],
+[
+"Definition",
+"A docosahexaenoic acid having six cis-double bonds at positions 4, 7, 10, 13, 16 and 19."
+],
+[
+"Formula",
+"C22H32O2"
+],
+[
+"ChEBI",
+"CHEBI:28125"
+],
+[
+"KEGG",
+"C06429"
+],
+[
+"HMDB",
+"HMDB0002183"
+],
+[
+"InChI",
+"InChI=1S/C22H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22(23)24/h3-4,6-7,9-10,12-13,15-16,18-19H,2,5,8,11,14,17,20-21H2,1H3,(H,23,24)/b4-3-,7-6-,10-9-,13-12-,16-15-,19-18-"
+],
+[
+"InChIKey",
+"MBMBGCFOFBJSGT-KUBAVDMBSA-N"
+]
+]
+},
+{
+"label": "19,20-EDP",
+"class": "SimpleChemical",
+"box": [
+315.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(4Z,7Z,10Z,13Z,16Z)-19,20-epoxydocosapentaenoic acid"
+],
+[
+"Synonyms",
+"(4Z,7Z,10Z,13Z,16Z)-18-(3-ethyloxiran-2-yl)octadeca-4,7,10,13,16-pentaenoic acid; 19(20)-EpDPE; 19(20)-epoxy-4Z,7Z,10Z,13Z,16Z-docosapentaenoic acid; 19,20-EDP; 19,20-epoxydocosapentaenoic acid"
+],
+[
+"Definition",
+"An EpDPE obtained by formal epoxidation of the 19,20-double bond of docosa-4,7,10,13,16,19-hexaenoic acid."
+],
+[
+"Formula",
+"C22H32O3"
+],
+[
+"ChEBI",
+"CHEBI:72653"
+],
+[
+"HMDB",
+"HMDB0013620"
+],
+[
+"InChI",
+"InChI=1S/C22H32O3/c1-2-20-21(25-20)18-16-14-12-10-8-6-4-3-5-7-9-11-13-15-17-19-22(23)24/h3-4,7-10,13-16,20-21H,2,5-6,11-12,17-19H2,1H3,(H,23,24)/b4-3-,9-7-,10-8-,15-13-,16-14-"
+],
+[
+"InChIKey",
+"OSXOPUBJJDUAOJ-MBYQGORISA-N"
+]
+]
+},
+{
+"label": "16,17-EDP",
+"class": "SimpleChemical",
+"box": [
+615.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(4Z,7Z,10Z,13Z,19Z)-16,17-epoxydocosapentaenoic acid"
+],
+[
+"Synonyms",
+"(4Z,7Z,10Z,13Z,19Z)-15-{3-[(2Z)-pent-2-en-1-yl]oxiran-2-yl}pentadeca-4,7,10,13-tetraenoic acid; 16(17)-EpDPE; 16(17)-epoxy-4Z,7Z,10Z,13Z,19Z-docosapentaenoic acid; 16,17-EDP; 16,17-epoxydocosapentaenoic acid"
+],
+[
+"Definition",
+"An EpDPE obtained by formal epoxidation of the 16,17-double bond of docosa-4,7,10,13,16,19-hexaenoic acid."
+],
+[
+"Formula",
+"C22H32O3"
+],
+[
+"ChEBI",
+"CHEBI:72855"
+],
+[
+"InChI",
+"InChI=1S/C22H32O3/c1-2-3-14-17-20-21(25-20)18-15-12-10-8-6-4-5-7-9-11-13-16-19-22(23)24/h3,5-8,11-15,20-21H,2,4,9-10,16-19H2,1H3,(H,23,24)/b7-5-,8-6-,13-11-,14-3-,15-12-"
+],
+[
+"InChIKey",
+"BCTXZWCPBLWCRV-ZYADFMMDSA-N"
+]
+]
+},
+{
+"label": "19,20-DiHDPA",
+"class": "SimpleChemical",
+"box": [
+315.0,
+615.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"19,20-DiHDPA"
+],
+[
+"Synonyms",
+"(4Z,7Z,10Z,13Z,16Z)-19,20-dihydroxydocosa-4,7,10,13,16-pentaenoic acid; 19,20-DiHDPE; 19,20-DiHDoPE; 19,20-dihydroxy-4Z,7Z,10Z,13Z,16Z-docosapentaenoic acid"
+],
+[
+"Definition",
+"A DiHDPA obtained by formal dihydroxylation of the 19,20-double bond of docosa-4,7,10,13,16,19-hexaenoic acid."
+],
+[
+"Formula",
+"C22H34O4"
+],
+[
+"ChEBI",
+"CHEBI:72657"
+],
+[
+"HMDB",
+"HMDB0010214"
+],
+[
+"InChI",
+"InChI=1S/C22H34O4/c1-2-20(23)21(24)18-16-14-12-10-8-6-4-3-5-7-9-11-13-15-17-19-22(25)26/h3-4,7-10,13-16,20-21,23-24H,2,5-6,11-12,17-19H2,1H3,(H,25,26)/b4-3-,9-7-,10-8-,15-13-,16-14-"
+],
+[
+"InChIKey",
+"FFXKPSNQCPNORO-MBYQGORISA-N"
+]
+]
+},
+{
+"label": "22-HDHA",
+"class": "SimpleChemical",
+"box": [
+915.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(4Z,7Z,10Z,13Z,16Z,19Z)-22-hydroxydocosahexaenoic acid"
+],
+[
+"Synonyms",
+"(4Z,7Z,10Z,13Z,16Z,19Z)-22-hydroxydocosa-4,7,10,13,16,19-hexaenoic acid; 22-hydroxy-(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoic acid"
+],
+[
+"Definition",
+"A HDoHE obtained by hydroxylation at position 2 of all-cis-docosa-4,7,10,13,16,19-hexaenoic acid."
+],
+[
+"Formula",
+"C22H32O3"
+],
+[
+"ChEBI",
+"CHEBI:77124"
+],
+[
+"InChI",
+"InChI=1S/C22H32O3/c23-21-19-17-15-13-11-9-7-5-3-1-2-4-6-8-10-12-14-16-18-20-22(24)25/h2-5,8-11,14-17,23H,1,6-7,12-13,18-21H2,(H,24,25)/b4-2-,5-3-,10-8-,11-9-,16-14-,17-15-"
+],
+[
+"InChIKey",
+"DTRUULZFBQUZPD-OAKYPOHLSA-N"
+]
+]
+},
+{
+"label": "21-HDHA",
+"class": "SimpleChemical",
+"box": [
+1215.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"21-HDoHE"
+],
+[
+"Synonyms",
+"(4Z,7Z,10Z,13Z,16Z,19Z)-21-hydroxydocosa-4,7,10,13,16,19-hexaenoic acid; (4Z,7Z,10Z,13Z,16Z,19Z)-21-hydroxydocosahexaenoic acid; 21-HDHA; 21-hydroxy-(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoic acid"
+],
+[
+"Definition",
+"A (ω−1)-hydroxy fatty acid that is (4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoic acid substituted at position 21 by a hydroxy group."
+],
+[
+"Formula",
+"C22H32O3"
+],
+[
+"ChEBI",
+"CHEBI:132325"
+],
+[
+"InChI",
+"InChI=1S/C22H32O3/c1-21(23)19-17-15-13-11-9-7-5-3-2-4-6-8-10-12-14-16-18-20-22(24)25/h2,4-5,7-8,10-11,13-14,16-17,19,21,23H,3,6,9,12,15,18,20H2,1H3,(H,24,25)/b4-2-,7-5-,10-8-,13-11-,16-14-,19-17-"
+],
+[
+"InChIKey",
+"IXAMNXQQWDOFMN-NZONWQNASA-N"
+]
+]
+},
+{
+"id": "E1",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"DHA"
+],
+"out": [
+"19,20-EDP"
+],
+"by": [
+"CYP2C8",
+"CYP2C9",
+"CYP2C19",
+"CYP2J2",
+"CYP1A2"
+]
+},
+"references": [
+{
+"authors": "Arnold C et al.",
+"year": "2010",
+"title": "Arachidonic acid-metabolizing cytochrome P450 enzymes are targets of {omega}-3 fatty acids.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "20732876"
+},
+{
+"authors": "Fer M et al.",
+"year": "2008",
+"title": "Metabolism of eicosapentaenoic and docosahexaenoic acids by recombinant human cytochromes P450.",
+"journal": "Arch Biochem Biophys",
+"db": "pubmed",
+"id": "18206980"
+},
+{
+"authors": "Lucas D et al.",
+"year": "2010",
+"title": "Stereoselective epoxidation of the last double bond of polyunsaturated fatty acids by human cytochromes P450.",
+"journal": "J Lipid Res",
+"db": "pubmed",
+"id": "19965576"
+},
+{
+"authors": "Fer M et al.",
+"year": "2006",
+"title": "Determination of polyunsaturated fatty acid monoepoxides by high performance liquid chromatography-mass spectrometry.",
+"journal": "J Chromatogr A",
+"db": "pubmed",
+"id": "16545829"
+}
+]
+},
+{
+"id": "E2",
+"label": "",
+"class": "Process",
+"box": [
+623.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"DHA"
+],
+"out": [
+"16,17-EDP"
+],
+"by": [
+"CYP2C8",
+"CYP2C9",
+"CYP2C19",
+"CYP2J2",
+"CYP1A2"
+]
+},
+"references": [
+{
+"authors": "Fer M et al.",
+"year": "2006",
+"title": "Determination of polyunsaturated fatty acid monoepoxides by high performance liquid chromatography-mass spectrometry.",
+"journal": "J Chromatogr A",
+"db": "pubmed",
+"id": "16545829"
+},
+{
+"authors": "Lucas D et al.",
+"year": "2010",
+"title": "Stereoselective epoxidation of the last double bond of polyunsaturated fatty acids by human cytochromes P450.",
+"journal": "J Lipid Res",
+"db": "pubmed",
+"id": "19965576"
+},
+{
+"authors": "Fer M et al.",
+"year": "2008",
+"title": "Metabolism of eicosapentaenoic and docosahexaenoic acids by recombinant human cytochromes P450.",
+"journal": "Arch Biochem Biophys",
+"db": "pubmed",
+"id": "18206980"
+}
+]
+},
+{
+"id": "E3",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"19,20-EDP"
+],
+"out": [
+"19,20-DiHDPA"
+],
+"by": [
+"EPHX2"
+]
+},
+"references": [
+{
+"authors": "Shao Z et al.",
+"year": "2014",
+"title": "Cytochrome P450 2C8 ω3-long-chain polyunsaturated fatty acid metabolites increase mouse retinal pathologic neovascularization--brief report.",
+"journal": "Arterioscler Thromb Vasc Biol",
+"db": "pubmed",
+"id": "24458713"
+},
+{
+"authors": "Leineweber CG et al.",
+"year": "2020",
+"title": "Assessment of the Effect of Sorafenib on Omega-6 and Omega-3 Epoxyeicosanoid Formation in Patients with Hepatocellular Carcinoma.",
+"journal": "Int J Mol Sci",
+"db": "pubmed",
+"id": "32182938"
+},
+{
+"authors": "Leineweber CG et al.",
+"year": "2023",
+"title": "Sorafenib increases cytochrome P450 lipid metabolites in patient with hepatocellular carcinoma.",
+"journal": "Front Pharmacol",
+"db": "pubmed",
+"id": "36937889"
+},
+{
+"authors": "Zhang G et al.",
+"year": "2013",
+"title": "Epoxy metabolites of docosahexaenoic acid (DHA) inhibit angiogenesis, tumor growth, and metastasis.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "23553837"
+}
+]
+},
+{
+"id": "E4",
+"label": "",
+"class": "Process",
+"box": [
+923.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"DHA"
+],
+"out": [
+"22-HDHA"
+],
+"by": [
+"CYP4F2",
+"CYP4F3",
+"CYP4V2"
+]
+},
+"references": [
+{
+"authors": "Harmon SD et al.",
+"year": "2006",
+"title": "Oxygenation of omega-3 fatty acids by human cytochrome P450 4F3B: effect on 20-hydroxyeicosatetraenoic acid production.",
+"journal": "Prostaglandins Leukot Essent Fatty Acids",
+"db": "pubmed",
+"id": "16820285"
+},
+{
+"authors": "Fer M et al.",
+"journal": "J Lipid Res",
+"title": "Cytochromes P450 from family 4 are the main omega hydroxylating enzymes in humans: CYP4F3B is the prominent player in PUFA metabolism.",
+"year": "2008",
+"db": "pubmed",
+"id": "18577768"
+},
+{
+"authors": "Nakano M et al.",
+"year": "2012",
+"title": "CYP4V2 in Bietti's crystalline dystrophy: ocular localization, metabolism of ω-3-polyunsaturated fatty acids, and functional deficit of the p.H331P variant.",
+"journal": "Mol Pharmacol",
+"db": "pubmed",
+"id": "22772592"
+},
+{
+"authors": "Arnold C et al.",
+"year": "2010",
+"title": "Arachidonic acid-metabolizing cytochrome P450 enzymes are targets of {omega}-3 fatty acids.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "20732876"
+}
+]
+},
+{
+"id": "H6",
+"label": "",
+"class": "Process",
+"box": [
+1223.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"DHA"
+],
+"out": [
+"21-HDHA"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Lu Y et al.",
+"year": "2010",
+"title": "Novel 14,21-dihydroxy-docosahexaenoic acids: structures, formation pathways, and enhancement of wound healing.",
+"journal": "J Lipid Res",
+"db": "pubmed",
+"id": "19965612"
+},
+{
+"authors": "Fer M et al.",
+"journal": "J Lipid Res",
+"title": "Cytochromes P450 from family 4 are the main omega hydroxylating enzymes in humans: CYP4F3B is the prominent player in PUFA metabolism.",
+"year": "2008",
+"db": "pubmed",
+"id": "18577768"
+},
+{
+"authors": "Arnold C et al.",
+"year": "2010",
+"title": "Arachidonic acid-metabolizing cytochrome P450 enzymes are targets of {omega}-3 fatty acids.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "20732876"
+}
+]
+},
+{
+"label": "CYP2C8",
+"class": "Macromolecule",
+"box": [
+445.0,
+215.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2C8"
+],
+[
+"Alternative names",
+"CYPIIC8; Cytochrome P450 IIC2; Cytochrome P450 MP-12; Cytochrome P450 MP-20; Cytochrome P450 form 1; S-mephenytoin 4-hydroxylase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2622"
+],
+[
+"HGNC symbol",
+"CYP2C8"
+],
+[
+"Alias symbols",
+"CPC8"
+],
+[
+"Entrez",
+"1558"
+],
+[
+"Ensembl",
+"ENSG00000138115"
+],
+[
+"RefSeq",
+"NM_000770"
+],
+[
+"UniProt",
+"P10632"
+]
+]
+},
+{
+"label": "CYP2C9",
+"class": "Macromolecule",
+"box": [
+445.0,
+265.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2C9"
+],
+[
+"Alternative names",
+"(R)-limonene 6-monooxygenase; (S)-limonene 6-monooxygenase; (S)-limonene 7-monooxygenase; CYPIIC9; Cholesterol 25-hydroxylase; Cytochrome P-450MP; Cytochrome P450 MP-4; Cytochrome P450 MP-8; Cytochrome P450 PB-1; S-mephenytoin 4-hydroxylase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and steroids. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2623"
+],
+[
+"HGNC symbol",
+"CYP2C9"
+],
+[
+"Previous symbols",
+"CYP2C10"
+],
+[
+"Alias symbols",
+"P450IIC9"
+],
+[
+"Entrez",
+"1559"
+],
+[
+"Ensembl",
+"ENSG00000138109"
+],
+[
+"RefSeq",
+"NM_000771"
+],
+[
+"UniProt",
+"P11712"
+]
+]
+},
+{
+"label": "CYP2C19",
+"class": "Macromolecule",
+"box": [
+445.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2C19"
+],
+[
+"Alternative names",
+"(R)-limonene 6-monooxygenase; (S)-limonene 6-monooxygenase; (S)-limonene 7-monooxygenase; CYPIIC17; CYPIIC19; Cytochrome P450-11A; Cytochrome P450-254C; Fenbendazole monooxygenase (4'-hydroxylating); Mephenytoin 4-hydroxylase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of polyunsaturated fatty acids (PUFA). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2621"
+],
+[
+"HGNC symbol",
+"CYP2C19"
+],
+[
+"Previous symbols",
+"CYP2C"
+],
+[
+"Alias symbols",
+"P450IIC19, CPCJ"
+],
+[
+"Entrez",
+"1557"
+],
+[
+"Ensembl",
+"ENSG00000165841"
+],
+[
+"RefSeq",
+"NM_000769"
+],
+[
+"UniProt",
+"P33261"
+]
+]
+},
+{
+"label": "CYP2J2",
+"class": "Macromolecule",
+"box": [
+445.0,
+365.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2J2"
+],
+[
+"Alternative names",
+"Albendazole monooxygenase (hydroxylating); Albendazole monooxygenase (sulfoxide-forming); Arachidonic acid epoxygenase; CYPIIJ2; Hydroperoxy icosatetraenoate isomerase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of polyunsaturated fatty acids (PUFA) in the cardiovascular system. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2634"
+],
+[
+"HGNC symbol",
+"CYP2J2"
+],
+[
+"Entrez",
+"1573"
+],
+[
+"Ensembl",
+"ENSG00000134716"
+],
+[
+"RefSeq",
+"NM_000775"
+],
+[
+"UniProt",
+"P51589"
+]
+]
+},
+{
+"label": "CYP1A2",
+"class": "Macromolecule",
+"box": [
+445.0,
+415.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A2"
+],
+[
+"Alternative names",
+"CYPIA2; Cholesterol 25-hydroxylase; Cytochrome P(3)450; Cytochrome P450 4; Cytochrome P450-P3; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2596"
+],
+[
+"HGNC symbol",
+"CYP1A2"
+],
+[
+"Alias symbols",
+"P3-450, CP12"
+],
+[
+"Entrez",
+"1544"
+],
+[
+"Ensembl",
+"ENSG00000140505"
+],
+[
+"RefSeq",
+"NM_000761"
+],
+[
+"UniProt",
+"P05177"
+]
+]
+},
+{
+"label": "EPHX2",
+"class": "Macromolecule",
+"box": [
+376.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Bifunctional epoxide hydrolase 2"
+],
+[
+"Function",
+"Bifunctional enzyme. The C-terminal domain has epoxide hydrolase activity and acts on epoxides (alkene oxides, oxiranes) and arene oxides."
+],
+[
+"Location",
+"Cytoplasm, Peroxisome"
+],
+[
+"HGNC",
+"HGNC:3402"
+],
+[
+"HGNC symbol",
+"EPHX2"
+],
+[
+"Alias symbols",
+"ABHD20, sEH"
+],
+[
+"Entrez",
+"2053"
+],
+[
+"Ensembl",
+"ENSG00000120915"
+],
+[
+"RefSeq",
+"NM_001979"
+],
+[
+"UniProt",
+"P34913"
+]
+]
+},
+{
+"label": "CYP4F2",
+"class": "Macromolecule",
+"box": [
+814.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F2"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:2645"
+],
+[
+"HGNC symbol",
+"CYP4F2"
+],
+[
+"Entrez",
+"8529"
+],
+[
+"Ensembl",
+"ENSG00000186115"
+],
+[
+"RefSeq",
+"NM_001082"
+],
+[
+"UniProt",
+"P78329"
+]
+]
+},
+{
+"label": "CYP4F3",
+"class": "Macromolecule",
+"box": [
+976.0,
+280.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F3"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2646"
+],
+[
+"HGNC symbol",
+"CYP4F3"
+],
+[
+"Previous symbols",
+"LTB4H"
+],
+[
+"Alias symbols",
+"CYP4F"
+],
+[
+"Entrez",
+"4051"
+],
+[
+"Ensembl",
+"ENSG00000186529"
+],
+[
+"RefSeq",
+"NM_000896"
+],
+[
+"UniProt",
+"Q08477"
+]
+]
+},
+{
+"label": "CYP4V2",
+"class": "Macromolecule",
+"box": [
+976.0,
+350.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4V2"
+],
+[
+"Alternative names",
+"Docosahexaenoic acid omega-hydroxylase CYP4V2; Long-chain fatty acid omega-monooxygenase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in fatty acid metabolism in the eye. Catalyzes the omega-hydroxylation of polyunsaturated fatty acids (PUFAs) docosahexaenoate (DHA) and its precursor eicosapentaenoate (EPA), and may contribute to the homeostasis of these retinal PUFAs."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:23198"
+],
+[
+"HGNC symbol",
+"CYP4V2"
+],
+[
+"Alias symbols",
+"CYP4AH1"
+],
+[
+"Entrez",
+"285440"
+],
+[
+"Ensembl",
+"ENSG00000145476"
+],
+[
+"RefSeq",
+"NM_207352"
+],
+[
+"UniProt",
+"Q6ZWL3"
+]
+]
+}
+]
+}

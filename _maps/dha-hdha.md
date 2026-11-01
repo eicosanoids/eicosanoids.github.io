@@ -1,0 +1,30 @@
+---
+title: "Hydroxy acids from docosahexaenoic acid"
+topic: "HDHAs"
+tab: ""
+page: ""
+group: "DHA network"
+order: 33
+kind: "map"
+draft: false
+tag: "new"
+image: "/downloads/dha-hdha.svg"
+width: 670
+height: 270
+scale: 1
+annotation: "/atlas-data/dha-hdha.json"
+image_error: ""
+downloads:
+  - {label: "GraphML", url: "/downloads/dha-hdha.graphml"}
+  - {label: "SVG", url: "/downloads/dha-hdha.svg"}
+---
+5-lipoxygenase turns DHA into 4-HDHA and 7S-HDHA, and COX-2 makes 13-HDHA. 4-HDHA mediates part of the antiangiogenic effect of ω-3 fatty acids in the retina (Sapieha 2011), and 7S-HDHA is the first step of a resolvin D5 route that begins with 5-lipoxygenase (Perry 2020).
+
+## Source
+
+New content, drawn in blue until reviewed. Each step carries at least three references, checked on PubMed.
+
+## References
+
+1. Perry SC, Kalyanaraman C, Tourdot BE, et al.. 15-Lipoxygenase-1 biosynthesis of 7S,14S-diHDHA implicates 15-lipoxygenase-2 in biosynthesis of resolvin D5. J Lipid Res. 2020;61(7):1087-1103. PMID: [32404334](https://pubmed.ncbi.nlm.nih.gov/32404334/){:target="_blank" rel="noopener"}. doi: [10.1194/jlr.RA120000777](https://doi.org/10.1194/jlr.RA120000777){:target="_blank" rel="noopener"}
+1. Sapieha P, Stahl A, Chen J, et al.. 5-Lipoxygenase metabolite 4-HDHA is a mediator of the antiangiogenic effect of ω-3 polyunsaturated fatty acids. Sci Transl Med. 2011;3(69):69ra12. PMID: [21307302](https://pubmed.ncbi.nlm.nih.gov/21307302/){:target="_blank" rel="noopener"}. doi: [10.1126/scitranslmed.3001571](https://doi.org/10.1126/scitranslmed.3001571){:target="_blank" rel="noopener"}
