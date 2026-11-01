@@ -1,0 +1,220 @@
+{
+"nodes": [
+{
+"label": "EPA",
+"class": "SimpleChemical",
+"box": [
+15.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"all-cis-5,8,11,14,17-icosapentaenoic acid"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,14Z,17Z)-5,8,11,14,17-eicosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoate; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-icosa-5,8,11,14,17-pentaenoic acid; (all-Z)-5,8,11,14,17-eicosapentaenoic acid; 5,8,11,14,17-EICOSAPENTAENOIC ACID; 5,8,11,14,17-Icosapentaenoic acid; EPA; Eicosapentaenoic acid; Icosapentaenoic acid; Timnodonic acid; all-cis-5,8,11,14,17-eicosapentaenoic acid; all-cis-icosa-5,8,11,14,17-pentaenoic acid; cis, cis, cis, cis, cis-eicosa-5,8,11,14,17-pentaenoic acid; cis-5,8,11,14,17-EPA; cis-5,8,11,14,17-eicosapentaenoic acid; cis-Delta(5,8,11,14,17)-eicosapentaenoic acid; icosapent; icosapento; icosapentum"
+],
+[
+"Definition",
+"An icosapentaenoic acid having five cis-double bonds at positions 5, 8, 11, 14 and 17."
+],
+[
+"Formula",
+"C20H30O2"
+],
+[
+"ChEBI",
+"CHEBI:28364"
+],
+[
+"KEGG",
+"C06428"
+],
+[
+"HMDB",
+"HMDB0001999"
+],
+[
+"InChI",
+"InChI=1S/C20H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(21)22/h3-4,6-7,9-10,12-13,15-16H,2,5,8,11,14,17-19H2,1H3,(H,21,22)/b4-3-,7-6-,10-9-,13-12-,16-15-"
+],
+[
+"InChIKey",
+"JAZBEHYOTPTENJ-JLNKQSITSA-N"
+]
+]
+},
+{
+"label": "CYP2E1",
+"class": "Macromolecule",
+"box": [
+76.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2E1"
+],
+[
+"Alternative names",
+"4-nitrophenol 2-hydroxylase; CYPIIE1; Cytochrome P450-J"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of fatty acids. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane, Mitochondrion inner membrane"
+],
+[
+"HGNC",
+"HGNC:2631"
+],
+[
+"HGNC symbol",
+"CYP2E1"
+],
+[
+"Previous symbols",
+"CYP2E"
+],
+[
+"Entrez",
+"1571"
+],
+[
+"Ensembl",
+"ENSG00000130649"
+],
+[
+"RefSeq",
+"NM_000773"
+],
+[
+"UniProt",
+"P05181"
+]
+]
+},
+{
+"label": "CYP4F3",
+"class": "Macromolecule",
+"box": [
+214.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F3"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2646"
+],
+[
+"HGNC symbol",
+"CYP4F3"
+],
+[
+"Previous symbols",
+"LTB4H"
+],
+[
+"Alias symbols",
+"CYP4F"
+],
+[
+"Entrez",
+"4051"
+],
+[
+"Ensembl",
+"ENSG00000186529"
+],
+[
+"RefSeq",
+"NM_000896"
+],
+[
+"UniProt",
+"Q08477"
+]
+]
+},
+{
+"label": "CYP4F2",
+"class": "Macromolecule",
+"box": [
+376.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F2"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:2645"
+],
+[
+"HGNC symbol",
+"CYP4F2"
+],
+[
+"Entrez",
+"8529"
+],
+[
+"Ensembl",
+"ENSG00000186115"
+],
+[
+"RefSeq",
+"NM_001082"
+],
+[
+"UniProt",
+"P78329"
+]
+]
+}
+]
+}

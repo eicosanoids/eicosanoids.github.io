@@ -9,8 +9,8 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/epa-lt5.svg"
-width: 872
-height: 670
+width: 2170
+height: 1070
 scale: 1
 annotation: "/atlas-data/epa-lt5.json"
 image_error: ""
@@ -19,6 +19,8 @@ downloads:
   - {label: "SVG", url: "/downloads/epa-lt5.svg"}
 ---
 5-lipoxygenase with FLAP turns EPA into 5(S)-HpEPE, which is reduced to 5(S)-HEPE or made into LTA5. LTA4 hydrolase makes LTB5 and LTC4 synthase makes LTC5, both shown in human neutrophils (Lee 1984). LTB5 is a weak, partial agonist compared with LTB4. 15-lipoxygenase gives 15(S)-HpEPE.
+
+Predicted steps, drawn with dashed arrows: LTD5 and LTE5 from LTC5, the peroxide reductions to 12(S)- and 15(S)-HEPE, 12(S)-HpEPE itself, 5-oxo-EPE and 5,20-diHEPE. Each runs on an enzyme shown for the arachidonic acid product, with EPA as substrate measured in a database entry or not at all.
 
 ## Source
 

@@ -1287,6 +1287,126 @@
 "P15428"
 ]
 ]
+},
+{
+"label": "PTGR2",
+"class": "Macromolecule",
+"box": [
+214.0,
+915.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin reductase 2"
+],
+[
+"Alternative names",
+"15-oxoprostaglandin 13-reductase; Zinc-binding alcohol dehydrogenase domain-containing protein 1"
+],
+[
+"Function",
+"Functions as 15-oxo-prostaglandin 13-reductase and acts on 15-keto-PGE1, 15-keto-PGE2, 15-keto-PGE1-alpha and 15-keto-PGE2-alpha with highest activity towards 15-keto-PGE2. Overexpression represses transcriptional activity of PPARG and inhibits adipocyte differentiation"
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:20149"
+],
+[
+"HGNC symbol",
+"PTGR2"
+],
+[
+"Previous symbols",
+"ZADH1"
+],
+[
+"Alias symbols",
+"FLJ39091"
+],
+[
+"Entrez",
+"145482"
+],
+[
+"Ensembl",
+"ENSG00000140043"
+],
+[
+"RefSeq",
+"NM_001146154"
+],
+[
+"UniProt",
+"Q8N8N7"
+]
+]
+},
+{
+"label": "PTGR1",
+"class": "Macromolecule",
+"box": [
+376.0,
+915.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin reductase 1"
+],
+[
+"Alternative names",
+"15-oxoprostaglandin 13-reductase; Dithiolethione-inducible gene 1 protein; Leukotriene B4 12-hydroxydehydrogenase; NAD(P)H-dependent alkenal/one oxidoreductase"
+],
+[
+"Function",
+"NAD(P)H-dependent oxidoreductase involved in metabolic inactivation of pro- and anti-inflammatory eicosanoids: prostaglandins (PG), leukotrienes (LT) and lipoxins (LX). Catalyzes with high efficiency the reduction of the 13,14 double bond of 15-oxoPGs, including 15-oxo-PGE1, 15-oxo-PGE2, 15-oxo-PGF1-alpha and 15-oxo-PGF2-alpha."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:18429"
+],
+[
+"HGNC symbol",
+"PTGR1"
+],
+[
+"Previous symbols",
+"LTB4DH"
+],
+[
+"Alias symbols",
+"ZADH3"
+],
+[
+"Entrez",
+"22949"
+],
+[
+"Ensembl",
+"ENSG00000106853"
+],
+[
+"RefSeq",
+"NM_001146108"
+],
+[
+"UniProt",
+"Q14914"
+]
+]
 }
 ]
 }

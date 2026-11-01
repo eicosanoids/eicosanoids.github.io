@@ -4,7 +4,7 @@
 "label": "EPA",
 "class": "SimpleChemical",
 "box": [
-416.0,
+915.0,
 15.0,
 40.0,
 40.0
@@ -52,7 +52,7 @@
 "label": "5(S)-HpEPE",
 "class": "SimpleChemical",
 "box": [
-416.0,
+915.0,
 215.0,
 40.0,
 40.0
@@ -84,7 +84,7 @@
 "label": "5(S)-HEPE",
 "class": "SimpleChemical",
 "box": [
-116.0,
+615.0,
 415.0,
 40.0,
 40.0
@@ -128,7 +128,7 @@
 "label": "LTB5",
 "class": "SimpleChemical",
 "box": [
-416.0,
+915.0,
 615.0,
 40.0,
 40.0
@@ -172,7 +172,7 @@
 "label": "LTC5",
 "class": "SimpleChemical",
 "box": [
-716.0,
+1215.0,
 615.0,
 40.0,
 40.0
@@ -208,8 +208,8 @@
 "label": "15(S)-HpEPE",
 "class": "SimpleChemical",
 "box": [
-716.0,
-215.0,
+1515.0,
+415.0,
 40.0,
 40.0
 ],
@@ -241,7 +241,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+923.0,
 123.0,
 24.0,
 24.0
@@ -275,7 +275,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+623.0,
 323.0,
 24.0,
 24.0
@@ -309,7 +309,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+923.0,
 323.0,
 24.0,
 24.0
@@ -342,7 +342,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+923.0,
 523.0,
 24.0,
 24.0
@@ -375,7 +375,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+1223.0,
 523.0,
 24.0,
 24.0
@@ -408,8 +408,8 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
-123.0,
+1523.0,
+323.0,
 24.0,
 24.0
 ],
@@ -440,7 +440,7 @@
 "label": "ALOX5AP",
 "class": "Macromolecule",
 "box": [
-477.0,
+976.0,
 115.0,
 80.0,
 40.0
@@ -496,7 +496,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-532.0,
+1031.0,
 215.0,
 80.0,
 40.0
@@ -552,7 +552,7 @@
 "label": "GPX4",
 "class": "Macromolecule",
 "box": [
-15.0,
+514.0,
 315.0,
 80.0,
 40.0
@@ -608,7 +608,7 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-177.0,
+676.0,
 315.0,
 80.0,
 40.0
@@ -660,7 +660,7 @@
 "label": "LTA4H",
 "class": "Macromolecule",
 "box": [
-477.0,
+976.0,
 515.0,
 80.0,
 40.0
@@ -712,7 +712,7 @@
 "label": "LTC4S",
 "class": "Macromolecule",
 "box": [
-777.0,
+1276.0,
 515.0,
 80.0,
 40.0
@@ -768,8 +768,8 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-777.0,
-115.0,
+1576.0,
+315.0,
 80.0,
 40.0
 ],
@@ -817,6 +817,558 @@
 [
 "UniProt",
 "P16050"
+]
+]
+},
+{
+"label": "GGT5",
+"class": "Macromolecule",
+"box": [
+1114.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione hydrolase 5 proenzyme"
+],
+[
+"Alternative names",
+"Gamma-glutamyl transpeptidase-related enzyme; Gamma-glutamyltransferase 5; Gamma-glutamyltransferase-like activity 1; Gamma-glutamyltranspeptidase 5; Leukotriene-C4 hydrolase"
+],
+[
+"Function",
+"Cleaves the gamma-glutamyl bond of extracellular glutathione tripeptide (gamma-Glu-Cys-Gly) and certain glutathione conjugates. Hydrolyzes glutathione releasing L-Glu and Cys-Gly dipeptide which is further metabolized to maintain extracellular cysteine levels but also to provide cysteine necessary for intracellular glutathione synthesis."
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:4260"
+],
+[
+"HGNC symbol",
+"GGT5"
+],
+[
+"Previous symbols",
+"GGTLA1"
+],
+[
+"Alias symbols",
+"GGT-REL"
+],
+[
+"Entrez",
+"2687"
+],
+[
+"Ensembl",
+"ENSG00000099998"
+],
+[
+"RefSeq",
+"NM_004121"
+],
+[
+"UniProt",
+"P36269"
+]
+]
+},
+{
+"label": "GGT1",
+"class": "Macromolecule",
+"box": [
+1276.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione hydrolase 1 proenzyme"
+],
+[
+"Alternative names",
+"Gamma-glutamyltransferase 1; Gamma-glutamyltranspeptidase 1; Leukotriene-C4 hydrolase"
+],
+[
+"Function",
+"Cleaves the gamma-glutamyl bond of extracellular glutathione (gamma-Glu-Cys-Gly), glutathione conjugates (such as maresin conjugate (13R)-S-glutathionyl-(14S)-hydroxy-(4Z,7Z,9E,11E,16Z,19Z)-docosahexaenoate, MCTR1) and other gamma-glutamyl compounds (such as leukotriene C4, LTC4). The metabolism of glutathione by GGT1 releases free glutamate and the dipeptide cysteinyl-glycine, which is hydrolyzed to cysteine and glycine by dipeptidases."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:4250"
+],
+[
+"HGNC symbol",
+"GGT1"
+],
+[
+"Previous symbols",
+"GGT"
+],
+[
+"Alias symbols",
+"D22S672, D22S732, CD224"
+],
+[
+"Entrez",
+"2678"
+],
+[
+"Ensembl",
+"ENSG00000100031"
+],
+[
+"RefSeq",
+"NM_013430"
+],
+[
+"UniProt",
+"P19440"
+]
+]
+},
+{
+"label": "DPEP2",
+"class": "Macromolecule",
+"box": [
+1114.0,
+915.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dipeptidase 2"
+],
+[
+"Function",
+"Dipeptidase that hydrolyzes leukotriene D4 (LTD4) into leukotriene E4 (LTE4). Hydrolyzes cystinyl-bis-glycine"
+],
+[
+"Location",
+"Membrane"
+],
+[
+"HGNC",
+"HGNC:23028"
+],
+[
+"HGNC symbol",
+"DPEP2"
+],
+[
+"Entrez",
+"64174"
+],
+[
+"Ensembl",
+"ENSG00000167261"
+],
+[
+"RefSeq",
+"NM_022355"
+],
+[
+"UniProt",
+"Q9H4A9"
+]
+]
+},
+{
+"label": "DPEP1",
+"class": "Macromolecule",
+"box": [
+1276.0,
+915.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dipeptidase 1"
+],
+[
+"Alternative names",
+"Beta-lactamase; Dehydropeptidase-I; Microsomal dipeptidase; Renal dipeptidase"
+],
+[
+"Function",
+"Hydrolyzes a wide range of dipeptides including the conversion of leukotriene D4 to leukotriene E4. Hydrolyzes cystinyl-bis-glycine (cys-bis-gly) formed during glutathione degradation."
+],
+[
+"Location",
+"Apical cell membrane, Cell projection, microvillus membrane"
+],
+[
+"HGNC",
+"HGNC:3002"
+],
+[
+"HGNC symbol",
+"DPEP1"
+],
+[
+"Entrez",
+"1800"
+],
+[
+"Ensembl",
+"ENSG00000015413"
+],
+[
+"RefSeq",
+"NM_001128141"
+],
+[
+"UniProt",
+"P16444"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+376.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+145.0,
+154.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+145.0,
+276.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+1795.0,
+354.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+1795.0,
+476.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "CYP4F3",
+"class": "Macromolecule",
+"box": [
+376.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F3"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2646"
+],
+[
+"HGNC symbol",
+"CYP4F3"
+],
+[
+"Previous symbols",
+"LTB4H"
+],
+[
+"Alias symbols",
+"CYP4F"
+],
+[
+"Entrez",
+"4051"
+],
+[
+"Ensembl",
+"ENSG00000186529"
+],
+[
+"RefSeq",
+"NM_000896"
+],
+[
+"UniProt",
+"Q08477"
 ]
 ]
 }

@@ -149,33 +149,33 @@
 "references": [
 {
 "authors": "von Gerichten J et al.",
-"year": "2021",
-"title": "The Partitioning of Newly Assimilated Linoleic and α-Linolenic Acids Between Synthesis of Longer-Chain Polyunsaturated Fatty Acids and Hydroxyoctadecaenoic Acids Is a Putative Branch Point in T-Cell Essential Fatty Acid Metabolism.",
 "journal": "Front Immunol",
+"title": "The Partitioning of Newly Assimilated Linoleic and α-Linolenic Acids Between Synthesis of Longer-Chain Polyunsaturated Fatty Acids and Hydroxyoctadecaenoic Acids Is a Putative Branch Point in T-Cell Essential Fatty Acid Metabolism.",
+"year": "2021",
 "db": "pubmed",
 "id": "34675928"
 },
 {
 "authors": "Kumar N et al.",
-"year": "2016",
-"title": "15-Lipoxygenase metabolites of α-linolenic acid, [13-(S)-HPOTrE and 13-(S)-HOTrE], mediate anti-inflammatory effects by inactivating NLRP3 inflammasome.",
 "journal": "Sci Rep",
+"title": "15-Lipoxygenase metabolites of α-linolenic acid, [13-(S)-HPOTrE and 13-(S)-HOTrE], mediate anti-inflammatory effects by inactivating NLRP3 inflammasome.",
+"year": "2016",
 "db": "pubmed",
 "id": "27535180"
 },
 {
 "authors": "Evans WA et al.",
-"year": "2024",
-"title": "9-HODE and 9-HOTrE alter mitochondrial metabolism, increase triglycerides, and perturb fatty acid uptake and synthesis associated gene expression in HepG2 cells.",
 "journal": "Prostaglandins Leukot Essent Fatty Acids",
+"title": "9-HODE and 9-HOTrE alter mitochondrial metabolism, increase triglycerides, and perturb fatty acid uptake and synthesis associated gene expression in HepG2 cells.",
+"year": "2024",
 "db": "pubmed",
 "id": "39142221"
 },
 {
 "authors": "Cambiaggi L et al.",
-"year": "2023",
-"title": "The Role of α-Linolenic Acid and Its Oxylipins in Human Cardiovascular Diseases.",
 "journal": "Int J Mol Sci",
+"title": "The Role of α-Linolenic Acid and Its Oxylipins in Human Cardiovascular Diseases.",
+"year": "2023",
 "db": "pubmed",
 "id": "37047085"
 }
@@ -204,17 +204,17 @@
 "references": [
 {
 "authors": "Cambiaggi L et al.",
-"year": "2023",
-"title": "The Role of α-Linolenic Acid and Its Oxylipins in Human Cardiovascular Diseases.",
 "journal": "Int J Mol Sci",
+"title": "The Role of α-Linolenic Acid and Its Oxylipins in Human Cardiovascular Diseases.",
+"year": "2023",
 "db": "pubmed",
 "id": "37047085"
 },
 {
 "authors": "Evans WA et al.",
-"year": "2024",
-"title": "9-HODE and 9-HOTrE alter mitochondrial metabolism, increase triglycerides, and perturb fatty acid uptake and synthesis associated gene expression in HepG2 cells.",
 "journal": "Prostaglandins Leukot Essent Fatty Acids",
+"title": "9-HODE and 9-HOTrE alter mitochondrial metabolism, increase triglycerides, and perturb fatty acid uptake and synthesis associated gene expression in HepG2 cells.",
+"year": "2024",
 "db": "pubmed",
 "id": "39142221"
 }
@@ -245,25 +245,25 @@
 "references": [
 {
 "authors": "Ikei KN et al.",
-"year": "2012",
-"title": "Investigations of human platelet-type 12-lipoxygenase: role of lipoxygenase products in platelet activation.",
 "journal": "J Lipid Res",
+"title": "Investigations of human platelet-type 12-lipoxygenase: role of lipoxygenase products in platelet activation.",
+"year": "2012",
 "db": "pubmed",
 "id": "22984144"
 },
 {
 "authors": "McDonnell M et al.",
-"year": "2001",
-"title": "Characterization of the murine epidermal 12/15-lipoxygenase.",
 "journal": "Prostaglandins Other Lipid Mediat",
+"title": "Characterization of the murine epidermal 12/15-lipoxygenase.",
+"year": "2001",
 "db": "pubmed",
 "id": "11204741"
 },
 {
 "authors": "Mashima R et al.",
-"year": "2015",
-"title": "The role of lipoxygenases in pathophysiology; new insights and future perspectives.",
 "journal": "Redox Biol",
+"title": "The role of lipoxygenases in pathophysiology; new insights and future perspectives.",
+"year": "2015",
 "db": "pubmed",
 "id": "26298204"
 }

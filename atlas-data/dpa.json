@@ -4,7 +4,7 @@
 "label": "n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-615.0,
+915.0,
 15.0,
 40.0,
 40.0
@@ -52,7 +52,7 @@
 "label": "RvD5 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-615.0,
+915.0,
 415.0,
 40.0,
 40.0
@@ -92,7 +92,7 @@
 "label": "PD1 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-915.0,
+1215.0,
 415.0,
 40.0,
 40.0
@@ -132,7 +132,7 @@
 "label": "MaR1 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-315.0,
+615.0,
 415.0,
 40.0,
 40.0
@@ -172,7 +172,7 @@
 "label": "13R-HDPA",
 "class": "SimpleChemical",
 "box": [
-15.0,
+315.0,
 215.0,
 40.0,
 40.0
@@ -212,7 +212,7 @@
 "label": "RvD1 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-915.0,
+1215.0,
 615.0,
 40.0,
 40.0
@@ -253,7 +253,7 @@
 "label": "",
 "class": "Process",
 "box": [
-623.0,
+923.0,
 123.0,
 24.0,
 24.0
@@ -310,7 +310,7 @@
 "label": "",
 "class": "Process",
 "box": [
-623.0,
+923.0,
 323.0,
 24.0,
 24.0
@@ -376,7 +376,7 @@
 "label": "",
 "class": "Process",
 "box": [
-923.0,
+1223.0,
 323.0,
 24.0,
 24.0
@@ -433,7 +433,7 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
+623.0,
 123.0,
 24.0,
 24.0
@@ -482,7 +482,7 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
+623.0,
 323.0,
 24.0,
 24.0
@@ -539,7 +539,7 @@
 "label": "",
 "class": "Process",
 "box": [
-23.0,
+323.0,
 123.0,
 24.0,
 24.0
@@ -588,7 +588,7 @@
 "label": "",
 "class": "Process",
 "box": [
-23.0,
+323.0,
 323.0,
 24.0,
 24.0
@@ -645,7 +645,7 @@
 "label": "",
 "class": "Process",
 "box": [
-923.0,
+1223.0,
 523.0,
 24.0,
 24.0
@@ -694,7 +694,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1223.0,
+1523.0,
 523.0,
 24.0,
 24.0
@@ -743,7 +743,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1523.0,
+1823.0,
 123.0,
 24.0,
 24.0
@@ -757,8 +757,8 @@
 "n-3 DPA epoxides"
 ],
 "by": [
-"CYP2C19",
 "CYP2C9",
+"CYP2C19",
 "CYP1A2"
 ]
 },
@@ -794,8 +794,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1523.0,
-323.0,
+1823.0,
+423.0,
 24.0,
 24.0
 ],
@@ -842,7 +842,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-676.0,
+976.0,
 115.0,
 80.0,
 40.0
@@ -898,7 +898,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-514.0,
+814.0,
 315.0,
 80.0,
 40.0
@@ -954,7 +954,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-745.0,
+1045.0,
 315.0,
 80.0,
 40.0
@@ -1003,62 +1003,6 @@
 [
 "UniProt",
 "P16050"
-]
-]
-},
-{
-"label": "ALOX5",
-"class": "Macromolecule",
-"box": [
-976.0,
-515.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Polyunsaturated fatty acid 5-lipoxygenase"
-],
-[
-"Alternative names",
-"Arachidonate 5-lipoxygenase"
-],
-[
-"Function",
-"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
-],
-[
-"Location",
-"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
-],
-[
-"HGNC",
-"HGNC:435"
-],
-[
-"HGNC symbol",
-"ALOX5"
-],
-[
-"Alias symbols",
-"5-LOX"
-],
-[
-"Entrez",
-"240"
-],
-[
-"Ensembl",
-"ENSG00000012779"
-],
-[
-"RefSeq",
-"NM_000698"
-],
-[
-"UniProt",
-"P09917"
 ]
 ]
 },
@@ -1119,10 +1063,66 @@
 ]
 },
 {
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+1576.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-159.0,
+459.0,
 215.0,
 80.0,
 40.0
@@ -1178,7 +1178,7 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-76.0,
+376.0,
 115.0,
 80.0,
 40.0
@@ -1234,7 +1234,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-76.0,
+376.0,
 315.0,
 80.0,
 40.0
@@ -1287,10 +1287,70 @@
 ]
 },
 {
+"label": "CYP2C9",
+"class": "Macromolecule",
+"box": [
+1876.0,
+45.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2C9"
+],
+[
+"Alternative names",
+"(R)-limonene 6-monooxygenase; (S)-limonene 6-monooxygenase; (S)-limonene 7-monooxygenase; CYPIIC9; Cholesterol 25-hydroxylase; Cytochrome P-450MP; Cytochrome P450 MP-4; Cytochrome P450 MP-8; Cytochrome P450 PB-1; S-mephenytoin 4-hydroxylase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and steroids. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2623"
+],
+[
+"HGNC symbol",
+"CYP2C9"
+],
+[
+"Previous symbols",
+"CYP2C10"
+],
+[
+"Alias symbols",
+"P450IIC9"
+],
+[
+"Entrez",
+"1559"
+],
+[
+"Ensembl",
+"ENSG00000138109"
+],
+[
+"RefSeq",
+"NM_000771"
+],
+[
+"UniProt",
+"P11712"
+]
+]
+},
+{
 "label": "CYP2C19",
 "class": "Macromolecule",
 "box": [
-1414.0,
+1876.0,
 115.0,
 80.0,
 40.0
@@ -1347,71 +1407,11 @@
 ]
 },
 {
-"label": "CYP2C9",
-"class": "Macromolecule",
-"box": [
-1576.0,
-80.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cytochrome P450 2C9"
-],
-[
-"Alternative names",
-"(R)-limonene 6-monooxygenase; (S)-limonene 6-monooxygenase; (S)-limonene 7-monooxygenase; CYPIIC9; Cholesterol 25-hydroxylase; Cytochrome P-450MP; Cytochrome P450 MP-4; Cytochrome P450 MP-8; Cytochrome P450 PB-1; S-mephenytoin 4-hydroxylase"
-],
-[
-"Function",
-"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and steroids. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Microsome membrane"
-],
-[
-"HGNC",
-"HGNC:2623"
-],
-[
-"HGNC symbol",
-"CYP2C9"
-],
-[
-"Previous symbols",
-"CYP2C10"
-],
-[
-"Alias symbols",
-"P450IIC9"
-],
-[
-"Entrez",
-"1559"
-],
-[
-"Ensembl",
-"ENSG00000138109"
-],
-[
-"RefSeq",
-"NM_000771"
-],
-[
-"UniProt",
-"P11712"
-]
-]
-},
-{
 "label": "CYP1A2",
 "class": "Macromolecule",
 "box": [
-1576.0,
-150.0,
+1876.0,
+185.0,
 80.0,
 40.0
 ],
@@ -1466,8 +1466,8 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-1576.0,
-315.0,
+1876.0,
+415.0,
 80.0,
 40.0
 ],

@@ -10,7 +10,7 @@ draft: false
 tag: "new"
 image: "/downloads/epa-pg3.svg"
 width: 1371
-height: 1070
+height: 1470
 scale: 1
 annotation: "/atlas-data/epa-pg3.json"
 image_error: ""
@@ -19,6 +19,8 @@ downloads:
   - {label: "SVG", url: "/downloads/epa-pg3.svg"}
 ---
 The cyclooxygenases turn eicosapentaenoic acid (EPA) into PGG3 and PGH3, and the same terminal synthases as for arachidonic acid make PGE3, PGD3, PGF3α, PGI3 and TXA3, which hydrolyses to TXB3. EPA is a poor substrate for COX-1, oxygenated at about a tenth of the rate of arachidonic acid, and COX-2 prefers arachidonic acid when both are present, so the 3-series is made in small amounts (Wada 2007). TXA3 acts on the thromboxane receptor about as strongly as TXA2 (Wada 2007). Its weak effect on platelets comes from how little is made. Prostacyclin I3 is formed in humans after EPA intake (Fischer 1987; Knapp 1986).
+
+Predicted steps, drawn with dashed arrows: the reduction of 15-keto-PGE3 and the PGJ3 series. The enzymes and the non-enzymatic chemistry are those of the 2-series, and no paper measures them on the 3-series.
 
 ## Source
 

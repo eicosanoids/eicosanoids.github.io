@@ -344,8 +344,8 @@
 "label": "15-oxo-PGA1",
 "class": "SimpleChemical",
 "box": [
-1215.0,
-1215.0,
+315.0,
+1015.0,
 40.0,
 40.0
 ],
@@ -384,7 +384,7 @@
 "label": "19-hydroxy-PGH1",
 "class": "SimpleChemical",
 "box": [
-315.0,
+915.0,
 615.0,
 40.0,
 40.0
@@ -486,33 +486,33 @@
 "references": [
 {
 "authors": "Levin G et al.",
-"year": "2002",
-"title": "Differential metabolism of dihomo-gamma-linolenic acid and arachidonic acid by cyclo-oxygenase-1 and cyclo-oxygenase-2: implications for cellular synthesis of prostaglandin E1 and prostaglandin E2.",
 "journal": "Biochem J",
+"title": "Differential metabolism of dihomo-gamma-linolenic acid and arachidonic acid by cyclo-oxygenase-1 and cyclo-oxygenase-2: implications for cellular synthesis of prostaglandin E1 and prostaglandin E2.",
+"year": "2002",
 "db": "pubmed",
 "id": "11939906"
 },
 {
 "authors": "Siess W et al.",
-"year": "1984",
-"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
+"year": "1984",
 "db": "pubmed",
 "id": "6089912"
 },
 {
 "authors": "Falardeau P et al.",
-"year": "1976",
-"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
+"year": "1976",
 "db": "pubmed",
 "id": "952987"
 },
 {
 "authors": "Fan YY et al.",
-"year": "2012",
-"title": "Characterization of an arachidonic acid-deficient (Fads1 knockout) mouse model.",
 "journal": "J Lipid Res",
+"title": "Characterization of an arachidonic acid-deficient (Fads1 knockout) mouse model.",
+"year": "2012",
 "db": "pubmed",
 "id": "22534642"
 }
@@ -544,25 +544,25 @@
 "references": [
 {
 "authors": "Levin G et al.",
-"year": "2002",
-"title": "Differential metabolism of dihomo-gamma-linolenic acid and arachidonic acid by cyclo-oxygenase-1 and cyclo-oxygenase-2: implications for cellular synthesis of prostaglandin E1 and prostaglandin E2.",
 "journal": "Biochem J",
+"title": "Differential metabolism of dihomo-gamma-linolenic acid and arachidonic acid by cyclo-oxygenase-1 and cyclo-oxygenase-2: implications for cellular synthesis of prostaglandin E1 and prostaglandin E2.",
+"year": "2002",
 "db": "pubmed",
 "id": "11939906"
 },
 {
 "authors": "Siess W et al.",
-"year": "1984",
-"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
+"year": "1984",
 "db": "pubmed",
 "id": "6089912"
 },
 {
 "authors": "Falardeau P et al.",
-"year": "1976",
-"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
+"year": "1976",
 "db": "pubmed",
 "id": "952987"
 }
@@ -593,41 +593,41 @@
 "references": [
 {
 "authors": "Falardeau P et al.",
-"year": "1976",
-"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
+"year": "1976",
 "db": "pubmed",
 "id": "952987"
 },
 {
 "authors": "Iversen L et al.",
-"year": "1992",
-"title": "Effect of dihomogammalinolenic acid and its 15-lipoxygenase metabolite on eicosanoid metabolism by human mononuclear leukocytes in vitro: selective inhibition of the 5-lipoxygenase pathway.",
 "journal": "Arch Dermatol Res",
+"title": "Effect of dihomogammalinolenic acid and its 15-lipoxygenase metabolite on eicosanoid metabolism by human mononuclear leukocytes in vitro: selective inhibition of the 5-lipoxygenase pathway.",
+"year": "1992",
 "db": "pubmed",
 "id": "1329675"
 },
 {
 "authors": "Manku MS et al.",
-"year": "1979",
-"title": "Differential regulation of the formation of prostaglandins and related substances from arachidonic acid and from dihomogammalinolenic acid. I. Effects of ethanol.",
 "journal": "Prostaglandins Med",
+"title": "Differential regulation of the formation of prostaglandins and related substances from arachidonic acid and from dihomogammalinolenic acid. I. Effects of ethanol.",
+"year": "1979",
 "db": "pubmed",
 "id": "552099"
 },
 {
 "authors": "Manku MS et al.",
-"year": "1979",
-"title": "Differential regulation of the formation of prostaglandins and related substances from arachidonic acid and from dihomogammalinolenic acid. II. Effects of vitamin C.",
 "journal": "Prostaglandins Med",
+"title": "Differential regulation of the formation of prostaglandins and related substances from arachidonic acid and from dihomogammalinolenic acid. II. Effects of vitamin C.",
+"year": "1979",
 "db": "pubmed",
 "id": "552100"
 },
 {
 "authors": "Siess W et al.",
-"year": "1984",
-"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
+"year": "1984",
 "db": "pubmed",
 "id": "6089912"
 },
@@ -664,25 +664,25 @@
 "references": [
 {
 "authors": "Falardeau P et al.",
-"year": "1976",
-"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
+"year": "1976",
 "db": "pubmed",
 "id": "952987"
 },
 {
 "authors": "Amagai Y et al.",
-"year": "2015",
-"title": "Dihomo-γ-linolenic acid prevents the development of atopic dermatitis through prostaglandin D1 production in NC/Tnd mice.",
 "journal": "J Dermatol Sci",
+"title": "Dihomo-γ-linolenic acid prevents the development of atopic dermatitis through prostaglandin D1 production in NC/Tnd mice.",
+"year": "2015",
 "db": "pubmed",
 "id": "25907057"
 },
 {
 "authors": "Tokumoto H et al.",
-"year": "1982",
-"title": "An NADP-linked 15-hydroxyprostaglandin dehydrogenase specific for prostaglandin D2 from swine brain.",
 "journal": "J Biol Chem",
+"title": "An NADP-linked 15-hydroxyprostaglandin dehydrogenase specific for prostaglandin D2 from swine brain.",
+"year": "1982",
 "db": "pubmed",
 "id": "6958674"
 }
@@ -713,41 +713,41 @@
 "references": [
 {
 "authors": "Falardeau P et al.",
-"year": "1976",
-"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
+"year": "1976",
 "db": "pubmed",
 "id": "952987"
 },
 {
 "authors": "Siess W et al.",
-"year": "1984",
-"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
+"year": "1984",
 "db": "pubmed",
 "id": "6089912"
 },
 {
 "authors": "Manku MS et al.",
-"year": "1979",
-"title": "Differential regulation of the formation of prostaglandins and related substances from arachidonic acid and from dihomogammalinolenic acid. I. Effects of ethanol.",
 "journal": "Prostaglandins Med",
+"title": "Differential regulation of the formation of prostaglandins and related substances from arachidonic acid and from dihomogammalinolenic acid. I. Effects of ethanol.",
+"year": "1979",
 "db": "pubmed",
 "id": "552099"
 },
 {
 "authors": "Manku MS et al.",
-"year": "1979",
-"title": "Differential regulation of the formation of prostaglandins and related substances from arachidonic acid and from dihomogammalinolenic acid. II. Effects of vitamin C.",
 "journal": "Prostaglandins Med",
+"title": "Differential regulation of the formation of prostaglandins and related substances from arachidonic acid and from dihomogammalinolenic acid. II. Effects of vitamin C.",
+"year": "1979",
 "db": "pubmed",
 "id": "552100"
 },
 {
 "authors": "Needleman P et al.",
-"year": "1976",
-"title": "Thromboxanes: selective biosynthesis and distinct biological properties.",
 "journal": "Science",
+"title": "Thromboxanes: selective biosynthesis and distinct biological properties.",
+"year": "1976",
 "db": "pubmed",
 "id": "945611"
 }
@@ -778,41 +778,41 @@
 "references": [
 {
 "authors": "Falardeau P et al.",
-"year": "1976",
-"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
+"year": "1976",
 "db": "pubmed",
 "id": "952987"
 },
 {
 "authors": "Siess W et al.",
-"year": "1984",
-"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
+"year": "1984",
 "db": "pubmed",
 "id": "6089912"
 },
 {
 "authors": "Chen CY et al.",
-"year": "2012",
-"title": "Functional analysis of human thromboxane synthase polymorphic variants.",
 "journal": "Pharmacogenet Genomics",
+"title": "Functional analysis of human thromboxane synthase polymorphic variants.",
+"year": "2012",
 "db": "pubmed",
 "id": "22735388"
 },
 {
 "authors": "Bui P et al.",
-"year": "2011",
-"title": "Human CYP2S1 metabolizes cyclooxygenase- and lipoxygenase-derived eicosanoids.",
 "journal": "Drug Metab Dispos",
+"title": "Human CYP2S1 metabolizes cyclooxygenase- and lipoxygenase-derived eicosanoids.",
+"year": "2011",
 "db": "pubmed",
 "id": "21068195"
 },
 {
 "authors": "Fu X et al.",
-"year": "2024",
-"title": "Non-enantioselective, enantioselective, and two-dimensional liquid chromatography coupled with tandem mass spectrometry for the study of stereochemical disposition of oxylipins in cGMP-regulated hemin-treated platelets.",
 "journal": "J Pharm Biomed Anal",
+"title": "Non-enantioselective, enantioselective, and two-dimensional liquid chromatography coupled with tandem mass spectrometry for the study of stereochemical disposition of oxylipins in cGMP-regulated hemin-treated platelets.",
+"year": "2024",
 "db": "pubmed",
 "id": "38943819"
 }
@@ -851,17 +851,17 @@
 },
 {
 "authors": "Jarabak J",
-"year": "1992",
-"title": "Polycyclic aromatic hydrocarbon quinones may be either substrates for or irreversible inhibitors of the human placental NAD-linked 15-hydroxyprostaglandin dehydrogenase.",
 "journal": "Arch Biochem Biophys",
+"title": "Polycyclic aromatic hydrocarbon quinones may be either substrates for or irreversible inhibitors of the human placental NAD-linked 15-hydroxyprostaglandin dehydrogenase.",
+"year": "1992",
 "db": "pubmed",
 "id": "1309294"
 },
 {
 "authors": "Bergholte JM et al.",
-"year": "1986",
-"title": "Isolation and properties of lung 15-hydroxyprostaglandin dehydrogenase from pregnant rabbits.",
 "journal": "Arch Biochem Biophys",
+"title": "Isolation and properties of lung 15-hydroxyprostaglandin dehydrogenase from pregnant rabbits.",
+"year": "1986",
 "db": "pubmed",
 "id": "3954355"
 }
@@ -890,17 +890,17 @@
 "references": [
 {
 "authors": "Hansen HS",
-"year": "1979",
-"title": "Purification and characterization of a 15-ketoprostaglandin delta 13-reductase from bovine lung.",
 "journal": "Biochim Biophys Acta",
+"title": "Purification and characterization of a 15-ketoprostaglandin delta 13-reductase from bovine lung.",
+"year": "1979",
 "db": "pubmed",
 "id": "224937"
 },
 {
 "authors": "Rady-Pentek P et al.",
-"year": "1997",
-"title": "Interindividual variation in the enzymatic 15-keto-reduction of 13,14-dihydro-15-keto-prostaglandin E1 in human liver and in human erythrocytes.",
 "journal": "Eur J Clin Pharmacol",
+"title": "Interindividual variation in the enzymatic 15-keto-reduction of 13,14-dihydro-15-keto-prostaglandin E1 in human liver and in human erythrocytes.",
+"year": "1997",
 "db": "pubmed",
 "id": "9174685"
 }
@@ -911,8 +911,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1223.0,
-1123.0,
+323.0,
+923.0,
 24.0,
 24.0
 ],
@@ -939,9 +939,9 @@
 },
 {
 "authors": "Tokumoto H et al.",
-"year": "1982",
-"title": "An NADP-linked 15-hydroxyprostaglandin dehydrogenase specific for prostaglandin D2 from swine brain.",
 "journal": "J Biol Chem",
+"title": "An NADP-linked 15-hydroxyprostaglandin dehydrogenase specific for prostaglandin D2 from swine brain.",
+"year": "1982",
 "db": "pubmed",
 "id": "6958674"
 }
@@ -952,7 +952,7 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
+923.0,
 523.0,
 24.0,
 24.0
@@ -1011,17 +1011,17 @@
 "references": [
 {
 "authors": "Heitmann J et al.",
-"year": "1995",
-"title": "Incorporation of 15-hydroxyeicosatrienoic acid in specific phospholipids of cultured human keratinocytes and psoriatic plaques.",
 "journal": "Exp Dermatol",
+"title": "Incorporation of 15-hydroxyeicosatrienoic acid in specific phospholipids of cultured human keratinocytes and psoriatic plaques.",
+"year": "1995",
 "db": "pubmed",
 "id": "7640878"
 },
 {
 "authors": "Ziboh VA et al.",
-"year": "2000",
-"title": "Significance of lipoxygenase-derived monohydroxy fatty acids in cutaneous biology.",
 "journal": "Prostaglandins Other Lipid Mediat",
+"title": "Significance of lipoxygenase-derived monohydroxy fatty acids in cutaneous biology.",
+"year": "2000",
 "db": "pubmed",
 "id": "11104337"
 }
@@ -1052,41 +1052,41 @@
 "references": [
 {
 "authors": "Iversen L et al.",
-"year": "1991",
-"title": "Linoleic acid and dihomogammalinolenic acid inhibit leukotriene B4 formation and stimulate the formation of their 15-lipoxygenase products by human neutrophils in vitro. Evidence of formation of antiinflammatory compounds.",
 "journal": "Agents Actions",
+"title": "Linoleic acid and dihomogammalinolenic acid inhibit leukotriene B4 formation and stimulate the formation of their 15-lipoxygenase products by human neutrophils in vitro. Evidence of formation of antiinflammatory compounds.",
+"year": "1991",
 "db": "pubmed",
 "id": "1659156"
 },
 {
 "authors": "Chilton-Lopez et al.",
-"year": "1996",
-"title": "Metabolism of gammalinolenic acid in human neutrophils.",
 "journal": "J Immunol",
+"title": "Metabolism of gammalinolenic acid in human neutrophils.",
+"year": "1996",
 "db": "pubmed",
 "id": "8609415"
 },
 {
 "authors": "Iversen L et al.",
-"year": "1992",
-"title": "Effect of dihomogammalinolenic acid and its 15-lipoxygenase metabolite on eicosanoid metabolism by human mononuclear leukocytes in vitro: selective inhibition of the 5-lipoxygenase pathway.",
 "journal": "Arch Dermatol Res",
+"title": "Effect of dihomogammalinolenic acid and its 15-lipoxygenase metabolite on eicosanoid metabolism by human mononuclear leukocytes in vitro: selective inhibition of the 5-lipoxygenase pathway.",
+"year": "1992",
 "db": "pubmed",
 "id": "1329675"
 },
 {
 "authors": "Ziboh VA et al.",
-"year": "2000",
-"title": "Significance of lipoxygenase-derived monohydroxy fatty acids in cutaneous biology.",
 "journal": "Prostaglandins Other Lipid Mediat",
+"title": "Significance of lipoxygenase-derived monohydroxy fatty acids in cutaneous biology.",
+"year": "2000",
 "db": "pubmed",
 "id": "11104337"
 },
 {
 "authors": "Ziboh VA et al.",
-"year": "2000",
-"title": "Metabolism of polyunsaturated fatty acids by skin epidermal enzymes: generation of antiinflammatory and antiproliferative metabolites.",
 "journal": "Am J Clin Nutr",
+"title": "Metabolism of polyunsaturated fatty acids by skin epidermal enzymes: generation of antiinflammatory and antiproliferative metabolites.",
+"year": "2000",
 "db": "pubmed",
 "id": "10617998"
 }
@@ -1117,29 +1117,33 @@
 "references": [
 {
 "authors": "Ikei KN et al.",
-"year": "2012",
-"title": "Investigations of human platelet-type 12-lipoxygenase: role of lipoxygenase products in platelet activation.",
 "journal": "J Lipid Res",
+"title": "Investigations of human platelet-type 12-lipoxygenase: role of lipoxygenase products in platelet activation.",
+"year": "2012",
 "db": "pubmed",
 "id": "22984144"
 },
 {
 "authors": "Falardeau P et al.",
-"year": "1976",
-"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Metabolism of 8,11,14-eicosatrienoic acid in human platelets.",
+"year": "1976",
 "db": "pubmed",
 "id": "952987"
 },
 {
 "authors": "Siess W et al.",
-"year": "1984",
-"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
 "journal": "Biochim Biophys Acta",
+"title": "Dihomogammalinolenic acid, but not eicosapentaenoic acid, activates washed human platelets.",
+"year": "1984",
 "db": "pubmed",
 "id": "6089912"
 },
 {
+"authors": "Tourdot BE et al.",
+"year": "2017",
+"title": "12-HETrE inhibits platelet reactivity and thrombosis in part through the prostacyclin receptor.",
+"journal": "Blood Adv",
 "db": "pubmed",
 "id": "29296755"
 }
@@ -1489,7 +1493,7 @@
 "label": "CYP4F8",
 "class": "Macromolecule",
 "box": [
-376.0,
+976.0,
 515.0,
 80.0,
 40.0
@@ -1653,8 +1657,8 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-1276.0,
-1115.0,
+376.0,
+915.0,
 80.0,
 40.0
 ],
@@ -1702,6 +1706,62 @@
 [
 "UniProt",
 "P15428"
+]
+]
+},
+{
+"label": "ALOX12B",
+"class": "Macromolecule",
+"box": [
+1576.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Arachidonate 12-lipoxygenase, 12R-type"
+],
+[
+"Alternative names",
+"Epidermis-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of a single molecule of dioxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. In the skin, acts upstream of ALOXE3 on the lineolate moiety of esterified omega-hydroxyacyl-sphingosine (EOS) ceramides to produce an epoxy-ketone derivative, a crucial step in the conjugation of omega-hydroxyceramide to membrane proteins."
+],
+[
+"Location",
+"Cytoplasm, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:430"
+],
+[
+"HGNC symbol",
+"ALOX12B"
+],
+[
+"Alias symbols",
+"12R-LOX"
+],
+[
+"Entrez",
+"242"
+],
+[
+"Ensembl",
+"ENSG00000179477"
+],
+[
+"RefSeq",
+"NM_001139"
+],
+[
+"UniProt",
+"O75342"
 ]
 ]
 }

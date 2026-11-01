@@ -365,6 +365,46 @@
 ]
 },
 {
+"label": "22-hydroxy-PD1",
+"class": "SimpleChemical",
+"box": [
+416.0,
+615.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"22-hydroxyprotectin D1"
+],
+[
+"Synonyms",
+"(4Z,7Z,10R,11E,13E,15Z,17S,19Z)-10,17,22-trihydroxydocosa-4,7,11,13,15,19-hexaenoic acid; (4Z,7Z,10R,11E,13E,15Z,17S,19Z)-10,17,22-trihydroxydocosahexaenoic acid; 10(R),17(S),20-trihydroxydocosa-4Z,7Z,11E,13E,15Z,19Z-hexaenoic acid; 22-OH-PD1; 22-hydroxy-(neuro)protectin D1; 22-hydroxyneuroprotectin D1"
+],
+[
+"Definition",
+"A docosanoid that is protectin D1 in which one of the terminal methyl hydrogens has been replaced by a hydroxy group. An intermediate of specialised proresolving mediators"
+],
+[
+"Formula",
+"C22H32O5"
+],
+[
+"ChEBI",
+"CHEBI:140243"
+],
+[
+"InChI",
+"InChI=1S/C22H32O5/c23-19-13-7-11-17-21(25)16-10-6-5-9-15-20(24)14-8-3-1-2-4-12-18-22(26)27/h2-11,15-16,20-21,23-25H,1,12-14,17-19H2,(H,26,27)/b4-2-,6-5+,8-3-,11-7-,15-9+,16-10-/t20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"RXZULUQRGUAOLG-OCDBVANQSA-N"
+]
+]
+},
+{
 "id": "P1",
 "label": "",
 "class": "Process",

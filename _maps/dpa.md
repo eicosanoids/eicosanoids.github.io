@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/dpa.svg"
-width: 1671
+width: 2407
 height: 670
 scale: 1
 annotation: "/atlas-data/dpa.json"
@@ -19,6 +19,8 @@ downloads:
   - {label: "SVG", url: "/downloads/dpa.svg"}
 ---
 n-3 docosapentaenoic acid (DPA) is turned by the same lipoxygenases as DHA into its own resolvins, protectins and maresins: 15-lipoxygenase makes 17-HpDPA, the start of resolvin D5 n-3 DPA and protectin D1 n-3 DPA, and 12-lipoxygenase makes 14-HpDPA, the start of maresin 1 n-3 DPA (Dalli 2013). Resolvins D1 and D2 of the n-3 DPA series come from the same 17-hydroperoxide, and P450 enzymes make its epoxides and their diols. A further series, the 13-series resolvins RvT1 to RvT4, is made in two cells: COX-2 in endothelial cells turns DPA into 13R-HDPA, and neutrophil 5-lipoxygenase completes it (Dalli 2015).
+
+Predicted steps, drawn with dashed arrows: the oxidation of 13R-HDPA and the aspirin-triggered entry at carbon 17. Both follow the DHA series step for step, and neither is measured on n-3 docosapentaenoic acid.
 
 ## Source
 

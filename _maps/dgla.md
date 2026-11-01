@@ -10,7 +10,7 @@ draft: false
 tag: "new"
 image: "/downloads/dgla.svg"
 width: 1671
-height: 1270
+height: 1070
 scale: 1
 annotation: "/atlas-data/dgla.json"
 image_error: ""
@@ -19,6 +19,8 @@ downloads:
   - {label: "SVG", url: "/downloads/dgla.svg"}
 ---
 Cyclooxygenases turn dihomo-γ-linolenic acid (DGLA) into PGG1 and PGH1, the precursor of the 1-series prostanoids PGE1, PGD1, TXA1 and 12-HHTrE (Falardeau 1976; Siess 1984). Thromboxane A1 is made in small amounts and does not aggregate platelets. DGLA has no double bond at carbon 5, so it makes no leukotrienes. HPGD inactivates PGE1 to 15-oxo-PGE1, which is reduced further in one direction only. 15-lipoxygenase makes 15-HETrE, which blocks LTB4 formation and is stored in phospholipids (Iversen 1992), and platelet 12-lipoxygenase makes 12(S)-HETrE, which damps platelet activation through the prostacyclin receptor (Tourdot 2017). CYP4F8 hydroxylates PGH1 at carbon 19 in the seminal vesicles (Bylund 2000). Mast cells make PGD1 from DGLA (Amagai 2015), and in mice lacking the Δ5 desaturase the 1-series prostaglandins rise sharply (Fan 2012). PGA1 forms from PGE1 by dehydration as PGA2 does, and no 1-series paper measures that step, so it is not drawn.
+
+Two predicted steps are drawn with dashed arrows: 12R-lipoxygenase on DGLA, by analogy to its reaction with arachidonic acid, and the dehydration of PGE1 to PGA1, which gives PGA1 the source that the 2-series has in PGE2.
 
 ## Source
 

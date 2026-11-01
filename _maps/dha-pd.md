@@ -20,6 +20,8 @@ downloads:
 ---
 15-lipoxygenase turns 17S-HpDHA into a 16S,17S-epoxide, which opens to protectin D1 (neuroprotectin D1), or oxygenates it a second time at carbon 10 to give protectin DX, a stereoisomer made without the epoxide (Serhan 2006; Tsai 2021). The epoxide is also conjugated with glutathione to PCTR1, which γ-glutamyl transferase and a dipeptidase trim to PCTR2 and PCTR3. From 17R-HpDHA, the aspirin-triggered route gives the 17R epimer of protectin D1.
 
+One predicted step is drawn with a dashed arrow: the hydroxylation of protectin D1 at carbon 22. The product is measured and the enzyme is open, as mice lacking the Cyp1 enzymes do not make less of it.
+
 ## Source
 
 New content, drawn in blue until reviewed. Each step carries at least three references, checked on PubMed.
