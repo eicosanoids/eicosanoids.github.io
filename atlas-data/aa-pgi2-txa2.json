@@ -4,8 +4,8 @@
 "label": "PGH2",
 "class": "SimpleChemical",
 "box": [
-940.0,
-15.0,
+973.0,
+215.0,
 40.0,
 40.0
 ],
@@ -44,8 +44,8 @@
 "label": "TXA2",
 "class": "SimpleChemical",
 "box": [
-1240.0,
-215.0,
+1273.0,
+415.0,
 40.0,
 40.0
 ],
@@ -88,8 +88,8 @@
 "label": "TXB2",
 "class": "SimpleChemical",
 "box": [
-1240.0,
-415.0,
+1273.0,
+615.0,
 40.0,
 40.0
 ],
@@ -136,8 +136,8 @@
 "label": "11-dehydro-TXB2",
 "class": "SimpleChemical",
 "box": [
-1240.0,
-615.0,
+1273.0,
+815.0,
 40.0,
 40.0
 ],
@@ -184,8 +184,8 @@
 "label": "2,3-dinor-TXB2",
 "class": "SimpleChemical",
 "box": [
-1540.0,
-615.0,
+1573.0,
+815.0,
 40.0,
 40.0
 ],
@@ -220,8 +220,8 @@
 "label": "PGI2",
 "class": "SimpleChemical",
 "box": [
-640.0,
-215.0,
+673.0,
+415.0,
 40.0,
 40.0
 ],
@@ -260,7 +260,7 @@
 "label": "PGG2",
 "class": "SimpleChemical",
 "box": [
-1840.0,
+973.0,
 15.0,
 40.0,
 40.0
@@ -300,8 +300,8 @@
 "label": "6-keto-PGF1alpha",
 "class": "SimpleChemical",
 "box": [
-640.0,
-415.0,
+673.0,
+615.0,
 40.0,
 40.0
 ],
@@ -344,8 +344,8 @@
 "label": "6-keto-PGE1",
 "class": "SimpleChemical",
 "box": [
-940.0,
-615.0,
+973.0,
+815.0,
 40.0,
 40.0
 ],
@@ -388,8 +388,8 @@
 "label": "2,3-dinor-6-keto-PGF1alpha",
 "class": "SimpleChemical",
 "box": [
-640.0,
-615.0,
+673.0,
+815.0,
 40.0,
 40.0
 ],
@@ -429,12 +429,54 @@
 ]
 },
 {
+"id": "re29",
+"label": "",
+"class": "Process",
+"box": [
+981.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGG2"
+],
+"out": [
+"PGH2"
+],
+"by": [
+"PTGS2",
+"PTGS1"
+]
+},
+"references": [
+{
+"authors": "Eling TE et al.",
+"journal": "J Biol Chem",
+"title": "Studies on the reduction of endogenously generated prostaglandin G2 by prostaglandin H synthase.",
+"year": "1991",
+"db": "pubmed",
+"id": "1905721"
+},
+{
+"authors": "Hla T et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Human cyclooxygenase-2 cDNA.",
+"year": "1992",
+"db": "pubmed",
+"id": "1380156"
+}
+]
+},
+{
 "id": "re22",
 "label": "",
 "class": "Process",
 "box": [
-1248.0,
-323.0,
+1281.0,
+523.0,
 24.0,
 24.0
 ],
@@ -472,8 +514,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1248.0,
-523.0,
+1281.0,
+723.0,
 24.0,
 24.0
 ],
@@ -529,8 +571,8 @@
 "label": "",
 "class": "Process",
 "box": [
-648.0,
-123.0,
+681.0,
+323.0,
 24.0,
 24.0
 ],
@@ -570,8 +612,8 @@
 "label": "",
 "class": "Process",
 "box": [
-948.0,
-123.0,
+981.0,
+323.0,
 24.0,
 24.0
 ],
@@ -619,8 +661,8 @@
 "label": "",
 "class": "Process",
 "box": [
-648.0,
-523.0,
+681.0,
+723.0,
 24.0,
 24.0
 ],
@@ -658,8 +700,8 @@
 "label": "",
 "class": "Process",
 "box": [
-2148.0,
-123.0,
+81.0,
+323.0,
 24.0,
 24.0
 ],
@@ -707,8 +749,8 @@
 "label": "",
 "class": "Process",
 "box": [
-948.0,
-523.0,
+981.0,
+723.0,
 24.0,
 24.0
 ],
@@ -746,8 +788,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1848.0,
-323.0,
+1881.0,
+523.0,
 24.0,
 24.0
 ],
@@ -785,8 +827,8 @@
 "label": "",
 "class": "Process",
 "box": [
-648.0,
-323.0,
+681.0,
+523.0,
 24.0,
 24.0
 ],
@@ -832,8 +874,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1248.0,
-123.0,
+1281.0,
+323.0,
 24.0,
 24.0
 ],
@@ -873,8 +915,8 @@
 "label": "",
 "class": "Process",
 "box": [
-348.0,
-323.0,
+381.0,
+523.0,
 24.0,
 24.0
 ],
@@ -914,8 +956,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1548.0,
-523.0,
+1581.0,
+723.0,
 24.0,
 24.0
 ],
@@ -953,8 +995,8 @@
 "label": "",
 "class": "Process",
 "box": [
-198.0,
-423.0,
+231.0,
+623.0,
 24.0,
 24.0
 ],
@@ -1002,8 +1044,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1848.0,
-123.0,
+1881.0,
+323.0,
 24.0,
 24.0
 ],
@@ -1039,11 +1081,123 @@
 ]
 },
 {
+"label": "PTGS2",
+"class": "Macromolecule",
+"box": [
+872.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 2"
+],
+[
+"Alternative names",
+"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
+],
+[
+"HGNC",
+"HGNC:9605"
+],
+[
+"HGNC symbol",
+"PTGS2"
+],
+[
+"Alias symbols",
+"COX2"
+],
+[
+"Entrez",
+"5743"
+],
+[
+"Ensembl",
+"ENSG00000073756"
+],
+[
+"RefSeq",
+"NM_000963"
+],
+[
+"UniProt",
+"P35354"
+]
+]
+},
+{
+"label": "PTGS1",
+"class": "Macromolecule",
+"box": [
+1034.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 1"
+],
+[
+"Alternative names",
+"Cyclooxygenase-1; Prostaglandin H2 synthase 1; Prostaglandin-endoperoxide synthase 1"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase that plays an important role in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9604"
+],
+[
+"HGNC symbol",
+"PTGS1"
+],
+[
+"Alias symbols",
+"COX1, PGHS-1, PTGHS"
+],
+[
+"Entrez",
+"5742"
+],
+[
+"Ensembl",
+"ENSG00000095303"
+],
+[
+"RefSeq",
+"NM_000962"
+],
+[
+"UniProt",
+"P23219"
+]
+]
+},
+{
 "label": "PTGIS",
 "class": "Macromolecule",
 "box": [
-701.0,
-115.0,
+734.0,
+315.0,
 80.0,
 40.0
 ],
@@ -1098,8 +1252,8 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-401.0,
-315.0,
+434.0,
+515.0,
 80.0,
 40.0
 ],
@@ -1154,8 +1308,8 @@
 "label": "PTGIS",
 "class": "Macromolecule",
 "box": [
-170.0,
-476.0,
+203.0,
+676.0,
 80.0,
 40.0
 ],
@@ -1210,8 +1364,8 @@
 "label": "ALDH1A1",
 "class": "Macromolecule",
 "box": [
-1301.0,
-515.0,
+1334.0,
+715.0,
 80.0,
 40.0
 ],
@@ -1270,8 +1424,8 @@
 "label": "TBXAS1",
 "class": "Macromolecule",
 "box": [
-1070.0,
-115.0,
+1103.0,
+315.0,
 80.0,
 40.0
 ],
@@ -1326,8 +1480,8 @@
 "label": "PTGIS",
 "class": "Macromolecule",
 "box": [
-2201.0,
-115.0,
+134.0,
+315.0,
 80.0,
 40.0
 ],
@@ -1382,8 +1536,8 @@
 "label": "TBXAS1",
 "class": "Macromolecule",
 "box": [
-1901.0,
-115.0,
+1934.0,
+315.0,
 80.0,
 40.0
 ],
