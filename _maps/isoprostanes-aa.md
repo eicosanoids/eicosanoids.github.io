@@ -1,13 +1,13 @@
 ---
 title: "Isoprostanes from arachidonic acid"
-topic: "Isoprostanes"
-tab: "AA"
+topic: "Isoprostanes (AA)"
+tab: ""
 page: ""
-group: "Isoprostanes"
+group: "Starting maps"
 order: 9
 kind: "map"
 draft: false
-tag: "new"
+tag: ""
 image: "/downloads/isoprostanes-aa.svg"
 width: 392
 height: 366

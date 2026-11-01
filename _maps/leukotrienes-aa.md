@@ -1,13 +1,13 @@
 ---
 title: "Leukotrienes from arachidonic acid"
-topic: "Leukotrienes"
-tab: "AA"
+topic: "Leukotrienes (AA)"
+tab: ""
 page: ""
-group: "Leukotrienes"
+group: "Starting maps"
 order: 5
 kind: "map"
 draft: false
-tag: "new"
+tag: ""
 image: "/downloads/leukotrienes-aa.svg"
 width: 2692
 height: 1187

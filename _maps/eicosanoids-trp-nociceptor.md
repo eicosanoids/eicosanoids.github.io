@@ -1,10 +1,10 @@
 ---
 title: "Eicosanoids - TRPV1, TRPA1"
-topic: "Eicosanoids on TRP channels"
-tab: "TRPV1 and TRPA1"
+topic: "Eicosanoids on TRP channels (TRPV1 and TRPA1)"
+tab: ""
 page: ""
-group: "Ion channels"
-order: 30
+group: "Starting maps"
+order: 20
 kind: "map"
 draft: false
 tag: ""

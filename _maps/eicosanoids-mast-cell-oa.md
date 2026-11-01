@@ -1,7 +1,7 @@
 ---
 title: "Eicosanoids (mast cell)"
-topic: "Eicosanoid production"
-tab: "mast cell"
+topic: "Eicosanoid production (mast cell)"
+tab: ""
 page: ""
 group: "Starting maps"
 order: 2

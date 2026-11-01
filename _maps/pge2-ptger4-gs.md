@@ -1,9 +1,9 @@
 ---
 title: "PGE2 - PTGER4 - Gsα"
-topic: "PGE2 receptors"
-tab: "EP4, Gs"
+topic: "PGE2 receptors (EP4, Gs)"
+tab: ""
 page: ""
-group: "Receptors"
+group: "Starting maps"
 order: 13
 kind: "map"
 draft: false

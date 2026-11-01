@@ -1,13 +1,13 @@
 ---
 title: "Cytochrome P450 products from arachidonic acid"
-topic: "Cytochrome P450 products"
-tab: "AA"
+topic: "Cytochrome P450 products (AA)"
+tab: ""
 page: ""
-group: "Cytochrome P450 products"
+group: "Starting maps"
 order: 8
 kind: "map"
 draft: false
-tag: "new"
+tag: ""
 image: "/downloads/cyp-aa.svg"
 width: 1032
 height: 603

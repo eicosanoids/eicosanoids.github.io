@@ -1,9 +1,9 @@
 ---
 title: "PGD2 - PTGDR - Gsα"
-topic: "PGD2 receptors"
-tab: "DP1, Gs"
+topic: "PGD2 receptors (DP1, Gs)"
+tab: ""
 page: ""
-group: "Receptors"
+group: "Starting maps"
 order: 14
 kind: "map"
 draft: false

@@ -1,9 +1,9 @@
 ---
 title: "PGE2 - PTGER3 - Giα"
-topic: "PGE2 receptors"
-tab: "EP3, Gi"
+topic: "PGE2 receptors (EP3, Gi)"
+tab: ""
 page: ""
-group: "Receptors"
+group: "Starting maps"
 order: 12
 kind: "map"
 draft: false

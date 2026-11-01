@@ -1,13 +1,13 @@
 ---
 title: "Lipoxins from arachidonic acid"
-topic: "Lipoxins"
-tab: "AA"
+topic: "Lipoxins (AA)"
+tab: ""
 page: ""
-group: "Lipoxins"
+group: "Starting maps"
 order: 7
 kind: "map"
 draft: false
-tag: "new"
+tag: ""
 image: "/downloads/lipoxins-aa.svg"
 width: 2449
 height: 1240

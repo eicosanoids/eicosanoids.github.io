@@ -1,9 +1,9 @@
 ---
 title: "LTB4 - LTB4R & LTB4R2 - Gqα"
-topic: "LTB4 receptors"
-tab: "BLT1 and BLT2"
+topic: "LTB4 receptors (BLT1 and BLT2)"
+tab: ""
 page: ""
-group: "Receptors"
+group: "Starting maps"
 order: 17
 kind: "map"
 draft: false

@@ -1,9 +1,9 @@
 ---
 title: "PGE2 - PTGER1 - Gqα"
-topic: "PGE2 receptors"
-tab: "EP1, Gq"
+topic: "PGE2 receptors (EP1, Gq)"
+tab: ""
 page: ""
-group: "Receptors"
+group: "Starting maps"
 order: 10
 kind: "map"
 draft: false

@@ -1,13 +1,13 @@
 ---
 title: "Release of arachidonic acid"
-topic: "Release"
-tab: "AA"
+topic: "Release (AA)"
+tab: ""
 page: ""
-group: "Release"
+group: "Starting maps"
 order: 3
 kind: "map"
 draft: false
-tag: "new"
+tag: ""
 image: "/downloads/release-aa.svg"
 width: 202
 height: 577

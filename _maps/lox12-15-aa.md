@@ -1,13 +1,13 @@
 ---
 title: "12- and 15-lipoxygenase products from arachidonic acid"
-topic: "12- and 15-lipoxygenase products"
-tab: "AA"
+topic: "12- and 15-lipoxygenase products (AA)"
+tab: ""
 page: ""
-group: "12- and 15-lipoxygenase products"
+group: "Starting maps"
 order: 6
 kind: "map"
 draft: false
-tag: "new"
+tag: ""
 image: "/downloads/lox12-15-aa.svg"
 width: 1477
 height: 1501

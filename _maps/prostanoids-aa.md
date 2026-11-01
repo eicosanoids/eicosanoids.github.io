@@ -1,13 +1,13 @@
 ---
 title: "Prostanoids from arachidonic acid"
-topic: "Prostanoids"
-tab: "AA"
+topic: "Prostanoids (AA)"
+tab: ""
 page: ""
-group: "Prostanoids"
+group: "Starting maps"
 order: 4
 kind: "map"
 draft: false
-tag: "new"
+tag: ""
 image: "/downloads/prostanoids-aa.svg"
 width: 2204
 height: 1141

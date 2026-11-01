@@ -1,9 +1,9 @@
 ---
 title: "PGE2 - PTGER2 - Gsα, Gs cycle and adenylate cyclase"
-topic: "PGE2 receptors"
-tab: "EP2, Gs"
+topic: "PGE2 receptors (EP2, Gs)"
+tab: ""
 page: ""
-group: "Receptors"
+group: "Starting maps"
 order: 11
 kind: "map"
 draft: false

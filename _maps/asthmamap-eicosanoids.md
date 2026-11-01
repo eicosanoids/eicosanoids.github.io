@@ -1,7 +1,7 @@
 ---
 title: "Eicosanoid production (AsthmaMap)"
-topic: "Eicosanoid production"
-tab: "AsthmaMap"
+topic: "Eicosanoid production (AsthmaMap)"
+tab: ""
 page: ""
 group: "Starting maps"
 order: 1

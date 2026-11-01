@@ -1,9 +1,9 @@
 ---
 title: "PGI2 - PTGIR - Gsα"
-topic: "PGI2 receptor"
-tab: "IP, Gs"
+topic: "PGI2 receptor (IP, Gs)"
+tab: ""
 page: ""
-group: "Receptors"
+group: "Starting maps"
 order: 16
 kind: "map"
 draft: false
