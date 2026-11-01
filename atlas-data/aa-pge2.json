@@ -5,7 +5,7 @@
 "class": "SimpleChemical",
 "box": [
 357.0,
-415.0,
+615.0,
 40.0,
 40.0
 ],
@@ -45,7 +45,7 @@
 "class": "SimpleChemical",
 "box": [
 357.0,
-615.0,
+815.0,
 40.0,
 40.0
 ],
@@ -93,7 +93,7 @@
 "class": "SimpleChemical",
 "box": [
 957.0,
-815.0,
+1015.0,
 40.0,
 40.0
 ],
@@ -133,7 +133,7 @@
 "class": "SimpleChemical",
 "box": [
 957.0,
-1015.0,
+1215.0,
 40.0,
 40.0
 ],
@@ -177,7 +177,7 @@
 "class": "SimpleChemical",
 "box": [
 957.0,
-1215.0,
+1415.0,
 40.0,
 40.0
 ],
@@ -217,7 +217,7 @@
 "class": "SimpleChemical",
 "box": [
 57.0,
-615.0,
+815.0,
 40.0,
 40.0
 ],
@@ -257,7 +257,7 @@
 "class": "SimpleChemical",
 "box": [
 357.0,
-215.0,
+415.0,
 40.0,
 40.0
 ],
@@ -297,7 +297,7 @@
 "class": "SimpleChemical",
 "box": [
 357.0,
-15.0,
+215.0,
 40.0,
 40.0
 ],
@@ -345,7 +345,7 @@
 "class": "SimpleChemical",
 "box": [
 357.0,
-815.0,
+1015.0,
 40.0,
 40.0
 ],
@@ -389,7 +389,7 @@
 "class": "SimpleChemical",
 "box": [
 357.0,
-1015.0,
+1215.0,
 40.0,
 40.0
 ],
@@ -433,7 +433,7 @@
 "class": "SimpleChemical",
 "box": [
 657.0,
-815.0,
+1015.0,
 40.0,
 40.0
 ],
@@ -473,7 +473,7 @@
 "class": "SimpleChemical",
 "box": [
 57.0,
-215.0,
+415.0,
 40.0,
 40.0
 ],
@@ -518,7 +518,7 @@
 "class": "Process",
 "box": [
 665.0,
-323.0,
+523.0,
 24.0,
 24.0
 ],
@@ -559,7 +559,7 @@
 "class": "Process",
 "box": [
 365.0,
-123.0,
+323.0,
 24.0,
 24.0
 ],
@@ -609,7 +609,7 @@
 "class": "Process",
 "box": [
 65.0,
-123.0,
+323.0,
 24.0,
 24.0
 ],
@@ -651,7 +651,7 @@
 "class": "Process",
 "box": [
 365.0,
-323.0,
+523.0,
 24.0,
 24.0
 ],
@@ -693,7 +693,7 @@
 "class": "Process",
 "box": [
 365.0,
-523.0,
+723.0,
 24.0,
 24.0
 ],
@@ -752,7 +752,7 @@
 "class": "Process",
 "box": [
 965.0,
-723.0,
+923.0,
 24.0,
 24.0
 ],
@@ -791,7 +791,7 @@
 "class": "Process",
 "box": [
 365.0,
-923.0,
+1123.0,
 24.0,
 24.0
 ],
@@ -849,7 +849,7 @@
 "class": "Process",
 "box": [
 65.0,
-523.0,
+723.0,
 24.0,
 24.0
 ],
@@ -898,7 +898,7 @@
 "class": "Process",
 "box": [
 965.0,
-923.0,
+1123.0,
 24.0,
 24.0
 ],
@@ -929,7 +929,7 @@
 "class": "Process",
 "box": [
 965.0,
-1123.0,
+1323.0,
 24.0,
 24.0
 ],
@@ -960,7 +960,7 @@
 "class": "Process",
 "box": [
 665.0,
-723.0,
+923.0,
 24.0,
 24.0
 ],
@@ -999,7 +999,7 @@
 "class": "Process",
 "box": [
 365.0,
-723.0,
+923.0,
 24.0,
 24.0
 ],
@@ -1035,7 +1035,145 @@
 ]
 },
 {
-"label": "PTGS1",
+"label": "Lecithin",
+"class": "SimpleChemical",
+"box": [
+357.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"lecithin"
+],
+[
+"Definition",
+"A lipid-rich mixture containing glycerol, fatty acids, phosphoric acid and other components."
+],
+[
+"ChEBI",
+"CHEBI:61995"
+]
+]
+},
+{
+"id": "re135",
+"label": "",
+"class": "Process",
+"box": [
+365.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"Lecithin"
+],
+"out": [
+"AA"
+],
+"by": [
+"PLA2G4C",
+"PLA2G4A"
+]
+},
+"references": [
+{
+"authors": "Clark JD et al.",
+"journal": "Cell",
+"title": "A novel arachidonic acid-selective cytosolic PLA2 contains a Ca(2+)-dependent translocation domain with homology to PKC and GAP.",
+"year": "1991",
+"db": "pubmed",
+"id": "1904318"
+},
+{
+"authors": "Underwood KW et al.",
+"journal": "J Biol Chem",
+"title": "A novel calcium-independent phospholipase A2, cPLA2-gamma, that is prenylated and contains homology to cPLA2.",
+"year": "1998",
+"db": "pubmed",
+"id": "9705332"
+},
+{
+"authors": "Ueno N et al.",
+"journal": "J Biol Chem",
+"title": "Analysis of two major intracellular phospholipases A(2) (PLA(2)) in mast cells reveals crucial contribution of cytosolic PLA(2)α, not Ca(2+)-independent PLA(2)β, to lipid mobilization in proximal mast cells and distal fibroblasts.",
+"year": "2011",
+"db": "pubmed",
+"id": "21880721"
+},
+{
+"authors": "Nakatani Y et al.",
+"journal": "J Immunol",
+"title": "Dual regulation of cytosolic phospholipase A2 in mast cells after cross-linking of FC epsilon-receptor.",
+"year": "1994",
+"db": "pubmed",
+"id": "7517423"
+}
+]
+},
+{
+"label": "PLA2G4C",
+"class": "Macromolecule",
+"box": [
+256.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytosolic phospholipase A2 gamma"
+],
+[
+"Alternative names",
+"Cytosolic lysophospholipase; Cytosolic lysophospholipid O-acyltransferase; Phospholipase A2 group IVC"
+],
+[
+"Function",
+"Calcium-independent phospholipase, lysophospholipase and O-acyltransferase involved in phospholipid remodeling with implications in endoplasmic reticulum membrane homeostasis and lipid droplet biogenesis. Preferentially hydrolyzes the ester bond of the fatty acyl group attached at the sn-2 position of phospholipids with choline and ethanolamine head groups, producing lysophospholipids that are used in deacylation-reacylation cycles."
+],
+[
+"Location",
+"Cell membrane, Endoplasmic reticulum membrane, Mitochondrion membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:9037"
+],
+[
+"HGNC symbol",
+"PLA2G4C"
+],
+[
+"Alias symbols",
+"cPLA2-gamma"
+],
+[
+"Entrez",
+"8605"
+],
+[
+"Ensembl",
+"ENSG00000105499"
+],
+[
+"RefSeq",
+"NM_001159322"
+],
+[
+"UniProt",
+"Q9UP65"
+]
+]
+},
+{
+"label": "PLA2G4A",
 "class": "Macromolecule",
 "box": [
 418.0,
@@ -1046,159 +1184,51 @@
 "props": [
 [
 "Full name",
-"Prostaglandin G/H synthase 1"
+"Cytosolic phospholipase A2"
 ],
 [
 "Alternative names",
-"Cyclooxygenase-1; Prostaglandin H2 synthase 1; Prostaglandin-endoperoxide synthase 1"
+"Phospholipase A2 group IVA"
 ],
 [
 "Function",
-"Dual cyclooxygenase and peroxidase that plays an important role in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+"Has primarily calcium-dependent phospholipase and lysophospholipase activities, with a major role in membrane lipid remodeling and biosynthesis of lipid mediators of the inflammatory response. Plays an important role in embryo implantation and parturition through its ability to trigger prostanoid production."
 ],
 [
 "Location",
-"Microsome membrane, Endoplasmic reticulum membrane"
+"Cytoplasm, Golgi apparatus membrane, Nucleus envelope"
 ],
 [
 "HGNC",
-"HGNC:9604"
+"HGNC:9035"
 ],
 [
 "HGNC symbol",
-"PTGS1"
+"PLA2G4A"
+],
+[
+"Previous symbols",
+"PLA2G4"
 ],
 [
 "Alias symbols",
-"COX1, PGHS-1, PTGHS"
+"cPLA2-alpha"
 ],
 [
 "Entrez",
-"5742"
+"5321"
 ],
 [
 "Ensembl",
-"ENSG00000095303"
+"ENSG00000116711"
 ],
 [
 "RefSeq",
-"NM_000962"
+"NM_024420"
 ],
 [
 "UniProt",
-"P23219"
-]
-]
-},
-{
-"label": "PTGS2",
-"class": "Macromolecule",
-"box": [
-201.0,
-207.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin G/H synthase 2"
-],
-[
-"Alternative names",
-"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
-],
-[
-"Function",
-"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
-],
-[
-"Location",
-"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
-],
-[
-"HGNC",
-"HGNC:9605"
-],
-[
-"HGNC symbol",
-"PTGS2"
-],
-[
-"Alias symbols",
-"COX2"
-],
-[
-"Entrez",
-"5743"
-],
-[
-"Ensembl",
-"ENSG00000073756"
-],
-[
-"RefSeq",
-"NM_000963"
-],
-[
-"UniProt",
-"P35354"
-]
-]
-},
-{
-"label": "PTGS1",
-"class": "Macromolecule",
-"box": [
-118.0,
-115.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Prostaglandin G/H synthase 1"
-],
-[
-"Alternative names",
-"Cyclooxygenase-1; Prostaglandin H2 synthase 1; Prostaglandin-endoperoxide synthase 1"
-],
-[
-"Function",
-"Dual cyclooxygenase and peroxidase that plays an important role in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
-],
-[
-"Location",
-"Microsome membrane, Endoplasmic reticulum membrane"
-],
-[
-"HGNC",
-"HGNC:9604"
-],
-[
-"HGNC symbol",
-"PTGS1"
-],
-[
-"Alias symbols",
-"COX1, PGHS-1, PTGHS"
-],
-[
-"Entrez",
-"5742"
-],
-[
-"Ensembl",
-"ENSG00000095303"
-],
-[
-"RefSeq",
-"NM_000962"
-],
-[
-"UniProt",
-"P23219"
+"P47712"
 ]
 ]
 },
@@ -1259,11 +1289,179 @@
 ]
 },
 {
+"label": "PTGS2",
+"class": "Macromolecule",
+"box": [
+201.0,
+407.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 2"
+],
+[
+"Alternative names",
+"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
+],
+[
+"HGNC",
+"HGNC:9605"
+],
+[
+"HGNC symbol",
+"PTGS2"
+],
+[
+"Alias symbols",
+"COX2"
+],
+[
+"Entrez",
+"5743"
+],
+[
+"Ensembl",
+"ENSG00000073756"
+],
+[
+"RefSeq",
+"NM_000963"
+],
+[
+"UniProt",
+"P35354"
+]
+]
+},
+{
+"label": "PTGS1",
+"class": "Macromolecule",
+"box": [
+118.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 1"
+],
+[
+"Alternative names",
+"Cyclooxygenase-1; Prostaglandin H2 synthase 1; Prostaglandin-endoperoxide synthase 1"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase that plays an important role in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9604"
+],
+[
+"HGNC symbol",
+"PTGS1"
+],
+[
+"Alias symbols",
+"COX1, PGHS-1, PTGHS"
+],
+[
+"Entrez",
+"5742"
+],
+[
+"Ensembl",
+"ENSG00000095303"
+],
+[
+"RefSeq",
+"NM_000962"
+],
+[
+"UniProt",
+"P23219"
+]
+]
+},
+{
+"label": "PTGS1",
+"class": "Macromolecule",
+"box": [
+418.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 1"
+],
+[
+"Alternative names",
+"Cyclooxygenase-1; Prostaglandin H2 synthase 1; Prostaglandin-endoperoxide synthase 1"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase that plays an important role in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9604"
+],
+[
+"HGNC symbol",
+"PTGS1"
+],
+[
+"Alias symbols",
+"COX1, PGHS-1, PTGHS"
+],
+[
+"Entrez",
+"5742"
+],
+[
+"Ensembl",
+"ENSG00000095303"
+],
+[
+"RefSeq",
+"NM_000962"
+],
+[
+"UniProt",
+"P23219"
+]
+]
+},
+{
 "label": "PTGES2",
 "class": "Macromolecule",
 "box": [
 256.0,
-515.0,
+715.0,
 80.0,
 40.0
 ],
@@ -1323,7 +1521,7 @@
 "class": "Macromolecule",
 "box": [
 418.0,
-515.0,
+715.0,
 80.0,
 40.0
 ],
@@ -1379,7 +1577,7 @@
 "class": "Macromolecule",
 "box": [
 489.0,
-415.0,
+615.0,
 80.0,
 40.0
 ],
@@ -1439,7 +1637,7 @@
 "class": "Macromolecule",
 "box": [
 118.0,
-515.0,
+715.0,
 80.0,
 40.0
 ],
@@ -1491,7 +1689,7 @@
 "class": "Macromolecule",
 "box": [
 418.0,
-715.0,
+915.0,
 80.0,
 40.0
 ],
@@ -1547,7 +1745,7 @@
 "class": "Macromolecule",
 "box": [
 256.0,
-915.0,
+1115.0,
 80.0,
 40.0
 ],
@@ -1607,7 +1805,7 @@
 "class": "Macromolecule",
 "box": [
 418.0,
-915.0,
+1115.0,
 80.0,
 40.0
 ],
