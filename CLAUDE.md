@@ -13,9 +13,9 @@ comments, commit messages): the maps are built in "a private repository", whose 
 - The viewer (`_includes/atlas-app.html`, `atlas-tags.css`), `meta.html`, the page layouts and the styles are copied
   from the Metabolism Regulation website (`VERSION` names the commit). A change to the viewer is made there, where the
   MRegAtlas and the Pattern Atlas use the same code, and copied here.
-- The header (name, subtitle, logo) is `_config.yml`, the menu `_data/nav.yml` (an entry with items is a drop-down).
-  Every page stays in the menu (user, 2026-11-01). Logo and tab icons come from the favicon skill (the logo is the
-  large one, the tab icon `images/favicon/`).
+- The header (name, subtitle) is `_config.yml`, the menu `_data/nav.yml` (an entry with items is a drop-down).
+  Every page stays in the menu (user, 2026-11-01). No logo in the header (user, 2026-11-01: removed; `images/logo.svg`
+  kept, shown again by `avatar:` in `_config.yml`). Tab icons come from the favicon skill (`images/favicon/`).
 
 ## Addresses (user, 2026-11-01)
 
