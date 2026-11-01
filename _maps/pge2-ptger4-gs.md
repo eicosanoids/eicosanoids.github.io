@@ -4,7 +4,7 @@ topic: "PGE2 receptors (EP4, Gs)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 13
+order: 113
 kind: "map"
 draft: false
 tag: ""

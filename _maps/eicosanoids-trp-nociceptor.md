@@ -4,7 +4,7 @@ topic: "Eicosanoids on TRP channels (TRPV1 and TRPA1)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 20
+order: 120
 kind: "map"
 draft: false
 tag: ""

@@ -4,7 +4,7 @@ topic: "Eicosanoid production (AsthmaMap)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 1
+order: 101
 kind: "map"
 draft: false
 tag: ""

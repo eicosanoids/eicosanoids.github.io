@@ -24,25 +24,25 @@
 "references": [
 {
 "authors": "Okubo M et al.",
-"year": "2010",
-"title": "Expression of leukotriene receptors in the rat dorsal root ganglion and the effects on pain behaviors.",
 "journal": "Mol Pain",
+"title": "Expression of leukotriene receptors in the rat dorsal root ganglion and the effects on pain behaviors.",
+"year": "2010",
 "db": "pubmed",
 "id": "20846451"
 },
 {
 "authors": "Heise CE et al.",
-"year": "2000",
-"title": "Characterization of the human cysteinyl leukotriene 2 receptor.",
 "journal": "J Biol Chem",
+"title": "Characterization of the human cysteinyl leukotriene 2 receptor.",
+"year": "2000",
 "db": "pubmed",
 "id": "10851239"
 },
 {
 "authors": "Voisin T et al.",
-"year": "2021",
-"title": "The CysLT(2)R receptor mediates leukotriene C(4)-driven acute and chronic itch.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "The CysLT(2)R receptor mediates leukotriene C(4)-driven acute and chronic itch.",
+"year": "2021",
 "db": "pubmed",
 "id": "33753496"
 }
@@ -234,41 +234,41 @@
 "references": [
 {
 "authors": "Okubo M et al.",
-"year": "2010",
-"title": "Expression of leukotriene receptors in the rat dorsal root ganglion and the effects on pain behaviors.",
 "journal": "Mol Pain",
+"title": "Expression of leukotriene receptors in the rat dorsal root ganglion and the effects on pain behaviors.",
+"year": "2010",
 "db": "pubmed",
 "id": "20846451"
 },
 {
 "authors": "Teixeira JM et al.",
-"year": "2017",
-"title": "P2X3 and P2X2/3 Receptors Play a Crucial Role in Articular Hyperalgesia Development Through Inflammatory Mechanisms in the Knee Joint Experimental Synovitis.",
 "journal": "Mol Neurobiol",
+"title": "P2X3 and P2X2/3 Receptors Play a Crucial Role in Articular Hyperalgesia Development Through Inflammatory Mechanisms in the Knee Joint Experimental Synovitis.",
+"year": "2017",
 "db": "pubmed",
 "id": "27709491"
 },
 {
 "authors": "Kumahashi N et al.",
-"year": "2011",
-"title": "Correlation of changes in pain intensity with synovial fluid adenosine triphosphate levels after treatment of patients with osteoarthritis of the knee with high-molecular-weight hyaluronic acid.",
 "journal": "Knee",
+"title": "Correlation of changes in pain intensity with synovial fluid adenosine triphosphate levels after treatment of patients with osteoarthritis of the knee with high-molecular-weight hyaluronic acid.",
+"year": "2011",
 "db": "pubmed",
 "id": "20627733"
 },
 {
 "authors": "Habuchi H et al.",
-"year": "2021",
-"title": "Bone marrow derived mast cells injected into the osteoarthritic knee joints of mice induced by sodium monoiodoacetate enhanced spontaneous pain through activation of PAR2 and action of extracellular ATP.",
 "journal": "PLoS One",
+"title": "Bone marrow derived mast cells injected into the osteoarthritic knee joints of mice induced by sodium monoiodoacetate enhanced spontaneous pain through activation of PAR2 and action of extracellular ATP.",
+"year": "2021",
 "db": "pubmed",
 "id": "34086763"
 },
 {
 "authors": "Garcia-Guzman M et al.",
-"year": "1997",
-"title": "Molecular characterization and pharmacological properties of the human P2X3 purinoceptor.",
 "journal": "Brain Res Mol Brain Res",
+"title": "Molecular characterization and pharmacological properties of the human P2X3 purinoceptor.",
+"year": "1997",
 "db": "pubmed",
 "id": "9221902"
 }

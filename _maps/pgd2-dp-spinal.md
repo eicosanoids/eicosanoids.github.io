@@ -4,7 +4,7 @@ topic: "PGD2 receptors (DP1 and DP2, spinal cord)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 15
+order: 115
 kind: "map"
 draft: false
 tag: ""

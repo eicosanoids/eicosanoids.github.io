@@ -4,7 +4,7 @@ topic: "Leukotrienes (AA)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 5
+order: 105
 kind: "map"
 draft: false
 tag: ""

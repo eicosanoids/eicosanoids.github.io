@@ -4,7 +4,7 @@ topic: "Eicosanoid production (mast cell)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 2
+order: 102
 kind: "map"
 draft: false
 tag: ""

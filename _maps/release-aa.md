@@ -4,7 +4,7 @@ topic: "Release (AA)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 3
+order: 103
 kind: "map"
 draft: false
 tag: ""

@@ -4,7 +4,7 @@ topic: "PGD2 receptors (DP1, Gs)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 14
+order: 114
 kind: "map"
 draft: false
 tag: ""

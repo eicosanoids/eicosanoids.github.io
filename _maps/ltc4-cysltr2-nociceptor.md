@@ -4,7 +4,7 @@ topic: "LTC4 receptor (CysLT2, nociceptor)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 18
+order: 118
 kind: "map"
 draft: false
 tag: ""

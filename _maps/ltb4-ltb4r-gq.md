@@ -4,7 +4,7 @@ topic: "LTB4 receptors (BLT1 and BLT2)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 17
+order: 117
 kind: "map"
 draft: false
 tag: ""

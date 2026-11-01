@@ -4,7 +4,7 @@ topic: "Lipoxin A4 receptor (FPR2, spinal astrocyte)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 19
+order: 119
 kind: "map"
 draft: false
 tag: ""

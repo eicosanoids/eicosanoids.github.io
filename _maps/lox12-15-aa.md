@@ -4,7 +4,7 @@ topic: "12- and 15-lipoxygenase products (AA)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 6
+order: 106
 kind: "map"
 draft: false
 tag: ""

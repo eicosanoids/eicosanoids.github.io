@@ -4,7 +4,7 @@ topic: "Prostanoids (AA)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 4
+order: 104
 kind: "map"
 draft: false
 tag: ""

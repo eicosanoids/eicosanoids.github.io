@@ -4,7 +4,7 @@ topic: "Lipoxins (AA)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 7
+order: 107
 kind: "map"
 draft: false
 tag: ""

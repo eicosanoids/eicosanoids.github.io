@@ -4,7 +4,7 @@ topic: "PGI2 receptor (IP, Gs)"
 tab: ""
 page: ""
 group: "Starting maps"
-order: 16
+order: 116
 kind: "map"
 draft: false
 tag: ""
