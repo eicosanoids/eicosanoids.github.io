@@ -45,6 +45,66 @@
 ]
 },
 {
+"label": "ACSL4",
+"class": "Macromolecule",
+"box": [
+213.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Long-chain-fatty-acid--CoA ligase 4"
+],
+[
+"Alternative names",
+"Arachidonate--CoA ligase; Long-chain acyl-CoA synthetase 4"
+],
+[
+"Function",
+"Catalyzes the conversion of long-chain fatty acids to their active form acyl-CoA for both synthesis of cellular lipids, and degradation via beta-oxidation. Preferentially activates arachidonate and eicosapentaenoate as substrates."
+],
+[
+"Location",
+"Mitochondrion outer membrane, Endoplasmic reticulum membrane, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:3571"
+],
+[
+"HGNC symbol",
+"ACSL4"
+],
+[
+"Previous symbols",
+"FACL4, MRX63, MRX68"
+],
+[
+"Alias symbols",
+"ACS4, LACS4"
+],
+[
+"Entrez",
+"2182"
+],
+[
+"Ensembl",
+"ENSG00000068366"
+],
+[
+"RefSeq",
+"NM_004458"
+],
+[
+"UniProt",
+"O60488"
+]
+]
+},
+{
 "label": "ABCD3",
 "class": "Macromolecule",
 "box": [
@@ -388,7 +448,8 @@
 "eicosanoid-CoA"
 ],
 "by": [
-"acyl-CoA synthetase"
+"acyl-CoA synthetase",
+"ACSL4"
 ]
 },
 "references": [
@@ -407,6 +468,30 @@
 "year": "1991",
 "db": "pubmed",
 "id": "1761571"
+},
+{
+"authors": "Vamecq J et al.",
+"year": "1985",
+"title": "The microsomal dicarboxylyl-CoA synthetase.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "4062873"
+},
+{
+"authors": "Klett EL et al.",
+"year": "2017",
+"title": "Long-chain acyl-CoA synthetase isoforms differ in preferences for eicosanoid species and long-chain fatty acids.",
+"journal": "J Lipid Res",
+"db": "pubmed",
+"id": "28209804"
+},
+{
+"authors": "Klett EL et al.",
+"year": "2013",
+"title": "Diminished acyl-CoA synthetase isoform 4 activity in INS 832/13 cells reduces cellular epoxyeicosatrienoic acid levels and results in impaired glucose-stimulated insulin secretion.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "23766516"
 }
 ]
 },
