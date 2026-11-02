@@ -1,0 +1,510 @@
+{
+"nodes": [
+{
+"label": "PGH2",
+"class": "SimpleChemical",
+"box": [
+15.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin H2(1-)"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1R,4S,5R,6R)-6-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-2,3-dioxabicyclo[2.2.1]hept-5-yl}hept-5-enoate; (5Z,13E,15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate; prostaglandin H(2); prostaglandin H2 anion"
+],
+[
+"Definition",
+"Conjugate base of prostaglandin H2."
+],
+[
+"Formula",
+"C20H31O5"
+],
+[
+"ChEBI",
+"CHEBI:57405"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18-14-19(17)25-24-18)10-7-4-5-8-11-20(22)23/h4,7,12-13,15-19,21H,2-3,5-6,8-11,14H2,1H3,(H,22,23)/p-1/b7-4-,13-12+/t15-,16+,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"YIBNHAJFJUQSRA-YNNPMVKQSA-M"
+]
+]
+},
+{
+"label": "PGI2",
+"class": "SimpleChemical",
+"box": [
+15.0,
+315.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin I2"
+],
+[
+"Synonyms",
+"(5Z,13E)-(15S)-6,9alpha-Epoxy-11alpha,15-dihydroxyprosta-5,13-dienoate; (5Z,13E,15S)-6,9alpha-epoxy-11alpha,15-dihydroxyprosta-5,13-dienoic acid; (5Z,9alpha,11alpha,13E,15S)-6,9-epoxy-11,15-dihydroxyprosta-5,13-dien-1-oic acid; Epoprostenol; Flolan; PGI2; PGX; Prostacyclin; Vasocyclin; prostaglandin X"
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15552"
+],
+[
+"KEGG",
+"C01312"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-4-7-14(21)10-11-16-17-12-15(8-5-6-9-20(23)24)25-19(17)13-18(16)22/h8,10-11,14,16-19,21-22H,2-7,9,12-13H2,1H3,(H,23,24)/b11-10+,15-8-/t14-,16+,17+,18+,19-/m0/s1"
+],
+[
+"InChIKey",
+"KAQKFAOMNZTLHT-OZUDYXHBSA-N"
+]
+]
+},
+{
+"label": "PTGIS",
+"class": "Macromolecule",
+"box": [
+175.0,
+155.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostacyclin synthase"
+],
+[
+"Alternative names",
+"Hydroperoxy icosatetraenoate dehydratase; Prostaglandin I2 synthase"
+],
+[
+"Function",
+"Catalyzes the biosynthesis and metabolism of eicosanoids. Catalyzes the isomerization of prostaglandin H2 to prostacyclin (= prostaglandin I2), a potent mediator of vasodilation and inhibitor of platelet aggregation."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9603"
+],
+[
+"HGNC symbol",
+"PTGIS"
+],
+[
+"Alias symbols",
+"PGIS, CYP8A1"
+],
+[
+"Entrez",
+"5740"
+],
+[
+"Ensembl",
+"ENSG00000124212"
+],
+[
+"RefSeq",
+"NM_000961"
+],
+[
+"UniProt",
+"Q16647"
+]
+]
+},
+{
+"label": "PTGIS",
+"class": "Macromolecule",
+"box": [
+475.0,
+155.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostacyclin synthase"
+],
+[
+"Alternative names",
+"Hydroperoxy icosatetraenoate dehydratase; Prostaglandin I2 synthase"
+],
+[
+"Function",
+"Catalyzes the biosynthesis and metabolism of eicosanoids. Catalyzes the isomerization of prostaglandin H2 to prostacyclin (= prostaglandin I2), a potent mediator of vasodilation and inhibitor of platelet aggregation."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:9603"
+],
+[
+"HGNC symbol",
+"PTGIS"
+],
+[
+"Alias symbols",
+"PGIS, CYP8A1"
+],
+[
+"Entrez",
+"5740"
+],
+[
+"Ensembl",
+"ENSG00000124212"
+],
+[
+"RefSeq",
+"NM_000961"
+],
+[
+"UniProt",
+"Q16647"
+]
+]
+},
+{
+"label": "peroxynitrite",
+"class": "SimpleChemical",
+"box": [
+279.0,
+55.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"peroxynitrite"
+],
+[
+"Synonyms",
+"[NO(OO)](-); azoperoxoite; oxidoperoxidonitrate(1-)"
+],
+[
+"Definition",
+"The nitrogen oxoanion formed by loss of a proton from peroxynitrous acid."
+],
+[
+"Formula",
+"NO3"
+],
+[
+"ChEBI",
+"CHEBI:25941"
+],
+[
+"KEGG",
+"C16845"
+],
+[
+"InChI",
+"InChI=1S/HNO3/c2-1-4-3/h3H/p-1"
+],
+[
+"InChIKey",
+"CMFNMSMUKZHDEY-UHFFFAOYSA-M"
+]
+]
+},
+{
+"label": "PGH2",
+"class": "SimpleChemical",
+"box": [
+15.0,
+515.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin H2(1-)"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1R,4S,5R,6R)-6-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-2,3-dioxabicyclo[2.2.1]hept-5-yl}hept-5-enoate; (5Z,13E,15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate; prostaglandin H(2); prostaglandin H2 anion"
+],
+[
+"Definition",
+"Conjugate base of prostaglandin H2."
+],
+[
+"Formula",
+"C20H31O5"
+],
+[
+"ChEBI",
+"CHEBI:57405"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18-14-19(17)25-24-18)10-7-4-5-8-11-20(22)23/h4,7,12-13,15-19,21H,2-3,5-6,8-11,14H2,1H3,(H,22,23)/p-1/b7-4-,13-12+/t15-,16+,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"YIBNHAJFJUQSRA-YNNPMVKQSA-M"
+]
+]
+},
+{
+"label": "TXA2",
+"class": "SimpleChemical",
+"box": [
+15.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"thromboxane A2"
+],
+[
+"Synonyms",
+"(5Z,13E)-(15S)-9alpha,11alpha-Epoxy-15-hydroxythromboxa-5,13-dienoate; (5Z,13E,15S)-9alpha,11alpha-epoxy-15-hydroxythromboxa-5,13-dien-1-oic acid; (5Z,9alpha,11alpha,13E,15S)-9,11-Epoxy-15-hydroxythromboxa-5,13-dien-1-oic acid; 9S,11S-epoxy,15S-hydroxy-thromboxa-5Z,13E-dien-1-oic acid; TXA-2; TXA2"
+],
+[
+"Definition",
+"A thromboxane which is produced by activated platelets and has prothrombotic properties: it stimulates activation of new platelets as well as increases platelet aggregation."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15627"
+],
+[
+"KEGG",
+"C02198"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18-14-20(24-17)25-18)10-7-4-5-8-11-19(22)23/h4,7,12-13,15-18,20-21H,2-3,5-6,8-11,14H2,1H3,(H,22,23)/b7-4-,13-12+/t15-,16+,17+,18-,20+/m0/s1"
+],
+[
+"InChIKey",
+"DSNBHJFQCNUKMA-SCKDECHMSA-N"
+]
+]
+},
+{
+"label": "TBXAS1",
+"class": "Macromolecule",
+"box": [
+175.0,
+655.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Thromboxane-A synthase"
+],
+[
+"Alternative names",
+"Cytochrome P450 5A1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"Catalyzes the conversion of prostaglandin H2 (PGH2) to thromboxane A2 (TXA2), a potent inducer of blood vessel constriction and platelet aggregation. Also cleaves PGH2 to 12-hydroxy-heptadecatrienoicacid (12-HHT) and malondialdehyde, which is known to act as a mediator of DNA damage."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:11609"
+],
+[
+"HGNC symbol",
+"TBXAS1"
+],
+[
+"Alias symbols",
+"CYP5, CYP5A1, THAS, TXS, TXAS, TS"
+],
+[
+"Entrez",
+"6916"
+],
+[
+"Ensembl",
+"ENSG00000059377"
+],
+[
+"RefSeq",
+"NM_001061"
+],
+[
+"UniProt",
+"P24557"
+]
+]
+},
+{
+"id": "p_pgi",
+"label": "",
+"class": "Process",
+"box": [
+23.0,
+163.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH2"
+],
+"out": [
+"PGI2"
+],
+"by": [
+"PTGIS"
+]
+},
+"references": [
+{
+"authors": "Miyata A et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Molecular cloning and expression of human prostacyclin synthase.",
+"year": "1994",
+"db": "pubmed",
+"id": "8185632"
+},
+{
+"authors": "Hara S et al.",
+"journal": "J Biol Chem",
+"title": "Isolation and molecular cloning of prostacyclin synthase from bovine endothelial cells.",
+"year": "1994",
+"db": "pubmed",
+"id": "8051072"
+}
+]
+},
+{
+"id": "p_nitr",
+"label": "",
+"class": "Process",
+"box": [
+343.0,
+163.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PTGIS",
+"peroxynitrite"
+],
+"out": [
+"PTGIS"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Schmidt P et al.",
+"year": "2003",
+"title": "Specific nitration at tyrosine 430 revealed by high resolution mass spectrometry as basis for redox regulation of bovine prostacyclin synthase.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "12562775"
+},
+{
+"authors": "Zou M et al.",
+"year": "1997",
+"title": "Tyrosine nitration as a mechanism of selective inactivation of prostacyclin synthase by peroxynitrite.",
+"journal": "Biol Chem",
+"db": "pubmed",
+"id": "9278151"
+},
+{
+"authors": "Daiber A et al.",
+"year": "2013",
+"title": "Protein tyrosine nitration and thiol oxidation by peroxynitrite-strategies to prevent these oxidative modifications.",
+"journal": "Int J Mol Sci",
+"db": "pubmed",
+"id": "23567270"
+}
+]
+},
+{
+"id": "p_txa",
+"label": "",
+"class": "Process",
+"box": [
+23.0,
+663.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGH2"
+],
+"out": [
+"TXA2"
+],
+"by": [
+"TBXAS1"
+]
+},
+"references": [
+{
+"authors": "Ohashi K et al.",
+"journal": "J Biol Chem",
+"title": "Primary structure of human thromboxane synthase determined from the cDNA sequence.",
+"year": "1992",
+"db": "pubmed",
+"id": "1730669"
+},
+{
+"authors": "Wang LH et al.",
+"journal": "J Biol Chem",
+"title": "Substrate binding is the rate-limiting step in thromboxane synthase catalysis.",
+"year": "2001",
+"db": "pubmed",
+"id": "11297515"
+}
+]
+}
+]
+}

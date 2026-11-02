@@ -1,0 +1,565 @@
+{
+"nodes": [
+{
+"label": "12(S)-HpETE",
+"class": "SimpleChemical",
+"box": [
+34.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(R)-HETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,10E,12R,14Z)-12-hydroxy-5,8,10,14-eicosatetraenoic acid; (5Z,8Z,10E,12R,14Z)-12-hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,12R,14Z)-12-hydroxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12R)-12-Hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12R)-12-Hydroxyicosa-5,8,10,14-tetraenoic acid; 12(R)-hydroxy-5(Z),8(Z),10(E),14(Z)-eicosatetraenoic acid; 12(R)-hydroxy-5,8,14-cis-10-trans-eicosatetraenoic acid; 12(R)-hydroxyeicosatetraenoic acid; 12R-HETE"
+],
+[
+"Definition",
+"A HETE having a (12R)-hydroxy group and (5Z)-, (8Z)-, (10E)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34144"
+],
+[
+"KEGG",
+"C14822"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h7-11,13-14,17,19,21H,2-6,12,15-16,18H2,1H3,(H,22,23)/b9-7-,11-8-,13-10-,17-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"ZNHVWPKMFKADKW-ZYBDYUKJSA-N"
+]
+]
+},
+{
+"label": "12(S)-HETE",
+"class": "SimpleChemical",
+"box": [
+34.0,
+255.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(S)-HETE"
+],
+[
+"Synonyms",
+"(12S)-12-hydroxy-5,8,14-cis-10-trans-eicosatetraenoic acid; (5Z,8Z,10E,12S,14Z)-12-hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,12S,14Z)-12-hydroxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroxyicosa-5,8,10,14-tetraenoic acid; 12(S)-hydroxy-5(Z),8(Z),10(E),14(Z)-eicosatetraenoic acid; 12(S)-hydroxy-5,8,14(Z),10(E)-eicosatetraenoic acid; 12(S)-hydroxyeicosatetraenoic acid; 12S-HETE"
+],
+[
+"Definition",
+"A HETE having a (12S)-hydroxy group and (5Z)-, (8Z)-, (10E)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34146"
+],
+[
+"KEGG",
+"C14777"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h7-11,13-14,17,19,21H,2-6,12,15-16,18H2,1H3,(H,22,23)/b9-7-,11-8-,13-10-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"ZNHVWPKMFKADKW-LQWMCKPYSA-N"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+214.0,
+135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
+"label": "4-HNE",
+"class": "SimpleChemical",
+"box": [
+318.0,
+35.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(E)-4-hydroxynon-2-enal"
+],
+[
+"Synonyms",
+"(2E)-4-hydroxynon-2-enal; (E)-4-hydroxy-2-nonenal; 4-Hydroxy-2,3-trans-nonenal; 4-hydroxynonenal; HNE; trans-4-Hydroxy-2-nonenal"
+],
+[
+"Definition",
+"The E (trans) stereoisomer of 4-hydroxynon-2-enal; it is the primary α,β-unsaturated hydroxyalkenal produced by lipid peroxidation in cells."
+],
+[
+"Formula",
+"C9H16O2"
+],
+[
+"ChEBI",
+"CHEBI:58968"
+],
+[
+"InChI",
+"InChI=1S/C9H16O2/c1-2-3-4-6-9(11)7-5-8-10/h5,7-9,11H,2-4,6H2,1H3/b7-5+"
+],
+[
+"InChIKey",
+"JVJFIQYAHPMBBX-FNORWQNLSA-N"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+454.0,
+135.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+454.0,
+475.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
+"label": "4-HNE",
+"class": "SimpleChemical",
+"box": [
+574.0,
+295.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(E)-4-hydroxynon-2-enal"
+],
+[
+"Synonyms",
+"(2E)-4-hydroxynon-2-enal; (E)-4-hydroxy-2-nonenal; 4-Hydroxy-2,3-trans-nonenal; 4-hydroxynonenal; HNE; trans-4-Hydroxy-2-nonenal"
+],
+[
+"Definition",
+"The E (trans) stereoisomer of 4-hydroxynon-2-enal; it is the primary α,β-unsaturated hydroxyalkenal produced by lipid peroxidation in cells."
+],
+[
+"Formula",
+"C9H16O2"
+],
+[
+"ChEBI",
+"CHEBI:58968"
+],
+[
+"InChI",
+"InChI=1S/C9H16O2/c1-2-3-4-6-9(11)7-5-8-10/h5,7-9,11H,2-4,6H2,1H3/b7-5+"
+],
+[
+"InChIKey",
+"JVJFIQYAHPMBBX-FNORWQNLSA-N"
+]
+]
+},
+{
+"label": "OTUD5",
+"class": "Macromolecule",
+"box": [
+774.0,
+295.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"OTU domain-containing protein 5"
+],
+[
+"Alternative names",
+"Deubiquitinating enzyme A"
+],
+[
+"Function",
+"Deubiquitinating enzyme that functions as a negative regulator of the innate immune system. Has peptidase activity towards 'Lys-48'- and 'Lys-63'-linked polyubiquitin chains."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:25402"
+],
+[
+"HGNC symbol",
+"OTUD5"
+],
+[
+"Alias symbols",
+"DKFZp761A052, DUBA"
+],
+[
+"Entrez",
+"55593"
+],
+[
+"Ensembl",
+"ENSG00000068308"
+],
+[
+"RefSeq",
+"NM_017602"
+],
+[
+"UniProt",
+"Q96G74"
+]
+]
+},
+{
+"id": "p_red",
+"label": "",
+"class": "Process",
+"box": [
+42.0,
+143.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpETE"
+],
+"out": [
+"12(S)-HETE"
+],
+"by": [
+"GPX4"
+]
+},
+"references": [
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402"
+},
+{
+"authors": "Imai H et al.",
+"journal": "J Biol Chem",
+"title": "Suppression of leukotriene formation in RBL-2H3 cells that overexpressed phospholipid hydroperoxide glutathione peroxidase.",
+"year": "1998",
+"db": "pubmed",
+"id": "9442035"
+}
+]
+},
+{
+"id": "p_hne",
+"label": "",
+"class": "Process",
+"box": [
+382.0,
+143.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GPX4",
+"4-HNE"
+],
+"out": [
+"GPX4"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Liu L et al.",
+"year": "2023",
+"title": "Deubiquitinase OTUD5 as a Novel Protector against 4-HNE-Triggered Ferroptosis in Myocardial Ischemia/Reperfusion Injury.",
+"journal": "Adv Sci (Weinh)",
+"db": "pubmed",
+"id": "37552043"
+}
+]
+},
+{
+"id": "p_ub",
+"label": "",
+"class": "Process",
+"box": [
+482.0,
+303.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GPX4"
+],
+"out": [
+"GPX4"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Liu L et al.",
+"year": "2023",
+"title": "Deubiquitinase OTUD5 as a Novel Protector against 4-HNE-Triggered Ferroptosis in Myocardial Ischemia/Reperfusion Injury.",
+"journal": "Adv Sci (Weinh)",
+"db": "pubmed",
+"id": "37552043"
+}
+]
+},
+{
+"id": "p_deub",
+"label": "",
+"class": "Process",
+"box": [
+682.0,
+303.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GPX4"
+],
+"out": [
+"GPX4"
+],
+"by": [
+"OTUD5",
+"4-HNE"
+]
+},
+"references": [
+{
+"authors": "Liu L et al.",
+"year": "2023",
+"title": "Deubiquitinase OTUD5 as a Novel Protector against 4-HNE-Triggered Ferroptosis in Myocardial Ischemia/Reperfusion Injury.",
+"journal": "Adv Sci (Weinh)",
+"db": "pubmed",
+"id": "37552043"
+}
+]
+},
+{
+"id": "p_deg",
+"label": "",
+"class": "Process",
+"box": [
+482.0,
+583.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GPX4"
+],
+"out": [
+""
+],
+"by": []
+},
+"references": [
+{
+"authors": "Liu L et al.",
+"year": "2023",
+"title": "Deubiquitinase OTUD5 as a Novel Protector against 4-HNE-Triggered Ferroptosis in Myocardial Ischemia/Reperfusion Injury.",
+"journal": "Adv Sci (Weinh)",
+"db": "pubmed",
+"id": "37552043"
+}
+]
+}
+]
+}

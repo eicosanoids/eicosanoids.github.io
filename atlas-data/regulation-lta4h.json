@@ -1,0 +1,565 @@
+{
+"nodes": [
+{
+"label": "LTA4",
+"class": "SimpleChemical",
+"box": [
+15.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene A4"
+],
+[
+"Synonyms",
+"(5S,6S,7E,9E,11Z,14Z)-5,6-epoxyicosa-7,9,11,14-tetraenoic acid; (7E,9E,11Z,14Z)-(5S,6S)-5,6-epoxyeicosa-7,9,11,14-tetraenoic acid; 5(S)-5,6-oxido-7,9-trans-11,14-cis-eicosatetraenoic acid; 5S,6S-epoxy-7E,9E,11Z,14Z-eicosatetraenoic acid; 5S,6S-leukotriene A4; LTA4; Oxiranebutanoic acid, 3-(1,3,5,8-tetradecatetraenyl)-, (2S-(2alpha,3beta(1E,3Z,5Z,8Z)))-"
+],
+[
+"Definition",
+"A leukotriene that is the (5S,6S)-epoxy derivative of (7E,9E,11Z,14Z)-icosa-7,9,11,14-tetraenoic acid."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:15651"
+],
+[
+"KEGG",
+"C00909"
+],
+[
+"HMDB",
+"HMDB0001337"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-15-18-19(23-18)16-14-17-20(21)22/h6-7,9-13,15,18-19H,2-5,8,14,16-17H2,1H3,(H,21,22)/b7-6-,10-9-,12-11+,15-13+/t18-,19-/m0/s1"
+],
+[
+"InChIKey",
+"UFPQIRYSPUYQHK-WAQVJNLQSA-N"
+]
+]
+},
+{
+"label": "LTB4",
+"class": "SimpleChemical",
+"box": [
+15.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene B4"
+],
+[
+"Synonyms",
+"(5S,12R,6Z,8E,10E,14Z)-5,12-dihydroxy-6,8,10,14-eicosatetraenoic acid; (5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyeicosa-6,8,10,14-tetraenoic acid; (5S,6Z,8E,10E,12R,14Z)-5,12-dihydroxyicosa-6,8,10,14-tetraenoic acid; (S-(R*,S*-(E,Z,E,Z)))-5,12-Dihydroxy-6,8,10,14-eicosatetraenoic acid; 5(S),12(R)-dihydroxy-6(Z),8(E),10(E),14(Z)-eicosatetraenoic acid; 5(S),12(R)-dihydroxy-6(Z),8(E),10(E),14(Z)-icosatetraenoic acid; 5,12-Dihete; 5,12-Hete; 5S,12R-diHETE; 5S,12R-dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid; LTB4"
+],
+[
+"Definition",
+"A leukotriene composed of (6Z,8E,10E,14Z)-icosatetraenoic acid having (5S)- and (12R)-hydroxy substituents. It is a lipid mediator of inflammation that is generated from arachidonic acid via the 5-lipoxygenase pathway."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:15647"
+],
+[
+"KEGG",
+"C02165"
+],
+[
+"HMDB",
+"HMDB0001085"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-4-5-6-9-13-18(21)14-10-7-8-11-15-19(22)16-12-17-20(23)24/h6-11,14-15,18-19,21-22H,2-5,12-13,16-17H2,1H3,(H,23,24)/b8-7+,9-6-,14-10+,15-11-/t18-,19-/m1/s1"
+],
+[
+"InChIKey",
+"VNYSSYRCGWBHLG-AMOLWHMGSA-N"
+]
+]
+},
+{
+"label": "LTA4H",
+"class": "Macromolecule",
+"box": [
+195.0,
+95.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Leukotriene A-4 hydrolase"
+],
+[
+"Alternative names",
+"Leukotriene A(4) hydrolase; Tripeptide aminopeptidase LTA4H"
+],
+[
+"Function",
+"Bifunctional zinc metalloenzyme that comprises both epoxide hydrolase (EH) and aminopeptidase activities. Acts as an epoxide hydrolase to catalyze the conversion of LTA4 to the pro-inflammatory mediator leukotriene B4 (LTB4)."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6710"
+],
+[
+"HGNC symbol",
+"LTA4H"
+],
+[
+"Entrez",
+"4048"
+],
+[
+"Ensembl",
+"ENSG00000111144"
+],
+[
+"RefSeq",
+"NM_000895"
+],
+[
+"UniProt",
+"P09960"
+]
+]
+},
+{
+"label": "LTA4H",
+"class": "Macromolecule",
+"box": [
+595.0,
+95.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Leukotriene A-4 hydrolase"
+],
+[
+"Alternative names",
+"Leukotriene A(4) hydrolase; Tripeptide aminopeptidase LTA4H"
+],
+[
+"Function",
+"Bifunctional zinc metalloenzyme that comprises both epoxide hydrolase (EH) and aminopeptidase activities. Acts as an epoxide hydrolase to catalyze the conversion of LTA4 to the pro-inflammatory mediator leukotriene B4 (LTB4)."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6710"
+],
+[
+"HGNC symbol",
+"LTA4H"
+],
+[
+"Entrez",
+"4048"
+],
+[
+"Ensembl",
+"ENSG00000111144"
+],
+[
+"RefSeq",
+"NM_000895"
+],
+[
+"UniProt",
+"P09960"
+]
+]
+},
+{
+"label": "PPP1CA",
+"class": "Macromolecule",
+"box": [
+375.0,
+335.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Serine/threonine-protein phosphatase PP1-alpha catalytic subunit"
+],
+[
+"Function",
+"Protein phosphatase that associates with over 200 regulatory proteins to form highly specific holoenzymes which dephosphorylate hundreds of biological targets. Protein phosphatase 1 (PP1) is essential for cell division, transcription elongation, and participates in the regulation of glycogen metabolism, muscle contractility and protein synthesis."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Nucleus, nucleoplasm, Nucleus, nucleolus, Postsynaptic density"
+],
+[
+"HGNC",
+"HGNC:9281"
+],
+[
+"HGNC symbol",
+"PPP1CA"
+],
+[
+"Previous symbols",
+"PPP1A"
+],
+[
+"Alias symbols",
+"PP1A, PP-1A, PP1alpha"
+],
+[
+"Entrez",
+"5499"
+],
+[
+"Ensembl",
+"ENSG00000172531"
+],
+[
+"RefSeq",
+"NM_002708"
+],
+[
+"UniProt",
+"P62136"
+]
+]
+},
+{
+"label": "LTA4H",
+"class": "Macromolecule",
+"box": [
+15.0,
+535.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Leukotriene A-4 hydrolase"
+],
+[
+"Alternative names",
+"Leukotriene A(4) hydrolase; Tripeptide aminopeptidase LTA4H"
+],
+[
+"Function",
+"Bifunctional zinc metalloenzyme that comprises both epoxide hydrolase (EH) and aminopeptidase activities. Acts as an epoxide hydrolase to catalyze the conversion of LTA4 to the pro-inflammatory mediator leukotriene B4 (LTB4)."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6710"
+],
+[
+"HGNC symbol",
+"LTA4H"
+],
+[
+"Entrez",
+"4048"
+],
+[
+"Ensembl",
+"ENSG00000111144"
+],
+[
+"RefSeq",
+"NM_000895"
+],
+[
+"UniProt",
+"P09960"
+]
+]
+},
+{
+"label": "LTA4",
+"class": "SimpleChemical",
+"box": [
+119.0,
+475.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene A4"
+],
+[
+"Synonyms",
+"(5S,6S,7E,9E,11Z,14Z)-5,6-epoxyicosa-7,9,11,14-tetraenoic acid; (7E,9E,11Z,14Z)-(5S,6S)-5,6-epoxyeicosa-7,9,11,14-tetraenoic acid; 5(S)-5,6-oxido-7,9-trans-11,14-cis-eicosatetraenoic acid; 5S,6S-epoxy-7E,9E,11Z,14Z-eicosatetraenoic acid; 5S,6S-leukotriene A4; LTA4; Oxiranebutanoic acid, 3-(1,3,5,8-tetradecatetraenyl)-, (2S-(2alpha,3beta(1E,3Z,5Z,8Z)))-"
+],
+[
+"Definition",
+"A leukotriene that is the (5S,6S)-epoxy derivative of (7E,9E,11Z,14Z)-icosa-7,9,11,14-tetraenoic acid."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:15651"
+],
+[
+"KEGG",
+"C00909"
+],
+[
+"HMDB",
+"HMDB0001337"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-15-18-19(23-18)16-14-17-20(21)22/h6-7,9-13,15,18-19H,2-5,8,14,16-17H2,1H3,(H,21,22)/b7-6-,10-9-,12-11+,15-13+/t18-,19-/m0/s1"
+],
+[
+"InChIKey",
+"UFPQIRYSPUYQHK-WAQVJNLQSA-N"
+]
+]
+},
+{
+"label": "LTA4H",
+"class": "Macromolecule",
+"box": [
+315.0,
+535.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Leukotriene A-4 hydrolase"
+],
+[
+"Alternative names",
+"Leukotriene A(4) hydrolase; Tripeptide aminopeptidase LTA4H"
+],
+[
+"Function",
+"Bifunctional zinc metalloenzyme that comprises both epoxide hydrolase (EH) and aminopeptidase activities. Acts as an epoxide hydrolase to catalyze the conversion of LTA4 to the pro-inflammatory mediator leukotriene B4 (LTB4)."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:6710"
+],
+[
+"HGNC symbol",
+"LTA4H"
+],
+[
+"Entrez",
+"4048"
+],
+[
+"Ensembl",
+"ENSG00000111144"
+],
+[
+"RefSeq",
+"NM_000895"
+],
+[
+"UniProt",
+"P09960"
+]
+]
+},
+{
+"id": "p_syn",
+"label": "",
+"class": "Process",
+"box": [
+23.0,
+103.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTA4"
+],
+"out": [
+"LTB4"
+],
+"by": [
+"LTA4H"
+]
+},
+"references": [
+{
+"authors": "Makita N et al.",
+"journal": "FEBS Lett",
+"title": "Molecular cloning and functional expression of rat leukotriene A4 hydrolase using the polymerase chain reaction.",
+"year": "1992",
+"db": "pubmed",
+"id": "1544505"
+},
+{
+"authors": "Rao NL et al.",
+"journal": "J Pharmacol Exp Ther",
+"title": "Anti-inflammatory activity of a potent, selective leukotriene A4 hydrolase inhibitor in comparison with the 5-lipoxygenase inhibitor zileuton.",
+"year": "2007",
+"db": "pubmed",
+"id": "17371808"
+}
+]
+},
+{
+"id": "p_phos",
+"label": "",
+"class": "Process",
+"box": [
+403.0,
+103.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTA4H"
+],
+"out": [
+"LTA4H"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Rybina IV et al.",
+"year": "1997",
+"title": "Regulation of leukotriene A4 hydrolase activity in endothelial cells by phosphorylation.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "9395533"
+},
+{
+"authors": "Rybina IV et al.",
+"year": "1999",
+"title": "Alteration of human leukotriene A4 hydrolase activity after site-directed mutagenesis: serine-415 is a regulatory residue.",
+"journal": "Biochim Biophys Acta",
+"db": "pubmed",
+"id": "10320802"
+}
+]
+},
+{
+"id": "p_dephos",
+"label": "",
+"class": "Process",
+"box": [
+403.0,
+223.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTA4H"
+],
+"out": [
+"LTA4H"
+],
+"by": [
+"PPP1CA"
+]
+},
+"references": [
+{
+"authors": "Rybina IV et al.",
+"year": "1997",
+"title": "Regulation of leukotriene A4 hydrolase activity in endothelial cells by phosphorylation.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "9395533"
+}
+]
+},
+{
+"id": "p_add",
+"label": "",
+"class": "Process",
+"box": [
+183.0,
+543.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTA4H",
+"LTA4"
+],
+"out": [
+"LTA4H"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Mueller MJ et al.",
+"year": "1995",
+"title": "Leukotriene A4 hydrolase: mapping of a henicosapeptide involved in mechanism-based inactivation.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "7667299"
+},
+{
+"authors": "Mueller MJ et al.",
+"year": "1996",
+"title": "Leukotriene A4 hydrolase: protection from mechanism-based inactivation by mutation of tyrosine-378.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "8650196"
+}
+]
+}
+]
+}
