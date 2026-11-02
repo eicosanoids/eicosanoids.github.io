@@ -140,9 +140,9 @@
 "label": "15-keto-PGE2",
 "class": "SimpleChemical",
 "box": [
-1000.0,
+1035.0,
 387.0,
-110.0,
+40.0,
 40.0
 ],
 "props": [

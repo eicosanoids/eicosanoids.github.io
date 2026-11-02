@@ -1,10 +1,58 @@
 {
 "nodes": [
 {
+"label": "5-oxo-ETE",
+"class": "SimpleChemical",
+"box": [
+65.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5-oxo-ETE"
+],
+[
+"Synonyms",
+"(6E,8Z,11Z,14Z)-5-Oxoicosa-6,8,11,14-tetraenoic acid; 5-KETE; 5-Oxo-icosa-6,8,11,14-tetraenoic acid; 5-OxoETE; 5-Oxoeicosatetraenoic acid; 5-Oxoicosatetraenoic acid; 5-keto-ETE; 5-ketoeicosatetraenoic acid; 5-oxo, 6t,8c,11c,14c-20:4; 5-oxo-6(E),8(Z),11(Z),14(Z)-eicosatetraenoic acid; 5-oxo-6E,8Z,11Z,14Z-eicosatetraenoic acid; eicosa-5,8,12,14-tetraenoic acid"
+],
+[
+"Definition",
+"An oxoicosatetraenoic acid having a 5-oxo group; and (6E)-, (8Z), (11Z)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:52449"
+],
+[
+"KEGG",
+"C14732"
+],
+[
+"HMDB",
+"HMDB0010217"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(21)17-15-18-20(22)23/h6-7,9-10,12-14,16H,2-5,8,11,15,17-18H2,1H3,(H,22,23)/b7-6-,10-9-,13-12-,16-14+"
+],
+[
+"InChIKey",
+"MEASLHGILYBXFO-XTDASVJISA-N"
+]
+]
+},
+{
 "label": "5(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-260.0,
+365.0,
 15.0,
 40.0,
 40.0
@@ -52,9 +100,9 @@
 "label": "5,20-diHETE",
 "class": "SimpleChemical",
 "box": [
-240.0,
-255.0,
-120.0,
+365.0,
+215.0,
+40.0,
 40.0
 ],
 "props": [
@@ -92,8 +140,8 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-440.0,
-165.0,
+427.0,
+115.0,
 80.0,
 40.0
 ],
@@ -149,58 +197,10 @@
 ]
 },
 {
-"label": "5-oxo-ETE",
-"class": "SimpleChemical",
-"box": [
-30.0,
-15.0,
-100.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"5-oxo-ETE"
-],
-[
-"Synonyms",
-"(6E,8Z,11Z,14Z)-5-Oxoicosa-6,8,11,14-tetraenoic acid; 5-KETE; 5-Oxo-icosa-6,8,11,14-tetraenoic acid; 5-OxoETE; 5-Oxoeicosatetraenoic acid; 5-Oxoicosatetraenoic acid; 5-keto-ETE; 5-ketoeicosatetraenoic acid; 5-oxo, 6t,8c,11c,14c-20:4; 5-oxo-6(E),8(Z),11(Z),14(Z)-eicosatetraenoic acid; 5-oxo-6E,8Z,11Z,14Z-eicosatetraenoic acid; eicosa-5,8,12,14-tetraenoic acid"
-],
-[
-"Definition",
-"An oxoicosatetraenoic acid having a 5-oxo group; and (6E)-, (8Z), (11Z)- and (14Z)-double bonds."
-],
-[
-"Formula",
-"C20H30O3"
-],
-[
-"ChEBI",
-"CHEBI:52449"
-],
-[
-"KEGG",
-"C14732"
-],
-[
-"HMDB",
-"HMDB0010217"
-],
-[
-"InChI",
-"InChI=1S/C20H30O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(21)17-15-18-20(22)23/h6-7,9-10,12-14,16H,2-5,8,11,15,17-18H2,1H3,(H,22,23)/b7-6-,10-9-,13-12-,16-14+"
-],
-[
-"InChIKey",
-"MEASLHGILYBXFO-XTDASVJISA-N"
-]
-]
-},
-{
 "label": "12(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-660.0,
+665.0,
 15.0,
 40.0,
 40.0
@@ -244,9 +244,9 @@
 "label": "12,20-diHETE",
 "class": "SimpleChemical",
 "box": [
-640.0,
-255.0,
-120.0,
+665.0,
+215.0,
+40.0,
 40.0
 ],
 "props": [
@@ -288,8 +288,8 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-840.0,
-165.0,
+727.0,
+115.0,
 80.0,
 40.0
 ],
@@ -348,8 +348,8 @@
 "label": "15(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-960.0,
-15.0,
+65.0,
+815.0,
 40.0,
 40.0
 ],
@@ -396,9 +396,9 @@
 "label": "12(S)-HHTrE",
 "class": "SimpleChemical",
 "box": [
-1260.0,
-15.0,
-120.0,
+365.0,
+815.0,
+40.0,
 40.0
 ],
 "props": [
@@ -436,8 +436,8 @@
 "label": "12-KHT",
 "class": "SimpleChemical",
 "box": [
-1280.0,
-255.0,
+365.0,
+1015.0,
 40.0,
 40.0
 ],
@@ -476,8 +476,8 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-1460.0,
-165.0,
+427.0,
+915.0,
 80.0,
 40.0
 ],
@@ -532,8 +532,8 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-1480.0,
-405.0,
+427.0,
+1115.0,
 80.0,
 40.0
 ],
@@ -592,8 +592,8 @@
 "label": "20-HETE",
 "class": "SimpleChemical",
 "box": [
-1660.0,
-15.0,
+665.0,
+815.0,
 40.0,
 40.0
 ],
@@ -640,9 +640,9 @@
 "label": "20-COOH-AA",
 "class": "SimpleChemical",
 "box": [
-1640.0,
-255.0,
-120.0,
+665.0,
+1015.0,
+40.0,
 40.0
 ],
 "props": [
@@ -677,11 +677,50 @@
 ]
 },
 {
+"id": "p_oxo5",
+"label": "",
+"class": "Process",
+"box": [
+73.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5-oxo-ETE"
+],
+"out": [
+"5-oxo-20-HETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Powell WS et al.",
+"journal": "J Immunol",
+"title": "Metabolism and biologic effects of 5-oxoeicosanoids on human neutrophils.",
+"year": "1996",
+"db": "pubmed",
+"id": "8598482"
+},
+{
+"authors": "Graham FD et al.",
+"journal": "Free Radic Biol Med",
+"title": "Oxidative stress-induced changes in pyridine nucleotides and chemoattractant 5-lipoxygenase products in aging neutrophils.",
+"year": "2009",
+"db": "pubmed",
+"id": "19376220"
+}
+]
+},
+{
 "id": "p_oh5",
 "label": "",
 "class": "Process",
 "box": [
-288.0,
+373.0,
 123.0,
 24.0,
 24.0
@@ -718,50 +757,11 @@
 ]
 },
 {
-"id": "p_oxo5",
-"label": "",
-"class": "Process",
-"box": [
-68.0,
-123.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"5-oxo-ETE"
-],
-"out": [
-"5-oxo-20-HETE"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Powell WS et al.",
-"journal": "J Immunol",
-"title": "Metabolism and biologic effects of 5-oxoeicosanoids on human neutrophils.",
-"year": "1996",
-"db": "pubmed",
-"id": "8598482"
-},
-{
-"authors": "Graham FD et al.",
-"journal": "Free Radic Biol Med",
-"title": "Oxidative stress-induced changes in pyridine nucleotides and chemoattractant 5-lipoxygenase products in aging neutrophils.",
-"year": "2009",
-"db": "pubmed",
-"id": "19376220"
-}
-]
-},
-{
 "id": "p_oh12",
 "label": "",
 "class": "Process",
 "box": [
-688.0,
+673.0,
 123.0,
 24.0,
 24.0
@@ -802,8 +802,8 @@
 "label": "",
 "class": "Process",
 "box": [
-688.0,
-363.0,
+673.0,
+323.0,
 24.0,
 24.0
 ],
@@ -841,8 +841,8 @@
 "label": "",
 "class": "Process",
 "box": [
-988.0,
-123.0,
+73.0,
+923.0,
 24.0,
 24.0
 ],
@@ -880,8 +880,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1308.0,
-123.0,
+373.0,
+923.0,
 24.0,
 24.0
 ],
@@ -921,8 +921,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1308.0,
-363.0,
+373.0,
+1123.0,
 24.0,
 24.0
 ],
@@ -954,8 +954,8 @@
 "label": "",
 "class": "Process",
 "box": [
-1688.0,
-123.0,
+673.0,
+923.0,
 24.0,
 24.0
 ],

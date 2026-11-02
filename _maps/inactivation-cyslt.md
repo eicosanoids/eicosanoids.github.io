@@ -9,8 +9,8 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/inactivation-cyslt.svg"
-width: 630
-height: 790
+width: 798
+height: 670
 scale: 1
 annotation: "/atlas-data/inactivation-cyslt.json"
 image_error: ""

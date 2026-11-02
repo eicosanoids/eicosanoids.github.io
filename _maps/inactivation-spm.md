@@ -9,8 +9,8 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/inactivation-spm.svg"
-width: 1010
-height: 550
+width: 1342
+height: 470
 scale: 1
 annotation: "/atlas-data/inactivation-spm.json"
 image_error: ""

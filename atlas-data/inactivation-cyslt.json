@@ -4,7 +4,7 @@
 "label": "LTE4",
 "class": "SimpleChemical",
 "box": [
-215.0,
+341.0,
 15.0,
 40.0,
 40.0
@@ -45,12 +45,96 @@
 ]
 },
 {
+"label": "LTE4 in urine",
+"class": "SimpleChemical",
+"box": [
+41.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene E4"
+],
+[
+"Synonyms",
+"(5S,6R,7E,9E,11Z,14Z)-6-(L-cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoic acid; (5S-(5R*,6S*(S*),7E,9E,11Z,14Z))-6-((2-Amino-2-carboxyethyl)thio)-5-hydroxy-7,9,11,14-eicosatetraenoic acid; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyeicosa-7,9,11,14-tetraenoate; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoate; 5S-hydroxy,6R-(S-cysteinyl),7E,9E,11Z,14Z-eicosatetraenoic acid; LTE4; S-{(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]pentadeca-2,4,6,9-tetraen-1-yl}-L-cysteine"
+],
+[
+"Definition",
+"A leukotriene that is (7E,9E,11Z,14Z)-icosa-7,9,11,14-tetraenoic acid substituted by a hydroxy group at position 5 (5S) and an L-cystein-S-yl group at position 6 (6R)."
+],
+[
+"Formula",
+"C23H37NO5S"
+],
+[
+"ChEBI",
+"CHEBI:15650"
+],
+[
+"KEGG",
+"C05952"
+],
+[
+"InChI",
+"InChI=1S/C23H37NO5S/c1-2-3-4-5-6-7-8-9-10-11-12-13-16-21(30-18-19(24)23(28)29)20(25)15-14-17-22(26)27/h6-7,9-13,16,19-21,25H,2-5,8,14-15,17-18,24H2,1H3,(H,26,27)(H,28,29)/b7-6-,10-9-,12-11+,16-13+/t19-,20-,21+/m0/s1"
+],
+[
+"InChIKey",
+"OTZRAYGBFWZKMX-FRFVZSDQSA-N"
+]
+]
+},
+{
+"label": "20-hydroxy-LTE4",
+"class": "SimpleChemical",
+"box": [
+341.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"20-hydroxy-leukotriene E4"
+],
+[
+"Synonyms",
+"(5S,6R,7E,9E,11Z,14Z)-6-(cystein-S-yl)-5,20-dihydroxyicosa-7,9,11,14-tetraenoic acid; 20-OH-LTE4; 20-OH-Leukotriene E4; S-{(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]-15-hydroxypentadeca-2,4,6,9-tetraen-1-yl}-L-cysteine"
+],
+[
+"Formula",
+"C23H37NO6S"
+],
+[
+"ChEBI",
+"CHEBI:28700"
+],
+[
+"KEGG",
+"C03577"
+],
+[
+"InChI",
+"InChI=1S/C23H37NO6S/c24-19(23(29)30)18-31-21(20(26)14-13-16-22(27)28)15-11-9-7-5-3-1-2-4-6-8-10-12-17-25/h2-5,7,9,11,15,19-21,25-26H,1,6,8,10,12-14,16-18,24H2,(H,27,28)(H,29,30)/b4-2-,5-3-,9-7+,15-11+/t19-,20-,21+/m0/s1"
+],
+[
+"InChIKey",
+"BJRMBXPQAMDCMG-CMJQBAFXSA-N"
+]
+]
+},
+{
 "label": "N-acetyl-LTE4",
 "class": "SimpleChemical",
 "box": [
-495.0,
-15.0,
-120.0,
+641.0,
+215.0,
+40.0,
 40.0
 ],
 "props": [
@@ -92,8 +176,8 @@
 "label": "NAT8",
 "class": "Macromolecule",
 "box": [
-335.0,
-105.0,
+703.0,
+115.0,
 80.0,
 40.0
 ],
@@ -145,52 +229,12 @@
 ]
 },
 {
-"label": "20-hydroxy-LTE4",
-"class": "SimpleChemical",
-"box": [
-187.0,
-255.0,
-136.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"20-hydroxy-leukotriene E4"
-],
-[
-"Synonyms",
-"(5S,6R,7E,9E,11Z,14Z)-6-(cystein-S-yl)-5,20-dihydroxyicosa-7,9,11,14-tetraenoic acid; 20-OH-LTE4; 20-OH-Leukotriene E4; S-{(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]-15-hydroxypentadeca-2,4,6,9-tetraen-1-yl}-L-cysteine"
-],
-[
-"Formula",
-"C23H37NO6S"
-],
-[
-"ChEBI",
-"CHEBI:28700"
-],
-[
-"KEGG",
-"C03577"
-],
-[
-"InChI",
-"InChI=1S/C23H37NO6S/c24-19(23(29)30)18-31-21(20(26)14-13-16-22(27)28)15-11-9-7-5-3-1-2-4-6-8-10-12-17-25/h2-5,7,9,11,15,19-21,25-26H,1,6,8,10,12-14,16-18,24H2,(H,27,28)(H,29,30)/b4-2-,5-3-,9-7+,15-11+/t19-,20-,21+/m0/s1"
-],
-[
-"InChIKey",
-"BJRMBXPQAMDCMG-CMJQBAFXSA-N"
-]
-]
-},
-{
 "label": "20-carboxy-LTE4",
 "class": "SimpleChemical",
 "box": [
-187.0,
-495.0,
-136.0,
+341.0,
+415.0,
+40.0,
 40.0
 ],
 "props": [
@@ -232,9 +276,9 @@
 "label": "18-carboxy-dinor-LTE4",
 "class": "SimpleChemical",
 "box": [
-163.0,
-735.0,
-184.0,
+341.0,
+615.0,
+40.0,
 40.0
 ],
 "props": [
@@ -276,8 +320,8 @@
 "label": "HSD17B4",
 "class": "Macromolecule",
 "box": [
-415.0,
-645.0,
+403.0,
+515.0,
 80.0,
 40.0
 ],
@@ -329,56 +373,12 @@
 ]
 },
 {
-"label": "LTE4 in urine",
-"class": "SimpleChemical",
-"box": [
-15.0,
-255.0,
-120.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"leukotriene E4"
-],
-[
-"Synonyms",
-"(5S,6R,7E,9E,11Z,14Z)-6-(L-cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoic acid; (5S-(5R*,6S*(S*),7E,9E,11Z,14Z))-6-((2-Amino-2-carboxyethyl)thio)-5-hydroxy-7,9,11,14-eicosatetraenoic acid; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyeicosa-7,9,11,14-tetraenoate; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoate; 5S-hydroxy,6R-(S-cysteinyl),7E,9E,11Z,14Z-eicosatetraenoic acid; LTE4; S-{(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]pentadeca-2,4,6,9-tetraen-1-yl}-L-cysteine"
-],
-[
-"Definition",
-"A leukotriene that is (7E,9E,11Z,14Z)-icosa-7,9,11,14-tetraenoic acid substituted by a hydroxy group at position 5 (5S) and an L-cystein-S-yl group at position 6 (6R)."
-],
-[
-"Formula",
-"C23H37NO5S"
-],
-[
-"ChEBI",
-"CHEBI:15650"
-],
-[
-"KEGG",
-"C05952"
-],
-[
-"InChI",
-"InChI=1S/C23H37NO5S/c1-2-3-4-5-6-7-8-9-10-11-12-13-16-21(30-18-19(24)23(28)29)20(25)15-14-17-22(26)27/h6-7,9-13,16,19-21,25H,2-5,8,14-15,17-18,24H2,1H3,(H,26,27)(H,28,29)/b7-6-,10-9-,12-11+,16-13+/t19-,20-,21+/m0/s1"
-],
-[
-"InChIKey",
-"OTZRAYGBFWZKMX-FRFVZSDQSA-N"
-]
-]
-},
-{
-"id": "p_nac",
+"id": "p_ur",
 "label": "",
 "class": "Process",
 "box": [
-323.0,
-23.0,
+49.0,
+123.0,
 24.0,
 24.0
 ],
@@ -388,28 +388,26 @@
 "LTE4"
 ],
 "out": [
-"N-acetyl-LTE4"
+"LTE4 in urine"
 ],
-"by": [
-"NAT8"
-]
+"by": []
 },
 "references": [
 {
-"authors": "Veiga-da-Cunha M et al.",
+"authors": "Sala A et al.",
 "journal": "J Biol Chem",
-"title": "Molecular identification of NAT8 as the enzyme that acetylates cysteine S-conjugates to mercapturic acids.",
-"year": "2010",
+"title": "Leukotriene E4 elimination and metabolism in normal human subjects.",
+"year": "1990",
 "db": "pubmed",
-"id": "20392701"
+"id": "2174886"
 },
 {
-"authors": "Hagmann W et al.",
-"journal": "Prostaglandins",
-"title": "Identification of the major endogenous leukotriene metabolite in the bile of rats as N-acetyl leukotriene E4.",
-"year": "1986",
+"authors": "Sampson AP et al.",
+"journal": "Arch Dis Child",
+"title": "Persistent increase in plasma and urinary leukotrienes after acute asthma.",
+"year": "1995",
 "db": "pubmed",
-"id": "3515428"
+"id": "7492159"
 }
 ]
 },
@@ -418,7 +416,7 @@
 "label": "",
 "class": "Process",
 "box": [
-243.0,
+349.0,
 123.0,
 24.0,
 24.0
@@ -461,12 +459,53 @@
 ]
 },
 {
+"id": "p_nac",
+"label": "",
+"class": "Process",
+"box": [
+649.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTE4"
+],
+"out": [
+"N-acetyl-LTE4"
+],
+"by": [
+"NAT8"
+]
+},
+"references": [
+{
+"authors": "Veiga-da-Cunha M et al.",
+"journal": "J Biol Chem",
+"title": "Molecular identification of NAT8 as the enzyme that acetylates cysteine S-conjugates to mercapturic acids.",
+"year": "2010",
+"db": "pubmed",
+"id": "20392701"
+},
+{
+"authors": "Hagmann W et al.",
+"journal": "Prostaglandins",
+"title": "Identification of the major endogenous leukotriene metabolite in the bile of rats as N-acetyl leukotriene E4.",
+"year": "1986",
+"db": "pubmed",
+"id": "3515428"
+}
+]
+},
+{
 "id": "p_nacoh",
 "label": "",
 "class": "Process",
 "box": [
-503.0,
-123.0,
+649.0,
+323.0,
 24.0,
 24.0
 ],
@@ -504,8 +543,8 @@
 "label": "",
 "class": "Process",
 "box": [
-243.0,
-363.0,
+349.0,
+323.0,
 24.0,
 24.0
 ],
@@ -551,8 +590,8 @@
 "label": "",
 "class": "Process",
 "box": [
-243.0,
-603.0,
+349.0,
+523.0,
 24.0,
 24.0
 ],
@@ -592,45 +631,6 @@
 "year": "1996",
 "db": "pubmed",
 "id": "8737590"
-}
-]
-},
-{
-"id": "p_ur",
-"label": "",
-"class": "Process",
-"box": [
-103.0,
-123.0,
-24.0,
-24.0
-],
-"props": [],
-"reaction": {
-"in": [
-"LTE4"
-],
-"out": [
-"LTE4 in urine"
-],
-"by": []
-},
-"references": [
-{
-"authors": "Sala A et al.",
-"journal": "J Biol Chem",
-"title": "Leukotriene E4 elimination and metabolism in normal human subjects.",
-"year": "1990",
-"db": "pubmed",
-"id": "2174886"
-},
-{
-"authors": "Sampson AP et al.",
-"journal": "Arch Dis Child",
-"title": "Persistent increase in plasma and urinary leukotrienes after acute asthma.",
-"year": "1995",
-"db": "pubmed",
-"id": "7492159"
 }
 ]
 }

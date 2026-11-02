@@ -4,9 +4,9 @@
 "label": "Lipoxin A4 (LXA4)",
 "class": "SimpleChemical",
 "box": [
-255.0,
+348.0,
 15.0,
-160.0,
+40.0,
 40.0
 ],
 "props": [
@@ -53,12 +53,112 @@
 ]
 },
 {
+"label": "20-hydroxy-LXA4",
+"class": "SimpleChemical",
+"box": [
+48.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"20-hydroxylipoxin A4"
+],
+[
+"Synonyms",
+"((5S,6R,7E,9E,11Z,13E,15S)-5,6,15-trihydroxyicosa-7,9,11,13-tetraenoate)-5,6,15,20-tetrahydroxyicosa-7,9,11,13-tetraenoic acid"
+],
+[
+"Definition",
+"A member of the class of lipoxins that is lipoxin A4 carrying an additional hydroxy substituent at position 20."
+],
+[
+"Formula",
+"C20H32O6"
+],
+[
+"ChEBI",
+"CHEBI:90976"
+],
+[
+"InChI",
+"InChI=1S/C20H32O6/c21-16-9-5-7-12-17(22)11-6-3-1-2-4-8-13-18(23)19(24)14-10-15-20(25)26/h1-4,6,8,11,13,17-19,21-24H,5,7,9-10,12,14-16H2,(H,25,26)/b3-1-,4-2+,11-6+,13-8+/t17-,18-,19+/m1/s1"
+],
+[
+"InChIKey",
+"JGHYLPPTOXKEKH-HYQAYTNRSA-N"
+]
+]
+},
+{
+"label": "CYP4F3",
+"class": "Macromolecule",
+"box": [
+110.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F3"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2646"
+],
+[
+"HGNC symbol",
+"CYP4F3"
+],
+[
+"Previous symbols",
+"LTB4H"
+],
+[
+"Alias symbols",
+"CYP4F"
+],
+[
+"Entrez",
+"4051"
+],
+[
+"Ensembl",
+"ENSG00000186529"
+],
+[
+"RefSeq",
+"NM_000896"
+],
+[
+"UniProt",
+"Q08477"
+]
+]
+},
+{
 "label": "15-oxo-LXA4",
 "class": "SimpleChemical",
 "box": [
-275.0,
-255.0,
-120.0,
+348.0,
+215.0,
+40.0,
 40.0
 ],
 "props": [
@@ -96,8 +196,8 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-495.0,
-165.0,
+410.0,
+115.0,
 80.0,
 40.0
 ],
@@ -152,9 +252,9 @@
 "label": "13,14-dihydro-15-oxo-LXA4",
 "class": "SimpleChemical",
 "box": [
-227.0,
-495.0,
-216.0,
+348.0,
+415.0,
+40.0,
 40.0
 ],
 "props": [
@@ -192,8 +292,8 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-515.0,
-405.0,
+410.0,
+315.0,
 80.0,
 40.0
 ],
@@ -252,9 +352,9 @@
 "label": "13,14-dihydro-LXA4",
 "class": "SimpleChemical",
 "box": [
-255.0,
-735.0,
-160.0,
+348.0,
+615.0,
+40.0,
 40.0
 ],
 "props": [
@@ -296,8 +396,8 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-495.0,
-645.0,
+410.0,
+515.0,
 80.0,
 40.0
 ],
@@ -349,112 +449,12 @@
 ]
 },
 {
-"label": "20-hydroxy-LXA4",
-"class": "SimpleChemical",
-"box": [
-55.0,
-255.0,
-140.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"20-hydroxylipoxin A4"
-],
-[
-"Synonyms",
-"((5S,6R,7E,9E,11Z,13E,15S)-5,6,15-trihydroxyicosa-7,9,11,13-tetraenoate)-5,6,15,20-tetrahydroxyicosa-7,9,11,13-tetraenoic acid"
-],
-[
-"Definition",
-"A member of the class of lipoxins that is lipoxin A4 carrying an additional hydroxy substituent at position 20."
-],
-[
-"Formula",
-"C20H32O6"
-],
-[
-"ChEBI",
-"CHEBI:90976"
-],
-[
-"InChI",
-"InChI=1S/C20H32O6/c21-16-9-5-7-12-17(22)11-6-3-1-2-4-8-13-18(23)19(24)14-10-15-20(25)26/h1-4,6,8,11,13,17-19,21-24H,5,7,9-10,12,14-16H2,(H,25,26)/b3-1-,4-2+,11-6+,13-8+/t17-,18-,19+/m1/s1"
-],
-[
-"InChIKey",
-"JGHYLPPTOXKEKH-HYQAYTNRSA-N"
-]
-]
-},
-{
-"label": "CYP4F3",
-"class": "Macromolecule",
-"box": [
-15.0,
-63.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cytochrome P450 4F3"
-],
-[
-"Alternative names",
-"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
-],
-[
-"Function",
-"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
-],
-[
-"Location",
-"Endoplasmic reticulum membrane, Microsome membrane"
-],
-[
-"HGNC",
-"HGNC:2646"
-],
-[
-"HGNC symbol",
-"CYP4F3"
-],
-[
-"Previous symbols",
-"LTB4H"
-],
-[
-"Alias symbols",
-"CYP4F"
-],
-[
-"Entrez",
-"4051"
-],
-[
-"Ensembl",
-"ENSG00000186529"
-],
-[
-"RefSeq",
-"NM_000896"
-],
-[
-"UniProt",
-"Q08477"
-]
-]
-},
-{
 "label": "Lipoxin B4 (LXB4)",
 "class": "SimpleChemical",
 "box": [
-855.0,
+948.0,
 15.0,
-160.0,
+40.0,
 40.0
 ],
 "props": [
@@ -500,8 +500,8 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-1055.0,
-165.0,
+1010.0,
+115.0,
 80.0,
 40.0
 ],
@@ -556,9 +556,9 @@
 "label": "20-hydroxy-LXB4",
 "class": "SimpleChemical",
 "box": [
-1175.0,
-255.0,
-140.0,
+1248.0,
+215.0,
+40.0,
 40.0
 ],
 "props": [
@@ -596,8 +596,8 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-1335.0,
-165.0,
+1310.0,
+115.0,
 80.0,
 40.0
 ],
@@ -657,7 +657,7 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
+356.0,
 123.0,
 24.0,
 24.0
@@ -698,8 +698,8 @@
 "label": "",
 "class": "Process",
 "box": [
+356.0,
 323.0,
-363.0,
 24.0,
 24.0
 ],
@@ -747,8 +747,8 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
-603.0,
+356.0,
+523.0,
 24.0,
 24.0
 ],
@@ -780,7 +780,7 @@
 "label": "",
 "class": "Process",
 "box": [
-123.0,
+56.0,
 123.0,
 24.0,
 24.0
@@ -821,7 +821,7 @@
 "label": "",
 "class": "Process",
 "box": [
-483.0,
+656.0,
 123.0,
 24.0,
 24.0
@@ -860,7 +860,7 @@
 "label": "",
 "class": "Process",
 "box": [
-923.0,
+956.0,
 123.0,
 24.0,
 24.0
@@ -893,8 +893,8 @@
 "label": "",
 "class": "Process",
 "box": [
-923.0,
-363.0,
+956.0,
+323.0,
 24.0,
 24.0
 ],
@@ -932,7 +932,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1233.0,
+1256.0,
 123.0,
 24.0,
 24.0

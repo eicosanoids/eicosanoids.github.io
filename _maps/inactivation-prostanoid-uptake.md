@@ -9,8 +9,8 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/inactivation-prostanoid-uptake.svg"
-width: 402
-height: 1030
+width: 243
+height: 870
 scale: 1
 annotation: "/atlas-data/inactivation-prostanoid-uptake.json"
 image_error: ""
