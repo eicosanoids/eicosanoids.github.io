@@ -1,0 +1,362 @@
+{
+"nodes": [
+{
+"label": "PD1",
+"class": "SimpleChemical",
+"box": [
+35.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"protectin D1"
+],
+[
+"Synonyms",
+"(4Z,7Z,10R,11E,13E,15Z,17S,19Z)-10,17-dihydroxydocosa-4,7,11,13,15,19-hexaenoic acid; (4Z,7Z,10R,11E,13E,15Z,17S,19Z)-10,17-dihydroxydocosahexaenoic acid; (N)PD1; (neuro)protectin D1; 10(R),17(S)-dihydroxydocosa-4Z,7Z,11E,13E,15Z,19Z-hexaenoic acid; NPD1; PD1; neuroprotectin D1"
+],
+[
+"Definition",
+"A dihydroxydocosahexaenoic acid that is (4Z,7Z,11E,13E,15Z,19Z)-docosahexaenoic acid in which the two hydroxy substituents are located at positions 10 and 17 (the 10R,17S-stereoisomer). Protectin D1 is one of the specialised proresolving mediators. When produced in neural tissues, it is called neuroprotectin D1"
+],
+[
+"Formula",
+"C22H32O4"
+],
+[
+"ChEBI",
+"CHEBI:138655"
+],
+[
+"HMDB",
+"HMDB0003689"
+],
+[
+"InChI",
+"InChI=1S/C22H32O4/c1-2-3-10-15-20(23)17-12-8-9-13-18-21(24)16-11-6-4-5-7-14-19-22(25)26/h3,5-13,17-18,20-21,23-24H,2,4,14-16,19H2,1H3,(H,25,26)/b7-5-,9-8+,10-3-,11-6-,17-12-,18-13+/t20-,21+/m0/s1"
+],
+[
+"InChIKey",
+"CRDZYJSQHCXHEG-SFVBTVKNSA-N"
+]
+]
+},
+{
+"label": "22-hydroxy-PD1",
+"class": "SimpleChemical",
+"box": [
+15.0,
+255.0,
+120.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"22-hydroxyprotectin D1"
+],
+[
+"Synonyms",
+"(4Z,7Z,10R,11E,13E,15Z,17S,19Z)-10,17,22-trihydroxydocosa-4,7,11,13,15,19-hexaenoic acid; (4Z,7Z,10R,11E,13E,15Z,17S,19Z)-10,17,22-trihydroxydocosahexaenoic acid; 10(R),17(S),20-trihydroxydocosa-4Z,7Z,11E,13E,15Z,19Z-hexaenoic acid; 22-OH-PD1; 22-hydroxy-(neuro)protectin D1; 22-hydroxyneuroprotectin D1"
+],
+[
+"Definition",
+"A docosanoid that is protectin D1 in which one of the terminal methyl hydrogens has been replaced by a hydroxy group. An intermediate of specialised proresolving mediators"
+],
+[
+"Formula",
+"C22H32O5"
+],
+[
+"ChEBI",
+"CHEBI:140243"
+],
+[
+"InChI",
+"InChI=1S/C22H32O5/c23-19-13-7-11-17-21(25)16-10-6-5-9-15-20(24)14-8-3-1-2-4-12-18-22(26)27/h2-11,15-16,20-21,23-25H,1,12-14,17-19H2,(H,26,27)/b4-2-,6-5+,8-3-,11-7-,15-9+,16-10-/t20-,21-/m1/s1"
+],
+[
+"InChIKey",
+"RXZULUQRGUAOLG-OCDBVANQSA-N"
+]
+]
+},
+{
+"label": "MaR1",
+"class": "SimpleChemical",
+"box": [
+295.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(7R,14S)-dihydroxy-(4Z,8E,10E,12Z,16Z,19Z)-docosahexaenoic acid"
+],
+[
+"Synonyms",
+"(4Z,7R,8E,10E,12Z,14S,16Z,19Z)-7,14-dihydroxydocosa-4,8,10,12,16,19-hexaenoic acid; (4Z,7R,8E,10E,12Z,14S,16Z,19Z)-7,14-dihydroxydocosahexaenoic acid; MaR1; maresin 1"
+],
+[
+"Definition",
+"A dihydroxydocosahexaenoic acid that is (4Z,8E,10E,12Z,16Z,19Z)-docosahexaenoic acid in which the two hydroxy substituents are located at the 7R- and 14S-positions."
+],
+[
+"Formula",
+"C22H32O4"
+],
+[
+"ChEBI",
+"CHEBI:138249"
+],
+[
+"InChI",
+"InChI=1S/C22H32O4/c1-2-3-4-5-6-10-15-20(23)16-11-7-8-12-17-21(24)18-13-9-14-19-22(25)26/h3-4,6-13,16-17,20-21,23-24H,2,5,14-15,18-19H2,1H3,(H,25,26)/b4-3-,8-7+,10-6-,13-9-,16-11-,17-12+/t20-,21-/m0/s1"
+],
+[
+"InChIKey",
+"HLHYXXBCQOUTGK-FHCQLJOMSA-N"
+]
+]
+},
+{
+"label": "RvE1",
+"class": "SimpleChemical",
+"box": [
+795.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"resolvin E1"
+],
+[
+"Synonyms",
+"(5S,12R,18R)-trihydroxy-(6Z,8E,10E,14Z,16E)-eicosapentaenoic acid; (5S,12R,18R)-trihydroxy-(6Z,8E,10E,14Z,16E)-icosapentaenoic acid; (5S,6Z,8E,10E,12R,14Z,16E,18R)-5,12,18-trihydroxyicosa-6,8,10,14,16-pentaenoic acid; (6Z,8E,10E,14Z,16E)-5,12,18-trihydroxyicosa-6,8,10,14,16-pentaenoic acid; 5S,12R,18R-Trihydroxy-6Z,8E,10E,14Z,16E-EPA; 5S,12R,18R-Trihydroxy-6Z,8E,10E,14Z,16E-eicosapentaenoic acid; ResolvinE1; RvE1"
+],
+[
+"Definition",
+"A resolvin that is (6Z,8E,10E,14Z,16E)-icosa-6,8,10,14,16-pentaenoic acid which is substituted at positions 5, 12 and 18 by hydroxy groups (the 5S,12R,18R stereoisomer)."
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:81559"
+],
+[
+"KEGG",
+"C18171"
+],
+[
+"HMDB",
+"HMDB0010410"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-17(21)11-8-5-9-14-18(22)12-6-3-4-7-13-19(23)15-10-16-20(24)25/h3-9,11-13,17-19,21-23H,2,10,14-16H2,1H3,(H,24,25)/b4-3+,9-5-,11-8+,12-6+,13-7-/t17-,18+,19-/m1/s1"
+],
+[
+"InChIKey",
+"AOPOCGPBAIARAV-OTBJXLELSA-N"
+]
+]
+},
+{
+"id": "p_pd1",
+"label": "",
+"class": "Process",
+"box": [
+63.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PD1"
+],
+"out": [
+"22-hydroxy-PD1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Tungen JE et al.",
+"journal": "J Nat Prod",
+"title": "Synthesis and anti-inflammatory and pro-resolving activities of 22-OH-PD1, a monohydroxylated metabolite of protectin D1.",
+"year": "2014",
+"db": "pubmed",
+"id": "25247845"
+}
+]
+},
+{
+"id": "p_maroh",
+"label": "",
+"class": "Process",
+"box": [
+303.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MaR1"
+],
+"out": [
+"22-hydroxy-MaR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Colas RA et al.",
+"journal": "J Immunol",
+"title": "Identification and Actions of the Maresin 1 Metabolome in Infectious Inflammation.",
+"year": "2016",
+"db": "pubmed",
+"id": "27799313"
+}
+]
+},
+{
+"id": "p_maroxo",
+"label": "",
+"class": "Process",
+"box": [
+503.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"MaR1"
+],
+"out": [
+"14-oxo-MaR1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Colas RA et al.",
+"journal": "J Immunol",
+"title": "Identification and Actions of the Maresin 1 Metabolome in Infectious Inflammation.",
+"year": "2016",
+"db": "pubmed",
+"id": "27799313"
+}
+]
+},
+{
+"id": "p_rvc",
+"label": "",
+"class": "Process",
+"box": [
+723.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"RvE1"
+],
+"out": [
+"20-carboxy-RvE1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Hong S et al.",
+"journal": "J Immunol",
+"title": "Resolvin E1 metabolome in local inactivation during inflammation-resolution.",
+"year": "2008",
+"db": "pubmed",
+"id": "18292578"
+}
+]
+},
+{
+"id": "p_rvo",
+"label": "",
+"class": "Process",
+"box": [
+903.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"RvE1"
+],
+"out": [
+"19-hydroxy-RvE1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Hong S et al.",
+"journal": "J Immunol",
+"title": "Resolvin E1 metabolome in local inactivation during inflammation-resolution.",
+"year": "2008",
+"db": "pubmed",
+"id": "18292578"
+}
+]
+},
+{
+"id": "p_rvd",
+"label": "",
+"class": "Process",
+"box": [
+803.0,
+363.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"19-hydroxy-RvE1"
+],
+"out": [
+"10,11-dihydro-RvE1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Hong S et al.",
+"journal": "J Immunol",
+"title": "Resolvin E1 metabolome in local inactivation during inflammation-resolution.",
+"year": "2008",
+"db": "pubmed",
+"id": "18292578"
+}
+]
+}
+]
+}

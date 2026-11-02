@@ -1,0 +1,564 @@
+{
+"nodes": [
+{
+"label": "CoA",
+"class": "SimpleChemical",
+"box": [
+390.0,
+65.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"coenzyme A"
+],
+[
+"Synonyms",
+"3'-phosphoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-oxo-4-({3-oxo-3-[(2-sulfanylethyl)amino]propyl}amino)butyl] dihydrogen diphosphate}; 3'-phosphoadenosine-(5')diphospho(4')pantatheine; CoA; CoA-SH; CoASH; Coenzym A; HSCoA; Koenzym A; [(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-3-(phosphonooxy)tetrahydrofuran-2-yl]methyl (3R)-3-hydroxy-4-({3-oxo-3-[(2-sulfanylethyl)amino]propyl}amino)-2,2-dimethyl-4-oxobutyl dihydrogen diphosphate"
+],
+[
+"Definition",
+"A thiol comprising a panthothenate unit in phosphoric anhydride linkage with a 3',5'-adenosine diphosphate unit; and an aminoethanethiol unit."
+],
+[
+"Formula",
+"C21H36N7O16P3S"
+],
+[
+"ChEBI",
+"CHEBI:15346"
+],
+[
+"KEGG",
+"C00010"
+],
+[
+"InChI",
+"InChI=1S/C21H36N7O16P3S/c1-21(2,16(31)19(32)24-4-3-12(29)23-5-6-48)8-41-47(38,39)44-46(36,37)40-7-11-15(43-45(33,34)35)14(30)20(42-11)28-10-27-13-17(22)25-9-26-18(13)28/h9-11,14-16,20,30-31,48H,3-8H2,1-2H3,(H,23,29)(H,24,32)(H,36,37)(H,38,39)(H2,22,25,26)(H2,33,34,35)/t11-,14-,15-,16+,20-/m1/s1"
+],
+[
+"InChIKey",
+"RGJOEKWQDUBAIZ-IBOSZNHHSA-N"
+]
+]
+},
+{
+"label": "ABCD3",
+"class": "Macromolecule",
+"box": [
+430.0,
+385.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP-binding cassette sub-family D member 3"
+],
+[
+"Alternative names",
+"70 kDa peroxisomal membrane protein"
+],
+[
+"Function",
+"ATP-dependent transporter of the ATP-binding cassette (ABC) family that catalyzes the transport of long- and very-long-chain fatty acyl-CoAs and probably bile acyl-CoAs from the cytosol to the peroxisome matrix for beta-oxydation. Appears to be specifically involved in the peroxisomal transport of branched-chain fatty acyl-CoAs (BCFA-CoAs) and dicarboxylic acyl CoAs (DCA-CoAs)."
+],
+[
+"Location",
+"Peroxisome membrane"
+],
+[
+"HGNC",
+"HGNC:67"
+],
+[
+"HGNC symbol",
+"ABCD3"
+],
+[
+"Previous symbols",
+"PXMP1"
+],
+[
+"Alias symbols",
+"PMP70, ZWS2"
+],
+[
+"Entrez",
+"5825"
+],
+[
+"Ensembl",
+"ENSG00000117528"
+],
+[
+"RefSeq",
+"NM_002858"
+],
+[
+"UniProt",
+"P28288"
+]
+]
+},
+{
+"label": "ACOX1",
+"class": "Macromolecule",
+"box": [
+430.0,
+625.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Peroxisomal acyl-coenzyme A oxidase 1"
+],
+[
+"Alternative names",
+"Palmitoyl-CoA oxidase; Peroxisomal fatty acyl-CoA oxidase; Straight-chain acyl-CoA oxidase"
+],
+[
+"Function",
+"Involved in the initial and rate-limiting step of peroxisomal beta-oxidation of straight-chain saturated and unsaturated very-long-chain fatty acids (VLCFAs). Catalyzes the desaturation of fatty acyl-CoAs that have a saturated bond between C2 and C3 (2,3-saturated acyl-CoA) to 2-trans-enoyl-CoAs ((2E)-enoyl-CoAs), and donates electrons directly to molecular oxygen (O(2)), thereby producing hydrogen peroxide (H(2)O(2))."
+],
+[
+"Location",
+"Peroxisome"
+],
+[
+"HGNC",
+"HGNC:119"
+],
+[
+"HGNC symbol",
+"ACOX1"
+],
+[
+"Alias symbols",
+"PALMCOX"
+],
+[
+"Entrez",
+"51"
+],
+[
+"Ensembl",
+"ENSG00000161533"
+],
+[
+"RefSeq",
+"NM_001185039"
+],
+[
+"UniProt",
+"Q15067"
+]
+]
+},
+{
+"label": "H2O2",
+"class": "SimpleChemical",
+"box": [
+50.0,
+785.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"hydrogen peroxide"
+],
+[
+"Synonyms",
+"H(2)O(2); H2O2; HOOH; Oxydol; [OH(OH)]; bis(hydridooxygen)(O--O); dihydrogen dioxide; dihydrogen peroxide; dihydrogen(peroxide); dioxidane; perhydrol"
+],
+[
+"Definition",
+"An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond."
+],
+[
+"Formula",
+"H2O2"
+],
+[
+"ChEBI",
+"CHEBI:16240"
+],
+[
+"KEGG",
+"C00027"
+],
+[
+"HMDB",
+"HMDB0003125"
+],
+[
+"InChI",
+"InChI=1S/H2O2/c1-2/h1-2H"
+],
+[
+"InChIKey",
+"MHAJPDPJQMAIIY-UHFFFAOYSA-N"
+]
+]
+},
+{
+"label": "HSD17B4",
+"class": "Macromolecule",
+"box": [
+430.0,
+865.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Peroxisomal multifunctional enzyme type 2"
+],
+[
+"Alternative names",
+"17-beta-hydroxysteroid dehydrogenase 4; D-bifunctional protein; Multifunctional protein 2; Short chain dehydrogenase/reductase family 8C member 1"
+],
+[
+"Function",
+"Bifunctional enzyme acting on the peroxisomal fatty acid beta-oxidation pathway. Catalyzes two of the four reactions in fatty acid degradation: hydration of 2-enoyl-CoA (trans-2-enoyl-CoA) to produce (3R)-3-hydroxyacyl-CoA, and dehydrogenation of (3R)-3-hydroxyacyl-CoA to produce 3-ketoacyl-CoA (3-oxoacyl-CoA), which is further metabolized by SCPx."
+],
+[
+"Location",
+"Peroxisome"
+],
+[
+"HGNC",
+"HGNC:5213"
+],
+[
+"HGNC symbol",
+"HSD17B4"
+],
+[
+"Alias symbols",
+"MFE-2, DBP, SDR8C1"
+],
+[
+"Entrez",
+"3295"
+],
+[
+"Ensembl",
+"ENSG00000133835"
+],
+[
+"RefSeq",
+"NM_000414"
+],
+[
+"UniProt",
+"P51659"
+]
+]
+},
+{
+"label": "SCP2",
+"class": "Macromolecule",
+"box": [
+450.0,
+1105.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Sterol carrier protein 2"
+],
+[
+"Alternative names",
+"Acetyl-CoA C-myristoyltransferase; Non-specific lipid-transfer protein; Propanoyl-CoA C-acyltransferase; SCP-2/3-oxoacyl-CoA thiolase; SCP-2/thiolase; SCP-chi; SCPX; Sterol carrier protein X"
+],
+[
+"Function",
+"Plays a crucial role in the peroxisomal oxidation of branched-chain fatty acids. Catalyzes the last step of the peroxisomal beta-oxidation of branched chain fatty acids and the side chain of the bile acid intermediates di- and trihydroxycoprostanic acids (DHCA and THCA)."
+],
+[
+"Location",
+"Peroxisome, Cytoplasm, Mitochondrion, Endoplasmic reticulum"
+],
+[
+"HGNC",
+"HGNC:10606"
+],
+[
+"HGNC symbol",
+"SCP2"
+],
+[
+"Alias symbols",
+"nsLTP, SCPx, SCP-X"
+],
+[
+"Entrez",
+"6342"
+],
+[
+"Ensembl",
+"ENSG00000116171"
+],
+[
+"RefSeq",
+"NM_002979"
+],
+[
+"UniProt",
+"P22307"
+]
+]
+},
+{
+"label": "acetyl-CoA",
+"class": "SimpleChemical",
+"box": [
+30.0,
+1265.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"acetyl-CoA"
+],
+[
+"Synonyms",
+"3'-phosphoadenosine 5'-(3-{(3R)-4-[(3-{[2-(acetylsulfanyl)ethyl]amino}-3-oxopropyl)amino]-3-hydroxy-2,2-dimethyl-4-oxobutyl} dihydrogen diphosphate); AcCoA; Acetyl coenzyme A; S-acetyl-CoA; S-acetyl-coenzyme A"
+],
+[
+"Definition",
+"An acyl-CoA having acetyl as its S-acetyl component."
+],
+[
+"Formula",
+"C23H38N7O17P3S"
+],
+[
+"ChEBI",
+"CHEBI:15351"
+],
+[
+"KEGG",
+"C00024"
+],
+[
+"HMDB",
+"HMDB0001206"
+],
+[
+"InChI",
+"InChI=1S/C23H38N7O17P3S/c1-12(31)51-7-6-25-14(32)4-5-26-21(35)18(34)23(2,3)9-44-50(41,42)47-49(39,40)43-8-13-17(46-48(36,37)38)16(33)22(45-13)30-11-29-15-19(24)27-10-28-20(15)30/h10-11,13,16-18,22,33-34H,4-9H2,1-3H3,(H,25,32)(H,26,35)(H,39,40)(H,41,42)(H2,24,27,28)(H2,36,37,38)/t13-,16-,17-,18+,22-/m1/s1"
+],
+[
+"InChIKey",
+"ZSLZBFCDCINBPY-ZSJPKINUSA-N"
+]
+]
+},
+{
+"id": "p_act",
+"label": "",
+"class": "Process",
+"box": [
+238.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"eicosanoid",
+"CoA"
+],
+"out": [
+"eicosanoid-CoA"
+],
+"by": [
+"acyl-CoA synthetase"
+]
+},
+"references": [
+{
+"authors": "Schepers L et al.",
+"journal": "J Biol Chem",
+"title": "Beta-oxidation of the carboxyl side chain of prostaglandin E2 in rat liver peroxisomes and mitochondria.",
+"year": "1988",
+"db": "pubmed",
+"id": "3422639"
+},
+{
+"authors": "Jedlitschky G et al.",
+"journal": "J Biol Chem",
+"title": "Peroxisomal degradation of leukotrienes by beta-oxidation from the omega-end.",
+"year": "1991",
+"db": "pubmed",
+"id": "1761571"
+}
+]
+},
+{
+"id": "p_imp",
+"label": "",
+"class": "Process",
+"box": [
+238.0,
+363.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"eicosanoid-CoA"
+],
+"out": [
+"eicosanoid-CoA"
+],
+"by": [
+"ABCD3"
+]
+},
+"references": [
+{
+"authors": "Ferdinandusse S et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Identification of the peroxisomal beta-oxidation enzymes involved in the degradation of leukotrienes.",
+"year": "2002",
+"db": "pubmed",
+"id": "12054595"
+}
+]
+},
+{
+"id": "p_ox",
+"label": "",
+"class": "Process",
+"box": [
+238.0,
+603.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"eicosanoid-CoA"
+],
+"out": [
+"2-trans-enoyl-CoA",
+"H2O2"
+],
+"by": [
+"ACOX1"
+]
+},
+"references": [
+{
+"authors": "Schepers L et al.",
+"journal": "J Biol Chem",
+"title": "Beta-oxidation of the carboxyl side chain of prostaglandin E2 in rat liver peroxisomes and mitochondria.",
+"year": "1988",
+"db": "pubmed",
+"id": "3422639"
+},
+{
+"authors": "Fang X et al.",
+"journal": "J Lipid Res",
+"title": "Conversion of epoxyeicosatrienoic acids (EETs) to chain-shortened epoxy fatty acids by human skin fibroblasts.",
+"year": "2000",
+"db": "pubmed",
+"id": "10627503"
+}
+]
+},
+{
+"id": "p_hyd",
+"label": "",
+"class": "Process",
+"box": [
+238.0,
+843.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"2-trans-enoyl-CoA"
+],
+"out": [
+"3-ketoacyl-CoA"
+],
+"by": [
+"HSD17B4"
+]
+},
+"references": [
+{
+"authors": "Ferdinandusse S et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Identification of the peroxisomal beta-oxidation enzymes involved in the degradation of leukotrienes.",
+"year": "2002",
+"db": "pubmed",
+"id": "12054595"
+},
+{
+"authors": "Jedlitschky G et al.",
+"journal": "J Biol Chem",
+"title": "Peroxisomal degradation of leukotrienes by beta-oxidation from the omega-end.",
+"year": "1991",
+"db": "pubmed",
+"id": "1761571"
+}
+]
+},
+{
+"id": "p_thio",
+"label": "",
+"class": "Process",
+"box": [
+238.0,
+1083.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"3-ketoacyl-CoA"
+],
+"out": [
+"eicosanoid-CoA, two carbons shorter",
+"acetyl-CoA"
+],
+"by": [
+"SCP2"
+]
+},
+"references": [
+{
+"authors": "Ferdinandusse S et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Identification of the peroxisomal beta-oxidation enzymes involved in the degradation of leukotrienes.",
+"year": "2002",
+"db": "pubmed",
+"id": "12054595"
+}
+]
+}
+]
+}

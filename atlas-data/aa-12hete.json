@@ -707,9 +707,9 @@
 },
 {
 "authors": "Mrsny RJ et al.",
-"year": "2004",
-"title": "Identification of hepoxilin A3 in inflammatory events: a required role in neutrophil migration across intestinal epithelia.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Identification of hepoxilin A3 in inflammatory events: a required role in neutrophil migration across intestinal epithelia.",
+"year": "2004",
 "db": "pubmed",
 "id": "15123795"
 },
@@ -1220,14 +1220,18 @@
 "id": "2318885"
 },
 {
+"authors": "Hamberg M et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Prostaglandin endoperoxides. Novel transformations of arachidonic acid in human platelets.",
+"year": "1974",
 "db": "pubmed",
 "id": "4215079"
 },
 {
 "authors": "Henderson WR et al.",
-"year": "1984",
-"title": "Arachidonic acid metabolism in normal and hypereosinophilic syndrome human eosinophils: generation of leukotrienes B4, C4, D4 and 15-lipoxygenase products.",
 "journal": "Immunology",
+"title": "Arachidonic acid metabolism in normal and hypereosinophilic syndrome human eosinophils: generation of leukotrienes B4, C4, D4 and 15-lipoxygenase products.",
+"year": "1984",
 "db": "pubmed",
 "id": "6323307"
 }

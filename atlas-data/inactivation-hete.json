@@ -1,0 +1,994 @@
+{
+"nodes": [
+{
+"label": "5(S)-HETE",
+"class": "SimpleChemical",
+"box": [
+260.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5(S)-HETE"
+],
+[
+"Synonyms",
+"(5S,6E,8Z,11Z,14Z)-5-hydroxyeicosa-6,8,11,14-tetraenoic acid; (5S,6E,8Z,11Z,14Z)-5-hydroxyicosa-6,8,11,14-tetraenoic acid; (6E,8Z,11Z,14Z)-(5S)-5-Hydroxyicosa-6,8,11,14-tetraenoic acid; (S)-(E,Z,Z,Z)-5-hydroxyeicosa-6,8,11,14-tetraenoic acid; 5(S)-hydroxy-6(E),8(Z),11(Z),14(Z)-eicosatetraenoic acid; 5(S)-hydroxyeicosatetraenoic acid; 5-Hydroxyeicosatetraenoate; 5S-HETE; 6,8,11,14-Eicosatetraenoic acid, 5-hydroxy-, (S-(E,Z,Z,Z))-"
+],
+[
+"Definition",
+"A HETE having a (5S)-hydroxy group and (6E)-, (8Z)-, (11Z)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:28209"
+],
+[
+"KEGG",
+"C04805"
+],
+[
+"HMDB",
+"HMDB0011134"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(21)17-15-18-20(22)23/h6-7,9-10,12-14,16,19,21H,2-5,8,11,15,17-18H2,1H3,(H,22,23)/b7-6-,10-9-,13-12-,16-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"KGIJOOYOSFUGPC-JGKLHWIESA-N"
+]
+]
+},
+{
+"label": "5,20-diHETE",
+"class": "SimpleChemical",
+"box": [
+240.0,
+255.0,
+120.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5,20-DiHETE"
+],
+[
+"Synonyms",
+"(6E,8Z,11Z,14Z)-5,20-dihydroxyicosa-6,8,11,14-tetraenoic acid; (6E,8Z,11Z,14Z)-5,20-dihydroxyicosatetraenoic acid; 20-Hydroxy-5-HETE; 5,20-dihydroxy-6E,8Z,11Z,14Z-icosatetraenoic acid"
+],
+[
+"Definition",
+"A DiHETE that is 5-HETE carrying an additional hydroxy substituent at position 20."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:90979"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c21-18-13-11-9-7-5-3-1-2-4-6-8-10-12-15-19(22)16-14-17-20(23)24/h2-5,8,10,12,15,19,21-22H,1,6-7,9,11,13-14,16-18H2,(H,23,24)/b4-2-,5-3-,10-8-,15-12+"
+],
+[
+"InChIKey",
+"IWYJGYZCHKEPCK-DHYYJNSCSA-N"
+]
+]
+},
+{
+"label": "CYP4F3",
+"class": "Macromolecule",
+"box": [
+440.0,
+165.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F3"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2646"
+],
+[
+"HGNC symbol",
+"CYP4F3"
+],
+[
+"Previous symbols",
+"LTB4H"
+],
+[
+"Alias symbols",
+"CYP4F"
+],
+[
+"Entrez",
+"4051"
+],
+[
+"Ensembl",
+"ENSG00000186529"
+],
+[
+"RefSeq",
+"NM_000896"
+],
+[
+"UniProt",
+"Q08477"
+]
+]
+},
+{
+"label": "5-oxo-ETE",
+"class": "SimpleChemical",
+"box": [
+30.0,
+15.0,
+100.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5-oxo-ETE"
+],
+[
+"Synonyms",
+"(6E,8Z,11Z,14Z)-5-Oxoicosa-6,8,11,14-tetraenoic acid; 5-KETE; 5-Oxo-icosa-6,8,11,14-tetraenoic acid; 5-OxoETE; 5-Oxoeicosatetraenoic acid; 5-Oxoicosatetraenoic acid; 5-keto-ETE; 5-ketoeicosatetraenoic acid; 5-oxo, 6t,8c,11c,14c-20:4; 5-oxo-6(E),8(Z),11(Z),14(Z)-eicosatetraenoic acid; 5-oxo-6E,8Z,11Z,14Z-eicosatetraenoic acid; eicosa-5,8,12,14-tetraenoic acid"
+],
+[
+"Definition",
+"An oxoicosatetraenoic acid having a 5-oxo group; and (6E)-, (8Z), (11Z)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:52449"
+],
+[
+"KEGG",
+"C14732"
+],
+[
+"HMDB",
+"HMDB0010217"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(21)17-15-18-20(22)23/h6-7,9-10,12-14,16H,2-5,8,11,15,17-18H2,1H3,(H,22,23)/b7-6-,10-9-,13-12-,16-14+"
+],
+[
+"InChIKey",
+"MEASLHGILYBXFO-XTDASVJISA-N"
+]
+]
+},
+{
+"label": "12(S)-HETE",
+"class": "SimpleChemical",
+"box": [
+660.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(S)-HETE"
+],
+[
+"Synonyms",
+"(12S)-12-hydroxy-5,8,14-cis-10-trans-eicosatetraenoic acid; (5Z,8Z,10E,12S,14Z)-12-hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,12S,14Z)-12-hydroxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroxyicosa-5,8,10,14-tetraenoic acid; 12(S)-hydroxy-5(Z),8(Z),10(E),14(Z)-eicosatetraenoic acid; 12(S)-hydroxy-5,8,14(Z),10(E)-eicosatetraenoic acid; 12(S)-hydroxyeicosatetraenoic acid; 12S-HETE"
+],
+[
+"Definition",
+"A HETE having a (12S)-hydroxy group and (5Z)-, (8Z)-, (10E)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34146"
+],
+[
+"KEGG",
+"C14777"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h7-11,13-14,17,19,21H,2-6,12,15-16,18H2,1H3,(H,22,23)/b9-7-,11-8-,13-10-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"ZNHVWPKMFKADKW-LQWMCKPYSA-N"
+]
+]
+},
+{
+"label": "12,20-diHETE",
+"class": "SimpleChemical",
+"box": [
+640.0,
+255.0,
+120.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12,20-DiHETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,10E,14Z)-12,20-dihydroxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-12,20-dihydroxyicosatetraenoic acid; 12,20-dihydroxy-(5Z,8Z,10E,14Z)-icosatetraenoic acid"
+],
+[
+"Definition",
+"A DiHETE that is 12-HETE carrying an additional hydroxy substituent at position 20."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:90990"
+],
+[
+"HMDB",
+"HMDB0060105"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c21-18-14-10-6-5-8-12-16-19(22)15-11-7-3-1-2-4-9-13-17-20(23)24/h2-4,7-8,11-12,15,19,21-22H,1,5-6,9-10,13-14,16-18H2,(H,23,24)/b4-2-,7-3-,12-8-,15-11+"
+],
+[
+"InChIKey",
+"NUPDGIJXOAHJRW-LNESKJDXSA-N"
+]
+]
+},
+{
+"label": "CYP4F3",
+"class": "Macromolecule",
+"box": [
+840.0,
+165.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F3"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; CYPIVF3; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase CYP4F3; Leukotriene-B(4) 20-monooxygenase 2; Leukotriene-B(4) omega-hydroxylase 2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2646"
+],
+[
+"HGNC symbol",
+"CYP4F3"
+],
+[
+"Previous symbols",
+"LTB4H"
+],
+[
+"Alias symbols",
+"CYP4F"
+],
+[
+"Entrez",
+"4051"
+],
+[
+"Ensembl",
+"ENSG00000186529"
+],
+[
+"RefSeq",
+"NM_000896"
+],
+[
+"UniProt",
+"Q08477"
+]
+]
+},
+{
+"label": "15(S)-HETE",
+"class": "SimpleChemical",
+"box": [
+960.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15(S)-HETE"
+],
+[
+"Synonyms",
+"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate; (15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate; (15S)-hydroxy-(5Z,8Z,11Z,13E)-eicosatetraenoic acid; (15S)-hydroxyeicosa-(5Z,8Z,11Z,13E)-tetraenoic acid; (5Z,8Z,11Z,13E)-(15S)-15-Hydroxyicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroxy-5,8,11,13-eicosatetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroxyeicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroxyicosa-5,8,11,13-tetraenoic acid; 15(S)-hydroxyeicosatetraenoic acid; 15S-HETE; icomucret"
+],
+[
+"Definition",
+"An optically active form of 15-HETE having 15(S)-configuration.."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:15558"
+],
+[
+"KEGG",
+"C04742"
+],
+[
+"HMDB",
+"HMDB0003876"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-13-16-19(21)17-14-11-9-7-5-4-6-8-10-12-15-18-20(22)23/h4-5,8-11,14,17,19,21H,2-3,6-7,12-13,15-16,18H2,1H3,(H,22,23)/b5-4-,10-8-,11-9-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"JSFATNQSLKRBCI-VAEKSGALSA-N"
+]
+]
+},
+{
+"label": "12(S)-HHTrE",
+"class": "SimpleChemical",
+"box": [
+1260.0,
+15.0,
+120.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12S-HHTrE"
+],
+[
+"Synonyms",
+"(5Z,8E,10E,12S)-12-hydroxyheptadeca-5,8,10-trienoic acid; 12-HHTrE; 12S-HHT; 12S-hydroxy-5Z,8E,10E-heptadecatrienoic acid"
+],
+[
+"Definition",
+"A trienoic fatty acid that consists of (5Z,8E,10E)-heptadeca-5,8,10-trienoic acid bearing an additional 12S-hydroxy substituent."
+],
+[
+"Formula",
+"C17H28O3"
+],
+[
+"ChEBI",
+"CHEBI:63977"
+],
+[
+"InChI",
+"InChI=1S/C17H28O3/c1-2-3-10-13-16(18)14-11-8-6-4-5-7-9-12-15-17(19)20/h5-8,11,14,16,18H,2-4,9-10,12-13,15H2,1H3,(H,19,20)/b7-5-,8-6+,14-11+/t16-/m0/s1"
+],
+[
+"InChIKey",
+"KUKJHGXXZWHSBG-WBGSEQOASA-N"
+]
+]
+},
+{
+"label": "12-KHT",
+"class": "SimpleChemical",
+"box": [
+1280.0,
+255.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12-oxo-(5Z,8E,10E)-heptadecatrienoate(1-)"
+],
+[
+"Synonyms",
+"12-oxo-(5Z,8E,10E)-heptadecatrienoate"
+],
+[
+"Definition",
+"An oxo fatty acid anion that is the conjugate base of 12-oxo-(5Z,8E,10E)-heptadecatrienoic acid; major species at pH 7.3"
+],
+[
+"Formula",
+"C17H25O3"
+],
+[
+"ChEBI",
+"CHEBI:195372"
+],
+[
+"InChI",
+"InChI=1S/C17H26O3/c1-2-3-10-13-16(18)14-11-8-6-4-5-7-9-12-15-17(19)20/h5-8,11,14H,2-4,9-10,12-13,15H2,1H3,(H,19,20)/p-1/b7-5-,8-6+,14-11+"
+],
+[
+"InChIKey",
+"BEHRKNVAYQNKGG-FQWDWNLFSA-M"
+]
+]
+},
+{
+"label": "HPGD",
+"class": "Macromolecule",
+"box": [
+1460.0,
+165.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-hydroxyprostaglandin dehydrogenase [NAD(+)]"
+],
+[
+"Alternative names",
+"Eicosanoid/docosanoid dehydrogenase [NAD(+)]; Prostaglandin dehydrogenase 1; Short chain dehydrogenase/reductase family 36C member 1"
+],
+[
+"Function",
+"Catalyzes the NAD-dependent dehydrogenation (oxidation) of a broad array of hydroxylated polyunsaturated fatty acids (mainly eicosanoids and docosanoids, including prostaglandins, lipoxins and resolvins), yielding their corresponding keto (oxo) metabolites. Decreases the levels of the pro-proliferative prostaglandins such as prostaglandin E2 (whose activity is increased in cancer because of an increase in the expression of cyclooxygenase 2) and generates oxo-fatty acid products that can profoundly influence cell function by abrogating pro-inflammatory cytokine expression."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:5154"
+],
+[
+"HGNC symbol",
+"HPGD"
+],
+[
+"Alias symbols",
+"SDR36C1"
+],
+[
+"Entrez",
+"3248"
+],
+[
+"Ensembl",
+"ENSG00000164120"
+],
+[
+"RefSeq",
+"NM_000860"
+],
+[
+"UniProt",
+"P15428"
+]
+]
+},
+{
+"label": "PTGR1",
+"class": "Macromolecule",
+"box": [
+1480.0,
+405.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin reductase 1"
+],
+[
+"Alternative names",
+"15-oxoprostaglandin 13-reductase; Dithiolethione-inducible gene 1 protein; Leukotriene B4 12-hydroxydehydrogenase; NAD(P)H-dependent alkenal/one oxidoreductase"
+],
+[
+"Function",
+"NAD(P)H-dependent oxidoreductase involved in metabolic inactivation of pro- and anti-inflammatory eicosanoids: prostaglandins (PG), leukotrienes (LT) and lipoxins (LX). Catalyzes with high efficiency the reduction of the 13,14 double bond of 15-oxoPGs, including 15-oxo-PGE1, 15-oxo-PGE2, 15-oxo-PGF1-alpha and 15-oxo-PGF2-alpha."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:18429"
+],
+[
+"HGNC symbol",
+"PTGR1"
+],
+[
+"Previous symbols",
+"LTB4DH"
+],
+[
+"Alias symbols",
+"ZADH3"
+],
+[
+"Entrez",
+"22949"
+],
+[
+"Ensembl",
+"ENSG00000106853"
+],
+[
+"RefSeq",
+"NM_001146108"
+],
+[
+"UniProt",
+"Q14914"
+]
+]
+},
+{
+"label": "20-HETE",
+"class": "SimpleChemical",
+"box": [
+1660.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"20-HETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,14Z)-20-Hydroxyicosa-5,8,11,14-tetraenoic acid; 20-Hydroxy arachidonic acid; 20-Hydroxyeicosatetraenoic acid; 20-Hydroxyicosatetraenoic acid; 20-hydroxyarachidonic acid"
+],
+[
+"Definition",
+"A HETE that consists of arachidonic acid bearing a hydroxy substituent at position 20."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:34306"
+],
+[
+"LIPID MAPS",
+"LMFA03060009"
+],
+[
+"KEGG",
+"C14748"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c21-19-17-15-13-11-9-7-5-3-1-2-4-6-8-10-12-14-16-18-20(22)23/h1,3-4,6-7,9-10,12,21H,2,5,8,11,13-19H2,(H,22,23)/b3-1-,6-4-,9-7-,12-10-"
+],
+[
+"InChIKey",
+"NNDIXBJHNLFJJP-DTLRTWKJSA-N"
+]
+]
+},
+{
+"label": "20-COOH-AA",
+"class": "SimpleChemical",
+"box": [
+1640.0,
+255.0,
+120.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(5Z,8Z,11Z,14Z)-icosatetraenedioic acid"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,14Z)-eicosa-5,8,11,14-tetraenedioic acid; (5Z,8Z,11Z,14Z)-eicosatetraenedioic acid; (5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenedioic acid; 1,20-Eicosatetraenedioic acid; Arachidonic acid-20-carboxylic acid"
+],
+[
+"Definition",
+"An α,ω-dicarboxylic acid that is (5Z,8Z,11Z,14Z)-icosatetraene in which the two methyl groups are replaced by carboxy groups."
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:76966"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c21-19(22)17-15-13-11-9-7-5-3-1-2-4-6-8-10-12-14-16-18-20(23)24/h1,3-4,6-7,9-10,12H,2,5,8,11,13-18H2,(H,21,22)(H,23,24)/b3-1-,6-4-,9-7-,12-10-"
+],
+[
+"InChIKey",
+"BGOJKUCHTMYINI-DTLRTWKJSA-N"
+]
+]
+},
+{
+"id": "p_oh5",
+"label": "",
+"class": "Process",
+"box": [
+288.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HETE"
+],
+"out": [
+"5,20-diHETE"
+],
+"by": [
+"CYP4F3"
+]
+},
+"references": [
+{
+"authors": "Kikuta Y et al.",
+"journal": "Arch Biochem Biophys",
+"title": "Purification and characterization of recombinant human neutrophil leukotriene B4 omega-hydroxylase (cytochrome P450 4F3).",
+"year": "1998",
+"db": "pubmed",
+"id": "9675028"
+},
+{
+"authors": "Graham FD et al.",
+"journal": "Free Radic Biol Med",
+"title": "Oxidative stress-induced changes in pyridine nucleotides and chemoattractant 5-lipoxygenase products in aging neutrophils.",
+"year": "2009",
+"db": "pubmed",
+"id": "19376220"
+}
+]
+},
+{
+"id": "p_oxo5",
+"label": "",
+"class": "Process",
+"box": [
+68.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5-oxo-ETE"
+],
+"out": [
+"5-oxo-20-HETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Powell WS et al.",
+"journal": "J Immunol",
+"title": "Metabolism and biologic effects of 5-oxoeicosanoids on human neutrophils.",
+"year": "1996",
+"db": "pubmed",
+"id": "8598482"
+},
+{
+"authors": "Graham FD et al.",
+"journal": "Free Radic Biol Med",
+"title": "Oxidative stress-induced changes in pyridine nucleotides and chemoattractant 5-lipoxygenase products in aging neutrophils.",
+"year": "2009",
+"db": "pubmed",
+"id": "19376220"
+}
+]
+},
+{
+"id": "p_oh12",
+"label": "",
+"class": "Process",
+"box": [
+688.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HETE"
+],
+"out": [
+"12,20-diHETE"
+],
+"by": [
+"CYP4F3"
+]
+},
+"references": [
+{
+"authors": "Kikuta Y et al.",
+"journal": "Arch Biochem Biophys",
+"title": "Purification and characterization of recombinant human neutrophil leukotriene B4 omega-hydroxylase (cytochrome P450 4F3).",
+"year": "1998",
+"db": "pubmed",
+"id": "9675028"
+},
+{
+"authors": "Kikuta Y et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Expression and physiological function of CYP4F subfamily in human eosinophils.",
+"year": "2007",
+"db": "pubmed",
+"id": "17980168"
+}
+]
+},
+{
+"id": "p_dih12",
+"label": "",
+"class": "Process",
+"box": [
+688.0,
+363.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12,20-diHETE"
+],
+"out": [
+"10,11-dihydro-12-HETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Wainwright S et al.",
+"journal": "Biochemistry",
+"title": "Metabolism of 12(S)-hydroxy-5,8,10,14-eicosatetraenoic acid and other hydroxylated fatty acids by the reductase pathway in porcine polymorphonuclear leukocytes.",
+"year": "1990",
+"db": "pubmed",
+"id": "2176862"
+},
+{
+"authors": "Powell WS et al.",
+"journal": "J Leukoc Biol",
+"title": "Effects of oxo and dihydro metabolites of 12-hydroxy-5,8,10,14-eicosatetraenoic acid on chemotaxis and cytosolic calcium levels in human neutrophils.",
+"year": "1995",
+"db": "pubmed",
+"id": "7852839"
+}
+]
+},
+{
+"id": "p_sh15",
+"label": "",
+"class": "Process",
+"box": [
+988.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HETE"
+],
+"out": [
+"chain-shortened HETE"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Gordon JA et al.",
+"journal": "J Clin Invest",
+"title": "Hydroxyeicosatetraenoic acid metabolism in cultured human skin fibroblasts. Evidence for peroxisomal beta-oxidation.",
+"year": "1990",
+"db": "pubmed",
+"id": "2318972"
+},
+{
+"authors": "Mayatepek E et al.",
+"journal": "Pediatr Res",
+"title": "12- and 15-hydroxyeicosatetraenoic acid are excreted in the urine of peroxisome-deficient patients: evidence for peroxisomal metabolism in vivo.",
+"year": "1996",
+"db": "pubmed",
+"id": "8825400"
+}
+]
+},
+{
+"id": "p_kht",
+"label": "",
+"class": "Process",
+"box": [
+1308.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HHTrE"
+],
+"out": [
+"12-KHT"
+],
+"by": [
+"HPGD"
+]
+},
+"references": [
+{
+"authors": "Yasukawa K et al.",
+"journal": "J Biochem",
+"title": "Identification and characterization of bioactive metabolites of 12-hydroxyheptadecatrienoic acid, a ligand for leukotriene B4 receptor 2.",
+"year": "2023",
+"db": "pubmed",
+"id": "36539331"
+},
+{
+"authors": "Tai HH et al.",
+"journal": "Curr Top Microbiol Immunol",
+"title": "15-Hydroxyprostaglandin Dehydrogenase: A Key Metabolic Enzyme for Prostaglandins, 12-Hydroxyheptadecatrienoic Acid, and Resolvins.",
+"year": "2026",
+"db": "pubmed",
+"id": "42841961"
+}
+]
+},
+{
+"id": "p_dkht",
+"label": "",
+"class": "Process",
+"box": [
+1308.0,
+363.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12-KHT"
+],
+"out": [
+"10,11-dihydro-12-KHT"
+],
+"by": [
+"PTGR1"
+]
+},
+"references": [
+{
+"authors": "Yasukawa K et al.",
+"journal": "J Biochem",
+"title": "Identification and characterization of bioactive metabolites of 12-hydroxyheptadecatrienoic acid, a ligand for leukotriene B4 receptor 2.",
+"year": "2023",
+"db": "pubmed",
+"id": "36539331"
+}
+]
+},
+{
+"id": "p_c20",
+"label": "",
+"class": "Process",
+"box": [
+1688.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"20-HETE"
+],
+"out": [
+"20-COOH-AA"
+],
+"by": [
+"alcohol dehydrogenase"
+]
+},
+"references": [
+{
+"authors": "McCarthy ET et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Ethanol at low concentrations protects glomerular podocytes through alcohol dehydrogenase and 20-HETE.",
+"year": "2015",
+"db": "pubmed",
+"id": "25447342"
+},
+{
+"authors": "Fang X et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "20-carboxy-arachidonic acid is a dual activator of peroxisome proliferator-activated receptors alpha and gamma.",
+"year": "2007",
+"db": "pubmed",
+"id": "17164145"
+}
+]
+}
+]
+}
