@@ -1,6 +1,6 @@
 # The Eicosanoid Atlas: maps of eicosanoids and related lipid mediators, their production, receptors and regulation.
 name: Eicosanoid Atlas
-description: "Eicosanoids and related lipid mediators: production, receptors, regulation"
+description: "Production, receptors, regulation"
 # no logo in the header (user, 2026-11-01); the file stays in images/logo.svg
 footer-links:
   github: eicosanoids
