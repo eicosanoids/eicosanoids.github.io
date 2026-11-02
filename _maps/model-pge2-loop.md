@@ -1,7 +1,7 @@
 ---
 title: "PGE2 loop in the macrophage"
 topic: "PGE2 loop"
-tab: ""
+tab: "Process Description"
 page: ""
 group: "Modelling"
 order: 100
