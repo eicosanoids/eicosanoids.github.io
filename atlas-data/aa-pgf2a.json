@@ -554,7 +554,8 @@
 ],
 "by": [
 "AKR1A1",
-"AKR1C3"
+"AKR1C3",
+"AKR1B1"
 ]
 },
 "references": [
@@ -671,7 +672,7 @@
 "class": "Macromolecule",
 "box": [
 15.0,
-80.0,
+45.0,
 80.0,
 40.0
 ],
@@ -727,7 +728,7 @@
 "class": "Macromolecule",
 "box": [
 15.0,
-150.0,
+115.0,
 80.0,
 40.0
 ],
@@ -779,6 +780,66 @@
 [
 "UniProt",
 "P42330"
+]
+]
+},
+{
+"label": "AKR1B1",
+"class": "Macromolecule",
+"box": [
+15.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Aldo-keto reductase family 1 member B1"
+],
+[
+"Alternative names",
+"Aldehyde reductase; Alditol:NADP oxidoreductase; Aldose reductase"
+],
+[
+"Function",
+"Catalyzes the NADPH-dependent reduction of a wide variety of carbonyl-containing compounds to their corresponding alcohols. Displays enzymatic activity towards endogenous metabolites such as aromatic and aliphatic aldehydes, ketones, monosaccharides, bile acids and xenobiotics substrates."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:381"
+],
+[
+"HGNC symbol",
+"AKR1B1"
+],
+[
+"Previous symbols",
+"ALDR1"
+],
+[
+"Alias symbols",
+"AR"
+],
+[
+"Entrez",
+"231"
+],
+[
+"Ensembl",
+"ENSG00000085662"
+],
+[
+"RefSeq",
+"NM_001628"
+],
+[
+"UniProt",
+"P15121"
 ]
 ]
 },
