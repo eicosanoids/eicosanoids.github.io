@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/inactivation-hete.svg"
-width: 905
+width: 926
 height: 1270
 scale: 1
 annotation: "/atlas-data/inactivation-hete.json"

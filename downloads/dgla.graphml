@@ -369,7 +369,7 @@
           </data>
         </node><node id="PTGES_DGLA-03_DGLA-03"><data key="d3">O14684</data><data key="d2">HGNC:9599</data><data key="d1">PTGES</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="41.0" y="480.0"/>
+              <y:Geometry height="40" width="80" x="63.0" y="480.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="40.714285714285715" x="19.6" xml:space="preserve" y="10.9" hasText="true">PTGES<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -380,7 +380,7 @@
           </data>
         </node><node id="HPGD_DGLA-07_DGLA-07"><data key="d3">P15428</data><data key="d2">HGNC:5154</data><data key="d1">HPGD</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="41.0" y="680.0"/>
+              <y:Geometry height="40" width="80" x="63.0" y="680.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="23.7" xml:space="preserve" y="10.9" hasText="true">HPGD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -391,7 +391,7 @@
           </data>
         </node><node id="PTGR1_DGLA-09_DGLA-09"><data key="d1">PTGR1</data><data key="d2">HGNC:18429</data><data key="d3">Q14914</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="41.0" y="880.0"/>
+              <y:Geometry height="40" width="80" x="63.0" y="880.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="48.857142857142854" x="15.6" xml:space="preserve" y="10.9" hasText="true">PTGR1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -402,7 +402,7 @@
           </data>
         </node><node id="TBXAS1_DGLA-05_DGLA-05"><data key="d2">HGNC:11609</data><data key="d1">TBXAS1</data><data key="d3">P24557</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="641.0" y="680.0"/>
+              <y:Geometry height="40" width="80" x="663.0" y="680.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="23.7" xml:space="preserve" y="10.9" hasText="true">TBXAS1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -413,7 +413,7 @@
           </data>
         </node><node id="TBXAS1_DGLA-06_DGLA-06"><data key="d2">HGNC:11609</data><data key="d1">TBXAS1</data><data key="d3">P24557</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="941.0" y="680.0"/>
+              <y:Geometry height="40" width="80" x="963.0" y="680.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="23.7" xml:space="preserve" y="10.9" hasText="true">TBXAS1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -424,7 +424,7 @@
           </data>
         </node><node id="CYP4F8_DGLA-11_DGLA-11"><data key="d3">P98187</data><data key="d2">HGNC:2648</data><data key="d1">CYP4F8</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="-190.0" y="441.0"/>
+              <y:Geometry height="40" width="80" x="-190.0" y="463.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="40.714285714285715" x="19.6" xml:space="preserve" y="10.9" hasText="true">CYP4F8<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -435,7 +435,7 @@
           </data>
         </node><node id="ALOX15_DGLA-12_DGLA-12"><data key="d3">P16050</data><data key="d2">HGNC:433</data><data key="d1">ALOX15</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="-559.0" y="80.0"/>
+              <y:Geometry height="40" width="80" x="-537.0" y="80.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="48.857142857142854" x="15.6" xml:space="preserve" y="10.9" hasText="true">ALOX15<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -446,7 +446,7 @@
           </data>
         </node><node id="ALOX12_DGLA-15_DGLA-15"><data key="d3">P18054</data><data key="d2">HGNC:429</data><data key="d1">ALOX12</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="641.0" y="80.0"/>
+              <y:Geometry height="40" width="80" x="663.0" y="80.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="48.857142857142854" x="15.6" xml:space="preserve" y="10.9" hasText="true">ALOX12<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -457,7 +457,7 @@
           </data>
         </node><node id="HPGD_DGLA-10_DGLA-10"><data key="d3">P15428</data><data key="d2">HGNC:5154</data><data key="d1">HPGD</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="-259.0" y="880.0"/>
+              <y:Geometry height="40" width="80" x="-237.0" y="880.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="23.7" xml:space="preserve" y="10.9" hasText="true">HPGD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -468,7 +468,7 @@
           </data>
         </node><node id="ALOX12B_DGLA-16p_DGLA-16p"><data key="d3">O75342</data><data key="d2">HGNC:430</data><data key="d1">ALOX12B</data><data key="ng">
             <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
-              <y:Geometry height="40" width="80" x="941.0" y="80.0"/>
+              <y:Geometry height="40" width="80" x="963.0" y="80.0"/>
               <y:Fill color="#C8D8EB" transparent="false"/>
               <y:BorderStyle color="#0066CC" type="line" width="2.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="57.0" x="11.5" xml:space="preserve" y="10.9" hasText="true">ALOX12B<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>

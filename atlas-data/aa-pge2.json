@@ -1375,7 +1375,7 @@
 "label": "PLA2G4C",
 "class": "Macromolecule",
 "box": [
-292.0,
+270.0,
 115.0,
 80.0,
 40.0
@@ -1431,7 +1431,7 @@
 "label": "PLA2G4A",
 "class": "Macromolecule",
 "box": [
-454.0,
+476.0,
 115.0,
 80.0,
 40.0
@@ -1491,7 +1491,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-454.0,
+476.0,
 315.0,
 80.0,
 40.0
@@ -1603,7 +1603,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-154.0,
+176.0,
 315.0,
 80.0,
 40.0
@@ -1659,7 +1659,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-454.0,
+476.0,
 515.0,
 80.0,
 40.0
@@ -1715,7 +1715,7 @@
 "label": "PTGES2",
 "class": "Macromolecule",
 "box": [
-292.0,
+270.0,
 715.0,
 80.0,
 40.0
@@ -1775,7 +1775,7 @@
 "label": "PTGES3",
 "class": "Macromolecule",
 "box": [
-454.0,
+476.0,
 715.0,
 80.0,
 40.0
@@ -1891,7 +1891,7 @@
 "label": "CYP4F8",
 "class": "Macromolecule",
 "box": [
-154.0,
+176.0,
 715.0,
 80.0,
 40.0
@@ -1943,7 +1943,7 @@
 "label": "PTGES",
 "class": "Macromolecule",
 "box": [
-154.0,
+176.0,
 915.0,
 80.0,
 40.0
@@ -2003,7 +2003,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-454.0,
+476.0,
 915.0,
 80.0,
 40.0
@@ -2059,7 +2059,7 @@
 "label": "PTGR2",
 "class": "Macromolecule",
 "box": [
-292.0,
+270.0,
 1115.0,
 80.0,
 40.0
@@ -2119,7 +2119,7 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-454.0,
+476.0,
 1115.0,
 80.0,
 40.0

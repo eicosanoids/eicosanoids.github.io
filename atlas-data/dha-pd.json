@@ -4,7 +4,7 @@
 "label": "17S-HpDHA",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 15.0,
 40.0,
 40.0
@@ -44,7 +44,7 @@
 "label": "17R-HpDHA",
 "class": "SimpleChemical",
 "box": [
-1016.0,
+1038.0,
 15.0,
 40.0,
 40.0
@@ -84,7 +84,7 @@
 "label": "16S,17S-epoxy-DHA",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 215.0,
 40.0,
 40.0
@@ -124,7 +124,7 @@
 "label": "PD1",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 415.0,
 40.0,
 40.0
@@ -168,7 +168,7 @@
 "label": "PDX",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 215.0,
 40.0,
 40.0
@@ -208,7 +208,7 @@
 "label": "PCTR1",
 "class": "SimpleChemical",
 "box": [
-716.0,
+738.0,
 615.0,
 40.0,
 40.0
@@ -248,7 +248,7 @@
 "label": "AT-PD1",
 "class": "SimpleChemical",
 "box": [
-1016.0,
+1038.0,
 215.0,
 40.0,
 40.0
@@ -288,7 +288,7 @@
 "label": "PCTR2",
 "class": "SimpleChemical",
 "box": [
-716.0,
+738.0,
 815.0,
 40.0,
 40.0
@@ -328,7 +328,7 @@
 "label": "PCTR3",
 "class": "SimpleChemical",
 "box": [
-716.0,
+738.0,
 1015.0,
 40.0,
 40.0
@@ -368,7 +368,7 @@
 "label": "22-hydroxy-PD1",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 615.0,
 40.0,
 40.0
@@ -409,7 +409,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 123.0,
 24.0,
 24.0
@@ -466,7 +466,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 323.0,
 24.0,
 24.0
@@ -537,7 +537,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 123.0,
 24.0,
 24.0
@@ -595,7 +595,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1024.0,
+1046.0,
 123.0,
 24.0,
 24.0
@@ -652,7 +652,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+746.0,
 523.0,
 24.0,
 24.0
@@ -712,7 +712,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+746.0,
 723.0,
 24.0,
 24.0
@@ -753,7 +753,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+746.0,
 923.0,
 24.0,
 24.0
@@ -794,7 +794,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-246.0,
+268.0,
 115.0,
 80.0,
 40.0
@@ -906,7 +906,7 @@
 "label": "GSTM4",
 "class": "Macromolecule",
 "box": [
-615.0,
+637.0,
 480.0,
 80.0,
 40.0
@@ -958,7 +958,7 @@
 "label": "MGST3",
 "class": "Macromolecule",
 "box": [
-615.0,
+637.0,
 550.0,
 80.0,
 40.0
@@ -1014,7 +1014,7 @@
 "label": "LTC4S",
 "class": "Macromolecule",
 "box": [
-777.0,
+799.0,
 480.0,
 80.0,
 40.0
@@ -1070,7 +1070,7 @@
 "label": "MGST2",
 "class": "Macromolecule",
 "box": [
-777.0,
+799.0,
 550.0,
 80.0,
 40.0
@@ -1126,7 +1126,7 @@
 "label": "GGT1",
 "class": "Macromolecule",
 "box": [
-777.0,
+821.0,
 715.0,
 80.0,
 40.0
@@ -1234,7 +1234,7 @@
 "label": "DPEP1",
 "class": "Macromolecule",
 "box": [
-777.0,
+821.0,
 915.0,
 80.0,
 40.0
@@ -1286,7 +1286,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-1077.0,
+1121.0,
 115.0,
 80.0,
 40.0

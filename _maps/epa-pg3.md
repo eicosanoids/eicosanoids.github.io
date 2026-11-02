@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/epa-pg3.svg"
-width: 1371
+width: 1393
 height: 1470
 scale: 1
 annotation: "/atlas-data/epa-pg3.json"

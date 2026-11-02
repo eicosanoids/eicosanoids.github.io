@@ -1363,7 +1363,7 @@
 "label": "PTGES",
 "class": "Macromolecule",
 "box": [
-676.0,
+698.0,
 515.0,
 80.0,
 40.0
@@ -1423,7 +1423,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-676.0,
+698.0,
 715.0,
 80.0,
 40.0
@@ -1479,7 +1479,7 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-676.0,
+698.0,
 915.0,
 80.0,
 40.0
@@ -1539,7 +1539,7 @@
 "label": "TBXAS1",
 "class": "Macromolecule",
 "box": [
-1276.0,
+1298.0,
 715.0,
 80.0,
 40.0
@@ -1595,7 +1595,7 @@
 "label": "TBXAS1",
 "class": "Macromolecule",
 "box": [
-1576.0,
+1598.0,
 715.0,
 80.0,
 40.0
@@ -1652,7 +1652,7 @@
 "class": "Macromolecule",
 "box": [
 445.0,
-476.0,
+498.0,
 80.0,
 40.0
 ],
@@ -1703,7 +1703,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-76.0,
+98.0,
 115.0,
 80.0,
 40.0
@@ -1759,7 +1759,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-1276.0,
+1298.0,
 115.0,
 80.0,
 40.0
@@ -1815,7 +1815,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-376.0,
+398.0,
 915.0,
 80.0,
 40.0
@@ -1871,7 +1871,7 @@
 "label": "ALOX12B",
 "class": "Macromolecule",
 "box": [
-1576.0,
+1598.0,
 115.0,
 80.0,
 40.0

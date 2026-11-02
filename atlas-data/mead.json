@@ -4,7 +4,7 @@
 "label": "mead acid",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 15.0,
 40.0,
 40.0
@@ -48,7 +48,7 @@
 "label": "LTC3",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 415.0,
 40.0,
 40.0
@@ -88,7 +88,7 @@
 "label": "LTD3 and LTE3",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 615.0,
 40.0,
 40.0
@@ -128,7 +128,7 @@
 "label": "20-HETrE and 19-HETrE",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 415.0,
 40.0,
 40.0
@@ -169,7 +169,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 123.0,
 24.0,
 24.0
@@ -226,7 +226,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 323.0,
 24.0,
 24.0
@@ -275,7 +275,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 523.0,
 24.0,
 24.0
@@ -326,7 +326,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 323.0,
 24.0,
 24.0
@@ -362,7 +362,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 115.0,
 80.0,
 40.0
@@ -418,7 +418,7 @@
 "label": "LTC4S",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 315.0,
 80.0,
 40.0
@@ -534,7 +534,7 @@
 "label": "GGT1",
 "class": "Macromolecule",
 "box": [
-177.0,
+199.0,
 480.0,
 80.0,
 40.0
@@ -594,7 +594,7 @@
 "label": "DPEP1",
 "class": "Macromolecule",
 "box": [
-177.0,
+199.0,
 550.0,
 80.0,
 40.0
@@ -646,7 +646,7 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-315.0,
+337.0,
 280.0,
 80.0,
 40.0
@@ -706,7 +706,7 @@
 "label": "CYP2C19",
 "class": "Macromolecule",
 "box": [
-315.0,
+337.0,
 350.0,
 80.0,
 40.0
@@ -766,7 +766,7 @@
 "label": "CYP4F2",
 "class": "Macromolecule",
 "box": [
-477.0,
+499.0,
 245.0,
 80.0,
 40.0
@@ -818,7 +818,7 @@
 "label": "CYP1A1",
 "class": "Macromolecule",
 "box": [
-477.0,
+521.0,
 315.0,
 80.0,
 40.0
@@ -878,7 +878,7 @@
 "label": "CYP2E1",
 "class": "Macromolecule",
 "box": [
-477.0,
+499.0,
 385.0,
 80.0,
 40.0

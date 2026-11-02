@@ -48,7 +48,7 @@
 "label": "ABCD3",
 "class": "Macromolecule",
 "box": [
-192.0,
+213.0,
 315.0,
 80.0,
 40.0
@@ -108,7 +108,7 @@
 "label": "ACOX1",
 "class": "Macromolecule",
 "box": [
-192.0,
+213.0,
 515.0,
 80.0,
 40.0
@@ -212,7 +212,7 @@
 "label": "HSD17B4",
 "class": "Macromolecule",
 "box": [
-192.0,
+213.0,
 715.0,
 80.0,
 40.0
@@ -268,7 +268,7 @@
 "label": "SCP2",
 "class": "Macromolecule",
 "box": [
-192.0,
+213.0,
 915.0,
 80.0,
 40.0

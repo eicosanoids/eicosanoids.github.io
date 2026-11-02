@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/dgla.svg"
-width: 1671
+width: 1693
 height: 1070
 scale: 1
 annotation: "/atlas-data/dgla.json"

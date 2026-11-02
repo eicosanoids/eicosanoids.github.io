@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/epa-eeq.svg"
-width: 1371
+width: 1393
 height: 670
 scale: 1
 annotation: "/atlas-data/epa-eeq.json"

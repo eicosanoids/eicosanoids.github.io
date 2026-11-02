@@ -4,7 +4,7 @@
 "label": "DHA",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 15.0,
 40.0,
 40.0
@@ -52,7 +52,7 @@
 "label": "14S-HpDHA",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 215.0,
 40.0,
 40.0
@@ -92,7 +92,7 @@
 "label": "13S,14S-epoxy-maresin",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 415.0,
 40.0,
 40.0
@@ -132,7 +132,7 @@
 "label": "MaR1",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 615.0,
 40.0,
 40.0
@@ -172,7 +172,7 @@
 "label": "MaR2",
 "class": "SimpleChemical",
 "box": [
-716.0,
+738.0,
 615.0,
 40.0,
 40.0
@@ -212,7 +212,7 @@
 "label": "11S-HpDHA",
 "class": "SimpleChemical",
 "box": [
-716.0,
+738.0,
 215.0,
 40.0,
 40.0
@@ -248,7 +248,7 @@
 "label": "MCTR1",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 615.0,
 40.0,
 40.0
@@ -288,7 +288,7 @@
 "label": "MCTR2",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 815.0,
 40.0,
 40.0
@@ -328,7 +328,7 @@
 "label": "MCTR3",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 1015.0,
 40.0,
 40.0
@@ -369,7 +369,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 123.0,
 24.0,
 24.0
@@ -435,7 +435,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 323.0,
 24.0,
 24.0
@@ -493,7 +493,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 523.0,
 24.0,
 24.0
@@ -564,7 +564,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+746.0,
 523.0,
 24.0,
 24.0
@@ -613,7 +613,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+746.0,
 123.0,
 24.0,
 24.0
@@ -663,7 +663,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 523.0,
 24.0,
 24.0
@@ -713,7 +713,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 723.0,
 24.0,
 24.0
@@ -762,7 +762,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 923.0,
 24.0,
 24.0
@@ -811,7 +811,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-532.0,
+554.0,
 215.0,
 80.0,
 40.0
@@ -867,7 +867,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-260.0,
+282.0,
 215.0,
 80.0,
 40.0
@@ -923,7 +923,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-777.0,
+821.0,
 515.0,
 80.0,
 40.0
@@ -1031,7 +1031,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-777.0,
+821.0,
 115.0,
 80.0,
 40.0
@@ -1139,7 +1139,7 @@
 "label": "LTC4S",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 515.0,
 80.0,
 40.0
@@ -1195,7 +1195,7 @@
 "label": "GGT1",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 715.0,
 80.0,
 40.0
@@ -1303,7 +1303,7 @@
 "label": "DPEP1",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 915.0,
 80.0,
 40.0

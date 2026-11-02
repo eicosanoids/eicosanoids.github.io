@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/epa-rve.svg"
-width: 1172
+width: 1216
 height: 1270
 scale: 1
 annotation: "/atlas-data/epa-rve.json"

@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/epa-hepe.svg"
-width: 2072
+width: 2116
 height: 670
 scale: 1
 annotation: "/atlas-data/epa-hepe.json"

@@ -829,7 +829,7 @@
 "label": "ALOX5AP",
 "class": "Macromolecule",
 "box": [
-401.0,
+423.0,
 115.0,
 80.0,
 40.0
@@ -941,7 +941,7 @@
 "label": "LTA4H",
 "class": "Macromolecule",
 "box": [
-401.0,
+423.0,
 515.0,
 80.0,
 40.0
@@ -993,7 +993,7 @@
 "label": "CYP4F12",
 "class": "Macromolecule",
 "box": [
-239.0,
+217.0,
 715.0,
 80.0,
 40.0
@@ -1045,7 +1045,7 @@
 "label": "CYP4F2",
 "class": "Macromolecule",
 "box": [
-401.0,
+423.0,
 715.0,
 80.0,
 40.0
@@ -1157,7 +1157,7 @@
 "label": "ALDH3A2",
 "class": "Macromolecule",
 "box": [
-413.0,
+435.0,
 1115.0,
 80.0,
 40.0
@@ -1217,7 +1217,7 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-101.0,
+123.0,
 715.0,
 80.0,
 40.0

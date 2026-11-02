@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/epa-cyp-extra.svg"
-width: 572
+width: 616
 height: 270
 scale: 1
 annotation: "/atlas-data/epa-cyp-extra.json"

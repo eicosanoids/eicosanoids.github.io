@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/mead.svg"
-width: 572
+width: 616
 height: 670
 scale: 1
 annotation: "/atlas-data/mead.json"

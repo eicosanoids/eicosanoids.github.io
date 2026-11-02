@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/dha-hdha.svg"
-width: 1671
+width: 1693
 height: 670
 scale: 1
 annotation: "/atlas-data/dha-hdha.json"

@@ -4,7 +4,7 @@
 "label": "AA",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 15.0,
 40.0,
 40.0
@@ -52,7 +52,7 @@
 "label": "5(S)-HETE",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 415.0,
 40.0,
 40.0
@@ -100,7 +100,7 @@
 "label": "5-oxo-ETE (5-KETE)",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 615.0,
 40.0,
 40.0
@@ -148,7 +148,7 @@
 "label": "5(S),20-diHETE",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 615.0,
 40.0,
 40.0
@@ -188,7 +188,7 @@
 "label": "5(S)-HpETE",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 215.0,
 40.0,
 40.0
@@ -237,7 +237,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 323.0,
 24.0,
 24.0
@@ -281,7 +281,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 523.0,
 24.0,
 24.0
@@ -347,7 +347,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 523.0,
 24.0,
 24.0
@@ -414,7 +414,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 123.0,
 24.0,
 24.0
@@ -497,7 +497,7 @@
 "label": "5-oxo-12S-HETE",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 815.0,
 40.0,
 40.0
@@ -541,7 +541,7 @@
 "label": "5-oxo-15S-HETE",
 "class": "SimpleChemical",
 "box": [
-716.0,
+738.0,
 815.0,
 40.0,
 40.0
@@ -582,7 +582,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 723.0,
 24.0,
 24.0
@@ -623,7 +623,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+746.0,
 723.0,
 24.0,
 24.0
@@ -727,7 +727,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-477.0,
+521.0,
 115.0,
 80.0,
 40.0
@@ -783,7 +783,7 @@
 "label": "MGST2",
 "class": "Macromolecule",
 "box": [
-315.0,
+337.0,
 280.0,
 80.0,
 40.0
@@ -839,7 +839,7 @@
 "label": "GPX4",
 "class": "Macromolecule",
 "box": [
-315.0,
+337.0,
 350.0,
 80.0,
 40.0
@@ -895,7 +895,7 @@
 "label": "MGST3",
 "class": "Macromolecule",
 "box": [
-477.0,
+499.0,
 280.0,
 80.0,
 40.0
@@ -951,7 +951,7 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-477.0,
+499.0,
 350.0,
 80.0,
 40.0
@@ -1063,7 +1063,7 @@
 "label": "CYP4F2",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 515.0,
 80.0,
 40.0
@@ -1115,7 +1115,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-477.0,
+521.0,
 715.0,
 80.0,
 40.0
@@ -1171,7 +1171,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-777.0,
+821.0,
 715.0,
 80.0,
 40.0

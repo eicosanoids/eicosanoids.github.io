@@ -1132,7 +1132,7 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-547.0,
+525.0,
 115.0,
 80.0,
 40.0
@@ -1188,7 +1188,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-709.0,
+731.0,
 115.0,
 80.0,
 40.0
@@ -1356,7 +1356,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-547.0,
+525.0,
 515.0,
 80.0,
 40.0
@@ -1413,7 +1413,7 @@
 "class": "Macromolecule",
 "box": [
 778.0,
-342.0,
+320.0,
 80.0,
 40.0
 ],
@@ -1473,7 +1473,7 @@
 "class": "Macromolecule",
 "box": [
 778.0,
-488.0,
+510.0,
 80.0,
 40.0
 ],
@@ -1532,7 +1532,7 @@
 "label": "MGST3",
 "class": "Macromolecule",
 "box": [
-409.0,
+431.0,
 1115.0,
 80.0,
 40.0

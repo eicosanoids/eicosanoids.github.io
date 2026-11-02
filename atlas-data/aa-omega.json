@@ -4,7 +4,7 @@
 "label": "19-HETE",
 "class": "SimpleChemical",
 "box": [
-416.0,
+438.0,
 415.0,
 40.0,
 40.0
@@ -44,7 +44,7 @@
 "label": "20-HETE",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 215.0,
 40.0,
 40.0
@@ -92,7 +92,7 @@
 "label": "17-HETE",
 "class": "SimpleChemical",
 "box": [
-1016.0,
+1038.0,
 415.0,
 40.0,
 40.0
@@ -136,7 +136,7 @@
 "label": "18-HETE",
 "class": "SimpleChemical",
 "box": [
-716.0,
+738.0,
 415.0,
 40.0,
 40.0
@@ -176,7 +176,7 @@
 "label": "16-HETE",
 "class": "SimpleChemical",
 "box": [
-1316.0,
+1338.0,
 415.0,
 40.0,
 40.0
@@ -216,7 +216,7 @@
 "label": "AA",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 15.0,
 40.0,
 40.0
@@ -265,7 +265,7 @@
 "label": "",
 "class": "Process",
 "box": [
-724.0,
+746.0,
 323.0,
 24.0,
 24.0
@@ -324,7 +324,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1324.0,
+1346.0,
 323.0,
 24.0,
 24.0
@@ -382,7 +382,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 123.0,
 24.0,
 24.0
@@ -459,7 +459,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1024.0,
+1046.0,
 323.0,
 24.0,
 24.0
@@ -516,7 +516,7 @@
 "label": "",
 "class": "Process",
 "box": [
-424.0,
+446.0,
 323.0,
 24.0,
 24.0
@@ -677,7 +677,7 @@
 "label": "CYP4A11",
 "class": "Macromolecule",
 "box": [
-177.0,
+199.0,
 80.0,
 80.0,
 40.0
@@ -737,7 +737,7 @@
 "label": "CYP4F2",
 "class": "Macromolecule",
 "box": [
-177.0,
+199.0,
 150.0,
 80.0,
 40.0
@@ -789,7 +789,7 @@
 "label": "CYP2J2",
 "class": "Macromolecule",
 "box": [
-315.0,
+337.0,
 245.0,
 80.0,
 40.0
@@ -901,7 +901,7 @@
 "label": "CYP1A2",
 "class": "Macromolecule",
 "box": [
-315.0,
+337.0,
 385.0,
 80.0,
 40.0
@@ -957,7 +957,7 @@
 "label": "CYP2E1",
 "class": "Macromolecule",
 "box": [
-477.0,
+499.0,
 245.0,
 80.0,
 40.0
@@ -1013,7 +1013,7 @@
 "label": "CYP1A1",
 "class": "Macromolecule",
 "box": [
-477.0,
+521.0,
 315.0,
 80.0,
 40.0
@@ -1073,7 +1073,7 @@
 "label": "CYP2C19",
 "class": "Macromolecule",
 "box": [
-477.0,
+499.0,
 385.0,
 80.0,
 40.0
@@ -1185,7 +1185,7 @@
 "label": "CYP4F8",
 "class": "Macromolecule",
 "box": [
-777.0,
+799.0,
 280.0,
 80.0,
 40.0
@@ -1237,7 +1237,7 @@
 "label": "CYP2E1",
 "class": "Macromolecule",
 "box": [
-777.0,
+799.0,
 350.0,
 80.0,
 40.0
@@ -1293,7 +1293,7 @@
 "label": "CYP1A1",
 "class": "Macromolecule",
 "box": [
-1077.0,
+1121.0,
 315.0,
 80.0,
 40.0
@@ -1405,7 +1405,7 @@
 "label": "CYP1A1",
 "class": "Macromolecule",
 "box": [
-1377.0,
+1421.0,
 315.0,
 80.0,
 40.0

@@ -821,7 +821,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-376.0,
+398.0,
 515.0,
 80.0,
 40.0
@@ -873,7 +873,7 @@
 "label": "CYP4F2",
 "class": "Macromolecule",
 "box": [
-814.0,
+792.0,
 315.0,
 80.0,
 40.0

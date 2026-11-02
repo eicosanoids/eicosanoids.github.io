@@ -858,7 +858,7 @@
 "label": "FADS2",
 "class": "Macromolecule",
 "box": [
-76.0,
+98.0,
 115.0,
 80.0,
 40.0
@@ -918,7 +918,7 @@
 "label": "ELOVL5",
 "class": "Macromolecule",
 "box": [
-76.0,
+98.0,
 315.0,
 80.0,
 40.0
@@ -978,7 +978,7 @@
 "label": "FADS1",
 "class": "Macromolecule",
 "box": [
-76.0,
+98.0,
 515.0,
 80.0,
 40.0
@@ -1038,7 +1038,7 @@
 "label": "FADS2",
 "class": "Macromolecule",
 "box": [
-676.0,
+698.0,
 115.0,
 80.0,
 40.0
@@ -1098,7 +1098,7 @@
 "label": "FADS1",
 "class": "Macromolecule",
 "box": [
-976.0,
+998.0,
 315.0,
 80.0,
 40.0
@@ -1158,7 +1158,7 @@
 "label": "ELOVL2",
 "class": "Macromolecule",
 "box": [
-976.0,
+998.0,
 515.0,
 80.0,
 40.0

@@ -100,7 +100,7 @@
 "label": "SLCO2A1",
 "class": "Macromolecule",
 "box": [
-148.0,
+169.0,
 115.0,
 80.0,
 40.0
@@ -204,7 +204,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-148.0,
+169.0,
 315.0,
 80.0,
 40.0
@@ -304,7 +304,7 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-148.0,
+169.0,
 515.0,
 80.0,
 40.0

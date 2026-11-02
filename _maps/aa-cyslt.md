@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/aa-cyslt.svg"
-width: 272
+width: 316
 height: 870
 scale: 1
 annotation: "/atlas-data/aa-cyslt.json"

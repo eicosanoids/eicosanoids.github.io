@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/inactivation-beta-oxidation.svg"
-width: 356
+width: 377
 height: 1070
 scale: 1
 annotation: "/atlas-data/inactivation-beta-oxidation.json"

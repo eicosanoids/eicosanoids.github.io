@@ -869,7 +869,7 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-76.0,
+98.0,
 115.0,
 80.0,
 40.0
@@ -925,7 +925,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-814.0,
+792.0,
 115.0,
 80.0,
 40.0
@@ -981,7 +981,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-976.0,
+998.0,
 115.0,
 80.0,
 40.0
@@ -1093,7 +1093,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-1576.0,
+1598.0,
 315.0,
 80.0,
 40.0
@@ -1205,7 +1205,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-976.0,
+998.0,
 515.0,
 80.0,
 40.0
@@ -1261,7 +1261,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-1276.0,
+1298.0,
 515.0,
 80.0,
 40.0

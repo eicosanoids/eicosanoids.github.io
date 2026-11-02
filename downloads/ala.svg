@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="771" height="270" viewBox="0 0 771 270" stroke-linecap="butt" stroke-miterlimit="10">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="793" height="270" viewBox="0 0 793 270" stroke-linecap="butt" stroke-miterlimit="10">
 <g transform="translate(335,35)">
 <path d="M-20 0 C-20 -11.046 -11.046 -20 0 -20 L0 -20 C11.046 -20 20 -11.046 20 0 L20 0 C20 11.046 11.046 20 0 20 L0 20 C-11.046 20 -20 11.046 -20 0 Z" fill="#DBEBDB" stroke="none"/><path d="M-20 0 C-20 -11.046 -11.046 -20 0 -20 L0 -20 C11.046 -20 20 -11.046 20 0 L20 0 C20 11.046 11.046 20 0 20 L0 20 C-11.046 20 -20 11.046 -20 0 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="0" y="4.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">alpha-linolenic acid</text>
 <path d="M-20 200 C-20 188.954 -11.046 180 0 180 L0 180 C11.046 180 20 188.954 20 200 L20 200 C20 211.046 11.046 220 0 220 L0 220 C-11.046 220 -20 211.046 -20 200 Z" fill="#DBEBDB" stroke="none"/><path d="M-20 200 C-20 188.954 -11.046 180 0 180 L0 180 C11.046 180 20 188.954 20 200 L20 200 C20 211.046 11.046 220 0 220 L0 220 C-11.046 220 -20 211.046 -20 200 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="0" y="204.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">13(S)-HOTrE</text>
@@ -8,12 +8,12 @@
 <path d="M-9 91 L9 91 L9 109 L-9 109 Z" fill="none" stroke="#0066CC" stroke-width="2"/>
 <path d="M-309 91 L-291 91 L-291 109 L-309 109 Z" fill="none" stroke="#0066CC" stroke-width="2"/>
 <path d="M291 91 L309 91 L309 109 L291 109 Z" fill="none" stroke="#0066CC" stroke-width="2"/>
-<path d="M41 90 Q41 80 51 80 L111 80 Q121 80 121 90 L121 110 Q121 120 111 120 L51 120 Q41 120 41 110 Z" fill="#C8D8EB" stroke="none"/><path d="M41 90 Q41 80 51 80 L111 80 Q121 80 121 90 L121 110 Q121 120 111 120 L51 120 Q41 120 41 110 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="81" y="104.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">ALOX15</text>
-<path d="M341 90 Q341 80 351 80 L411 80 Q421 80 421 90 L421 110 Q421 120 411 120 L351 120 Q341 120 341 110 Z" fill="#C8D8EB" stroke="none"/><path d="M341 90 Q341 80 351 80 L411 80 Q421 80 421 90 L421 110 Q421 120 411 120 L351 120 Q341 120 341 110 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="381" y="104.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">ALOX12</text>
-<path d="M41 100 L17 100" fill="none" stroke="#000000"/><circle cx="13" cy="100" r="4" fill="white" stroke="#000000"/>
+<path d="M63 90 Q63 80 73 80 L133 80 Q143 80 143 90 L143 110 Q143 120 133 120 L73 120 Q63 120 63 110 Z" fill="#C8D8EB" stroke="none"/><path d="M63 90 Q63 80 73 80 L133 80 Q143 80 143 90 L143 110 Q143 120 133 120 L73 120 Q63 120 63 110 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="103" y="104.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">ALOX15</text>
+<path d="M363 90 Q363 80 373 80 L433 80 Q443 80 443 90 L443 110 Q443 120 433 120 L373 120 Q363 120 363 110 Z" fill="#C8D8EB" stroke="none"/><path d="M363 90 Q363 80 373 80 L433 80 Q443 80 443 90 L443 110 Q443 120 433 120 L373 120 Q363 120 363 110 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="403" y="104.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">ALOX12</text>
+<path d="M63 100 L17 100" fill="none" stroke="#000000"/><circle cx="13" cy="100" r="4" fill="white" stroke="#000000"/>
 <path d="M0 20 L0 91" fill="none" stroke="#000000"/>
 <path d="M0 109 L0 169" fill="none" stroke="#000000"/><path d="M0 180 L-6 168 L6 168 Z" fill="#000000" stroke="none"/>
-<path d="M341 100 L317 100" fill="none" stroke="#000000"/><circle cx="313" cy="100" r="4" fill="white" stroke="#000000"/>
+<path d="M363 100 L317 100" fill="none" stroke="#000000"/><circle cx="313" cy="100" r="4" fill="white" stroke="#000000"/>
 <path d="M0 20 L0 34 Q0 44 10 44 L290 44 Q300 44 300 54 L300 91" fill="none" stroke="#000000"/>
 <path d="M300 109 L300 169" fill="none" stroke="#000000"/><path d="M300 180 L294 168 L306 168 Z" fill="#000000" stroke="none"/>
 <path d="M0 20 L0 34 Q0 44 -10 44 L-290 44 Q-300 44 -300 54 L-300 91" fill="none" stroke="#000000"/>

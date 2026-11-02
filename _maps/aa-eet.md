@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/aa-eet.svg"
-width: 1080
+width: 1102
 height: 470
 scale: 1
 annotation: "/atlas-data/aa-eet.json"

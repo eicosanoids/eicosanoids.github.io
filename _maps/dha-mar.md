@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/dha-mar.svg"
-width: 872
+width: 916
 height: 1070
 scale: 1
 annotation: "/atlas-data/dha-mar.json"

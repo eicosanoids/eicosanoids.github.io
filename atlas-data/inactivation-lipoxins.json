@@ -96,7 +96,7 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-110.0,
+131.0,
 115.0,
 80.0,
 40.0
@@ -196,7 +196,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-410.0,
+431.0,
 115.0,
 80.0,
 40.0
@@ -292,7 +292,7 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-410.0,
+431.0,
 315.0,
 80.0,
 40.0
@@ -396,7 +396,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-410.0,
+431.0,
 515.0,
 80.0,
 40.0
@@ -500,7 +500,7 @@
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-1010.0,
+1031.0,
 115.0,
 80.0,
 40.0
@@ -596,7 +596,7 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-1310.0,
+1331.0,
 115.0,
 80.0,
 40.0

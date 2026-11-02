@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/dpa.svg"
-width: 2571
+width: 2593
 height: 670
 scale: 1
 annotation: "/atlas-data/dpa.json"

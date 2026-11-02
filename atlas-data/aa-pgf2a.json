@@ -4,7 +4,7 @@
 "label": "PGH2",
 "class": "SimpleChemical",
 "box": [
-128.0,
+150.0,
 15.0,
 40.0,
 40.0
@@ -44,7 +44,7 @@
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
-578.0,
+600.0,
 215.0,
 40.0,
 40.0
@@ -92,7 +92,7 @@
 "label": "15-keto-PGE2",
 "class": "SimpleChemical",
 "box": [
-578.0,
+600.0,
 415.0,
 40.0,
 40.0
@@ -136,7 +136,7 @@
 "label": "15-keto-PGF2alpha",
 "class": "SimpleChemical",
 "box": [
-128.0,
+150.0,
 415.0,
 40.0,
 40.0
@@ -180,7 +180,7 @@
 "label": "13,14-dihydro-15-keto-PGF2alpha",
 "class": "SimpleChemical",
 "box": [
-128.0,
+150.0,
 615.0,
 40.0,
 40.0
@@ -224,7 +224,7 @@
 "label": "13,14-dihydro-PGF2alpha",
 "class": "SimpleChemical",
 "box": [
-128.0,
+150.0,
 815.0,
 40.0,
 40.0
@@ -268,7 +268,7 @@
 "label": "PGF2alpha",
 "class": "SimpleChemical",
 "box": [
-128.0,
+150.0,
 215.0,
 40.0,
 40.0
@@ -321,7 +321,7 @@
 "label": "",
 "class": "Process",
 "box": [
-136.0,
+158.0,
 523.0,
 24.0,
 24.0
@@ -363,7 +363,7 @@
 "label": "",
 "class": "Process",
 "box": [
-148.0,
+170.0,
 323.0,
 24.0,
 24.0
@@ -404,7 +404,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 323.0,
 24.0,
 24.0
@@ -445,7 +445,7 @@
 "label": "",
 "class": "Process",
 "box": [
-148.0,
+170.0,
 123.0,
 24.0,
 24.0
@@ -494,7 +494,7 @@
 "label": "",
 "class": "Process",
 "box": [
-361.0,
+383.0,
 223.0,
 24.0,
 24.0
@@ -543,7 +543,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 123.0,
 24.0,
 24.0
@@ -612,7 +612,7 @@
 "label": "",
 "class": "Process",
 "box": [
-361.0,
+383.0,
 423.0,
 24.0,
 24.0
@@ -653,7 +653,7 @@
 "label": "",
 "class": "Process",
 "box": [
-136.0,
+158.0,
 723.0,
 24.0,
 24.0
@@ -693,7 +693,7 @@
 "label": "AKR1A1",
 "class": "Macromolecule",
 "box": [
-15.0,
+37.0,
 45.0,
 80.0,
 40.0
@@ -809,7 +809,7 @@
 "label": "AKR1B1",
 "class": "Macromolecule",
 "box": [
-15.0,
+37.0,
 185.0,
 80.0,
 40.0
@@ -869,7 +869,7 @@
 "label": "PRXL2B",
 "class": "Macromolecule",
 "box": [
-201.0,
+245.0,
 115.0,
 80.0,
 40.0
@@ -929,7 +929,7 @@
 "label": "CBR1",
 "class": "Macromolecule",
 "box": [
-333.0,
+355.0,
 315.0,
 80.0,
 40.0
@@ -1105,7 +1105,7 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-189.0,
+233.0,
 515.0,
 80.0,
 40.0
@@ -1165,7 +1165,7 @@
 "label": "CBR1",
 "class": "Macromolecule",
 "box": [
-189.0,
+233.0,
 715.0,
 80.0,
 40.0

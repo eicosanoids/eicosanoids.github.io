@@ -4,7 +4,7 @@
 "label": "LTA4",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 15.0,
 40.0,
 40.0
@@ -52,7 +52,7 @@
 "label": "LTC4 intracellular",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 215.0,
 40.0,
 40.0
@@ -104,7 +104,7 @@
 "label": "LTC4 extracellular",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 415.0,
 40.0,
 40.0
@@ -156,7 +156,7 @@
 "label": "LTD4",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 615.0,
 40.0,
 40.0
@@ -208,7 +208,7 @@
 "label": "LTE4",
 "class": "SimpleChemical",
 "box": [
-116.0,
+138.0,
 815.0,
 40.0,
 40.0
@@ -253,7 +253,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 323.0,
 24.0,
 24.0
@@ -297,7 +297,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 523.0,
 24.0,
 24.0
@@ -349,7 +349,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 723.0,
 24.0,
 24.0
@@ -393,7 +393,7 @@
 "label": "",
 "class": "Process",
 "box": [
-124.0,
+146.0,
 123.0,
 24.0,
 24.0
@@ -524,7 +524,7 @@
 "label": "LTC4S",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 115.0,
 80.0,
 40.0
@@ -640,7 +640,7 @@
 "label": "ABCC1",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 315.0,
 80.0,
 40.0
@@ -760,7 +760,7 @@
 "label": "GGT5",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 515.0,
 80.0,
 40.0
@@ -868,7 +868,7 @@
 "label": "DPEP1",
 "class": "Macromolecule",
 "box": [
-177.0,
+221.0,
 715.0,
 80.0,
 40.0

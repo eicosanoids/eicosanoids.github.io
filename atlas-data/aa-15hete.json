@@ -1396,7 +1396,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-997.0,
+1019.0,
 115.0,
 80.0,
 40.0
@@ -1452,7 +1452,7 @@
 "label": "GPX4",
 "class": "Macromolecule",
 "box": [
-1135.0,
+1113.0,
 315.0,
 80.0,
 40.0
@@ -1508,7 +1508,7 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-1297.0,
+1319.0,
 315.0,
 80.0,
 40.0
@@ -1560,7 +1560,7 @@
 "label": "PTGIS",
 "class": "Macromolecule",
 "box": [
-1435.0,
+1413.0,
 315.0,
 80.0,
 40.0
@@ -1616,7 +1616,7 @@
 "label": "TBXAS1",
 "class": "Macromolecule",
 "box": [
-1597.0,
+1619.0,
 315.0,
 80.0,
 40.0
@@ -1672,7 +1672,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-1735.0,
+1713.0,
 315.0,
 80.0,
 40.0
@@ -1784,7 +1784,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-835.0,
+813.0,
 315.0,
 80.0,
 40.0
@@ -1840,7 +1840,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-997.0,
+1019.0,
 315.0,
 80.0,
 40.0
@@ -1896,7 +1896,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-697.0,
+719.0,
 515.0,
 80.0,
 40.0
@@ -1948,7 +1948,7 @@
 "label": "LTC4S",
 "class": "Macromolecule",
 "box": [
-997.0,
+1019.0,
 515.0,
 80.0,
 40.0
@@ -2004,7 +2004,7 @@
 "label": "GGT5",
 "class": "Macromolecule",
 "box": [
-835.0,
+813.0,
 915.0,
 80.0,
 40.0
@@ -2064,7 +2064,7 @@
 "label": "GGT1",
 "class": "Macromolecule",
 "box": [
-997.0,
+1019.0,
 915.0,
 80.0,
 40.0
@@ -2124,7 +2124,7 @@
 "label": "DPEP2",
 "class": "Macromolecule",
 "box": [
-997.0,
+1019.0,
 1115.0,
 80.0,
 40.0
@@ -2172,7 +2172,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-397.0,
+419.0,
 315.0,
 80.0,
 40.0
@@ -2229,7 +2229,7 @@
 "class": "Macromolecule",
 "box": [
 166.0,
-476.0,
+498.0,
 80.0,
 40.0
 ],
@@ -2284,7 +2284,7 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-397.0,
+419.0,
 515.0,
 80.0,
 40.0
@@ -2337,7 +2337,7 @@
 "class": "Macromolecule",
 "box": [
 166.0,
-676.0,
+698.0,
 80.0,
 40.0
 ],

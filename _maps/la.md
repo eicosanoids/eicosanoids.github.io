@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/la.svg"
-width: 3171
+width: 3193
 height: 1070
 scale: 1
 annotation: "/atlas-data/la.json"

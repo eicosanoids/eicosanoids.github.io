@@ -1611,7 +1611,7 @@
 "label": "PLA2G10",
 "class": "Macromolecule",
 "box": [
-514.0,
+492.0,
 115.0,
 80.0,
 40.0
@@ -1667,7 +1667,7 @@
 "label": "PLA2G5",
 "class": "Macromolecule",
 "box": [
-676.0,
+698.0,
 115.0,
 80.0,
 40.0
@@ -1719,7 +1719,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-676.0,
+698.0,
 315.0,
 80.0,
 40.0
@@ -1775,7 +1775,7 @@
 "label": "GPX4",
 "class": "Macromolecule",
 "box": [
-514.0,
+492.0,
 515.0,
 80.0,
 40.0
@@ -1831,7 +1831,7 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-676.0,
+698.0,
 515.0,
 80.0,
 40.0
@@ -2055,7 +2055,7 @@
 "label": "CYP1A2",
 "class": "Macromolecule",
 "box": [
-976.0,
+998.0,
 715.0,
 80.0,
 40.0
@@ -2167,7 +2167,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-376.0,
+398.0,
 515.0,
 80.0,
 40.0
@@ -2223,7 +2223,7 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-1114.0,
+1092.0,
 515.0,
 80.0,
 40.0
@@ -2279,7 +2279,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-1276.0,
+1298.0,
 515.0,
 80.0,
 40.0
@@ -2507,7 +2507,7 @@
 "label": "CYP2C9",
 "class": "Macromolecule",
 "box": [
-1576.0,
+1598.0,
 515.0,
 80.0,
 40.0
@@ -2623,7 +2623,7 @@
 "label": "CYP2C9",
 "class": "Macromolecule",
 "box": [
-1876.0,
+1898.0,
 515.0,
 80.0,
 40.0
@@ -2683,7 +2683,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-1876.0,
+1898.0,
 715.0,
 80.0,
 40.0
@@ -2735,7 +2735,7 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-2014.0,
+1992.0,
 715.0,
 80.0,
 40.0
@@ -2907,7 +2907,7 @@
 "label": "ALOX12B",
 "class": "Macromolecule",
 "box": [
-2776.0,
+2798.0,
 315.0,
 80.0,
 40.0
@@ -2963,7 +2963,7 @@
 "label": "ALOXE3",
 "class": "Macromolecule",
 "box": [
-2776.0,
+2798.0,
 515.0,
 80.0,
 40.0
@@ -3019,7 +3019,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-2914.0,
+2892.0,
 715.0,
 80.0,
 40.0
@@ -3071,7 +3071,7 @@
 "label": "EPHX3",
 "class": "Macromolecule",
 "box": [
-3076.0,
+3098.0,
 715.0,
 80.0,
 40.0

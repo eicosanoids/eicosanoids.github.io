@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/inactivation-lipoxins.svg"
-width: 1405
+width: 1426
 height: 670
 scale: 1
 annotation: "/atlas-data/inactivation-lipoxins.json"

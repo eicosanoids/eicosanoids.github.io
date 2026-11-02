@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/aa-omega.svg"
-width: 1472
+width: 1516
 height: 470
 scale: 1
 annotation: "/atlas-data/aa-omega.json"

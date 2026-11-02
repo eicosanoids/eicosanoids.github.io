@@ -986,7 +986,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-1276.0,
+1298.0,
 115.0,
 80.0,
 40.0
@@ -1042,7 +1042,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-1114.0,
+1092.0,
 315.0,
 80.0,
 40.0
@@ -1154,7 +1154,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-1876.0,
+1898.0,
 515.0,
 80.0,
 40.0
@@ -1210,7 +1210,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-2176.0,
+2198.0,
 515.0,
 80.0,
 40.0
@@ -1322,7 +1322,7 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-676.0,
+698.0,
 115.0,
 80.0,
 40.0
@@ -1378,7 +1378,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-676.0,
+698.0,
 315.0,
 80.0,
 40.0
@@ -1494,7 +1494,7 @@
 "label": "CYP2C19",
 "class": "Macromolecule",
 "box": [
-2476.0,
+2498.0,
 115.0,
 80.0,
 40.0
@@ -1610,7 +1610,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-2476.0,
+2498.0,
 415.0,
 80.0,
 40.0

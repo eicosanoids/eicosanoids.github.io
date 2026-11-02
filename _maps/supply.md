@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/supply.svg"
-width: 1071
+width: 1093
 height: 870
 scale: 1
 annotation: "/atlas-data/supply.json"

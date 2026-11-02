@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/epa-lt5.svg"
-width: 1071
+width: 1093
 height: 1070
 scale: 1
 annotation: "/atlas-data/epa-lt5.json"

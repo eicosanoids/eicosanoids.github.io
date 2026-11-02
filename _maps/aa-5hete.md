@@ -9,7 +9,7 @@ kind: "map"
 draft: false
 tag: "new"
 image: "/downloads/aa-5hete.svg"
-width: 872
+width: 916
 height: 870
 scale: 1
 annotation: "/atlas-data/aa-5hete.json"

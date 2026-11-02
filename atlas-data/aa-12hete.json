@@ -1243,7 +1243,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-535.0,
+513.0,
 115.0,
 80.0,
 40.0
@@ -1299,7 +1299,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-697.0,
+719.0,
 115.0,
 80.0,
 40.0
@@ -1355,7 +1355,7 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-523.0,
+501.0,
 315.0,
 80.0,
 40.0
@@ -1407,7 +1407,7 @@
 "label": "GPX4",
 "class": "Macromolecule",
 "box": [
-709.0,
+731.0,
 315.0,
 80.0,
 40.0
@@ -1463,7 +1463,7 @@
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-535.0,
+513.0,
 515.0,
 80.0,
 40.0
@@ -1523,7 +1523,7 @@
 "label": "CYP4F2",
 "class": "Macromolecule",
 "box": [
-697.0,
+719.0,
 515.0,
 80.0,
 40.0
@@ -1575,7 +1575,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-997.0,
+1019.0,
 515.0,
 80.0,
 40.0
@@ -1627,7 +1627,7 @@
 "label": "ALOXE3",
 "class": "Macromolecule",
 "box": [
-1297.0,
+1319.0,
 315.0,
 80.0,
 40.0
@@ -1683,7 +1683,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-1297.0,
+1319.0,
 515.0,
 80.0,
 40.0
@@ -1735,7 +1735,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-397.0,
+411.0,
 315.0,
 80.0,
 40.0
@@ -1792,7 +1792,7 @@
 "class": "Macromolecule",
 "box": [
 166.0,
-476.0,
+498.0,
 80.0,
 40.0
 ],
@@ -1847,7 +1847,7 @@
 "label": "ALOX12B",
 "class": "Macromolecule",
 "box": [
-1597.0,
+1619.0,
 115.0,
 80.0,
 40.0
@@ -1903,7 +1903,7 @@
 "label": "GPX4",
 "class": "Macromolecule",
 "box": [
-1423.0,
+1409.0,
 315.0,
 80.0,
 40.0
@@ -1959,7 +1959,7 @@
 "label": "GPX1",
 "class": "Macromolecule",
 "box": [
-1609.0,
+1631.0,
 315.0,
 80.0,
 40.0
