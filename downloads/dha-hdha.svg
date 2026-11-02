@@ -28,6 +28,7 @@
 <path d="M1241 290 Q1241 280 1251 280 L1311 280 Q1321 280 1321 290 L1321 310 Q1321 320 1311 320 L1251 320 Q1241 320 1241 310 Z" fill="#C8D8EB" stroke="none"/><path d="M1241 290 Q1241 280 1251 280 L1311 280 Q1321 280 1321 290 L1321 310 Q1321 320 1311 320 L1251 320 Q1241 320 1241 310 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="1281" y="304.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">ALOX12</text>
 <path d="M1241 360 Q1241 350 1251 350 L1311 350 Q1321 350 1321 360 L1321 380 Q1321 390 1311 390 L1251 390 Q1241 390 1241 380 Z" fill="#C8D8EB" stroke="none"/><path d="M1241 360 Q1241 350 1251 350 L1311 350 Q1321 350 1321 360 L1321 380 Q1321 390 1311 390 L1251 390 Q1241 390 1241 380 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="1281" y="374.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">ALOX15</text>
 <path d="M641 490 Q641 480 651 480 L711 480 Q721 480 721 490 L721 510 Q721 520 711 520 L651 520 Q641 520 641 510 Z" fill="#C8D8EB" stroke="none"/><path d="M641 490 Q641 480 651 480 L711 480 Q721 480 721 490 L721 510 Q721 520 711 520 L651 520 Q641 520 641 510 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="681" y="504.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">ALOX12</text>
+<path d="M941 490 Q941 480 951 480 L1011 480 Q1021 480 1021 490 L1021 510 Q1021 520 1011 520 L951 520 Q941 520 941 510 Z" fill="#C8D8EB" stroke="none"/><path d="M941 490 Q941 480 951 480 L1011 480 Q1021 480 1021 490 L1021 510 Q1021 520 1011 520 L951 520 Q941 520 941 510 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="981" y="504.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">HPGD</text>
 <path d="M110 100 L17 100" fill="none" stroke="#000000"/><circle cx="13" cy="100" r="4" fill="white" stroke="#000000"/>
 <path d="M190 100 L283 100" fill="none" stroke="#000000"/><circle cx="287" cy="100" r="4" fill="white" stroke="#000000"/>
 <path d="M0 20 L0 91" fill="none" stroke="#000000"/>
@@ -53,7 +54,8 @@
 <path d="M600 509 L600 569" fill="none" stroke="#000000"/><path d="M600 580 L594 568 L606 568 Z" fill="#000000" stroke="none"/>
 <path d="M300 220 L300 291" fill="none" stroke="#000000" stroke-dasharray="6 2"/>
 <path d="M300 309 L300 369" fill="none" stroke="#000000" stroke-dasharray="6 2"/><path d="M300 380 L294 368 L306 368 Z" fill="#000000" stroke="none"/>
-<path d="M600 420 L600 434 Q600 444 610 444 L890 444 Q900 444 900 454 L900 491" fill="none" stroke="#000000" stroke-dasharray="6 2"/>
-<path d="M900 509 L900 569" fill="none" stroke="#000000" stroke-dasharray="6 2"/><path d="M900 580 L894 568 L906 568 Z" fill="#000000" stroke="none"/>
+<path d="M941 500 L917 500" fill="none" stroke="#000000"/><circle cx="913" cy="500" r="4" fill="white" stroke="#000000"/>
+<path d="M600 420 L600 434 Q600 444 610 444 L890 444 Q900 444 900 454 L900 491" fill="none" stroke="#000000"/>
+<path d="M900 509 L900 569" fill="none" stroke="#000000"/><path d="M900 580 L894 568 L906 568 Z" fill="#000000" stroke="none"/>
 </g>
 </svg>

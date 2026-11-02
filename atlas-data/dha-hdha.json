@@ -733,6 +733,39 @@
 ]
 },
 {
+"id": "H4",
+"label": "",
+"class": "Process",
+"box": [
+1223.0,
+523.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"14S-HDHA"
+],
+"out": [
+"14-oxo-DHA"
+],
+"by": [
+"HPGD"
+]
+},
+"references": [
+{
+"authors": "Wendell SG et al.",
+"year": "2015",
+"title": "15-Hydroxyprostaglandin dehydrogenase generation of electrophilic lipid signaling mediators from hydroxy ω-3 fatty acids.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "25586183"
+}
+]
+},
+{
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
@@ -1177,6 +1210,62 @@
 [
 "UniProt",
 "P18054"
+]
+]
+},
+{
+"label": "HPGD",
+"class": "Macromolecule",
+"box": [
+1276.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-hydroxyprostaglandin dehydrogenase [NAD(+)]"
+],
+[
+"Alternative names",
+"Eicosanoid/docosanoid dehydrogenase [NAD(+)]; Prostaglandin dehydrogenase 1; Short chain dehydrogenase/reductase family 36C member 1"
+],
+[
+"Function",
+"Catalyzes the NAD-dependent dehydrogenation (oxidation) of a broad array of hydroxylated polyunsaturated fatty acids (mainly eicosanoids and docosanoids, including prostaglandins, lipoxins and resolvins), yielding their corresponding keto (oxo) metabolites. Decreases the levels of the pro-proliferative prostaglandins such as prostaglandin E2 (whose activity is increased in cancer because of an increase in the expression of cyclooxygenase 2) and generates oxo-fatty acid products that can profoundly influence cell function by abrogating pro-inflammatory cytokine expression."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:5154"
+],
+[
+"HGNC symbol",
+"HPGD"
+],
+[
+"Alias symbols",
+"SDR36C1"
+],
+[
+"Entrez",
+"3248"
+],
+[
+"Ensembl",
+"ENSG00000164120"
+],
+[
+"RefSeq",
+"NM_000860"
+],
+[
+"UniProt",
+"P15428"
 ]
 ]
 }

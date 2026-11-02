@@ -4,7 +4,7 @@
 "label": "n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-915.0,
+1215.0,
 15.0,
 40.0,
 40.0
@@ -52,7 +52,7 @@
 "label": "RvD5 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-915.0,
+1215.0,
 415.0,
 40.0,
 40.0
@@ -92,7 +92,7 @@
 "label": "PD1 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-1215.0,
+1515.0,
 415.0,
 40.0,
 40.0
@@ -132,7 +132,7 @@
 "label": "MaR1 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-615.0,
+915.0,
 415.0,
 40.0,
 40.0
@@ -172,7 +172,7 @@
 "label": "13R-HDPA",
 "class": "SimpleChemical",
 "box": [
-315.0,
+615.0,
 215.0,
 40.0,
 40.0
@@ -212,7 +212,7 @@
 "label": "RvD1 n-3 DPA",
 "class": "SimpleChemical",
 "box": [
-1215.0,
+1815.0,
 615.0,
 40.0,
 40.0
@@ -253,7 +253,7 @@
 "label": "",
 "class": "Process",
 "box": [
-923.0,
+1223.0,
 123.0,
 24.0,
 24.0
@@ -310,7 +310,7 @@
 "label": "",
 "class": "Process",
 "box": [
-923.0,
+1223.0,
 323.0,
 24.0,
 24.0
@@ -376,7 +376,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1223.0,
+1523.0,
 323.0,
 24.0,
 24.0
@@ -433,7 +433,7 @@
 "label": "",
 "class": "Process",
 "box": [
-623.0,
+923.0,
 123.0,
 24.0,
 24.0
@@ -482,7 +482,7 @@
 "label": "",
 "class": "Process",
 "box": [
-623.0,
+923.0,
 323.0,
 24.0,
 24.0
@@ -539,7 +539,7 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
+623.0,
 123.0,
 24.0,
 24.0
@@ -588,7 +588,7 @@
 "label": "",
 "class": "Process",
 "box": [
-323.0,
+623.0,
 323.0,
 24.0,
 24.0
@@ -645,7 +645,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1223.0,
+1823.0,
 523.0,
 24.0,
 24.0
@@ -694,7 +694,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1523.0,
+2123.0,
 523.0,
 24.0,
 24.0
@@ -743,7 +743,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1823.0,
+2423.0,
 123.0,
 24.0,
 24.0
@@ -794,7 +794,7 @@
 "label": "",
 "class": "Process",
 "box": [
-1823.0,
+2423.0,
 423.0,
 24.0,
 24.0
@@ -839,10 +839,74 @@
 ]
 },
 {
+"id": "D9",
+"label": "",
+"class": "Process",
+"box": [
+323.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"13R-HDPA"
+],
+"out": [
+"13-oxo-DPA"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Groeger AL et al.",
+"journal": "Nat Chem Biol",
+"title": "Cyclooxygenase-2 generates anti-inflammatory mediators from omega-3 fatty acids.",
+"year": "2010",
+"db": "pubmed",
+"id": "20436486"
+}
+]
+},
+{
+"id": "D11",
+"label": "",
+"class": "Process",
+"box": [
+23.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"n-3 DPA"
+],
+"out": [
+"17R-HpDPA"
+],
+"by": [
+"Aspirin-acetylated COX2"
+]
+},
+"references": [
+{
+"authors": "Groeger AL et al.",
+"journal": "Nat Chem Biol",
+"title": "Cyclooxygenase-2 generates anti-inflammatory mediators from omega-3 fatty acids.",
+"year": "2010",
+"db": "pubmed",
+"id": "20436486"
+}
+]
+},
+{
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-976.0,
+1276.0,
 115.0,
 80.0,
 40.0
@@ -898,7 +962,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-814.0,
+1114.0,
 315.0,
 80.0,
 40.0
@@ -954,7 +1018,7 @@
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-1045.0,
+1345.0,
 315.0,
 80.0,
 40.0
@@ -1010,7 +1074,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-1276.0,
+1876.0,
 515.0,
 80.0,
 40.0
@@ -1066,7 +1130,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-1576.0,
+2176.0,
 515.0,
 80.0,
 40.0
@@ -1122,7 +1186,7 @@
 "label": "ALOX12",
 "class": "Macromolecule",
 "box": [
-459.0,
+759.0,
 215.0,
 80.0,
 40.0
@@ -1178,7 +1242,7 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-376.0,
+676.0,
 115.0,
 80.0,
 40.0
@@ -1234,7 +1298,7 @@
 "label": "ALOX5",
 "class": "Macromolecule",
 "box": [
-376.0,
+676.0,
 315.0,
 80.0,
 40.0
@@ -1290,7 +1354,7 @@
 "label": "CYP2C9",
 "class": "Macromolecule",
 "box": [
-1876.0,
+2476.0,
 45.0,
 80.0,
 40.0
@@ -1350,7 +1414,7 @@
 "label": "CYP2C19",
 "class": "Macromolecule",
 "box": [
-1876.0,
+2476.0,
 115.0,
 80.0,
 40.0
@@ -1410,7 +1474,7 @@
 "label": "CYP1A2",
 "class": "Macromolecule",
 "box": [
-1876.0,
+2476.0,
 185.0,
 80.0,
 40.0
@@ -1466,7 +1530,7 @@
 "label": "EPHX2",
 "class": "Macromolecule",
 "box": [
-1876.0,
+2476.0,
 415.0,
 80.0,
 40.0
