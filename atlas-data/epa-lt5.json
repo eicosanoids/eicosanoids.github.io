@@ -269,6 +269,14 @@
 "year": "1984",
 "db": "pubmed",
 "id": "6096400"
+},
+{
+"authors": "Schwarz M et al.",
+"year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
+"db": "pubmed",
+"id": "36608588"
 }
 ]
 },

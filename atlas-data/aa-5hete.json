@@ -164,7 +164,9 @@
 ],
 "by": [
 "MGST2",
-"MGST3"
+"GPX4",
+"MGST3",
+"GPX1"
 ]
 },
 "references": [
@@ -175,6 +177,14 @@
 "year": "1997",
 "db": "pubmed",
 "id": "9278457"
+},
+{
+"authors": "Schwarz M et al.",
+"year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
+"db": "pubmed",
+"id": "36608588"
 }
 ]
 },
@@ -542,7 +552,7 @@
 "class": "Macromolecule",
 "box": [
 315.0,
-315.0,
+280.0,
 80.0,
 40.0
 ],
@@ -594,11 +604,67 @@
 ]
 },
 {
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+315.0,
+350.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
 "label": "MGST3",
 "class": "Macromolecule",
 "box": [
 477.0,
-315.0,
+280.0,
 80.0,
 40.0
 ],
@@ -646,6 +712,58 @@
 [
 "UniProt",
 "O14880"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+477.0,
+350.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
 ]
 ]
 },

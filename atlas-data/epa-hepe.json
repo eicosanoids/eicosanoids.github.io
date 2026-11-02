@@ -253,6 +253,14 @@
 "year": "1984",
 "db": "pubmed",
 "id": "6096400"
+},
+{
+"authors": "Schwarz M et al.",
+"year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
+"db": "pubmed",
+"id": "36608588"
 }
 ]
 },
@@ -510,6 +518,74 @@
 "year": "2020",
 "db": "pubmed",
 "id": "32841762"
+}
+]
+},
+{
+"id": "epa23",
+"label": "",
+"class": "Process",
+"box": [
+424.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpEPE"
+],
+"out": [
+"12(S)-HEPE"
+],
+"by": [
+"GPX4",
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Schwarz M et al.",
+"year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
+"db": "pubmed",
+"id": "36608588"
+}
+]
+},
+{
+"id": "epa25",
+"label": "",
+"class": "Process",
+"box": [
+1624.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpEPE"
+],
+"out": [
+"15(S)-HEPE"
+],
+"by": [
+"GPX4",
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Schwarz M et al.",
+"year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
+"db": "pubmed",
+"id": "36608588"
 }
 ]
 },

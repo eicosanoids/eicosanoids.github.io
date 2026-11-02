@@ -101,7 +101,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="epa16"><data key="dref">pubmed:6096400</data><data key="ng">
+    </node><node id="epa16"><data key="dref">pubmed:6096400 pubmed:36608588</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-309.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>

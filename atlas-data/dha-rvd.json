@@ -847,8 +847,8 @@
 "17S-HpDHA"
 ],
 "by": [
-"ALOX15B",
-"ALOX15"
+"ALOX15",
+"ALOX15B"
 ]
 },
 "references": [
@@ -1853,7 +1853,10 @@
 "out": [
 "17S-HDHA"
 ],
-"by": []
+"by": [
+"GPX4",
+"GPX1"
+]
 },
 "references": [
 {
@@ -1879,6 +1882,14 @@
 "year": "2012",
 "db": "pubmed",
 "id": "22912397"
+},
+{
+"authors": "Schwarz M et al.",
+"year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
+"db": "pubmed",
+"id": "36608588"
 }
 ]
 },
@@ -2071,11 +2082,67 @@
 ]
 },
 {
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+814.0,
+80.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
 "label": "ALOX15B",
 "class": "Macromolecule",
 "box": [
 814.0,
-115.0,
+150.0,
 80.0,
 40.0
 ],
@@ -2127,58 +2194,110 @@
 ]
 },
 {
-"label": "ALOX15",
+"label": "GPX4",
 "class": "Macromolecule",
 "box": [
-976.0,
-115.0,
+1045.0,
+154.0,
 80.0,
 40.0
 ],
 "props": [
 [
 "Full name",
-"Polyunsaturated fatty acid lipoxygenase ALOX15"
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
 ],
 [
 "Alternative names",
-"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+"Glutathione peroxidase 4"
 ],
 [
 "Function",
-"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
 ],
 [
 "Location",
-"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+"Mitochondrion, Cytoplasm"
 ],
 [
 "HGNC",
-"HGNC:433"
+"HGNC:4556"
 ],
 [
 "HGNC symbol",
-"ALOX15"
+"GPX4"
 ],
 [
 "Alias symbols",
-"15-LOX-1"
+"PHGPx, MCSP"
 ],
 [
 "Entrez",
-"246"
+"2879"
 ],
 [
 "Ensembl",
-"ENSG00000161905"
+"ENSG00000167468"
 ],
 [
 "RefSeq",
-"NM_001140"
+"NM_002085"
 ],
 [
 "UniProt",
-"P16050"
+"P36969"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+1045.0,
+276.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
 ]
 ]
 },

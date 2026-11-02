@@ -1049,6 +1049,7 @@
 "15(S)-HETE"
 ],
 "by": [
+"GPX4",
 "GPX1"
 ]
 },
@@ -1068,6 +1069,14 @@
 "year": "1989",
 "db": "pubmed",
 "id": "2501828"
+},
+{
+"authors": "Schwarz M et al.",
+"year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
+"db": "pubmed",
+"id": "36608588"
 }
 ]
 },
@@ -1166,6 +1175,62 @@
 [
 "UniProt",
 "P16050"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+1135.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
 ]
 ]
 },
