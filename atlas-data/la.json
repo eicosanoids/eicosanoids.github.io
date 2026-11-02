@@ -1458,6 +1458,48 @@
 ]
 },
 {
+"id": "LA-18",
+"label": "",
+"class": "Process",
+"box": [
+3023.0,
+723.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"epoxyalcohol ester"
+],
+"out": [
+"trihydroxy-linoleate ester"
+],
+"by": [
+"EPHX2",
+"EPHX3"
+]
+},
+"references": [
+{
+"authors": "Yamanashi H et al.",
+"journal": "J Lipid Res",
+"title": "Catalytic activities of mammalian epoxide hydrolases with cis and trans fatty acid epoxides relevant to skin barrier function.",
+"year": "2018",
+"db": "pubmed",
+"id": "29459481"
+},
+{
+"authors": "Edin ML et al.",
+"journal": "J Biol Chem",
+"title": "Epoxide hydrolase 3 (Ephx3) gene disruption reduces ceramide linoleate epoxide hydrolysis and impairs skin barrier function.",
+"year": "2021",
+"db": "pubmed",
+"id": "33334892"
+}
+]
+},
+{
 "label": "13-oxo-ODE",
 "class": "SimpleChemical",
 "box": [
@@ -2910,6 +2952,118 @@
 [
 "UniProt",
 "Q9BYJ1"
+]
+]
+},
+{
+"label": "EPHX2",
+"class": "Macromolecule",
+"box": [
+2914.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Bifunctional epoxide hydrolase 2"
+],
+[
+"Function",
+"Bifunctional enzyme. The C-terminal domain has epoxide hydrolase activity and acts on epoxides (alkene oxides, oxiranes) and arene oxides."
+],
+[
+"Location",
+"Cytoplasm, Peroxisome"
+],
+[
+"HGNC",
+"HGNC:3402"
+],
+[
+"HGNC symbol",
+"EPHX2"
+],
+[
+"Alias symbols",
+"ABHD20, sEH"
+],
+[
+"Entrez",
+"2053"
+],
+[
+"Ensembl",
+"ENSG00000120915"
+],
+[
+"RefSeq",
+"NM_001979"
+],
+[
+"UniProt",
+"P34913"
+]
+]
+},
+{
+"label": "EPHX3",
+"class": "Macromolecule",
+"box": [
+3076.0,
+715.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Epoxide hydrolase 3"
+],
+[
+"Alternative names",
+"Abhydrolase domain-containing protein 9"
+],
+[
+"Function",
+"Catalyzes the hydrolysis of epoxide-containing fatty acids. Active in vitro against epoxyeicosatrienoic acids (EETs) including 8,9-EET, 9,10-EET, 11,12-EET and 14,15-EET and leukotoxin"
+],
+[
+"Location",
+"Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:23760"
+],
+[
+"HGNC symbol",
+"EPHX3"
+],
+[
+"Previous symbols",
+"ABHD9"
+],
+[
+"Alias symbols",
+"FLJ22408"
+],
+[
+"Entrez",
+"79852"
+],
+[
+"Ensembl",
+"ENSG00000105131"
+],
+[
+"RefSeq",
+"NM_024794"
+],
+[
+"UniProt",
+"Q9H6B9"
 ]
 ]
 }
