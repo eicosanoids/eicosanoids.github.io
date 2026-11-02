@@ -4,7 +4,7 @@
 "label": "PGH2",
 "class": "SimpleChemical",
 "box": [
-357.0,
+393.0,
 615.0,
 40.0,
 40.0
@@ -44,7 +44,7 @@
 "label": "PGE2",
 "class": "SimpleChemical",
 "box": [
-357.0,
+393.0,
 815.0,
 40.0,
 40.0
@@ -92,7 +92,7 @@
 "label": "PGA2",
 "class": "SimpleChemical",
 "box": [
-957.0,
+993.0,
 1015.0,
 40.0,
 40.0
@@ -132,7 +132,7 @@
 "label": "PGC2",
 "class": "SimpleChemical",
 "box": [
-957.0,
+993.0,
 1215.0,
 40.0,
 40.0
@@ -176,7 +176,7 @@
 "label": "PGB2",
 "class": "SimpleChemical",
 "box": [
-957.0,
+993.0,
 1415.0,
 40.0,
 40.0
@@ -216,7 +216,7 @@
 "label": "19-hydroxy-PGH2",
 "class": "SimpleChemical",
 "box": [
-57.0,
+93.0,
 815.0,
 40.0,
 40.0
@@ -256,7 +256,7 @@
 "label": "PGG2",
 "class": "SimpleChemical",
 "box": [
-357.0,
+393.0,
 415.0,
 40.0,
 40.0
@@ -296,7 +296,7 @@
 "label": "AA",
 "class": "SimpleChemical",
 "box": [
-357.0,
+393.0,
 215.0,
 40.0,
 40.0
@@ -344,7 +344,7 @@
 "label": "15-keto-PGE2",
 "class": "SimpleChemical",
 "box": [
-357.0,
+393.0,
 1015.0,
 40.0,
 40.0
@@ -388,7 +388,7 @@
 "label": "13,14-dihydro-15-keto-PGE2",
 "class": "SimpleChemical",
 "box": [
-357.0,
+393.0,
 1215.0,
 40.0,
 40.0
@@ -432,7 +432,7 @@
 "label": "tetranor-PGEM",
 "class": "SimpleChemical",
 "box": [
-657.0,
+693.0,
 1015.0,
 40.0,
 40.0
@@ -472,7 +472,7 @@
 "label": "11(R)-HETE",
 "class": "SimpleChemical",
 "box": [
-57.0,
+93.0,
 415.0,
 40.0,
 40.0
@@ -517,7 +517,7 @@
 "label": "",
 "class": "Process",
 "box": [
-665.0,
+701.0,
 523.0,
 24.0,
 24.0
@@ -558,7 +558,7 @@
 "label": "",
 "class": "Process",
 "box": [
-365.0,
+401.0,
 323.0,
 24.0,
 24.0
@@ -608,7 +608,7 @@
 "label": "",
 "class": "Process",
 "box": [
-65.0,
+101.0,
 323.0,
 24.0,
 24.0
@@ -650,7 +650,7 @@
 "label": "",
 "class": "Process",
 "box": [
-365.0,
+401.0,
 523.0,
 24.0,
 24.0
@@ -692,7 +692,7 @@
 "label": "",
 "class": "Process",
 "box": [
-365.0,
+401.0,
 723.0,
 24.0,
 24.0
@@ -751,7 +751,7 @@
 "label": "",
 "class": "Process",
 "box": [
-965.0,
+1001.0,
 923.0,
 24.0,
 24.0
@@ -790,7 +790,7 @@
 "label": "",
 "class": "Process",
 "box": [
-365.0,
+401.0,
 1123.0,
 24.0,
 24.0
@@ -848,7 +848,7 @@
 "label": "",
 "class": "Process",
 "box": [
-65.0,
+101.0,
 723.0,
 24.0,
 24.0
@@ -897,7 +897,7 @@
 "label": "",
 "class": "Process",
 "box": [
-965.0,
+1001.0,
 1123.0,
 24.0,
 24.0
@@ -928,7 +928,7 @@
 "label": "",
 "class": "Process",
 "box": [
-965.0,
+1001.0,
 1323.0,
 24.0,
 24.0
@@ -959,7 +959,7 @@
 "label": "",
 "class": "Process",
 "box": [
-665.0,
+701.0,
 923.0,
 24.0,
 24.0
@@ -998,7 +998,7 @@
 "label": "",
 "class": "Process",
 "box": [
-365.0,
+401.0,
 923.0,
 24.0,
 24.0
@@ -1038,7 +1038,7 @@
 "label": "Lecithin",
 "class": "SimpleChemical",
 "box": [
-357.0,
+393.0,
 15.0,
 40.0,
 40.0
@@ -1063,7 +1063,7 @@
 "label": "",
 "class": "Process",
 "box": [
-365.0,
+401.0,
 123.0,
 24.0,
 24.0
@@ -1117,10 +1117,43 @@
 ]
 },
 {
+"id": "add_p3",
+"label": "",
+"class": "Process",
+"box": [
+101.0,
+923.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"19-hydroxy-PGH2"
+],
+"out": [
+"19-hydroxy-PGE2"
+],
+"by": [
+"PTGES"
+]
+},
+"references": [
+{
+"authors": "Stark K et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "On the mechanism of biosynthesis of 19-hydroxyprostaglandins of human seminal fluid and expression of cyclooxygenase-2, PGH 19-hydroxylase (CYP4F8) and microsomal PGE synthase-1 in seminal vesicles and vas deferens.",
+"year": "2005",
+"db": "pubmed",
+"id": "15789615"
+}
+]
+},
+{
 "label": "PLA2G4C",
 "class": "Macromolecule",
 "box": [
-256.0,
+292.0,
 115.0,
 80.0,
 40.0
@@ -1176,7 +1209,7 @@
 "label": "PLA2G4A",
 "class": "Macromolecule",
 "box": [
-418.0,
+454.0,
 115.0,
 80.0,
 40.0
@@ -1236,7 +1269,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-418.0,
+454.0,
 315.0,
 80.0,
 40.0
@@ -1292,7 +1325,7 @@
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
-201.0,
+237.0,
 407.0,
 80.0,
 40.0
@@ -1348,7 +1381,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-118.0,
+154.0,
 315.0,
 80.0,
 40.0
@@ -1404,7 +1437,7 @@
 "label": "PTGS1",
 "class": "Macromolecule",
 "box": [
-418.0,
+454.0,
 515.0,
 80.0,
 40.0
@@ -1460,7 +1493,7 @@
 "label": "PTGES2",
 "class": "Macromolecule",
 "box": [
-256.0,
+292.0,
 715.0,
 80.0,
 40.0
@@ -1520,7 +1553,7 @@
 "label": "PTGES3",
 "class": "Macromolecule",
 "box": [
-418.0,
+454.0,
 715.0,
 80.0,
 40.0
@@ -1576,7 +1609,7 @@
 "label": "PTGES",
 "class": "Macromolecule",
 "box": [
-489.0,
+525.0,
 615.0,
 80.0,
 40.0
@@ -1636,7 +1669,7 @@
 "label": "CYP4F8",
 "class": "Macromolecule",
 "box": [
-118.0,
+154.0,
 715.0,
 80.0,
 40.0
@@ -1685,10 +1718,70 @@
 ]
 },
 {
+"label": "PTGES",
+"class": "Macromolecule",
+"box": [
+154.0,
+915.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase"
+],
+[
+"Alternative names",
+"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
+],
+[
+"Function",
+"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
+],
+[
+"Location",
+"Membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:9599"
+],
+[
+"HGNC symbol",
+"PTGES"
+],
+[
+"Previous symbols",
+"MGST1L1"
+],
+[
+"Alias symbols",
+"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
+],
+[
+"Entrez",
+"9536"
+],
+[
+"Ensembl",
+"ENSG00000148344"
+],
+[
+"RefSeq",
+"NM_004878"
+],
+[
+"UniProt",
+"O14684"
+]
+]
+},
+{
 "label": "HPGD",
 "class": "Macromolecule",
 "box": [
-418.0,
+454.0,
 915.0,
 80.0,
 40.0
@@ -1744,7 +1837,7 @@
 "label": "PTGR2",
 "class": "Macromolecule",
 "box": [
-256.0,
+292.0,
 1115.0,
 80.0,
 40.0
@@ -1804,7 +1897,7 @@
 "label": "PTGR1",
 "class": "Macromolecule",
 "box": [
-418.0,
+454.0,
 1115.0,
 80.0,
 40.0

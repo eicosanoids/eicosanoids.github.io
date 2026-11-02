@@ -795,6 +795,70 @@
 ]
 },
 {
+"id": "add_p1",
+"label": "",
+"class": "Process",
+"box": [
+356.0,
+1123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15-deoxy-delta12,14-PGJ2"
+],
+"out": [
+"15d-PGJ2-glutathione"
+],
+"by": [
+"MGST3"
+]
+},
+"references": [
+{
+"authors": "Steinmetz-Späh J et al.",
+"year": "2022",
+"title": "Biosynthesis of prostaglandin 15dPGJ(2) -glutathione and 15dPGJ(2)-cysteine conjugates in macrophages and mast cells via MGST3.",
+"journal": "J Lipid Res",
+"db": "pubmed",
+"id": "36370807"
+}
+]
+},
+{
+"id": "add_p2",
+"label": "",
+"class": "Process",
+"box": [
+356.0,
+1323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15d-PGJ2-glutathione"
+],
+"out": [
+"15d-PGJ2-cysteine"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Steinmetz-Späh J et al.",
+"year": "2022",
+"title": "Biosynthesis of prostaglandin 15dPGJ(2) -glutathione and 15dPGJ(2)-cysteine conjugates in macrophages and mast cells via MGST3.",
+"journal": "J Lipid Res",
+"db": "pubmed",
+"id": "36370807"
+}
+]
+},
+{
 "label": "PTGS2",
 "class": "Macromolecule",
 "box": [
@@ -1191,6 +1255,62 @@
 [
 "UniProt",
 "P42330"
+]
+]
+},
+{
+"label": "MGST3",
+"class": "Macromolecule",
+"box": [
+409.0,
+1115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione S-transferase 3, mitochondrial"
+],
+[
+"Alternative names",
+"Glutathione peroxidase MGST3; LTC4 synthase MGST3"
+],
+[
+"Function",
+"Displays both glutathione S-transferase and glutathione peroxidase activities toward oxyeicosanoids, as part of cellular detoxification as well as synthesis of bioactive metabolites. Catalyzes conjugate addition of reduced glutathione to the alpha, beta-unsaturated C=C carbonyl group of eisosanoids such as leukotriene A4 and 15-deoxy-Delta12,14-prostaglandin J2 to form GSH adducts relevant to the inflammatory response."
+],
+[
+"Location",
+"Mitochondrion outer membrane"
+],
+[
+"HGNC",
+"HGNC:7064"
+],
+[
+"HGNC symbol",
+"MGST3"
+],
+[
+"Alias symbols",
+"GST-III"
+],
+[
+"Entrez",
+"4259"
+],
+[
+"Ensembl",
+"ENSG00000143198"
+],
+[
+"RefSeq",
+"NM_004528"
+],
+[
+"UniProt",
+"O14880"
 ]
 ]
 }
