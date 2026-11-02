@@ -1371,8 +1371,34 @@
 "year": "1999",
 "db": "pubmed",
 "id": "10377395"
+},
+{
+"authors": "Kojima F et al.",
+"journal": "J Rheumatol",
+"title": "Coexpression of microsomal prostaglandin E synthase with cyclooxygenase-2 in human rheumatoid synovial cells.",
+"year": "2002",
+"db": "pubmed",
+"id": "12233875"
+},
+{
+"authors": "Kojima F et al.",
+"journal": "Arthritis Res Ther",
+"title": "Membrane-associated prostaglandin E synthase-1 is upregulated by proinflammatory cytokines in chondrocytes from patients with osteoarthritis.",
+"year": "2004",
+"db": "pubmed",
+"id": "15225371"
+},
+{
+"authors": "Yuan C et al.",
+"journal": "J Biol Chem",
+"title": "A cyclooxygenase-2-dependent prostaglandin E2 biosynthetic system in the Golgi apparatus.",
+"year": "2015",
+"db": "pubmed",
+"id": "25548276"
 }
-]
+],
+"site": "perinuclear membrane, overlapping COX-2, and a Golgi pool",
+"cells": "synovial fibroblasts of rheumatoid arthritis and chondrocytes of osteoarthritis after cytokines (human, product measured)"
 },
 {
 "id": "p_lox",

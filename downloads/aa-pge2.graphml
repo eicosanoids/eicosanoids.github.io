@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -125,7 +125,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re30"><data key="dref">pubmed:29225187 pubmed:1907252 pubmed:1380156</data><data key="ng">
+    </node><node id="re30"><data key="dcells">COX-1: platelets, lung mast cells, endothelium. COX-2: blood monocytes and synovial fibroblasts after a cytokine or endotoxin (human, product measured)</data><data key="dsite">luminal face of the endoplasmic reticulum and the nuclear envelope. COX-1 sits evenly in both, COX-2 twice as much in the envelope, and an active COX-2 pool is on the Golgi as well</data><data key="dref">pubmed:29225187 pubmed:1907252 pubmed:1380156 pubmed:7738031 pubmed:25548276 pubmed:10381787 pubmed:333448 pubmed:11095985 pubmed:12233875</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -153,7 +153,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re29"><data key="dref">pubmed:1905721 pubmed:1380156</data><data key="ng">
+    </node><node id="re29"><data key="dcells">the cells of the step before: platelets, lung mast cells, endothelium, monocytes, synovial fibroblasts (human)</data><data key="dsite">luminal face of the endoplasmic reticulum and the nuclear envelope, the peroxidase of the same enzyme</data><data key="dref">pubmed:1905721 pubmed:1380156 pubmed:7738031 pubmed:10381787 pubmed:12233875</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -167,7 +167,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re10"><data key="dref">pubmed:10377395 pubmed:10922363 pubmed:11866447 pubmed:19010439</data><data key="ng">
+    </node><node id="re10"><data key="dcells">no human cell measured. Mice without cPGES make normal amounts of PGE2, so it is drawn with that caveat</data><data key="dsite">cytosol (cPGES) and, for mPGES-2, made on the Golgi and then cut to a form around the nucleus</data><data key="dref">pubmed:10377395 pubmed:10922363 pubmed:11866447 pubmed:19010439 pubmed:12835322 pubmed:17438133 pubmed:15225371</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="491.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -195,7 +195,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re48"><data key="dref">pubmed:25619643 pubmed:19000823 pubmed:40388646 pubmed:17449869</data><data key="ng">
+    </node><node id="re48"><data key="dcells">kidney, liver and intestine (PTGR1, expression). Inflammatory macrophages (PTGR2, human). The same enzyme also inactivates lipoxin A4</data><data key="dsite">cytosol, the same compartment as the oxidation before it</data><data key="dref">pubmed:25619643 pubmed:19000823 pubmed:40388646 pubmed:17449869 pubmed:12432949 pubmed:8576264 pubmed:10837478</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="891.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -265,7 +265,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re39"><data key="dref">pubmed:8086429 pubmed:1697582</data><data key="ng">
+    </node><node id="re39"><data key="dcells">placenta, lung adenocarcinoma cells (human, product measured). Any cell that takes prostaglandins back up</data><data key="dsite">cytosol, after the prostaglandin has been taken back into the cell</data><data key="dref">pubmed:8086429 pubmed:1697582 pubmed:12432949 pubmed:4501572 pubmed:16632868</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="691.0"/>
           <y:Fill transparent="false" hasColor="false"/>

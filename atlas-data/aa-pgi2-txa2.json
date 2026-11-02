@@ -551,8 +551,34 @@
 "year": "1992",
 "db": "pubmed",
 "id": "1380156"
+},
+{
+"authors": "Morita I et al.",
+"journal": "J Biol Chem",
+"title": "Different intracellular locations for prostaglandin endoperoxide H synthase-1 and -2.",
+"year": "1995",
+"db": "pubmed",
+"id": "7738031"
+},
+{
+"authors": "Panara MR et al.",
+"journal": "J Pharmacol Exp Ther",
+"title": "Dose-dependent inhibition of platelet cyclooxygenase-1 and monocyte cyclooxygenase-2 by meloxicam in healthy subjects.",
+"year": "1999",
+"db": "pubmed",
+"id": "10381787"
+},
+{
+"authors": "Kojima F et al.",
+"journal": "J Rheumatol",
+"title": "Coexpression of microsomal prostaglandin E synthase with cyclooxygenase-2 in human rheumatoid synovial cells.",
+"year": "2002",
+"db": "pubmed",
+"id": "12233875"
 }
-]
+],
+"site": "luminal face of the endoplasmic reticulum and the nuclear envelope, the peroxidase of the same enzyme",
+"cells": "the cells of the step before: platelets, lung mast cells, endothelium, monocytes, synovial fibroblasts (human)"
 },
 {
 "id": "re22",
@@ -688,8 +714,42 @@
 "year": "1994",
 "db": "pubmed",
 "id": "8051072"
+},
+{
+"authors": "Weksler BB et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Synthesis of prostaglandin I2 (prostacyclin) by cultured human and bovine endothelial cells.",
+"year": "1977",
+"db": "pubmed",
+"id": "333448"
+},
+{
+"authors": "Marcus AJ et al.",
+"journal": "J Clin Invest",
+"title": "Synthesis of prostacyclin from platelet-derived endoperoxides by cultured human endothelial cells.",
+"year": "1980",
+"db": "pubmed",
+"id": "6776148"
+},
+{
+"authors": "Lewis RA et al.",
+"journal": "J Immunol",
+"title": "Prostaglandin D2 generation after activation of rat and human mast cells with anti-IgE.",
+"year": "1982",
+"db": "pubmed",
+"id": "6809826"
+},
+{
+"authors": "Siegle I et al.",
+"journal": "J Histochem Cytochem",
+"title": "Distribution and cellular localization of prostacyclin synthase in human brain.",
+"year": "2000",
+"db": "pubmed",
+"id": "10769047"
 }
-]
+],
+"site": "endoplasmic reticulum membrane",
+"cells": "endothelium (human, product measured), also from platelet endoperoxides handed over (transcellular). Not human mast cells, which make PGD2"
 },
 {
 "id": "re23",
@@ -737,8 +797,26 @@
 "year": "2013",
 "db": "pubmed",
 "id": "24009185"
+},
+{
+"authors": "Hammarström S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Resolution of prostaglandin endoperoxide synthase and thromboxane synthase of human platelets.",
+"year": "1977",
+"db": "pubmed",
+"id": "410024"
+},
+{
+"authors": "Haurand M et al.",
+"journal": "J Biol Chem",
+"title": "Isolation and characterization of thromboxane synthase from human platelets as a cytochrome P-450 enzyme.",
+"year": "1985",
+"db": "pubmed",
+"id": "2999104"
 }
-]
+],
+"site": "endoplasmic reticulum membrane, the same enzyme as for TXA2",
+"cells": "platelets (human)"
 },
 {
 "id": "re42",
@@ -991,8 +1069,34 @@
 "year": "2001",
 "db": "pubmed",
 "id": "11297515"
+},
+{
+"authors": "Hammarström S et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Resolution of prostaglandin endoperoxide synthase and thromboxane synthase of human platelets.",
+"year": "1977",
+"db": "pubmed",
+"id": "410024"
+},
+{
+"authors": "Haurand M et al.",
+"journal": "J Biol Chem",
+"title": "Isolation and characterization of thromboxane synthase from human platelets as a cytochrome P-450 enzyme.",
+"year": "1985",
+"db": "pubmed",
+"id": "2999104"
+},
+{
+"authors": "Nüsing R et al.",
+"journal": "Eur J Biochem",
+"title": "Regulation of cyclooxygenase and thromboxane synthase in human monocytes.",
+"year": "1992",
+"db": "pubmed",
+"id": "1587265"
 }
-]
+],
+"site": "endoplasmic reticulum membrane",
+"cells": "platelets, monocytes (human, product measured)"
 },
 {
 "id": "re36",

@@ -18,7 +18,7 @@ downloads:
   - {label: "GraphML", url: "/downloads/ltd4-cyslt1-gq.graphml"}
   - {label: "SVG", url: "/downloads/ltd4-cyslt1-gq.svg"}
 ---
-LTD4 is the most potent ligand of CysLT1 (CYSLTR1), ahead of LTC4, and the receptor raises calcium (Lynch 1999). It is the target of montelukast and the other leukotriene receptor antagonists used in asthma (Lynch 1999; Bäck 2014).
+LTD4 is the most potent ligand of CysLT1 (CYSLTR1), ahead of LTC4, and the receptor raises calcium (Lynch 1999). It is the target of montelukast and the other leukotriene receptor antagonists used in asthma (Lynch 1999, Bäck 2014).
 
 
 GPR17 sits on the same cells and holds this response down. It gives no calcium signal to leukotriene D4 itself, but together with CysLT1 it abolishes the calcium rise and the binding of leukotriene D4, the two receptors can be pulled down together, and macrophages in which GPR17 is knocked down carry more CysLT1 on their surface and answer leukotriene D4 more strongly (Maekawa 2009). Mice without GPR17 leak more plasma in anaphylaxis, and a CysLT1 antagonist blocks that leak. The map draws GPR17 as an inhibition of the binding step, which is where the effect shows.

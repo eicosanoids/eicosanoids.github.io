@@ -18,7 +18,7 @@ downloads:
   - {label: "GraphML", url: "/downloads/pgf2a-fp-gq.graphml"}
   - {label: "SVG", url: "/downloads/pgf2a-fp-gq.svg"}
 ---
-PGF2α binds the FP receptor (PTGFR), which couples to Gq and raises calcium (Abramovitz 1994). The rank order of the prostaglandins at this receptor is PGF2α and fluprostenol before PGD2, PGE2 and the thromboxane analogue (Abramovitz 1994; Woodward 2011).
+PGF2α binds the FP receptor (PTGFR), which couples to Gq and raises calcium (Abramovitz 1994). The rank order of the prostaglandins at this receptor is PGF2α and fluprostenol before PGD2, PGE2 and the thromboxane analogue (Abramovitz 1994, Woodward 2011).
 
 ## Source
 

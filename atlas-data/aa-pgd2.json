@@ -534,8 +534,34 @@
 "year": "1992",
 "db": "pubmed",
 "id": "1380156"
+},
+{
+"authors": "Morita I et al.",
+"journal": "J Biol Chem",
+"title": "Different intracellular locations for prostaglandin endoperoxide H synthase-1 and -2.",
+"year": "1995",
+"db": "pubmed",
+"id": "7738031"
+},
+{
+"authors": "Panara MR et al.",
+"journal": "J Pharmacol Exp Ther",
+"title": "Dose-dependent inhibition of platelet cyclooxygenase-1 and monocyte cyclooxygenase-2 by meloxicam in healthy subjects.",
+"year": "1999",
+"db": "pubmed",
+"id": "10381787"
+},
+{
+"authors": "Kojima F et al.",
+"journal": "J Rheumatol",
+"title": "Coexpression of microsomal prostaglandin E synthase with cyclooxygenase-2 in human rheumatoid synovial cells.",
+"year": "2002",
+"db": "pubmed",
+"id": "12233875"
 }
-]
+],
+"site": "luminal face of the endoplasmic reticulum and the nuclear envelope, the peroxidase of the same enzyme",
+"cells": "the cells of the step before: platelets, lung mast cells, endothelium, monocytes, synovial fibroblasts (human)"
 },
 {
 "id": "re55",
@@ -746,8 +772,34 @@
 "year": "2012",
 "db": "pubmed",
 "id": "22418579"
+},
+{
+"authors": "Tokugawa Y et al.",
+"journal": "Biol Reprod",
+"title": "Lipocalin-type prostaglandin D synthase in human male reproductive organs and seminal plasma.",
+"year": "1998",
+"db": "pubmed",
+"id": "9475419"
+},
+{
+"authors": "Eguchi Y et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Expression of lipocalin-type prostaglandin D synthase (beta-trace) in human heart and its accumulation in the coronary circulation of angina patients.",
+"year": "1997",
+"db": "pubmed",
+"id": "9405674"
+},
+{
+"authors": "Kanekiyo T et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Lipocalin-type prostaglandin D synthase/beta-trace is a major amyloid beta-chaperone in human cerebrospinal fluid.",
+"year": "2007",
+"db": "pubmed",
+"id": "17404210"
 }
-]
+],
+"site": "made in the cytosol and secreted, so it also works in the fluid outside the cell",
+"cells": "Leydig cells, prostate and epididymal epithelium (human, product measured). Brain cells secrete it into the cerebrospinal fluid"
 },
 {
 "id": "re7",
@@ -793,8 +845,26 @@
 "year": "2002",
 "db": "pubmed",
 "id": "11786541"
+},
+{
+"authors": "Yamaguchi S et al.",
+"journal": "J Am Chem Soc",
+"title": "Delta12-prostaglandin J2 as a product and ligand of human serum albumin: formation of an unusual covalent adduct at His146.",
+"year": "2010",
+"db": "pubmed",
+"id": "20014793"
+},
+{
+"authors": "Bell-Parikh LC et al.",
+"journal": "J Clin Invest",
+"title": "Biosynthesis of 15-deoxy-delta12,14-PGJ2 and the ligation of PPARgamma.",
+"year": "2003",
+"db": "pubmed",
+"id": "12975479"
 }
-]
+],
+"site": "outside the cell, in plasma or medium, with albumin. A smaller pool builds up inside activated macrophages",
+"cells": "foamy macrophages of atherosclerotic plaque (human). It also runs in plain buffer with no cell at all"
 },
 {
 "id": "re53",

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!--Created by yEd 3.25.1-->
-  <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
+  <key attr.name="References" attr.type="string" for="node" id="dreferences"/><key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="Description" attr.type="string" for="graph" id="d0"/>
   <key for="port" id="d1" yfiles.type="portgraphics"/>
   <key for="port" id="d2" yfiles.type="portgeometry"/>
   <key for="port" id="d3" yfiles.type="portuserdata"/>
@@ -1519,7 +1519,7 @@ P@S727</data>
           </data>
         </node>
         <node id="n2::n13">
-          <data key="d4" xml:space="preserve"/>
+          <data key="dreferences">pubmed:7738031 pubmed:10381787 pubmed:12233875</data><data key="dcells">the cells of the step before: platelets, lung mast cells, endothelium, monocytes, synovial fibroblasts (human)</data><data key="dsite">luminal face of the endoplasmic reticulum and the nuclear envelope, the peroxidase of the same enzyme</data><data key="d4" xml:space="preserve"/>
           <data key="d5" xml:space="preserve"/>
           <data key="d6" xml:space="preserve"/>
           <data key="d7" xml:space="preserve"/>

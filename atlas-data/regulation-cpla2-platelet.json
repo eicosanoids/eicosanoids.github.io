@@ -3181,6 +3181,57 @@
 ]
 },
 {
+"id": "n3::n13",
+"label": "",
+"class": "Process",
+"box": [
+972.8,
+1327.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGG2"
+],
+"out": [
+"PGH2"
+],
+"by": [
+"COX-1"
+]
+},
+"references": [
+{
+"authors": "Morita I et al.",
+"journal": "J Biol Chem",
+"title": "Different intracellular locations for prostaglandin endoperoxide H synthase-1 and -2.",
+"year": "1995",
+"db": "pubmed",
+"id": "7738031"
+},
+{
+"authors": "Panara MR et al.",
+"journal": "J Pharmacol Exp Ther",
+"title": "Dose-dependent inhibition of platelet cyclooxygenase-1 and monocyte cyclooxygenase-2 by meloxicam in healthy subjects.",
+"year": "1999",
+"db": "pubmed",
+"id": "10381787"
+},
+{
+"authors": "Kojima F et al.",
+"journal": "J Rheumatol",
+"title": "Coexpression of microsomal prostaglandin E synthase with cyclooxygenase-2 in human rheumatoid synovial cells.",
+"year": "2002",
+"db": "pubmed",
+"id": "12233875"
+}
+],
+"site": "luminal face of the endoplasmic reticulum and the nuclear envelope, the peroxidase of the same enzyme",
+"cells": "the cells of the step before: platelets, lung mast cells, endothelium, monocytes, synovial fibroblasts (human)"
+},
+{
 "label": "PGH2",
 "class": "SimpleChemical",
 "box": [

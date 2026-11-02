@@ -20,7 +20,7 @@ downloads:
 ---
 ## Description
 
-The lipoxin A4 receptor is expressed on spinal astrocytes. Spinal lipoxin A4 and its stable analogues attenuate inflammatory pain and the activation of ERK and JNK in astrocytes (Svensson 2007). The study gave lipoxin A4 into the spinal canal; where lipoxin A4 comes from in the spinal cord has not been shown, so the map draws no source for it.
+The lipoxin A4 receptor is expressed on spinal astrocytes. Spinal lipoxin A4 and its stable analogues attenuate inflammatory pain and the activation of ERK and JNK in astrocytes (Svensson 2007). The study gave lipoxin A4 into the spinal canal, where lipoxin A4 comes from in the spinal cord has not been shown, so the map draws no source for it.
 
 ## Colour
 

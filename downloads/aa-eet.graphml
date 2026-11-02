@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -71,7 +71,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="81.42857142857143" x="-20.7" xml:space="preserve" y="10.9" hasText="true">11,12-DHET<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re108"><data key="dref">pubmed:15284062 pubmed:14665429 pubmed:34672113</data><data key="ng">
+    </node><node id="re108"><data key="dcells">coronary endothelium (human). This is the smaller fate there, about 15 per cent, behind the shortening route</data><data key="dsite">cytosol</data><data key="dref">pubmed:15284062 pubmed:14665429 pubmed:34672113 pubmed:12388281 pubmed:18319271 pubmed:23020295</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="591.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -85,7 +85,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re106"><data key="dref">pubmed:14665429 pubmed:15284062 pubmed:29986999</data><data key="ng">
+    </node><node id="re106"><data key="dcells">coronary endothelium (human). This is the smaller fate there, about 15 per cent, behind the shortening route</data><data key="dsite">cytosol</data><data key="dref">pubmed:14665429 pubmed:15284062 pubmed:29986999 pubmed:12388281 pubmed:18319271 pubmed:23020295</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="291.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -99,7 +99,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re102"><data key="dref">pubmed:8631948 pubmed:7625847 pubmed:22553041</data><data key="ng">
+    </node><node id="re102"><data key="dcells">endothelium, where low oxygen raises both the enzyme and the product. Heart muscle and coronary endothelium (human)</data><data key="dsite">endoplasmic reticulum membrane</data><data key="dref">pubmed:8631948 pubmed:7625847 pubmed:22553041 pubmed:16291720 pubmed:17220242 pubmed:12388281 pubmed:10660572</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -113,7 +113,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re104"><data key="dref">pubmed:8631948 pubmed:7625847</data><data key="ng">
+    </node><node id="re104"><data key="dcells">endothelium, where low oxygen raises both the enzyme and the product. Heart muscle and coronary endothelium (human)</data><data key="dsite">endoplasmic reticulum membrane</data><data key="dref">pubmed:8631948 pubmed:7625847 pubmed:16291720 pubmed:17220242 pubmed:12388281 pubmed:10660572</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="891.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -127,7 +127,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re105"><data key="dref">pubmed:8631948 pubmed:7625847</data><data key="ng">
+    </node><node id="re105"><data key="dcells">endothelium, where low oxygen raises both the enzyme and the product. Heart muscle and coronary endothelium (human)</data><data key="dsite">endoplasmic reticulum membrane</data><data key="dref">pubmed:8631948 pubmed:7625847 pubmed:16291720 pubmed:17220242 pubmed:12388281 pubmed:10660572</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="591.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -141,7 +141,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re103"><data key="dref">pubmed:8631948 pubmed:7625847</data><data key="ng">
+    </node><node id="re103"><data key="dcells">endothelium, where low oxygen raises both the enzyme and the product. Heart muscle and coronary endothelium (human)</data><data key="dsite">endoplasmic reticulum membrane</data><data key="dref">pubmed:8631948 pubmed:7625847 pubmed:16291720 pubmed:17220242 pubmed:12388281 pubmed:10660572</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="291.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -155,7 +155,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re107"><data key="dref">pubmed:15284062 pubmed:14665429 pubmed:21479549</data><data key="ng">
+    </node><node id="re107"><data key="dcells">coronary endothelium (human). This is the smaller fate there, about 15 per cent, behind the shortening route</data><data key="dsite">cytosol</data><data key="dref">pubmed:15284062 pubmed:14665429 pubmed:21479549 pubmed:12388281 pubmed:18319271 pubmed:23020295</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="891.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>

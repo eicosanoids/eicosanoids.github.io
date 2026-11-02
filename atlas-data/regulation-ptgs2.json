@@ -414,8 +414,58 @@
 "year": "1992",
 "db": "pubmed",
 "id": "1380156"
+},
+{
+"authors": "Morita I et al.",
+"journal": "J Biol Chem",
+"title": "Different intracellular locations for prostaglandin endoperoxide H synthase-1 and -2.",
+"year": "1995",
+"db": "pubmed",
+"id": "7738031"
+},
+{
+"authors": "Yuan C et al.",
+"journal": "J Biol Chem",
+"title": "A cyclooxygenase-2-dependent prostaglandin E2 biosynthetic system in the Golgi apparatus.",
+"year": "2015",
+"db": "pubmed",
+"id": "25548276"
+},
+{
+"authors": "Panara MR et al.",
+"journal": "J Pharmacol Exp Ther",
+"title": "Dose-dependent inhibition of platelet cyclooxygenase-1 and monocyte cyclooxygenase-2 by meloxicam in healthy subjects.",
+"year": "1999",
+"db": "pubmed",
+"id": "10381787"
+},
+{
+"authors": "Weksler BB et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Synthesis of prostaglandin I2 (prostacyclin) by cultured human and bovine endothelial cells.",
+"year": "1977",
+"db": "pubmed",
+"id": "333448"
+},
+{
+"authors": "Hinz B et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Cyclooxygenase-2 expression in lipopolysaccharide-stimulated human monocytes is modulated by cyclic AMP, prostaglandin E(2), and nonsteroidal anti-inflammatory drugs.",
+"year": "2000",
+"db": "pubmed",
+"id": "11095985"
+},
+{
+"authors": "Kojima F et al.",
+"journal": "J Rheumatol",
+"title": "Coexpression of microsomal prostaglandin E synthase with cyclooxygenase-2 in human rheumatoid synovial cells.",
+"year": "2002",
+"db": "pubmed",
+"id": "12233875"
 }
-]
+],
+"site": "luminal face of the endoplasmic reticulum and the nuclear envelope. COX-1 sits evenly in both, COX-2 twice as much in the envelope, and an active COX-2 pool is on the Golgi as well",
+"cells": "COX-1: platelets, lung mast cells, endothelium. COX-2: blood monocytes and synovial fibroblasts after a cytokine or endotoxin (human, product measured)"
 },
 {
 "id": "p_glyc",

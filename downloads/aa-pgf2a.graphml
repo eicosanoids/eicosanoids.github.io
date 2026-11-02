@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -133,7 +133,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re3"><data key="dref">pubmed:18006499 pubmed:23747692 pubmed:10622721</data><data key="ng">
+    </node><node id="re3"><data key="dcells">no isolated human cell measured. The enzyme purified from lung makes it, and in the endometrium AKR1B1 is the faster one</data><data key="dsite">cytosol</data><data key="dref">pubmed:18006499 pubmed:23747692 pubmed:10622721 pubmed:14979715 pubmed:30012349</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-21.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>

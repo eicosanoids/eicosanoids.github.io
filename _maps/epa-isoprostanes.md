@@ -20,6 +20,10 @@ downloads:
 ---
 Free radicals oxidise EPA without enzymes into the F3-isoprostanes, the n-3 counterparts of the F2-isoprostanes. Their formation is established chemically and in animals, while human data are still few (Roy 2015).
 
+## Relevance to disease
+
+Where to look at this pathway from, for disease. These are made without an enzyme, so they report on oxidative stress rather than on signalling. The arachidonic acid isoprostanes are the ones with a human literature, and the leads for them are on the isoprostane page of the AA network.
+
 ## Source
 
 New content, drawn in blue until reviewed. Each step carries its references, checked on PubMed.

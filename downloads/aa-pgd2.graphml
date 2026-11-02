@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -117,7 +117,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re29"><data key="dref">pubmed:1905721 pubmed:1380156</data><data key="ng">
+    </node><node id="re29"><data key="dcells">the cells of the step before: platelets, lung mast cells, endothelium, monocytes, synovial fibroblasts (human)</data><data key="dsite">luminal face of the endoplasmic reticulum and the nuclear envelope, the peroxidase of the same enzyme</data><data key="dref">pubmed:1905721 pubmed:1380156 pubmed:7738031 pubmed:10381787 pubmed:12233875</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -187,7 +187,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re1"><data key="dref">pubmed:6809826 pubmed:22418579</data><data key="ng">
+    </node><node id="re1"><data key="dcells">Leydig cells, prostate and epididymal epithelium (human, product measured). Brain cells secrete it into the cerebrospinal fluid</data><data key="dsite">made in the cytosol and secreted, so it also works in the fluid outside the cell</data><data key="dref">pubmed:6809826 pubmed:22418579 pubmed:9475419 pubmed:9405674 pubmed:17404210</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -201,7 +201,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re7"><data key="dref">pubmed:6578214 pubmed:22391692 pubmed:11786541</data><data key="ng">
+    </node><node id="re7"><data key="dcells">foamy macrophages of atherosclerotic plaque (human). It also runs in plain buffer with no cell at all</data><data key="dsite">outside the cell, in plasma or medium, with albumin. A smaller pool builds up inside activated macrophages</data><data key="dref">pubmed:6578214 pubmed:22391692 pubmed:11786541 pubmed:20014793 pubmed:12975479</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-309.0" y="491.0"/>
           <y:Fill transparent="false" hasColor="false"/>

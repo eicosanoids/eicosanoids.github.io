@@ -441,8 +441,18 @@
 "year": "2004",
 "db": "pubmed",
 "id": "15364545"
+},
+{
+"authors": "Ward NC et al.",
+"journal": "Hypertension",
+"title": "A single nucleotide polymorphism in the CYP4F2 but not CYP4A11 gene is associated with increased 20-HETE excretion and blood pressure.",
+"year": "2008",
+"db": "pubmed",
+"id": "18391101"
 }
-]
+],
+"site": "endoplasmic reticulum membrane",
+"cells": "proximal tubule of the kidney and hepatocytes (human, product measured). CYP4F2 variants change how much appears in urine"
 },
 {
 "id": "re132",

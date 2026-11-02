@@ -430,8 +430,34 @@
 "year": "2022",
 "db": "pubmed",
 "id": "34672113"
+},
+{
+"authors": "Fang X et al.",
+"journal": "Am J Physiol Heart Circ Physiol",
+"title": "Human coronary endothelial cells convert 14,15-EET to a biologically active chain-shortened epoxide.",
+"year": "2002",
+"db": "pubmed",
+"id": "12388281"
+},
+{
+"authors": "Sura P et al.",
+"journal": "J Histochem Cytochem",
+"title": "Distribution and expression of soluble epoxide hydrolase in human brain.",
+"year": "2008",
+"db": "pubmed",
+"id": "18319271"
+},
+{
+"authors": "Morisseau C et al.",
+"journal": "Annu Rev Pharmacol Toxicol",
+"title": "Impact of soluble epoxide hydrolase and epoxyeicosanoids on human health.",
+"year": "2013",
+"db": "pubmed",
+"id": "23020295"
 }
-]
+],
+"site": "cytosol",
+"cells": "coronary endothelium (human). This is the smaller fate there, about 15 per cent, behind the shortening route"
 },
 {
 "id": "re106",
@@ -479,8 +505,34 @@
 "year": "2018",
 "db": "pubmed",
 "id": "29986999"
+},
+{
+"authors": "Fang X et al.",
+"journal": "Am J Physiol Heart Circ Physiol",
+"title": "Human coronary endothelial cells convert 14,15-EET to a biologically active chain-shortened epoxide.",
+"year": "2002",
+"db": "pubmed",
+"id": "12388281"
+},
+{
+"authors": "Sura P et al.",
+"journal": "J Histochem Cytochem",
+"title": "Distribution and expression of soluble epoxide hydrolase in human brain.",
+"year": "2008",
+"db": "pubmed",
+"id": "18319271"
+},
+{
+"authors": "Morisseau C et al.",
+"journal": "Annu Rev Pharmacol Toxicol",
+"title": "Impact of soluble epoxide hydrolase and epoxyeicosanoids on human health.",
+"year": "2013",
+"db": "pubmed",
+"id": "23020295"
 }
-]
+],
+"site": "cytosol",
+"cells": "coronary endothelium (human). This is the smaller fate there, about 15 per cent, behind the shortening route"
 },
 {
 "id": "re102",
@@ -528,8 +580,42 @@
 "year": "2012",
 "db": "pubmed",
 "id": "22553041"
+},
+{
+"authors": "Michaelis UR et al.",
+"journal": "J Cell Sci",
+"title": "Cytochrome P450 epoxygenases 2C8 and 2C9 are implicated in hypoxia-induced endothelial cell migration and angiogenesis.",
+"year": "2005",
+"db": "pubmed",
+"id": "16291720"
+},
+{
+"authors": "Delozier TC et al.",
+"journal": "Drug Metab Dispos",
+"title": "Detection of human CYP2C8, CYP2C9, and CYP2J2 in cardiovascular tissues.",
+"year": "2007",
+"db": "pubmed",
+"id": "17220242"
+},
+{
+"authors": "Fang X et al.",
+"journal": "Am J Physiol Heart Circ Physiol",
+"title": "Human coronary endothelial cells convert 14,15-EET to a biologically active chain-shortened epoxide.",
+"year": "2002",
+"db": "pubmed",
+"id": "12388281"
+},
+{
+"authors": "Lasker JM et al.",
+"journal": "J Biol Chem",
+"title": "Formation of 20-hydroxyeicosatetraenoic acid, a vasoactive and natriuretic eicosanoid, in human kidney. Role of Cyp4F2 and Cyp4A11.",
+"year": "2000",
+"db": "pubmed",
+"id": "10660572"
 }
-]
+],
+"site": "endoplasmic reticulum membrane",
+"cells": "endothelium, where low oxygen raises both the enzyme and the product. Heart muscle and coronary endothelium (human)"
 },
 {
 "id": "re104",
@@ -569,8 +655,42 @@
 "year": "1995",
 "db": "pubmed",
 "id": "7625847"
+},
+{
+"authors": "Michaelis UR et al.",
+"journal": "J Cell Sci",
+"title": "Cytochrome P450 epoxygenases 2C8 and 2C9 are implicated in hypoxia-induced endothelial cell migration and angiogenesis.",
+"year": "2005",
+"db": "pubmed",
+"id": "16291720"
+},
+{
+"authors": "Delozier TC et al.",
+"journal": "Drug Metab Dispos",
+"title": "Detection of human CYP2C8, CYP2C9, and CYP2J2 in cardiovascular tissues.",
+"year": "2007",
+"db": "pubmed",
+"id": "17220242"
+},
+{
+"authors": "Fang X et al.",
+"journal": "Am J Physiol Heart Circ Physiol",
+"title": "Human coronary endothelial cells convert 14,15-EET to a biologically active chain-shortened epoxide.",
+"year": "2002",
+"db": "pubmed",
+"id": "12388281"
+},
+{
+"authors": "Lasker JM et al.",
+"journal": "J Biol Chem",
+"title": "Formation of 20-hydroxyeicosatetraenoic acid, a vasoactive and natriuretic eicosanoid, in human kidney. Role of Cyp4F2 and Cyp4A11.",
+"year": "2000",
+"db": "pubmed",
+"id": "10660572"
 }
-]
+],
+"site": "endoplasmic reticulum membrane",
+"cells": "endothelium, where low oxygen raises both the enzyme and the product. Heart muscle and coronary endothelium (human)"
 },
 {
 "id": "re105",
@@ -610,8 +730,42 @@
 "year": "1995",
 "db": "pubmed",
 "id": "7625847"
+},
+{
+"authors": "Michaelis UR et al.",
+"journal": "J Cell Sci",
+"title": "Cytochrome P450 epoxygenases 2C8 and 2C9 are implicated in hypoxia-induced endothelial cell migration and angiogenesis.",
+"year": "2005",
+"db": "pubmed",
+"id": "16291720"
+},
+{
+"authors": "Delozier TC et al.",
+"journal": "Drug Metab Dispos",
+"title": "Detection of human CYP2C8, CYP2C9, and CYP2J2 in cardiovascular tissues.",
+"year": "2007",
+"db": "pubmed",
+"id": "17220242"
+},
+{
+"authors": "Fang X et al.",
+"journal": "Am J Physiol Heart Circ Physiol",
+"title": "Human coronary endothelial cells convert 14,15-EET to a biologically active chain-shortened epoxide.",
+"year": "2002",
+"db": "pubmed",
+"id": "12388281"
+},
+{
+"authors": "Lasker JM et al.",
+"journal": "J Biol Chem",
+"title": "Formation of 20-hydroxyeicosatetraenoic acid, a vasoactive and natriuretic eicosanoid, in human kidney. Role of Cyp4F2 and Cyp4A11.",
+"year": "2000",
+"db": "pubmed",
+"id": "10660572"
 }
-]
+],
+"site": "endoplasmic reticulum membrane",
+"cells": "endothelium, where low oxygen raises both the enzyme and the product. Heart muscle and coronary endothelium (human)"
 },
 {
 "id": "re103",
@@ -651,8 +805,42 @@
 "year": "1995",
 "db": "pubmed",
 "id": "7625847"
+},
+{
+"authors": "Michaelis UR et al.",
+"journal": "J Cell Sci",
+"title": "Cytochrome P450 epoxygenases 2C8 and 2C9 are implicated in hypoxia-induced endothelial cell migration and angiogenesis.",
+"year": "2005",
+"db": "pubmed",
+"id": "16291720"
+},
+{
+"authors": "Delozier TC et al.",
+"journal": "Drug Metab Dispos",
+"title": "Detection of human CYP2C8, CYP2C9, and CYP2J2 in cardiovascular tissues.",
+"year": "2007",
+"db": "pubmed",
+"id": "17220242"
+},
+{
+"authors": "Fang X et al.",
+"journal": "Am J Physiol Heart Circ Physiol",
+"title": "Human coronary endothelial cells convert 14,15-EET to a biologically active chain-shortened epoxide.",
+"year": "2002",
+"db": "pubmed",
+"id": "12388281"
+},
+{
+"authors": "Lasker JM et al.",
+"journal": "J Biol Chem",
+"title": "Formation of 20-hydroxyeicosatetraenoic acid, a vasoactive and natriuretic eicosanoid, in human kidney. Role of Cyp4F2 and Cyp4A11.",
+"year": "2000",
+"db": "pubmed",
+"id": "10660572"
 }
-]
+],
+"site": "endoplasmic reticulum membrane",
+"cells": "endothelium, where low oxygen raises both the enzyme and the product. Heart muscle and coronary endothelium (human)"
 },
 {
 "id": "re107",
@@ -700,8 +888,34 @@
 "year": "2011",
 "db": "pubmed",
 "id": "21479549"
+},
+{
+"authors": "Fang X et al.",
+"journal": "Am J Physiol Heart Circ Physiol",
+"title": "Human coronary endothelial cells convert 14,15-EET to a biologically active chain-shortened epoxide.",
+"year": "2002",
+"db": "pubmed",
+"id": "12388281"
+},
+{
+"authors": "Sura P et al.",
+"journal": "J Histochem Cytochem",
+"title": "Distribution and expression of soluble epoxide hydrolase in human brain.",
+"year": "2008",
+"db": "pubmed",
+"id": "18319271"
+},
+{
+"authors": "Morisseau C et al.",
+"journal": "Annu Rev Pharmacol Toxicol",
+"title": "Impact of soluble epoxide hydrolase and epoxyeicosanoids on human health.",
+"year": "2013",
+"db": "pubmed",
+"id": "23020295"
 }
-]
+],
+"site": "cytosol",
+"cells": "coronary endothelium (human). This is the smaller fate there, about 15 per cent, behind the shortening route"
 },
 {
 "label": "CYP2J2",

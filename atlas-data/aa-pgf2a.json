@@ -586,8 +586,26 @@
 "year": "1999",
 "db": "pubmed",
 "id": "10622721"
+},
+{
+"authors": "Komoto J et al.",
+"journal": "Biochemistry",
+"title": "Crystal structure of human prostaglandin F synthase (AKR1C3).",
+"year": "2004",
+"db": "pubmed",
+"id": "14979715"
+},
+{
+"authors": "Penning TM",
+"journal": "Mol Cell Endocrinol",
+"title": "AKR1C3 (type 5 17β-hydroxysteroid dehydrogenase/prostaglandin F synthase): Roles in malignancy and endocrine disorders.",
+"year": "2019",
+"db": "pubmed",
+"id": "30012349"
 }
-]
+],
+"site": "cytosol",
+"cells": "no isolated human cell measured. The enzyme purified from lung makes it, and in the endometrium AKR1B1 is the faster one"
 },
 {
 "id": "re44",

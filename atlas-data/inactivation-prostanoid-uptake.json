@@ -472,8 +472,42 @@
 "year": "2004",
 "db": "pubmed",
 "id": "15007077"
+},
+{
+"authors": "Schuster VL",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Prostaglandin transport.",
+"year": "2002",
+"db": "pubmed",
+"id": "12432949"
+},
+{
+"authors": "Yokomizo T et al.",
+"journal": "J Biol Chem",
+"title": "cDNA cloning, expression, and mutagenesis study of leukotriene B4 12-hydroxydehydrogenase.",
+"year": "1996",
+"db": "pubmed",
+"id": "8576264"
+},
+{
+"authors": "Founds MW et al.",
+"journal": "ACS Chem Biol",
+"title": "Human PTGR2 Inactivation Alters Eicosanoid Metabolism and Cytokine Response of Inflammatory Macrophages.",
+"year": "2025",
+"db": "pubmed",
+"id": "40388646"
+},
+{
+"authors": "Clish CB et al.",
+"journal": "J Biol Chem",
+"title": "Oxidoreductases in lipoxin A4 metabolic inactivation: a novel role for 15-onoprostaglandin 13-reductase/leukotriene B4 12-hydroxydehydrogenase in inflammation.",
+"year": "2000",
+"db": "pubmed",
+"id": "10837478"
 }
-]
+],
+"site": "cytosol, the same compartment as the oxidation before it",
+"cells": "kidney, liver and intestine (PTGR1, expression). Inflammatory macrophages (PTGR2, human). The same enzyme also inactivates lipoxin A4"
 },
 {
 "id": "p_exc",
@@ -506,9 +540,9 @@
 },
 {
 "authors": "Chang HY et al.",
-"year": "2010",
-"title": "Failure of postnatal ductus arteriosus closure in prostaglandin transporter-deficient mice.",
 "journal": "Circulation",
+"title": "Failure of postnatal ductus arteriosus closure in prostaglandin transporter-deficient mice.",
+"year": "2010",
 "db": "pubmed",
 "id": "20083684"
 }

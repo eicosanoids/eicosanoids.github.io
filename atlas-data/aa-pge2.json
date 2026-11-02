@@ -632,8 +632,58 @@
 "year": "1992",
 "db": "pubmed",
 "id": "1380156"
+},
+{
+"authors": "Morita I et al.",
+"journal": "J Biol Chem",
+"title": "Different intracellular locations for prostaglandin endoperoxide H synthase-1 and -2.",
+"year": "1995",
+"db": "pubmed",
+"id": "7738031"
+},
+{
+"authors": "Yuan C et al.",
+"journal": "J Biol Chem",
+"title": "A cyclooxygenase-2-dependent prostaglandin E2 biosynthetic system in the Golgi apparatus.",
+"year": "2015",
+"db": "pubmed",
+"id": "25548276"
+},
+{
+"authors": "Panara MR et al.",
+"journal": "J Pharmacol Exp Ther",
+"title": "Dose-dependent inhibition of platelet cyclooxygenase-1 and monocyte cyclooxygenase-2 by meloxicam in healthy subjects.",
+"year": "1999",
+"db": "pubmed",
+"id": "10381787"
+},
+{
+"authors": "Weksler BB et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Synthesis of prostaglandin I2 (prostacyclin) by cultured human and bovine endothelial cells.",
+"year": "1977",
+"db": "pubmed",
+"id": "333448"
+},
+{
+"authors": "Hinz B et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Cyclooxygenase-2 expression in lipopolysaccharide-stimulated human monocytes is modulated by cyclic AMP, prostaglandin E(2), and nonsteroidal anti-inflammatory drugs.",
+"year": "2000",
+"db": "pubmed",
+"id": "11095985"
+},
+{
+"authors": "Kojima F et al.",
+"journal": "J Rheumatol",
+"title": "Coexpression of microsomal prostaglandin E synthase with cyclooxygenase-2 in human rheumatoid synovial cells.",
+"year": "2002",
+"db": "pubmed",
+"id": "12233875"
 }
-]
+],
+"site": "luminal face of the endoplasmic reticulum and the nuclear envelope. COX-1 sits evenly in both, COX-2 twice as much in the envelope, and an active COX-2 pool is on the Golgi as well",
+"cells": "COX-1: platelets, lung mast cells, endothelium. COX-2: blood monocytes and synovial fibroblasts after a cytokine or endotoxin (human, product measured)"
 },
 {
 "id": "re59",
@@ -716,8 +766,34 @@
 "year": "1992",
 "db": "pubmed",
 "id": "1380156"
+},
+{
+"authors": "Morita I et al.",
+"journal": "J Biol Chem",
+"title": "Different intracellular locations for prostaglandin endoperoxide H synthase-1 and -2.",
+"year": "1995",
+"db": "pubmed",
+"id": "7738031"
+},
+{
+"authors": "Panara MR et al.",
+"journal": "J Pharmacol Exp Ther",
+"title": "Dose-dependent inhibition of platelet cyclooxygenase-1 and monocyte cyclooxygenase-2 by meloxicam in healthy subjects.",
+"year": "1999",
+"db": "pubmed",
+"id": "10381787"
+},
+{
+"authors": "Kojima F et al.",
+"journal": "J Rheumatol",
+"title": "Coexpression of microsomal prostaglandin E synthase with cyclooxygenase-2 in human rheumatoid synovial cells.",
+"year": "2002",
+"db": "pubmed",
+"id": "12233875"
 }
-]
+],
+"site": "luminal face of the endoplasmic reticulum and the nuclear envelope, the peroxidase of the same enzyme",
+"cells": "the cells of the step before: platelets, lung mast cells, endothelium, monocytes, synovial fibroblasts (human)"
 },
 {
 "id": "re10",
@@ -775,8 +851,34 @@
 "year": "2009",
 "db": "pubmed",
 "id": "19010439"
+},
+{
+"authors": "Murakami M et al.",
+"journal": "J Biol Chem",
+"title": "Cellular prostaglandin E2 production by membrane-bound prostaglandin E synthase-2 via both cyclooxygenases-1 and -2.",
+"year": "2003",
+"db": "pubmed",
+"id": "12835322"
+},
+{
+"authors": "Lovgren AK et al.",
+"journal": "Mol Cell Biol",
+"title": "cPGES/p23 is required for glucocorticoid receptor function and embryonic growth but not prostaglandin E2 synthesis.",
+"year": "2007",
+"db": "pubmed",
+"id": "17438133"
+},
+{
+"authors": "Kojima F et al.",
+"journal": "Arthritis Res Ther",
+"title": "Membrane-associated prostaglandin E synthase-1 is upregulated by proinflammatory cytokines in chondrocytes from patients with osteoarthritis.",
+"year": "2004",
+"db": "pubmed",
+"id": "15225371"
 }
-]
+],
+"site": "cytosol (cPGES) and, for mPGES-2, made on the Golgi and then cut to a form around the nucleus",
+"cells": "no human cell measured. Mice without cPGES make normal amounts of PGE2, so it is drawn with that caveat"
 },
 {
 "id": "re17",
@@ -872,8 +974,34 @@
 "year": "2007",
 "db": "pubmed",
 "id": "17449869"
+},
+{
+"authors": "Schuster VL",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Prostaglandin transport.",
+"year": "2002",
+"db": "pubmed",
+"id": "12432949"
+},
+{
+"authors": "Yokomizo T et al.",
+"journal": "J Biol Chem",
+"title": "cDNA cloning, expression, and mutagenesis study of leukotriene B4 12-hydroxydehydrogenase.",
+"year": "1996",
+"db": "pubmed",
+"id": "8576264"
+},
+{
+"authors": "Clish CB et al.",
+"journal": "J Biol Chem",
+"title": "Oxidoreductases in lipoxin A4 metabolic inactivation: a novel role for 15-onoprostaglandin 13-reductase/leukotriene B4 12-hydroxydehydrogenase in inflammation.",
+"year": "2000",
+"db": "pubmed",
+"id": "10837478"
 }
-]
+],
+"site": "cytosol, the same compartment as the oxidation before it",
+"cells": "kidney, liver and intestine (PTGR1, expression). Inflammatory macrophages (PTGR2, human). The same enzyme also inactivates lipoxin A4"
 },
 {
 "id": "re25",
@@ -1063,8 +1191,34 @@
 "year": "1990",
 "db": "pubmed",
 "id": "1697582"
+},
+{
+"authors": "Schuster VL",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Prostaglandin transport.",
+"year": "2002",
+"db": "pubmed",
+"id": "12432949"
+},
+{
+"authors": "Jarabak J",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Human placental 15-hydroxyprostaglandin dehydrogenase.",
+"year": "1972",
+"db": "pubmed",
+"id": "4501572"
+},
+{
+"authors": "Tong M et al.",
+"journal": "Carcinogenesis",
+"title": "Reciprocal regulation of cyclooxygenase-2 and 15-hydroxyprostaglandin dehydrogenase expression in A549 human lung adenocarcinoma cells.",
+"year": "2006",
+"db": "pubmed",
+"id": "16632868"
 }
-]
+],
+"site": "cytosol, after the prostaglandin has been taken back into the cell",
+"cells": "placenta, lung adenocarcinoma cells (human, product measured). Any cell that takes prostaglandins back up"
 },
 {
 "label": "Lecithin",

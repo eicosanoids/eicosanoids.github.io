@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -135,7 +135,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="211.7142857142857" x="-85.9" xml:space="preserve" y="10.9" hasText="true">2,3-dinor-6-keto-PGF1alpha<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re29"><data key="dref">pubmed:1905721 pubmed:1380156</data><data key="ng">
+    </node><node id="re29"><data key="dcells">the cells of the step before: platelets, lung mast cells, endothelium, monocytes, synovial fibroblasts (human)</data><data key="dsite">luminal face of the endoplasmic reticulum and the nuclear envelope, the peroxidase of the same enzyme</data><data key="dref">pubmed:1905721 pubmed:1380156 pubmed:7738031 pubmed:10381787 pubmed:12233875</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="-109.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -177,7 +177,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re28"><data key="dref">pubmed:8185632 pubmed:8051072</data><data key="ng">
+    </node><node id="re28"><data key="dcells">endothelium (human, product measured), also from platelet endoperoxides handed over (transcellular). Not human mast cells, which make PGD2</data><data key="dsite">endoplasmic reticulum membrane</data><data key="dref">pubmed:8185632 pubmed:8051072 pubmed:333448 pubmed:6776148 pubmed:6809826 pubmed:10769047</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-309.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -191,7 +191,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re23"><data key="dref">pubmed:2491846 pubmed:11297515 pubmed:24009185</data><data key="ng">
+    </node><node id="re23"><data key="dcells">platelets (human)</data><data key="dsite">endoplasmic reticulum membrane, the same enzyme as for TXA2</data><data key="dref">pubmed:2491846 pubmed:11297515 pubmed:24009185 pubmed:410024 pubmed:2999104</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -275,7 +275,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re20"><data key="dref">pubmed:1730669 pubmed:11297515</data><data key="ng">
+    </node><node id="re20"><data key="dcells">platelets, monocytes (human, product measured)</data><data key="dsite">endoplasmic reticulum membrane</data><data key="dref">pubmed:1730669 pubmed:11297515 pubmed:410024 pubmed:2999104 pubmed:1587265</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="291.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>

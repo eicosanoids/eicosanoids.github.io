@@ -747,8 +747,42 @@
 "year": "2012",
 "db": "pubmed",
 "id": "22418579"
+},
+{
+"authors": "Baothman BK et al.",
+"journal": "Eur J Pharmacol",
+"title": "Prostaglandin D(2) generation from human lung mast cells is catalysed exclusively by cyclooxygenase-1.",
+"year": "2018",
+"db": "pubmed",
+"id": "29225187"
+},
+{
+"authors": "Mitson-Salazar A et al.",
+"journal": "J Allergy Clin Immunol",
+"title": "Hematopoietic prostaglandin D synthase defines a proeosinophilic pathogenic effector human T(H)2 cell subpopulation with enhanced function.",
+"year": "2016",
+"db": "pubmed",
+"id": "26431580"
+},
+{
+"authors": "Suzuki T et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Induction of hematopoietic prostaglandin D synthase in human megakaryocytic cells by phorbol ester.",
+"year": "1997",
+"db": "pubmed",
+"id": "9425264"
+},
+{
+"authors": "Kanaoka Y et al.",
+"journal": "Prostaglandins Leukot Essent Fatty Acids",
+"title": "Hematopoietic prostaglandin D synthase.",
+"year": "2003",
+"db": "pubmed",
+"id": "12895599"
 }
-]
+],
+"site": "cytosol",
+"cells": "lung mast cells, pathogenic T helper 2 cells, megakaryocytes (human, product measured)"
 },
 {
 "id": "p_dehyd",

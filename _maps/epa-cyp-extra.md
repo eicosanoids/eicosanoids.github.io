@@ -28,4 +28,4 @@ New content, drawn in blue until reviewed.
 
 ## References
 
-1. Fer M, Corcos L, Dréano Y, et al.. Cytochromes P450 from family 4 are the main omega hydroxylating enzymes in humans: CYP4F3B is the prominent player in PUFA metabolism. J Lipid Res. 2008;49(11):2379-89. PMID: [18577768](https://pubmed.ncbi.nlm.nih.gov/18577768/){:target="_blank" rel="noopener"}. doi: [10.1194/jlr.M800199-JLR200](https://doi.org/10.1194/jlr.M800199-JLR200){:target="_blank" rel="noopener"}
+1. Fer M, Corcos L, Dréano Y, et al. Cytochromes P450 from family 4 are the main omega hydroxylating enzymes in humans: CYP4F3B is the prominent player in PUFA metabolism. J Lipid Res. 2008;49(11):2379-89. PMID: [18577768](https://pubmed.ncbi.nlm.nih.gov/18577768/){:target="_blank" rel="noopener"}. doi: [10.1194/jlr.M800199-JLR200](https://doi.org/10.1194/jlr.M800199-JLR200){:target="_blank" rel="noopener"}

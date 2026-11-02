@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!--Created by yEd 3.25.1-->
-  <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
+  <key attr.name="References" attr.type="string" for="node" id="dreferences"/><key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="Description" attr.type="string" for="graph" id="d0"/>
   <key for="port" id="d1" yfiles.type="portgraphics"/>
   <key for="port" id="d2" yfiles.type="portgeometry"/>
   <key for="port" id="d3" yfiles.type="portuserdata"/>
@@ -23,9 +23,9 @@
   <graph edgedefault="directed" id="G">
     <data key="d0" xml:space="preserve"/>
     <node id="n0">
-      <data key="d4" xml:space="preserve"><![CDATA[HGNC:9605]]></data>
-      <data key="d5" xml:space="preserve"><![CDATA[PTGS2]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[P35354]]></data>
+      <data key="d4" xml:space="preserve">HGNC:9605</data>
+      <data key="d5" xml:space="preserve">PTGS2</data>
+      <data key="d6" xml:space="preserve">P35354</data>
       <data key="d7"/>
       <data key="d8"/>
       <data key="d9"/>
@@ -57,7 +57,7 @@
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
-      <data key="d7" xml:space="preserve"><![CDATA[CHEBI:32395]]></data>
+      <data key="d7" xml:space="preserve">CHEBI:32395</data>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
@@ -72,14 +72,14 @@
       </data>
     </node>
     <node id="n2">
-      <data key="d4" xml:space="preserve"><![CDATA[HGNC:9605]]></data>
-      <data key="d5" xml:space="preserve"><![CDATA[PTGS2]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[P35354]]></data>
+      <data key="d4" xml:space="preserve">HGNC:9605</data>
+      <data key="d5" xml:space="preserve">PTGS2</data>
+      <data key="d6" xml:space="preserve">P35354</data>
       <data key="d7"/>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
-      <data key="d11" xml:space="preserve"><![CDATA[Ac@S516]]></data>
+      <data key="d11" xml:space="preserve">Ac@S516</data>
       <data key="d14">
         <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
           <y:Geometry height="40.0" width="80.0" x="1006.6430048552215" y="-290.8516449783507"/>
@@ -131,7 +131,7 @@
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
-      <data key="d7" xml:space="preserve"><![CDATA[CHEBI:27647]]></data>
+      <data key="d7" xml:space="preserve">CHEBI:27647</data>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
@@ -149,7 +149,7 @@
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
-      <data key="d7" xml:space="preserve"><![CDATA[CHEBI:15554]]></data>
+      <data key="d7" xml:space="preserve">CHEBI:15554</data>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
@@ -189,7 +189,7 @@
       </data>
     </node>
     <node id="n7">
-      <data key="d4"/>
+      <data key="dreferences">pubmed:7738031 pubmed:10381787 pubmed:12233875</data><data key="dcells">the cells of the step before: platelets, lung mast cells, endothelium, monocytes, synovial fibroblasts (human)</data><data key="dsite">luminal face of the endoplasmic reticulum and the nuclear envelope, the peroxidase of the same enzyme</data><data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
       <data key="d7"/>
@@ -217,7 +217,7 @@
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
-      <data key="d7" xml:space="preserve"><![CDATA[CHEBI:15365]]></data>
+      <data key="d7" xml:space="preserve">CHEBI:15365</data>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
@@ -235,7 +235,7 @@
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
-      <data key="d7" xml:space="preserve"><![CDATA[CHEBI:30762]]></data>
+      <data key="d7" xml:space="preserve">CHEBI:30762</data>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
@@ -253,7 +253,7 @@
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
-      <data key="d7" xml:space="preserve"><![CDATA[CHEBI:63989]]></data>
+      <data key="d7" xml:space="preserve">CHEBI:63989</data>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
@@ -293,9 +293,9 @@
       </data>
     </node>
     <node id="n12">
-      <data key="d4" xml:space="preserve"><![CDATA[HGNC:9604]]></data>
-      <data key="d5" xml:space="preserve"><![CDATA[PTGS1]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[P23219]]></data>
+      <data key="d4" xml:space="preserve">HGNC:9604</data>
+      <data key="d5" xml:space="preserve">PTGS1</data>
+      <data key="d6" xml:space="preserve">P23219</data>
       <data key="d7"/>
       <data key="d8"/>
       <data key="d9"/>
@@ -324,14 +324,14 @@
       </data>
     </node>
     <node id="n13">
-      <data key="d4" xml:space="preserve"><![CDATA[HGNC:9604]]></data>
-      <data key="d5" xml:space="preserve"><![CDATA[PTGS1]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[P23219]]></data>
+      <data key="d4" xml:space="preserve">HGNC:9604</data>
+      <data key="d5" xml:space="preserve">PTGS1</data>
+      <data key="d6" xml:space="preserve">P23219</data>
       <data key="d7"/>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
-      <data key="d11" xml:space="preserve"><![CDATA[Ac@S529]]></data>
+      <data key="d11" xml:space="preserve">Ac@S529</data>
       <data key="d14">
         <y:GenericNode configuration="com.yworks.sbgn.Macromolecule">
           <y:Geometry height="40.0" width="80.0" x="339.2202488728222" y="-290.8516449783507"/>
@@ -383,7 +383,7 @@
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
-      <data key="d7" xml:space="preserve"><![CDATA[CHEBI:15365]]></data>
+      <data key="d7" xml:space="preserve">CHEBI:15365</data>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
@@ -401,7 +401,7 @@
       <data key="d4"/>
       <data key="d5"/>
       <data key="d6"/>
-      <data key="d7" xml:space="preserve"><![CDATA[CHEBI:30762]]></data>
+      <data key="d7" xml:space="preserve">CHEBI:30762</data>
       <data key="d8"/>
       <data key="d9"/>
       <data key="d10"/>
