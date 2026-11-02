@@ -4,7 +4,7 @@ topic: "PGE2 loop"
 tab: "Activity Flow"
 page: ""
 group: "Modelling"
-order: 101
+order: 97
 kind: "map"
 draft: false
 tag: "draft"

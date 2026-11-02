@@ -4,7 +4,7 @@ topic: "PGE2 loop"
 tab: "Process Description"
 page: ""
 group: "Modelling"
-order: 100
+order: 96
 kind: "map"
 draft: false
 tag: "draft"
