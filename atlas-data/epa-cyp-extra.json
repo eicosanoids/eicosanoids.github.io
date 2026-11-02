@@ -4,7 +4,7 @@
 "label": "EPA",
 "class": "SimpleChemical",
 "box": [
-15.0,
+116.0,
 15.0,
 40.0,
 40.0
@@ -49,11 +49,80 @@
 ]
 },
 {
+"id": "epa43",
+"label": "",
+"class": "Process",
+"box": [
+124.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EPA"
+],
+"out": [
+"19-HEPE"
+],
+"by": [
+"CYP2E1",
+"CYP1A1",
+"CYP2C19"
+]
+},
+"references": [
+{
+"authors": "Fer M et al.",
+"journal": "J Lipid Res",
+"title": "Cytochromes P450 from family 4 are the main omega hydroxylating enzymes in humans: CYP4F3B is the prominent player in PUFA metabolism.",
+"year": "2008",
+"db": "pubmed",
+"id": "18577768"
+}
+]
+},
+{
+"id": "epa44",
+"label": "",
+"class": "Process",
+"box": [
+424.0,
+123.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EPA"
+],
+"out": [
+"20-HEPE"
+],
+"by": [
+"CYP4F2",
+"CYP4F3"
+]
+},
+"references": [
+{
+"authors": "Fer M et al.",
+"journal": "J Lipid Res",
+"title": "Cytochromes P450 from family 4 are the main omega hydroxylating enzymes in humans: CYP4F3B is the prominent player in PUFA metabolism.",
+"year": "2008",
+"db": "pubmed",
+"id": "18577768"
+}
+]
+},
+{
 "label": "CYP2E1",
 "class": "Macromolecule",
 "box": [
-76.0,
-115.0,
+15.0,
+45.0,
 80.0,
 40.0
 ],
@@ -105,10 +174,182 @@
 ]
 },
 {
+"label": "CYP1A1",
+"class": "Macromolecule",
+"box": [
+15.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A1"
+],
+[
+"Alternative names",
+"Cytochrome P450 form 6; Cytochrome P450-C; Cytochrome P450-P1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Mitochondrion inner membrane, Microsome membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:2595"
+],
+[
+"HGNC symbol",
+"CYP1A1"
+],
+[
+"Previous symbols",
+"CYP1"
+],
+[
+"Alias symbols",
+"P450DX, P1-450, P450-C, CP11"
+],
+[
+"Entrez",
+"1543"
+],
+[
+"Ensembl",
+"ENSG00000140465"
+],
+[
+"RefSeq",
+"NM_000499"
+],
+[
+"UniProt",
+"P04798"
+]
+]
+},
+{
+"label": "CYP2C19",
+"class": "Macromolecule",
+"box": [
+15.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2C19"
+],
+[
+"Alternative names",
+"(R)-limonene 6-monooxygenase; (S)-limonene 6-monooxygenase; (S)-limonene 7-monooxygenase; CYPIIC17; CYPIIC19; Cytochrome P450-11A; Cytochrome P450-254C; Fenbendazole monooxygenase (4'-hydroxylating); Mephenytoin 4-hydroxylase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of polyunsaturated fatty acids (PUFA). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2621"
+],
+[
+"HGNC symbol",
+"CYP2C19"
+],
+[
+"Previous symbols",
+"CYP2C"
+],
+[
+"Alias symbols",
+"P450IIC19, CPCJ"
+],
+[
+"Entrez",
+"1557"
+],
+[
+"Ensembl",
+"ENSG00000165841"
+],
+[
+"RefSeq",
+"NM_000769"
+],
+[
+"UniProt",
+"P33261"
+]
+]
+},
+{
+"label": "CYP4F2",
+"class": "Macromolecule",
+"box": [
+315.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F2"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:2645"
+],
+[
+"HGNC symbol",
+"CYP4F2"
+],
+[
+"Entrez",
+"8529"
+],
+[
+"Ensembl",
+"ENSG00000186115"
+],
+[
+"RefSeq",
+"NM_001082"
+],
+[
+"UniProt",
+"P78329"
+]
+]
+},
+{
 "label": "CYP4F3",
 "class": "Macromolecule",
 "box": [
-214.0,
+477.0,
 115.0,
 80.0,
 40.0
@@ -161,58 +402,6 @@
 [
 "UniProt",
 "Q08477"
-]
-]
-},
-{
-"label": "CYP4F2",
-"class": "Macromolecule",
-"box": [
-376.0,
-115.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Cytochrome P450 4F2"
-],
-[
-"Alternative names",
-"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
-],
-[
-"Function",
-"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
-],
-[
-"Location",
-"Microsome membrane, Endoplasmic reticulum membrane"
-],
-[
-"HGNC",
-"HGNC:2645"
-],
-[
-"HGNC symbol",
-"CYP4F2"
-],
-[
-"Entrez",
-"8529"
-],
-[
-"Ensembl",
-"ENSG00000186115"
-],
-[
-"RefSeq",
-"NM_001082"
-],
-[
-"UniProt",
-"P78329"
 ]
 ]
 }

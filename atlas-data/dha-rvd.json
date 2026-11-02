@@ -847,6 +847,7 @@
 "17S-HpDHA"
 ],
 "by": [
+"ALOX15B",
 "ALOX15"
 ]
 },
@@ -2067,6 +2068,62 @@
 "db": "pubmed",
 "id": "26170058"
 }
+]
+},
+{
+"label": "ALOX15B",
+"class": "Macromolecule",
+"box": [
+814.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15B"
+],
+[
+"Alternative names",
+"15-lipoxygenase 2; Arachidonate 15-lipoxygenase B; Arachidonate 15-lipoxygenase type II; Linoleate 13-lipoxygenase 15-LOb"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids (PUFAs) generating a spectrum of bioactive lipid mediators (Probable). It inserts peroxyl groups at C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing (15S)-hydroperoxyeicosatetraenoate/(15S)-HPETE (Probable)."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, cytosol, Cell membrane, Cytoplasm, cytoskeleton, Membrane, Cell junction, adherens junction, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:434"
+],
+[
+"HGNC symbol",
+"ALOX15B"
+],
+[
+"Alias symbols",
+"15-LOX-2"
+],
+[
+"Entrez",
+"247"
+],
+[
+"Ensembl",
+"ENSG00000179593"
+],
+[
+"RefSeq",
+"NM_001039130"
+],
+[
+"UniProt",
+"O15296"
+]
 ]
 },
 {
