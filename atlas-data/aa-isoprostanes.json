@@ -4,7 +4,7 @@
 "label": "AA",
 "class": "SimpleChemical",
 "box": [
-97.0,
+393.0,
 15.0,
 40.0,
 40.0
@@ -52,7 +52,7 @@
 "label": "8-iso-PGF2alpha",
 "class": "SimpleChemical",
 "box": [
-97.0,
+393.0,
 215.0,
 40.0,
 40.0
@@ -100,7 +100,7 @@
 "label": "2,3-dinor-8-iso-PGF1alpha",
 "class": "SimpleChemical",
 "box": [
-97.0,
+393.0,
 415.0,
 40.0,
 40.0
@@ -144,7 +144,7 @@
 "label": "8,12-iso-iPF2alpha-VI",
 "class": "SimpleChemical",
 "box": [
-397.0,
+693.0,
 215.0,
 40.0,
 40.0
@@ -181,7 +181,7 @@
 "label": "",
 "class": "Process",
 "box": [
-105.0,
+401.0,
 123.0,
 24.0,
 24.0
@@ -220,7 +220,7 @@
 "label": "",
 "class": "Process",
 "box": [
-405.0,
+701.0,
 123.0,
 24.0,
 24.0
@@ -267,7 +267,7 @@
 "label": "",
 "class": "Process",
 "box": [
-105.0,
+401.0,
 323.0,
 24.0,
 24.0
@@ -306,7 +306,94 @@
 "year": "2006",
 "db": "pubmed",
 "id": "16983999"
+},
+{
+"authors": "Roberts LJ 2nd et al.",
+"journal": "J Biol Chem",
+"title": "Identification of the major urinary metabolite of the F2-isoprostane 8-iso-prostaglandin F2alpha in humans.",
+"year": "1996",
+"db": "pubmed",
+"id": "8702808"
 }
+]
+},
+{
+"id": "add_p4",
+"label": "",
+"class": "Process",
+"box": [
+101.0,
+323.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"8-iso-PGF2alpha"
+],
+"out": [
+"2,3-dinor-8-iso-PGF2alpha"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Chiabrando C et al.",
+"journal": "J Biol Chem",
+"title": "Identification and measurement of endogenous beta-oxidation metabolites of 8-epi-Prostaglandin F2alpha.",
+"year": "1999",
+"db": "pubmed",
+"id": "9880501"
+},
+{
+"authors": "Nourooz-Zadeh J et al.",
+"journal": "Biochem Biophys Res Commun",
+"title": "Urinary 8-epi-PGF2alpha and its endogenous beta-oxidation products (2,3-dinor and 2,3-dinor-5,6-dihydro) as biomarkers of total body oxidative stress.",
+"year": "2005",
+"db": "pubmed",
+"id": "15809058"
+}
+]
+},
+{
+"label": "2,3-dinor-8-iso-PGF2alpha",
+"class": "SimpleChemical",
+"box": [
+93.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"2,3-dinor-8-epi-prostaglandin F2alpha"
+],
+[
+"Synonyms",
+"(3Z)-5-{(1S,2R,3R,5S)-3,5-dihydroxy-2-[(1E,3S)-3-hydroxyoct-1-en-1-yl]cyclopentyl}pent-3-enoic acid; (5Z,13E,15S)-9alpha,11alpha,15-trihydroxy-2,3-dinor-8beta-prosta-5,13-dien-1-oic acid; 2,3-Dinor-8-iso PGF2alpha; 2,3-Dinor-8-iso prostaglandin F2alpha"
+],
+[
+"Formula",
+"C18H30O5"
+],
+[
+"ChEBI",
+"CHEBI:34230"
+],
+[
+"KEGG",
+"C14794"
+],
+[
+"InChI",
+"InChI=1S/C18H30O5/c1-2-3-4-7-13(19)10-11-15-14(16(20)12-17(15)21)8-5-6-9-18(22)23/h5-6,10-11,13-17,19-21H,2-4,7-9,12H2,1H3,(H,22,23)/b6-5-,11-10+/t13-,14-,15+,16-,17+/m0/s1"
+],
+[
+"InChIKey",
+"IDKLJIUIJUVJNR-JSEKUSAISA-N"
+]
 ]
 }
 ]

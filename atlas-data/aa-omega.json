@@ -522,8 +522,10 @@
 "by": [
 "CYP2J2",
 "CYP2U1",
+"CYP1A2",
 "CYP2E1",
-"CYP1A1"
+"CYP1A1",
+"CYP2C19"
 ]
 },
 "references": [
@@ -590,6 +592,14 @@
 "year": "2004",
 "db": "pubmed",
 "id": "14660610"
+},
+{
+"authors": "Isse FA et al.",
+"journal": "Drug Metab Dispos",
+"title": "Unraveling enantioselective metabolism: Human cytochrome P450s in arachidonic acid biotransformation.",
+"year": "2025",
+"db": "pubmed",
+"id": "41344064"
 }
 ]
 },
@@ -770,7 +780,7 @@
 "class": "Macromolecule",
 "box": [
 315.0,
-280.0,
+245.0,
 80.0,
 40.0
 ],
@@ -822,7 +832,7 @@
 "class": "Macromolecule",
 "box": [
 315.0,
-350.0,
+315.0,
 80.0,
 40.0
 ],
@@ -878,11 +888,67 @@
 ]
 },
 {
+"label": "CYP1A2",
+"class": "Macromolecule",
+"box": [
+315.0,
+385.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A2"
+],
+[
+"Alternative names",
+"CYPIA2; Cholesterol 25-hydroxylase; Cytochrome P(3)450; Cytochrome P450 4; Cytochrome P450-P3; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2596"
+],
+[
+"HGNC symbol",
+"CYP1A2"
+],
+[
+"Alias symbols",
+"P3-450, CP12"
+],
+[
+"Entrez",
+"1544"
+],
+[
+"Ensembl",
+"ENSG00000140505"
+],
+[
+"RefSeq",
+"NM_000761"
+],
+[
+"UniProt",
+"P05177"
+]
+]
+},
+{
 "label": "CYP2E1",
 "class": "Macromolecule",
 "box": [
 477.0,
-280.0,
+245.0,
 80.0,
 40.0
 ],
@@ -938,7 +1004,7 @@
 "class": "Macromolecule",
 "box": [
 477.0,
-350.0,
+315.0,
 80.0,
 40.0
 ],
@@ -990,6 +1056,66 @@
 [
 "UniProt",
 "P04798"
+]
+]
+},
+{
+"label": "CYP2C19",
+"class": "Macromolecule",
+"box": [
+477.0,
+385.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2C19"
+],
+[
+"Alternative names",
+"(R)-limonene 6-monooxygenase; (S)-limonene 6-monooxygenase; (S)-limonene 7-monooxygenase; CYPIIC17; CYPIIC19; Cytochrome P450-11A; Cytochrome P450-254C; Fenbendazole monooxygenase (4'-hydroxylating); Mephenytoin 4-hydroxylase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of polyunsaturated fatty acids (PUFA). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2621"
+],
+[
+"HGNC symbol",
+"CYP2C19"
+],
+[
+"Previous symbols",
+"CYP2C"
+],
+[
+"Alias symbols",
+"P450IIC19, CPCJ"
+],
+[
+"Entrez",
+"1557"
+],
+[
+"Ensembl",
+"ENSG00000165841"
+],
+[
+"RefSeq",
+"NM_000769"
+],
+[
+"UniProt",
+"P33261"
 ]
 ]
 },

@@ -317,7 +317,7 @@
 ]
 },
 {
-"label": "14(R),15(S)-diETE",
+"label": "14(R),15(S)-diHETE",
 "class": "SimpleChemical",
 "box": [
 636.0,
@@ -770,7 +770,7 @@
 "Eoxin A4 (14,15-LTA4)"
 ],
 "out": [
-"14(R),15(S)-diETE"
+"14(R),15(S)-diHETE"
 ],
 "by": [
 "EPHX2"
@@ -800,6 +800,14 @@
 "year": "1993",
 "db": "pubmed",
 "id": "8334154"
+},
+{
+"authors": "Wetterholm A et al.",
+"journal": "Eur J Biochem",
+"title": "14,15-Dihydroxy-5,8,10,12-eicosatetraenoic acid. Enzymatic formation from 14,15-leukotriene A4.",
+"year": "1988",
+"db": "pubmed",
+"id": "2836192"
 }
 ]
 },

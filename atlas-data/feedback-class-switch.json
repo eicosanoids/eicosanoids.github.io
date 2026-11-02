@@ -692,6 +692,10 @@
 },
 "references": [
 {
+"authors": "Luo M et al.",
+"journal": "J Biol Chem",
+"title": "Protein kinase A inhibits leukotriene synthesis by phosphorylation of 5-lipoxygenase on serine 523.",
+"year": "2004",
 "db": "pubmed",
 "id": "15280375"
 }
@@ -722,9 +726,9 @@
 "references": [
 {
 "authors": "Luo M et al.",
-"year": "2004",
-"title": "Protein kinase A inhibits leukotriene synthesis by phosphorylation of 5-lipoxygenase on serine 523.",
 "journal": "J Biol Chem",
+"title": "Protein kinase A inhibits leukotriene synthesis by phosphorylation of 5-lipoxygenase on serine 523.",
+"year": "2004",
 "db": "pubmed",
 "id": "15280375"
 }
@@ -755,9 +759,9 @@
 "references": [
 {
 "authors": "Afonso PV et al.",
-"year": "2012",
-"title": "LTB4 is a signal-relay molecule during neutrophil chemotaxis.",
 "journal": "Dev Cell",
+"title": "LTB4 is a signal-relay molecule during neutrophil chemotaxis.",
+"year": "2012",
 "db": "pubmed",
 "id": "22542839"
 }
@@ -796,9 +800,9 @@
 },
 {
 "authors": "Levy BD et al.",
-"year": "2001",
-"title": "Lipid mediator class switching during acute inflammation: signals in resolution.",
 "journal": "Nat Immunol",
+"title": "Lipid mediator class switching during acute inflammation: signals in resolution.",
+"year": "2001",
 "db": "pubmed",
 "id": "11429545"
 }
@@ -909,9 +913,9 @@
 "references": [
 {
 "authors": "Levy BD et al.",
-"year": "2001",
-"title": "Lipid mediator class switching during acute inflammation: signals in resolution.",
 "journal": "Nat Immunol",
+"title": "Lipid mediator class switching during acute inflammation: signals in resolution.",
+"year": "2001",
 "db": "pubmed",
 "id": "11429545"
 }
@@ -943,9 +947,9 @@
 "references": [
 {
 "authors": "Levy BD et al.",
-"year": "2001",
-"title": "Lipid mediator class switching during acute inflammation: signals in resolution.",
 "journal": "Nat Immunol",
+"title": "Lipid mediator class switching during acute inflammation: signals in resolution.",
+"year": "2001",
 "db": "pubmed",
 "id": "11429545"
 }

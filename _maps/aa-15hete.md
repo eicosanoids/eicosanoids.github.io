@@ -18,7 +18,7 @@ downloads:
   - {label: "GraphML", url: "/downloads/aa-15hete.graphml"}
   - {label: "SVG", url: "/downloads/aa-15hete.svg"}
 ---
-15-lipoxygenase (ALOX15) makes 15(S)-HpETE, which GPX1 reduces to 15(S)-HETE. ALOX15 also turns 15(S)-HpETE into eoxin A4 (14,15-LTA4), which LTC4 synthase conjugates with glutathione to eoxin C4. Exported, it is trimmed to eoxins D4 and E4 by the same enzymes as the cysteinyl leukotrienes. Further products of 15(S)-HpETE are 15-oxo-ETE and the double oxygenation products, among them 5(S),15(S)-diHETE made with 5-lipoxygenase.
+15-lipoxygenase (ALOX15) makes 15(S)-HpETE, which GPX1 reduces to 15(S)-HETE. ALOX15 also turns 15(S)-HpETE into eoxin A4 (14,15-LTA4), which LTC4 synthase conjugates with glutathione to eoxin C4. Exported, it is trimmed to eoxins D4 and E4 by the same enzymes as the cysteinyl leukotrienes. Soluble epoxide hydrolase (EPHX2) hydrolyses eoxin A4 to 14(R),15(S)-diHETE, shown with the purified mouse enzyme. Further products of 15(S)-HpETE are 15-oxo-ETE and the double oxygenation products, among them 5(S),15(S)-diHETE made with 5-lipoxygenase.
 
 ## Source
 

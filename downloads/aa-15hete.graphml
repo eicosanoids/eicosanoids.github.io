@@ -68,7 +68,7 @@
           <y:Geometry height="40" width="40" x="-320.0" y="580.0"/>
           <y:Fill color="#DBEBDB" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="138.42857142857142" x="-49.2" xml:space="preserve" y="10.9" hasText="true">14(R),15(S)-diETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="138.42857142857142" x="-49.2" xml:space="preserve" y="10.9" hasText="true">14(R),15(S)-diHETE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node><node id="sa117"><data key="d0">CHEBI:15558</data><data key="ng">
@@ -149,7 +149,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re85"><data key="dref">pubmed:18184802 pubmed:10224163 pubmed:8334154</data><data key="ng">
+    </node><node id="re85"><data key="dref">pubmed:18184802 pubmed:10224163 pubmed:8334154 pubmed:2836192</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-309.0" y="491.0"/>
           <y:Fill transparent="false" hasColor="false"/>

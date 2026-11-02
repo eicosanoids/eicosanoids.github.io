@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="518" height="470" viewBox="0 0 518 470" stroke-linecap="butt" stroke-miterlimit="10">
-<g transform="translate(117,35)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="814" height="470" viewBox="0 0 814 470" stroke-linecap="butt" stroke-miterlimit="10">
+<g transform="translate(413,35)">
 <path d="M-20 0 C-20 -11.046 -11.046 -20 0 -20 L0 -20 C11.046 -20 20 -11.046 20 0 L20 0 C20 11.046 11.046 20 0 20 L0 20 C-11.046 20 -20 11.046 -20 0 Z" fill="#DBEBDB" stroke="none"/><path d="M-20 0 C-20 -11.046 -11.046 -20 0 -20 L0 -20 C11.046 -20 20 -11.046 20 0 L20 0 C20 11.046 11.046 20 0 20 L0 20 C-11.046 20 -20 11.046 -20 0 Z" fill="none" stroke="#000000"/><text x="0" y="4.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">AA</text>
 <path d="M-20 200 C-20 188.954 -11.046 180 0 180 L0 180 C11.046 180 20 188.954 20 200 L20 200 C20 211.046 11.046 220 0 220 L0 220 C-11.046 220 -20 211.046 -20 200 Z" fill="#DBEBDB" stroke="none"/><path d="M-20 200 C-20 188.954 -11.046 180 0 180 L0 180 C11.046 180 20 188.954 20 200 L20 200 C20 211.046 11.046 220 0 220 L0 220 C-11.046 220 -20 211.046 -20 200 Z" fill="none" stroke="#000000"/><text x="0" y="204.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">8-iso-PGF2alpha</text>
 <path d="M-20 400 C-20 388.954 -11.046 380 0 380 L0 380 C11.046 380 20 388.954 20 400 L20 400 C20 411.046 11.046 420 0 420 L0 420 C-11.046 420 -20 411.046 -20 400 Z" fill="#DBEBDB" stroke="none"/><path d="M-20 400 C-20 388.954 -11.046 380 0 380 L0 380 C11.046 380 20 388.954 20 400 L20 400 C20 411.046 11.046 420 0 420 L0 420 C-11.046 420 -20 411.046 -20 400 Z" fill="none" stroke="#000000"/><text x="0" y="404.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">2,3-dinor-8-iso-PGF1alpha</text>
@@ -8,11 +8,15 @@
 <path d="M-9 91 L9 91 L9 109 L-9 109 Z" fill="none" stroke="#000000"/>
 <path d="M291 91 L309 91 L309 109 L291 109 Z" fill="none" stroke="#000000"/>
 <path d="M-9 291 L9 291 L9 309 L-9 309 Z" fill="none" stroke="#000000"/>
+<path d="M-309 291 L-291 291 L-291 309 L-309 309 Z" fill="none" stroke="#0066CC" stroke-width="2"/>
+<path d="M-320 400 C-320 388.954 -311.046 380 -300 380 L-300 380 C-288.954 380 -280 388.954 -280 400 L-280 400 C-280 411.046 -288.954 420 -300 420 L-300 420 C-311.046 420 -320 411.046 -320 400 Z" fill="#DBEBDB" stroke="none"/><path d="M-320 400 C-320 388.954 -311.046 380 -300 380 L-300 380 C-288.954 380 -280 388.954 -280 400 L-280 400 C-280 411.046 -288.954 420 -300 420 L-300 420 C-311.046 420 -320 411.046 -320 400 Z" fill="none" stroke="#0066CC" stroke-width="2"/><text x="-300" y="404.5354" text-anchor="middle" font-family="'Dialog', Arial, Helvetica, sans-serif" font-size="12" fill="#000000" stroke="none" xml:space="preserve">2,3-dinor-8-iso-PGF2alpha</text>
 <path d="M0 20 L0 91" fill="none" stroke="#000000"/>
 <path d="M0 109 L0 169" fill="none" stroke="#000000"/><path d="M0 180 L-6 168 L6 168 Z" fill="#000000" stroke="none"/>
 <path d="M0 20 L0 34 Q0 44 10 44 L290 44 Q300 44 300 54 L300 91" fill="none" stroke="#000000"/>
 <path d="M300 109 L300 169" fill="none" stroke="#000000"/><path d="M300 180 L294 168 L306 168 Z" fill="#000000" stroke="none"/>
 <path d="M0 220 L0 291" fill="none" stroke="#000000"/>
 <path d="M0 309 L0 369" fill="none" stroke="#000000"/><path d="M0 380 L-6 368 L6 368 Z" fill="#000000" stroke="none"/>
+<path d="M0 220 L0 234 Q0 244 -10 244 L-290 244 Q-300 244 -300 254 L-300 291" fill="none" stroke="#000000"/>
+<path d="M-300 309 L-300 369" fill="none" stroke="#000000"/><path d="M-300 380 L-306 368 L-294 368 Z" fill="#000000" stroke="none"/>
 </g>
 </svg>
