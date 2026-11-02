@@ -274,7 +274,11 @@
 "out": [
 "18-HETE"
 ],
-"by": []
+"by": [
+"CYP4F12",
+"CYP4F8",
+"CYP2E1"
+]
 },
 "references": [
 {
@@ -300,6 +304,14 @@
 "year": "2004",
 "db": "pubmed",
 "id": "15258110"
+},
+{
+"authors": "Stark K et al.",
+"journal": "Arch Biochem Biophys",
+"title": "Oxygenation of polyunsaturated long chain fatty acids by recombinant CYP4F8 and CYP4F12 and catalytic importance of Tyr-125 and Gly-328 of CYP4F8.",
+"year": "2005",
+"db": "pubmed",
+"id": "16112640"
 }
 ]
 },
@@ -321,7 +333,10 @@
 "out": [
 "16-HETE"
 ],
-"by": []
+"by": [
+"CYP4F2",
+"CYP1A1"
+]
 },
 "references": [
 {
@@ -339,6 +354,22 @@
 "year": "2004",
 "db": "pubmed",
 "id": "15258110"
+},
+{
+"authors": "Schwarz D et al.",
+"journal": "Biochem Pharmacol",
+"title": "Arachidonic and eicosapentaenoic acid metabolism by human CYP1A1: highly stereoselective formation of 17(R),18(S)-epoxyeicosatetraenoic acid.",
+"year": "2004",
+"db": "pubmed",
+"id": "15041462"
+},
+{
+"authors": "El-Sherbeni AA et al.",
+"journal": "Mol Pharm",
+"title": "Repurposing Resveratrol and Fluconazole To Modulate Human Cytochrome P450-Mediated Arachidonic Acid Metabolism.",
+"year": "2016",
+"db": "pubmed",
+"id": "26918316"
 }
 ]
 },
@@ -427,7 +458,9 @@
 "out": [
 "17-HETE"
 ],
-"by": []
+"by": [
+"CYP1A1"
+]
 },
 "references": [
 {
@@ -445,6 +478,22 @@
 "year": "2004",
 "db": "pubmed",
 "id": "15258110"
+},
+{
+"authors": "Schwarz D et al.",
+"journal": "Biochem Pharmacol",
+"title": "Arachidonic and eicosapentaenoic acid metabolism by human CYP1A1: highly stereoselective formation of 17(R),18(S)-epoxyeicosatetraenoic acid.",
+"year": "2004",
+"db": "pubmed",
+"id": "15041462"
+},
+{
+"authors": "El-Sherbeni AA et al.",
+"journal": "Mol Pharm",
+"title": "Repurposing Resveratrol and Fluconazole To Modulate Human Cytochrome P450-Mediated Arachidonic Acid Metabolism.",
+"year": "2016",
+"db": "pubmed",
+"id": "26918316"
 }
 ]
 },
@@ -468,7 +517,9 @@
 ],
 "by": [
 "CYP2J2",
-"CYP2E1"
+"CYP2U1",
+"CYP2E1",
+"CYP1A1"
 ]
 },
 "references": [
@@ -511,6 +562,30 @@
 "year": "1998",
 "db": "pubmed",
 "id": "9866708"
+},
+{
+"authors": "Schwarz D et al.",
+"journal": "Biochem Pharmacol",
+"title": "Arachidonic and eicosapentaenoic acid metabolism by human CYP1A1: highly stereoselective formation of 17(R),18(S)-epoxyeicosatetraenoic acid.",
+"year": "2004",
+"db": "pubmed",
+"id": "15041462"
+},
+{
+"authors": "El-Sherbeni AA et al.",
+"journal": "Mol Pharm",
+"title": "Repurposing Resveratrol and Fluconazole To Modulate Human Cytochrome P450-Mediated Arachidonic Acid Metabolism.",
+"year": "2016",
+"db": "pubmed",
+"id": "26918316"
+},
+{
+"authors": "Chuang SS et al.",
+"journal": "J Biol Chem",
+"title": "CYP2U1, a novel human thymus- and brain-specific cytochrome P450, catalyzes omega- and (omega-1)-hydroxylation of fatty acids.",
+"year": "2004",
+"db": "pubmed",
+"id": "14660610"
 }
 ]
 },
@@ -691,7 +766,7 @@
 "class": "Macromolecule",
 "box": [
 315.0,
-315.0,
+280.0,
 80.0,
 40.0
 ],
@@ -739,11 +814,71 @@
 ]
 },
 {
+"label": "CYP2U1",
+"class": "Macromolecule",
+"box": [
+315.0,
+350.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2U1"
+],
+[
+"Alternative names",
+"Long-chain fatty acid omega-monooxygenase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of arachidonic acid and its conjugates. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane, Mitochondrion inner membrane"
+],
+[
+"HGNC",
+"HGNC:20582"
+],
+[
+"HGNC symbol",
+"CYP2U1"
+],
+[
+"Previous symbols",
+"SPG56"
+],
+[
+"Alias symbols",
+"SPG49"
+],
+[
+"Entrez",
+"113612"
+],
+[
+"Ensembl",
+"ENSG00000155016"
+],
+[
+"RefSeq",
+"NM_183075"
+],
+[
+"UniProt",
+"Q7Z449"
+]
+]
+},
+{
 "label": "CYP2E1",
 "class": "Macromolecule",
 "box": [
 477.0,
-315.0,
+280.0,
 80.0,
 40.0
 ],
@@ -791,6 +926,398 @@
 [
 "UniProt",
 "P05181"
+]
+]
+},
+{
+"label": "CYP1A1",
+"class": "Macromolecule",
+"box": [
+477.0,
+350.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A1"
+],
+[
+"Alternative names",
+"Cytochrome P450 form 6; Cytochrome P450-C; Cytochrome P450-P1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Mitochondrion inner membrane, Microsome membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:2595"
+],
+[
+"HGNC symbol",
+"CYP1A1"
+],
+[
+"Previous symbols",
+"CYP1"
+],
+[
+"Alias symbols",
+"P450DX, P1-450, P450-C, CP11"
+],
+[
+"Entrez",
+"1543"
+],
+[
+"Ensembl",
+"ENSG00000140465"
+],
+[
+"RefSeq",
+"NM_000499"
+],
+[
+"UniProt",
+"P04798"
+]
+]
+},
+{
+"label": "CYP4F12",
+"class": "Macromolecule",
+"box": [
+615.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F12"
+],
+[
+"Alternative names",
+"CYPIVF12"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of endogenous polyunsaturated fatty acids (PUFAs). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:18857"
+],
+[
+"HGNC symbol",
+"CYP4F12"
+],
+[
+"Entrez",
+"66002"
+],
+[
+"Ensembl",
+"ENSG00000186204"
+],
+[
+"RefSeq",
+"NM_023944"
+],
+[
+"UniProt",
+"Q9HCS2"
+]
+]
+},
+{
+"label": "CYP4F8",
+"class": "Macromolecule",
+"box": [
+777.0,
+280.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F8"
+],
+[
+"Alternative names",
+"CYPIVF8"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of endogenous polyunsaturated fatty acids (PUFAs) and their oxygenated derivatives (oxylipins). Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane"
+],
+[
+"HGNC",
+"HGNC:2648"
+],
+[
+"HGNC symbol",
+"CYP4F8"
+],
+[
+"Entrez",
+"11283"
+],
+[
+"Ensembl",
+"ENSG00000186526"
+],
+[
+"RefSeq",
+"NM_007253"
+],
+[
+"UniProt",
+"P98187"
+]
+]
+},
+{
+"label": "CYP2E1",
+"class": "Macromolecule",
+"box": [
+777.0,
+350.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 2E1"
+],
+[
+"Alternative names",
+"4-nitrophenol 2-hydroxylase; CYPIIE1; Cytochrome P450-J"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of fatty acids. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Microsome membrane, Mitochondrion inner membrane"
+],
+[
+"HGNC",
+"HGNC:2631"
+],
+[
+"HGNC symbol",
+"CYP2E1"
+],
+[
+"Previous symbols",
+"CYP2E"
+],
+[
+"Entrez",
+"1571"
+],
+[
+"Ensembl",
+"ENSG00000130649"
+],
+[
+"RefSeq",
+"NM_000773"
+],
+[
+"UniProt",
+"P05181"
+]
+]
+},
+{
+"label": "CYP1A1",
+"class": "Macromolecule",
+"box": [
+1077.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A1"
+],
+[
+"Alternative names",
+"Cytochrome P450 form 6; Cytochrome P450-C; Cytochrome P450-P1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Mitochondrion inner membrane, Microsome membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:2595"
+],
+[
+"HGNC symbol",
+"CYP1A1"
+],
+[
+"Previous symbols",
+"CYP1"
+],
+[
+"Alias symbols",
+"P450DX, P1-450, P450-C, CP11"
+],
+[
+"Entrez",
+"1543"
+],
+[
+"Ensembl",
+"ENSG00000140465"
+],
+[
+"RefSeq",
+"NM_000499"
+],
+[
+"UniProt",
+"P04798"
+]
+]
+},
+{
+"label": "CYP4F2",
+"class": "Macromolecule",
+"box": [
+1215.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 4F2"
+],
+[
+"Alternative names",
+"20-hydroxyeicosatetraenoic acid synthase; Arachidonic acid omega-hydroxylase; CYPIVF2; Cytochrome P450-LTB-omega; Docosahexaenoic acid omega-hydroxylase; Leukotriene-B(4) 20-monooxygenase 1; Leukotriene-B(4) omega-hydroxylase 1; Phylloquinone omega-hydroxylase CYP4F2"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, eicosanoids and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (CPR; NADPH-ferrihemoprotein reductase)."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:2645"
+],
+[
+"HGNC symbol",
+"CYP4F2"
+],
+[
+"Entrez",
+"8529"
+],
+[
+"Ensembl",
+"ENSG00000186115"
+],
+[
+"RefSeq",
+"NM_001082"
+],
+[
+"UniProt",
+"P78329"
+]
+]
+},
+{
+"label": "CYP1A1",
+"class": "Macromolecule",
+"box": [
+1377.0,
+315.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cytochrome P450 1A1"
+],
+[
+"Alternative names",
+"Cytochrome P450 form 6; Cytochrome P450-C; Cytochrome P450-P1; Hydroperoxy icosatetraenoate dehydratase"
+],
+[
+"Function",
+"A cytochrome P450 monooxygenase involved in the metabolism of various endogenous substrates, including fatty acids, steroid hormones and vitamins. Mechanistically, uses molecular oxygen inserting one oxygen atom into a substrate, and reducing the second into a water molecule, with two electrons provided by NADPH via cytochrome P450 reductase (NADPH--hemoprotein reductase)."
+],
+[
+"Location",
+"Endoplasmic reticulum membrane, Mitochondrion inner membrane, Microsome membrane, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:2595"
+],
+[
+"HGNC symbol",
+"CYP1A1"
+],
+[
+"Previous symbols",
+"CYP1"
+],
+[
+"Alias symbols",
+"P450DX, P1-450, P450-C, CP11"
+],
+[
+"Entrez",
+"1543"
+],
+[
+"Ensembl",
+"ENSG00000140465"
+],
+[
+"RefSeq",
+"NM_000499"
+],
+[
+"UniProt",
+"P04798"
 ]
 ]
 }
