@@ -1,0 +1,951 @@
+{
+"nodes": [
+{
+"label": "PGE2",
+"class": "SimpleChemical",
+"box": [
+15.0,
+195.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin E2"
+],
+[
+"Synonyms",
+"(15S)-prostaglandin E2; (5Z,11alpha,13E,15S)-11,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprost-13-enoate; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; (5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (E,Z)-(1R,2R,3R)-7-(3-Hydroxy-2-((3S)-(3-hydroxy-1-octenyl))-5-oxocyclopentyl)-5-heptenoic acid; (Z)-7-((1R,2R,3R)-3-hydroxy-2-((S,E)-3-hydroxyoct-1-enyl)-5-oxocyclopentyl)hept-5-enoic acid; Cervidil; Cerviprime; Cerviprost; Dinoproston; Enzaprost E; Glandin-E2; Minprositin E2; Minprostin E2; PGE2; Prepidil; Propess; Prostarmon E; Prostenone; Prostin; Prostin E2; U 12062; U-12,062; U-12062; dinoprostona; dinoprostone; dinoprostonum"
+],
+[
+"Definition",
+"Prostaglandin F2α in which the hydroxy group at position 9 has been oxidised to the corresponding ketone. Prostaglandin E2 is the most common and most biologically potent of mammalian prostaglandins."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15551"
+],
+[
+"KEGG",
+"C00584"
+],
+[
+"HMDB",
+"HMDB0001220"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-17,19,21,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,19+/m0/s1"
+],
+[
+"InChIKey",
+"XEYBRNLFEZDVAW-ARSRFYASSA-N"
+]
+]
+},
+{
+"label": "PGE2",
+"class": "SimpleChemical",
+"box": [
+15.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin E2"
+],
+[
+"Synonyms",
+"(15S)-prostaglandin E2; (5Z,11alpha,13E,15S)-11,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprost-13-enoate; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; (5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (E,Z)-(1R,2R,3R)-7-(3-Hydroxy-2-((3S)-(3-hydroxy-1-octenyl))-5-oxocyclopentyl)-5-heptenoic acid; (Z)-7-((1R,2R,3R)-3-hydroxy-2-((S,E)-3-hydroxyoct-1-enyl)-5-oxocyclopentyl)hept-5-enoic acid; Cervidil; Cerviprime; Cerviprost; Dinoproston; Enzaprost E; Glandin-E2; Minprositin E2; Minprostin E2; PGE2; Prepidil; Propess; Prostarmon E; Prostenone; Prostin; Prostin E2; U 12062; U-12,062; U-12062; dinoprostona; dinoprostone; dinoprostonum"
+],
+[
+"Definition",
+"Prostaglandin F2α in which the hydroxy group at position 9 has been oxidised to the corresponding ketone. Prostaglandin E2 is the most common and most biologically potent of mammalian prostaglandins."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15551"
+],
+[
+"KEGG",
+"C00584"
+],
+[
+"HMDB",
+"HMDB0001220"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-17,19,21,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,19+/m0/s1"
+],
+[
+"InChIKey",
+"XEYBRNLFEZDVAW-ARSRFYASSA-N"
+]
+]
+},
+{
+"label": "SLCO2A1",
+"class": "Macromolecule",
+"box": [
+195.0,
+95.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Solute carrier organic anion transporter family member 2A1"
+],
+[
+"Alternative names",
+"OATP2A1; PHOAR2; Prostaglandin transporter; Solute carrier family 21 member 2"
+],
+[
+"Function",
+"Mediates the transport of prostaglandins (PGs, mainly PGE2, PGE1, PGE3, PGF2alpha, PGD2, PGH2) and thromboxanes (thromboxane B2) across the cell membrane. PGs and thromboxanes play fundamental roles in diverse functions such as intraocular pressure, gastric acid secretion, renal salt and water transport, vascular tone, and fever."
+],
+[
+"Location",
+"Cell membrane, Basal cell membrane, Cytoplasm, Lysosome"
+],
+[
+"HGNC",
+"HGNC:10955"
+],
+[
+"HGNC symbol",
+"SLCO2A1"
+],
+[
+"Previous symbols",
+"SLC21A2, MATR1"
+],
+[
+"Alias symbols",
+"PGT, OATP2A1"
+],
+[
+"Entrez",
+"6578"
+],
+[
+"Ensembl",
+"ENSG00000174640"
+],
+[
+"RefSeq",
+"NM_005630"
+],
+[
+"UniProt",
+"Q92959"
+]
+]
+},
+{
+"label": "SLCO2A1",
+"class": "Macromolecule",
+"box": [
+195.0,
+295.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Solute carrier organic anion transporter family member 2A1"
+],
+[
+"Alternative names",
+"OATP2A1; PHOAR2; Prostaglandin transporter; Solute carrier family 21 member 2"
+],
+[
+"Function",
+"Mediates the transport of prostaglandins (PGs, mainly PGE2, PGE1, PGE3, PGF2alpha, PGD2, PGH2) and thromboxanes (thromboxane B2) across the cell membrane. PGs and thromboxanes play fundamental roles in diverse functions such as intraocular pressure, gastric acid secretion, renal salt and water transport, vascular tone, and fever."
+],
+[
+"Location",
+"Cell membrane, Basal cell membrane, Cytoplasm, Lysosome"
+],
+[
+"HGNC",
+"HGNC:10955"
+],
+[
+"HGNC symbol",
+"SLCO2A1"
+],
+[
+"Previous symbols",
+"SLC21A2, MATR1"
+],
+[
+"Alias symbols",
+"PGT, OATP2A1"
+],
+[
+"Entrez",
+"6578"
+],
+[
+"Ensembl",
+"ENSG00000174640"
+],
+[
+"RefSeq",
+"NM_005630"
+],
+[
+"UniProt",
+"Q92959"
+]
+]
+},
+{
+"label": "DPEP1",
+"class": "Macromolecule",
+"box": [
+475.0,
+95.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dipeptidase 1"
+],
+[
+"Alternative names",
+"Beta-lactamase; Dehydropeptidase-I; Microsomal dipeptidase; Renal dipeptidase"
+],
+[
+"Function",
+"Hydrolyzes a wide range of dipeptides including the conversion of leukotriene D4 to leukotriene E4. Hydrolyzes cystinyl-bis-glycine (cys-bis-gly) formed during glutathione degradation."
+],
+[
+"Location",
+"Apical cell membrane, Cell projection, microvillus membrane"
+],
+[
+"HGNC",
+"HGNC:3002"
+],
+[
+"HGNC symbol",
+"DPEP1"
+],
+[
+"Entrez",
+"1800"
+],
+[
+"Ensembl",
+"ENSG00000015413"
+],
+[
+"RefSeq",
+"NM_001128141"
+],
+[
+"UniProt",
+"P16444"
+]
+]
+},
+{
+"label": "DPEP1",
+"class": "Macromolecule",
+"box": [
+475.0,
+295.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Dipeptidase 1"
+],
+[
+"Alternative names",
+"Beta-lactamase; Dehydropeptidase-I; Microsomal dipeptidase; Renal dipeptidase"
+],
+[
+"Function",
+"Hydrolyzes a wide range of dipeptides including the conversion of leukotriene D4 to leukotriene E4. Hydrolyzes cystinyl-bis-glycine (cys-bis-gly) formed during glutathione degradation."
+],
+[
+"Location",
+"Apical cell membrane, Cell projection, microvillus membrane"
+],
+[
+"HGNC",
+"HGNC:3002"
+],
+[
+"HGNC symbol",
+"DPEP1"
+],
+[
+"Entrez",
+"1800"
+],
+[
+"Ensembl",
+"ENSG00000015413"
+],
+[
+"RefSeq",
+"NM_001128141"
+],
+[
+"UniProt",
+"P16444"
+]
+]
+},
+{
+"label": "LTD4",
+"class": "SimpleChemical",
+"box": [
+675.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene D4"
+],
+[
+"Synonyms",
+"(R-(R*,S*-(E,E,Z,Z)))-N-(S-(1-(4-Carboxy-1-hydroxybutyl)-2,4,6,9-pentadecatetraenyl)-L-cysteinyl)glycine; 5S-hydroxy-6R-(S-cysteinylglycinyl)-7E,9E,11E,14Z-eicosatetraenoic acid; LTD4; S-{(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]pentadeca-2,4,6,9-tetraen-1-yl}-L-cysteinylglycine"
+],
+[
+"Definition",
+"A leukotriene that is (7E,9E,11Z,14Z)-icosa-7,9,11,14-tetraenoic acid substituted by a hydroxy group at position 5 (5S) and a L-cysteinylglycinyl group at position 6 (6R)."
+],
+[
+"Formula",
+"C25H40N2O6S"
+],
+[
+"ChEBI",
+"CHEBI:28666"
+],
+[
+"KEGG",
+"C05951"
+],
+[
+"HMDB",
+"HMDB0003080"
+],
+[
+"InChI",
+"InChI=1S/C25H40N2O6S/c1-2-3-4-5-6-7-8-9-10-11-12-13-16-22(21(28)15-14-17-23(29)30)34-19-20(26)25(33)27-18-24(31)32/h6-7,9-13,16,20-22,28H,2-5,8,14-15,17-19,26H2,1H3,(H,27,33)(H,29,30)(H,31,32)/b7-6-,10-9-,12-11+,16-13+/t20-,21-,22+/m0/s1"
+],
+[
+"InChIKey",
+"YEESKJGWJFYOOK-IJHYULJSSA-N"
+]
+]
+},
+{
+"label": "LTE4",
+"class": "SimpleChemical",
+"box": [
+675.0,
+195.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"leukotriene E4"
+],
+[
+"Synonyms",
+"(5S,6R,7E,9E,11Z,14Z)-6-(L-cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoic acid; (5S-(5R*,6S*(S*),7E,9E,11Z,14Z))-6-((2-Amino-2-carboxyethyl)thio)-5-hydroxy-7,9,11,14-eicosatetraenoic acid; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyeicosa-7,9,11,14-tetraenoate; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoate; 5S-hydroxy,6R-(S-cysteinyl),7E,9E,11Z,14Z-eicosatetraenoic acid; LTE4; S-{(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]pentadeca-2,4,6,9-tetraen-1-yl}-L-cysteine"
+],
+[
+"Definition",
+"A leukotriene that is (7E,9E,11Z,14Z)-icosa-7,9,11,14-tetraenoic acid substituted by a hydroxy group at position 5 (5S) and an L-cystein-S-yl group at position 6 (6R)."
+],
+[
+"Formula",
+"C23H37NO5S"
+],
+[
+"ChEBI",
+"CHEBI:15650"
+],
+[
+"KEGG",
+"C05952"
+],
+[
+"InChI",
+"InChI=1S/C23H37NO5S/c1-2-3-4-5-6-7-8-9-10-11-12-13-16-21(30-18-19(24)23(28)29)20(25)15-14-17-22(26)27/h6-7,9-13,16,19-21,25H,2-5,8,14-15,17-18,24H2,1H3,(H,26,27)(H,28,29)/b7-6-,10-9-,12-11+,16-13+/t19-,20-,21+/m0/s1"
+],
+[
+"InChIKey",
+"OTZRAYGBFWZKMX-FRFVZSDQSA-N"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+915.0,
+95.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+915.0,
+295.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "ABL1",
+"class": "Macromolecule",
+"box": [
+1095.0,
+175.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tyrosine-protein kinase ABL1"
+],
+[
+"Alternative names",
+"Abelson murine leukemia viral oncogene homolog 1; Abelson tyrosine-protein kinase 1; Proto-oncogene c-Abl; p150"
+],
+[
+"Function",
+"Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-binding proteins)."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton, Nucleus, Mitochondrion, Nucleus membrane"
+],
+[
+"HGNC",
+"HGNC:76"
+],
+[
+"HGNC symbol",
+"ABL1"
+],
+[
+"Previous symbols",
+"ABL"
+],
+[
+"Alias symbols",
+"JTK7, c-ABL, p150"
+],
+[
+"Entrez",
+"25"
+],
+[
+"Ensembl",
+"ENSG00000097007"
+],
+[
+"RefSeq",
+"NM_007313"
+],
+[
+"UniProt",
+"P00519"
+]
+]
+},
+{
+"label": "ABL2",
+"class": "Macromolecule",
+"box": [
+775.0,
+175.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Tyrosine-protein kinase ABL2"
+],
+[
+"Alternative names",
+"Abelson murine leukemia viral oncogene homolog 2; Abelson tyrosine-protein kinase 2; Abelson-related gene protein; Tyrosine-protein kinase ARG"
+],
+[
+"Function",
+"Non-receptor tyrosine-protein kinase that plays an ABL1-overlapping role in key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion and receptor endocytosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like MYH10 (involved in movement); CTTN (involved in signaling); or TUBA1 and TUBB (microtubule subunits)."
+],
+[
+"Location",
+"Cytoplasm, cytoskeleton"
+],
+[
+"HGNC",
+"HGNC:77"
+],
+[
+"HGNC symbol",
+"ABL2"
+],
+[
+"Previous symbols",
+"ABLL"
+],
+[
+"Alias symbols",
+"ARG"
+],
+[
+"Entrez",
+"27"
+],
+[
+"Ensembl",
+"ENSG00000143322"
+],
+[
+"RefSeq",
+"NM_005158"
+],
+[
+"UniProt",
+"P42684"
+]
+]
+},
+{
+"label": "15(S)-HpETE",
+"class": "SimpleChemical",
+"box": [
+1135.0,
+395.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15(S)-HPETE"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,13E)-(15S)-15-Hydroperoxyicosa-5,8,11,13-tetraenoate; (5Z,8Z,11Z,13E)-(15S)-15-Hydroperoxyicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroperoxyicosa-5,8,11,13-tetraenoic acid; 15-Hydroperoxyeicosatetraenoate; 15-Hydroperoxyeicosatetraenoic acid; 15-Hydroperoxyicosatetraenoate; 15-Hydroperoxyicosatetraenoic acid; 15S-HpETE"
+],
+[
+"Definition",
+"The (S)-enantiomer of 15-HPETE."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:15628"
+],
+[
+"KEGG",
+"C05966"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-13-16-19(24-23)17-14-11-9-7-5-4-6-8-10-12-15-18-20(21)22/h4-5,8-11,14,17,19,23H,2-3,6-7,12-13,15-16,18H2,1H3,(H,21,22)/b5-4-,10-8-,11-9-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"BFWYTORDSFIVKP-VAEKSGALSA-N"
+]
+]
+},
+{
+"label": "15(S)-HETE",
+"class": "SimpleChemical",
+"box": [
+1135.0,
+635.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15(S)-HETE"
+],
+[
+"Synonyms",
+"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate; (15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate; (15S)-hydroxy-(5Z,8Z,11Z,13E)-eicosatetraenoic acid; (15S)-hydroxyeicosa-(5Z,8Z,11Z,13E)-tetraenoic acid; (5Z,8Z,11Z,13E)-(15S)-15-Hydroxyicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroxy-5,8,11,13-eicosatetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroxyeicosa-5,8,11,13-tetraenoic acid; (5Z,8Z,11Z,13E,15S)-15-hydroxyicosa-5,8,11,13-tetraenoic acid; 15(S)-hydroxyeicosatetraenoic acid; 15S-HETE; icomucret"
+],
+[
+"Definition",
+"An optically active form of 15-HETE having 15(S)-configuration.."
+],
+[
+"Formula",
+"C20H32O3"
+],
+[
+"ChEBI",
+"CHEBI:15558"
+],
+[
+"KEGG",
+"C04742"
+],
+[
+"HMDB",
+"HMDB0003876"
+],
+[
+"InChI",
+"InChI=1S/C20H32O3/c1-2-3-13-16-19(21)17-14-11-9-7-5-4-6-8-10-12-15-18-20(22)23/h4-5,8-11,14,17,19,21H,2-3,6-7,12-13,15-16,18H2,1H3,(H,22,23)/b5-4-,10-8-,11-9-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"JSFATNQSLKRBCI-VAEKSGALSA-N"
+]
+]
+},
+{
+"id": "p_glyc",
+"label": "",
+"class": "Process",
+"box": [
+223.0,
+183.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"SLCO2A1"
+],
+"out": [
+"SLCO2A1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Nakamura Y et al.",
+"year": "2023",
+"title": "N-glycosylation modifies prostaglandin E(2) uptake by reducing cell surface expression of SLCO2A1.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"db": "pubmed",
+"id": "36706979"
+}
+]
+},
+{
+"id": "p_up",
+"label": "",
+"class": "Process",
+"box": [
+23.0,
+303.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"PGE2"
+],
+"out": [
+"PGE2"
+],
+"by": [
+"SLCO2A1"
+]
+},
+"references": [
+{
+"authors": "Nakamura Y et al.",
+"year": "2023",
+"title": "N-glycosylation modifies prostaglandin E(2) uptake by reducing cell surface expression of SLCO2A1.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"db": "pubmed",
+"id": "36706979"
+}
+]
+},
+{
+"id": "p_shed",
+"label": "",
+"class": "Process",
+"box": [
+503.0,
+183.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"DPEP1"
+],
+"out": [
+"DPEP1"
+],
+"by": []
+},
+"references": [
+{
+"authors": "Park SW et al.",
+"year": "2001",
+"title": "Endogenous glycosylphosphatidylinositol-specific phospholipase C releases renal dipeptidase from kidney proximal tubules in vitro.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "11139399"
+},
+{
+"authors": "Movahedi S et al.",
+"year": "1997",
+"title": "Insulin stimulates the release of the glycosyl phosphatidylinositol-anchored membrane dipeptidase from 3T3-L1 adipocytes through the action of a phospholipase C.",
+"journal": "Biochem J",
+"db": "pubmed",
+"id": "9291128"
+}
+]
+},
+{
+"id": "p_lte4",
+"label": "",
+"class": "Process",
+"box": [
+683.0,
+103.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"LTD4"
+],
+"out": [
+"LTE4"
+],
+"by": [
+"DPEP1"
+]
+},
+"references": [
+{
+"authors": "Habib GM et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Leukotriene D4 and cystinyl-bis-glycine metabolism in membrane-bound dipeptidase-deficient mice.",
+"year": "1998",
+"db": "pubmed",
+"id": "9560193"
+},
+{
+"authors": "Habib GM et al.",
+"journal": "FASEB J",
+"title": "Identification of two additional members of the membrane-bound dipeptidase family.",
+"year": "2003",
+"db": "pubmed",
+"id": "12738806"
+}
+]
+},
+{
+"id": "p_phos",
+"label": "",
+"class": "Process",
+"box": [
+943.0,
+183.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"GPX1"
+],
+"out": [
+"GPX1"
+],
+"by": [
+"ABL1",
+"ABL2"
+]
+},
+"references": [
+{
+"authors": "Cao C et al.",
+"year": "2003",
+"title": "Glutathione peroxidase 1 is regulated by the c-Abl and Arg tyrosine kinases.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "12893824"
+}
+]
+},
+{
+"id": "p_red",
+"label": "",
+"class": "Process",
+"box": [
+1143.0,
+503.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpETE"
+],
+"out": [
+"15(S)-HETE"
+],
+"by": [
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402"
+},
+{
+"authors": "Hill TD et al.",
+"journal": "Prostaglandins",
+"title": "Role of glutathione and glutathione peroxidase in human platelet arachidonic acid metabolism.",
+"year": "1989",
+"db": "pubmed",
+"id": "2501828"
+}
+]
+}
+]
+}
