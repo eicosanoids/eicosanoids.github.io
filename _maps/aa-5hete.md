@@ -22,4 +22,4 @@ downloads:
 
 ## Source
 
-Drawn from the Starting map Leukotrienes (AA), its content unchanged: the steps and enzymes as checked there, with their references on each step.
+Drawn from the Starting map Leukotrienes (AA), the steps and enzymes as checked there, with their references on each step. GPX enzymes on the hydroperoxide reduction were added from the literature on 2 November 2026 and are outlined in blue until reviewed.

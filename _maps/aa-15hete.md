@@ -22,4 +22,4 @@ downloads:
 
 ## Source
 
-Drawn from the Starting map 12- and 15-lipoxygenase products (AA), its content unchanged: the steps and enzymes as checked there, with their references on each step.
+Drawn from the Starting map 12- and 15-lipoxygenase products (AA), the steps and enzymes as checked there, with their references on each step. GPX enzymes on the hydroperoxide reduction were added from the literature on 2 November 2026 and are outlined in blue until reviewed.
