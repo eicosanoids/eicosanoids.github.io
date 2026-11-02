@@ -441,25 +441,25 @@
 "references": [
 {
 "authors": "Schmidt P et al.",
-"year": "2003",
-"title": "Specific nitration at tyrosine 430 revealed by high resolution mass spectrometry as basis for redox regulation of bovine prostacyclin synthase.",
 "journal": "J Biol Chem",
+"title": "Specific nitration at tyrosine 430 revealed by high resolution mass spectrometry as basis for redox regulation of bovine prostacyclin synthase.",
+"year": "2003",
 "db": "pubmed",
 "id": "12562775"
 },
 {
 "authors": "Zou M et al.",
-"year": "1997",
-"title": "Tyrosine nitration as a mechanism of selective inactivation of prostacyclin synthase by peroxynitrite.",
 "journal": "Biol Chem",
+"title": "Tyrosine nitration as a mechanism of selective inactivation of prostacyclin synthase by peroxynitrite.",
+"year": "1997",
 "db": "pubmed",
 "id": "9278151"
 },
 {
 "authors": "Daiber A et al.",
-"year": "2013",
-"title": "Protein tyrosine nitration and thiol oxidation by peroxynitrite-strategies to prevent these oxidative modifications.",
 "journal": "Int J Mol Sci",
+"title": "Protein tyrosine nitration and thiol oxidation by peroxynitrite-strategies to prevent these oxidative modifications.",
+"year": "2013",
 "db": "pubmed",
 "id": "23567270"
 }

@@ -428,17 +428,17 @@
 "references": [
 {
 "authors": "Ahmad S et al.",
-"year": "2016",
-"title": "Phosphorylation of Leukotriene C4 Synthase at Serine 36 Impairs Catalytic Activity.",
 "journal": "J Biol Chem",
+"title": "Phosphorylation of Leukotriene C4 Synthase at Serine 36 Impairs Catalytic Activity.",
+"year": "2016",
 "db": "pubmed",
 "id": "27365393"
 },
 {
 "authors": "Esser J et al.",
-"year": "2011",
-"title": "Zymosan suppresses leukotriene C₄ synthase activity in differentiating monocytes: antagonism by aspirin and protein kinase inhibitors.",
 "journal": "FASEB J",
+"title": "Zymosan suppresses leukotriene C₄ synthase activity in differentiating monocytes: antagonism by aspirin and protein kinase inhibitors.",
+"year": "2011",
 "db": "pubmed",
 "id": "21228223"
 }

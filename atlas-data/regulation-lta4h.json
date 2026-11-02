@@ -472,17 +472,17 @@
 "references": [
 {
 "authors": "Rybina IV et al.",
-"year": "1997",
-"title": "Regulation of leukotriene A4 hydrolase activity in endothelial cells by phosphorylation.",
 "journal": "J Biol Chem",
+"title": "Regulation of leukotriene A4 hydrolase activity in endothelial cells by phosphorylation.",
+"year": "1997",
 "db": "pubmed",
 "id": "9395533"
 },
 {
 "authors": "Rybina IV et al.",
-"year": "1999",
-"title": "Alteration of human leukotriene A4 hydrolase activity after site-directed mutagenesis: serine-415 is a regulatory residue.",
 "journal": "Biochim Biophys Acta",
+"title": "Alteration of human leukotriene A4 hydrolase activity after site-directed mutagenesis: serine-415 is a regulatory residue.",
+"year": "1999",
 "db": "pubmed",
 "id": "10320802"
 }
@@ -513,9 +513,9 @@
 "references": [
 {
 "authors": "Rybina IV et al.",
-"year": "1997",
-"title": "Regulation of leukotriene A4 hydrolase activity in endothelial cells by phosphorylation.",
 "journal": "J Biol Chem",
+"title": "Regulation of leukotriene A4 hydrolase activity in endothelial cells by phosphorylation.",
+"year": "1997",
 "db": "pubmed",
 "id": "9395533"
 }
@@ -545,17 +545,17 @@
 "references": [
 {
 "authors": "Mueller MJ et al.",
-"year": "1995",
-"title": "Leukotriene A4 hydrolase: mapping of a henicosapeptide involved in mechanism-based inactivation.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Leukotriene A4 hydrolase: mapping of a henicosapeptide involved in mechanism-based inactivation.",
+"year": "1995",
 "db": "pubmed",
 "id": "7667299"
 },
 {
 "authors": "Mueller MJ et al.",
-"year": "1996",
-"title": "Leukotriene A4 hydrolase: protection from mechanism-based inactivation by mutation of tyrosine-378.",
 "journal": "Proc Natl Acad Sci U S A",
+"title": "Leukotriene A4 hydrolase: protection from mechanism-based inactivation by mutation of tyrosine-378.",
+"year": "1996",
 "db": "pubmed",
 "id": "8650196"
 }

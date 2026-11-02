@@ -440,25 +440,25 @@
 "references": [
 {
 "authors": "Mbonye UR et al.",
-"year": "2006",
-"title": "The 19-amino acid cassette of cyclooxygenase-2 mediates entry of the protein into the endoplasmic reticulum-associated degradation system.",
 "journal": "J Biol Chem",
+"title": "The 19-amino acid cassette of cyclooxygenase-2 mediates entry of the protein into the endoplasmic reticulum-associated degradation system.",
+"year": "2006",
 "db": "pubmed",
 "id": "17001073"
 },
 {
 "authors": "Mbonye UR et al.",
-"year": "2008",
-"title": "Two distinct pathways for cyclooxygenase-2 protein degradation.",
 "journal": "J Biol Chem",
+"title": "Two distinct pathways for cyclooxygenase-2 protein degradation.",
+"year": "2008",
 "db": "pubmed",
 "id": "18203712"
 },
 {
 "authors": "Wada M et al.",
-"year": "2009",
-"title": "Two pathways for cyclooxygenase-2 protein degradation in vivo.",
 "journal": "J Biol Chem",
+"title": "Two pathways for cyclooxygenase-2 protein degradation in vivo.",
+"year": "2009",
 "db": "pubmed",
 "id": "19758985"
 }
@@ -490,17 +490,17 @@
 "references": [
 {
 "authors": "Chen SF et al.",
-"year": "2013",
-"title": "Caveolin-1 interacts with Derlin-1 and promotes ubiquitination and degradation of cyclooxygenase-2 via collaboration with p97 complex.",
 "journal": "J Biol Chem",
+"title": "Caveolin-1 interacts with Derlin-1 and promotes ubiquitination and degradation of cyclooxygenase-2 via collaboration with p97 complex.",
+"year": "2013",
 "db": "pubmed",
 "id": "24089527"
 },
 {
 "authors": "Neuss H et al.",
-"year": "2007",
-"title": "The ubiquitin- and proteasome-dependent degradation of COX-2 is regulated by the COP9 signalosome and differentially influenced by coxibs.",
 "journal": "J Mol Med (Berl)",
+"title": "The ubiquitin- and proteasome-dependent degradation of COX-2 is regulated by the COP9 signalosome and differentially influenced by coxibs.",
+"year": "2007",
 "db": "pubmed",
 "id": "17429597"
 }
@@ -529,9 +529,9 @@
 "references": [
 {
 "authors": "Chen SF et al.",
-"year": "2013",
-"title": "Caveolin-1 interacts with Derlin-1 and promotes ubiquitination and degradation of cyclooxygenase-2 via collaboration with p97 complex.",
 "journal": "J Biol Chem",
+"title": "Caveolin-1 interacts with Derlin-1 and promotes ubiquitination and degradation of cyclooxygenase-2 via collaboration with p97 complex.",
+"year": "2013",
 "db": "pubmed",
 "id": "24089527"
 }
