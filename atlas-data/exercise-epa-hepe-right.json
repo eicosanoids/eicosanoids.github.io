@@ -1,0 +1,1669 @@
+{
+"nodes": [
+{
+"label": "EPA",
+"class": "SimpleChemical",
+"box": [
+15.0,
+579.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"all-cis-5,8,11,14,17-icosapentaenoic acid"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,14Z,17Z)-5,8,11,14,17-eicosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoate; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-icosa-5,8,11,14,17-pentaenoic acid; (all-Z)-5,8,11,14,17-eicosapentaenoic acid; 5,8,11,14,17-EICOSAPENTAENOIC ACID; 5,8,11,14,17-Icosapentaenoic acid; EPA; Eicosapentaenoic acid; Icosapentaenoic acid; Timnodonic acid; all-cis-5,8,11,14,17-eicosapentaenoic acid; all-cis-icosa-5,8,11,14,17-pentaenoic acid; cis, cis, cis, cis, cis-eicosa-5,8,11,14,17-pentaenoic acid; cis-5,8,11,14,17-EPA; cis-5,8,11,14,17-eicosapentaenoic acid; cis-Delta(5,8,11,14,17)-eicosapentaenoic acid; icosapent; icosapento; icosapentum"
+],
+[
+"Definition",
+"An icosapentaenoic acid having five cis-double bonds at positions 5, 8, 11, 14 and 17."
+],
+[
+"Formula",
+"C20H30O2"
+],
+[
+"ChEBI",
+"CHEBI:28364"
+],
+[
+"KEGG",
+"C06428"
+],
+[
+"HMDB",
+"HMDB0001999"
+],
+[
+"InChI",
+"InChI=1S/C20H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(21)22/h3-4,6-7,9-10,12-13,15-16H,2,5,8,11,14,17-19H2,1H3,(H,21,22)/b4-3-,7-6-,10-9-,13-12-,16-15-"
+],
+[
+"InChIKey",
+"JAZBEHYOTPTENJ-JLNKQSITSA-N"
+]
+]
+},
+{
+"label": "5(S)-HpEPE",
+"class": "SimpleChemical",
+"box": [
+315.0,
+99.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5S-HpEPE"
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:165271"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(24-23)17-15-18-20(21)22/h3-4,6-7,9-10,12-14,16,19,23H,2,5,8,11,15,17-18H2,1H3,(H,21,22)/b4-3-,7-6-,10-9-,13-12-,16-14+/t19-/m1/s1"
+],
+[
+"InChIKey",
+"NKXYOIJDQPQELO-GHWNLOBHSA-N"
+]
+]
+},
+{
+"label": "5(S)-HEPE",
+"class": "SimpleChemical",
+"box": [
+615.0,
+99.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5-HEPE"
+],
+[
+"Synonyms",
+"(+-)-5-HEPE; (+-)-5-hydroxy-6E,8Z,11Z,14Z,17Z-eicosapentaenoic acid; (6E,8Z,11Z,14Z,17Z)-5-hydroxyicosa-6,8,11,14,17-pentaenoic acid"
+],
+[
+"Definition",
+"A hydroxyicosapentaenoic acid that consists of 6E,8Z,11Z,14Z,17Z-icosapentaenoic acid with the hydroxy group located at position 5."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:72801"
+],
+[
+"HMDB",
+"HMDB0005081"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(21)17-15-18-20(22)23/h3-4,6-7,9-10,12-14,16,19,21H,2,5,8,11,15,17-18H2,1H3,(H,22,23)/b4-3-,7-6-,10-9-,13-12-,16-14+"
+],
+[
+"InChIKey",
+"FTAGQROYQYQRHF-FCWZHQICSA-N"
+]
+]
+},
+{
+"label": "15(S)-HpEPE",
+"class": "SimpleChemical",
+"box": [
+315.0,
+1059.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15S-HpEPE"
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:165266"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-13-16-19(24-23)17-14-11-9-7-5-4-6-8-10-12-15-18-20(21)22/h3-5,8-11,13-14,17,19,23H,2,6-7,12,15-16,18H2,1H3,(H,21,22)/b5-4-,10-8-,11-9-,13-3-,17-14+"
+],
+[
+"InChIKey",
+"FPMFSFWYWZLDKP-XWJJKCKWSA-N"
+]
+]
+},
+{
+"label": "12(S)-HpEPE",
+"class": "SimpleChemical",
+"box": [
+315.0,
+579.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(S)-HpEPE"
+],
+[
+"Synonyms",
+"(12S)-hydroperoxy-(5Z,8Z,10E,14Z-17Z)-eicosapentaenoic acid; (12S)-hydroperoxy-(5Z,8Z,10E,14Z-17Z)-icosapentaenoic acid; (5Z,8Z,10E,12S,14Z-17Z)-12-hydroperoxyicosa-5,8,10,14,17-pentaenoic acid; (5Z,8Z,10E,12S,14Z-17Z)-12-hydroperoxyicosapentaenoic acid; 12S-HpEPE; 12S-hydroperoxy-5Z,8Z,10E,14Z,17Z-eicosapentaenoic acid"
+],
+[
+"Definition",
+"A 12-HPEPE in which the hydroperoxy group at positions 12 has S-configuration."
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:90996"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-4-5-10-13-16-19(24-23)17-14-11-8-6-7-9-12-15-18-20(21)22/h3-4,7-11,13-14,17,19,23H,2,5-6,12,15-16,18H2,1H3,(H,21,22)/b4-3-,9-7-,11-8-,13-10-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"HDMYXONNVAOHFR-UOLHMMFFSA-N"
+]
+]
+},
+{
+"label": "12(S)-HEPE",
+"class": "SimpleChemical",
+"box": [
+615.0,
+339.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(S)-HEPE"
+],
+[
+"Synonyms",
+"(5Z,8Z,10E,12S,14Z,17Z)-12-hydroxyicosa-5,8,10,14,17-pentaenoic acid; 12S-HEPE; 12S-hydroxy-5Z,8Z,10E,14Z,17Z-eicosapentaenoic acid"
+],
+[
+"Definition",
+"A 12-HEPE that consists of (5Z,8Z,10E,14Z,17Z)-icosapentaenoic acid in which the 12-hydroxy group has S-configuration."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:88345"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h3-4,7-11,13-14,17,19,21H,2,5-6,12,15-16,18H2,1H3,(H,22,23)/b4-3-,9-7-,11-8-,13-10-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"MCRJLMXYVFDXLS-UOLHMMFFSA-N"
+]
+]
+},
+{
+"label": "15(S)-HEPE",
+"class": "SimpleChemical",
+"box": [
+615.0,
+1299.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15(S)-HEPE"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,13E,15S,17Z)-15-hydroxyicosa-5,8,11,13,17-pentaenoic acid; (5Z,8Z,11Z,13E,15S,17Z)-15-hydroxyicosapentaenoic acid; 15S-HEPE; 15S-hydroxy-5Z,8Z,11Z,13E,17Z-eicosapentaenoic acid"
+],
+[
+"Definition",
+"A 15-HEPE that consists of (5Z,8Z,11Z,13E,17Z)-icosapentaenoic acid in which the 15-hydroxy group has S-configuration."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:88347"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-13-16-19(21)17-14-11-9-7-5-4-6-8-10-12-15-18-20(22)23/h3-5,8-11,13-14,17,19,21H,2,6-7,12,15-16,18H2,1H3,(H,22,23)/b5-4-,10-8-,11-9-,13-3-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"WLKCSMCLEKGITB-DBVSHIMFSA-N"
+]
+]
+},
+{
+"label": "LXA5",
+"class": "SimpleChemical",
+"box": [
+615.0,
+1059.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Lipoxin A5"
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:157748"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-8-12-17(21)13-9-6-4-5-7-10-14-18(22)19(23)15-11-16-20(24)25/h3-10,13-14,17-19,21-23H,2,11-12,15-16H2,1H3,(H,24,25)/b6-4-,7-5+,8-3-,13-9-,14-10+/t17-,18-,19-/m0/s1"
+],
+[
+"InChIKey",
+"ZZMKOZNTEJVKRY-MCPYMSAWSA-N"
+]
+]
+},
+{
+"label": "Hepoxilin B4",
+"class": "SimpleChemical",
+"box": [
+615.0,
+579.0,
+40.0,
+40.0
+],
+"props": [
+[
+"LIPID MAPS",
+"LMFA03090016"
+]
+]
+},
+{
+"id": "epa15",
+"label": "",
+"class": "Process",
+"box": [
+173.0,
+107.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EPA"
+],
+"out": [
+"5(S)-HpEPE"
+],
+"by": [
+"ALOX5AP",
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Lee TH et al.",
+"journal": "J Clin Invest",
+"title": "Effects of exogenous arachidonic, eicosapentaenoic, and docosahexaenoic acids on the generation of 5-lipoxygenase pathway products by ionophore-activated human neutrophils.",
+"year": "1984",
+"db": "pubmed",
+"id": "6096400"
+}
+]
+},
+{
+"id": "epa16",
+"label": "",
+"class": "Process",
+"box": [
+473.0,
+107.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HpEPE"
+],
+"out": [
+"5(S)-HEPE"
+],
+"by": [
+"GPX4",
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Lee TH et al.",
+"journal": "J Clin Invest",
+"title": "Effects of exogenous arachidonic, eicosapentaenoic, and docosahexaenoic acids on the generation of 5-lipoxygenase pathway products by ionophore-activated human neutrophils.",
+"year": "1984",
+"db": "pubmed",
+"id": "6096400"
+},
+{
+"authors": "Schwarz M et al.",
+"journal": "Redox Biol",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"year": "2023",
+"db": "pubmed",
+"id": "36608588"
+}
+]
+},
+{
+"id": "epa24",
+"label": "",
+"class": "Process",
+"box": [
+173.0,
+1067.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EPA"
+],
+"out": [
+"15(S)-HpEPE"
+],
+"by": [
+"ALOX15B",
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Archambault AS et al.",
+"journal": "FASEB J",
+"title": "High levels of eicosanoids and docosanoids in the lungs of intubated COVID-19 patients.",
+"year": "2021",
+"db": "pubmed",
+"id": "34033145"
+},
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"year": "2020",
+"db": "pubmed",
+"id": "32841762"
+},
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Mammalian ALOX15 orthologs exhibit pronounced dual positional specificity with docosahexaenoic acid.",
+"year": "2017",
+"db": "pubmed",
+"id": "28400162"
+}
+]
+},
+{
+"id": "epa47",
+"label": "",
+"class": "Process",
+"box": [
+773.0,
+107.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"5(S)-HEPE"
+],
+"out": [
+"5S,12S-diHEPE"
+],
+"by": [
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"year": "2020",
+"db": "pubmed",
+"id": "32841762"
+}
+]
+},
+{
+"id": "epa48",
+"label": "",
+"class": "Process",
+"box": [
+473.0,
+827.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpEPE"
+],
+"out": [
+"8,15-diHEPE"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"year": "2020",
+"db": "pubmed",
+"id": "32841762"
+}
+]
+},
+{
+"id": "epa49",
+"label": "",
+"class": "Process",
+"box": [
+473.0,
+1067.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpEPE"
+],
+"out": [
+"LXA5"
+],
+"by": [
+"ALOX5"
+]
+},
+"references": [
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"year": "2020",
+"db": "pubmed",
+"id": "32841762"
+},
+{
+"authors": "Peh HY et al.",
+"journal": "FASEB J",
+"title": "15-epi-lipoxin A(5) promotes neutrophil exit from exudates for clearance by splenic macrophages.",
+"year": "2024",
+"db": "pubmed",
+"id": "38989570"
+}
+]
+},
+{
+"id": "epa50",
+"label": "",
+"class": "Process",
+"box": [
+473.0,
+587.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpEPE"
+],
+"out": [
+"Hepoxilin B4"
+],
+"by": [
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"year": "2020",
+"db": "pubmed",
+"id": "32841762"
+}
+]
+},
+{
+"id": "epa51",
+"label": "",
+"class": "Process",
+"box": [
+473.0,
+1547.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpEPE"
+],
+"out": [
+"13-hydroxy-14,15-epoxy-EPE"
+],
+"by": [
+"ALOX15B",
+"ALOX15"
+]
+},
+"references": [
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"year": "2020",
+"db": "pubmed",
+"id": "32841762"
+}
+]
+},
+{
+"id": "epa22",
+"label": "",
+"class": "Process",
+"box": [
+173.0,
+587.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"EPA"
+],
+"out": [
+"12(S)-HpEPE"
+],
+"by": [
+"ALOX12"
+]
+},
+"references": [
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"year": "2020",
+"db": "pubmed",
+"id": "32841762"
+}
+]
+},
+{
+"id": "epa23",
+"label": "",
+"class": "Process",
+"box": [
+473.0,
+347.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"12(S)-HpEPE"
+],
+"out": [
+"12(S)-HEPE"
+],
+"by": [
+"GPX4",
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Schwarz M et al.",
+"journal": "Redox Biol",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"year": "2023",
+"db": "pubmed",
+"id": "36608588"
+}
+]
+},
+{
+"id": "epa25",
+"label": "",
+"class": "Process",
+"box": [
+473.0,
+1307.0,
+24.0,
+24.0
+],
+"props": [],
+"reaction": {
+"in": [
+"15(S)-HpEPE"
+],
+"out": [
+"15(S)-HEPE"
+],
+"by": [
+"GPX4",
+"GPX1"
+]
+},
+"references": [
+{
+"authors": "Schwarz M et al.",
+"journal": "Redox Biol",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"year": "2023",
+"db": "pubmed",
+"id": "36608588"
+}
+]
+},
+{
+"label": "ALOX5AP",
+"class": "Macromolecule",
+"box": [
+145.0,
+15.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Arachidonate 5-lipoxygenase-activating protein"
+],
+[
+"Alternative names",
+"FLAP; MK-886-binding protein"
+],
+[
+"Function",
+"Required for leukotriene biosynthesis by ALOX5 (5-lipoxygenase). Anchors ALOX5 to the membrane."
+],
+[
+"Location",
+"Nucleus membrane, Endoplasmic reticulum membrane"
+],
+[
+"HGNC",
+"HGNC:436"
+],
+[
+"HGNC symbol",
+"ALOX5AP"
+],
+[
+"Alias symbols",
+"FLAP"
+],
+[
+"Entrez",
+"241"
+],
+[
+"Ensembl",
+"ENSG00000132965"
+],
+[
+"RefSeq",
+"NM_001629"
+],
+[
+"UniProt",
+"P20292"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+145.0,
+183.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+445.0,
+15.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+445.0,
+183.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+745.0,
+183.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "ALOX12",
+"class": "Macromolecule",
+"box": [
+145.0,
+663.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX12"
+],
+[
+"Alternative names",
+"Arachidonate (12S)-lipoxygenase; Arachidonate (15S)-lipoxygenase; Linoleate (13S)-lipoxygenase; Lipoxin synthase 12-LO; Platelet-type lipoxygenase 12"
+],
+[
+"Function",
+"Catalyzes the regio and stereo-specific incorporation of molecular oxygen into free and esterified polyunsaturated fatty acids generating lipid hydroperoxides that can be further reduced to the corresponding hydroxy species. Mainly converts arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to the specific bioactive lipid (12S)-hydroperoxyeicosatetraenoate/(12S)-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Membrane"
+],
+[
+"HGNC",
+"HGNC:429"
+],
+[
+"HGNC symbol",
+"ALOX12"
+],
+[
+"Alias symbols",
+"12S-LOX"
+],
+[
+"Entrez",
+"239"
+],
+[
+"Ensembl",
+"ENSG00000108839"
+],
+[
+"RefSeq",
+"NM_000697"
+],
+[
+"UniProt",
+"P18054"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+445.0,
+255.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+445.0,
+423.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+445.0,
+663.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "ALOX15B",
+"class": "Macromolecule",
+"box": [
+145.0,
+975.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15B"
+],
+[
+"Alternative names",
+"15-lipoxygenase 2; Arachidonate 15-lipoxygenase B; Arachidonate 15-lipoxygenase type II; Linoleate 13-lipoxygenase 15-LOb"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids (PUFAs) generating a spectrum of bioactive lipid mediators (Probable). It inserts peroxyl groups at C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing (15S)-hydroperoxyeicosatetraenoate/(15S)-HPETE (Probable)."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, cytosol, Cell membrane, Cytoplasm, cytoskeleton, Membrane, Cell junction, adherens junction, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:434"
+],
+[
+"HGNC symbol",
+"ALOX15B"
+],
+[
+"Alias symbols",
+"15-LOX-2"
+],
+[
+"Entrez",
+"247"
+],
+[
+"Ensembl",
+"ENSG00000179593"
+],
+[
+"RefSeq",
+"NM_001039130"
+],
+[
+"UniProt",
+"O15296"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+145.0,
+1143.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "GPX4",
+"class": "Macromolecule",
+"box": [
+445.0,
+1215.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Phospholipid hydroperoxide glutathione peroxidase GPX4"
+],
+[
+"Alternative names",
+"Glutathione peroxidase 4"
+],
+[
+"Function",
+"Essential antioxidant peroxidase that directly reduces phospholipid hydroperoxide even if they are incorporated in membranes and lipoproteins. Can also reduce cholesterol hydroperoxide and thymine hydroperoxide."
+],
+[
+"Location",
+"Mitochondrion, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:4556"
+],
+[
+"HGNC symbol",
+"GPX4"
+],
+[
+"Alias symbols",
+"PHGPx, MCSP"
+],
+[
+"Entrez",
+"2879"
+],
+[
+"Ensembl",
+"ENSG00000167468"
+],
+[
+"RefSeq",
+"NM_002085"
+],
+[
+"UniProt",
+"P36969"
+]
+]
+},
+{
+"label": "GPX1",
+"class": "Macromolecule",
+"box": [
+445.0,
+1383.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Glutathione peroxidase 1"
+],
+[
+"Alternative names",
+"Cellular glutathione peroxidase; Phospholipid-hydroperoxide glutathione peroxidase GPX1"
+],
+[
+"Function",
+"Catalyzes the reduction of hydroperoxides in a glutathione-dependent manner thus regulating cellular redox homeostasis. Can reduce small soluble hydroperoxides such as H2O2, cumene hydroperoxide and tert-butyl hydroperoxide, as well as several fatty acid-derived hydroperoxides."
+],
+[
+"Location",
+"Cytoplasm, Mitochondrion"
+],
+[
+"HGNC",
+"HGNC:4553"
+],
+[
+"HGNC symbol",
+"GPX1"
+],
+[
+"Entrez",
+"2876"
+],
+[
+"Ensembl",
+"ENSG00000233276"
+],
+[
+"RefSeq",
+"NM_000581"
+],
+[
+"UniProt",
+"P07203"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+445.0,
+903.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+445.0,
+1143.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
+]
+]
+},
+{
+"label": "ALOX15B",
+"class": "Macromolecule",
+"box": [
+445.0,
+1455.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15B"
+],
+[
+"Alternative names",
+"15-lipoxygenase 2; Arachidonate 15-lipoxygenase B; Arachidonate 15-lipoxygenase type II; Linoleate 13-lipoxygenase 15-LOb"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids (PUFAs) generating a spectrum of bioactive lipid mediators (Probable). It inserts peroxyl groups at C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing (15S)-hydroperoxyeicosatetraenoate/(15S)-HPETE (Probable)."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, cytosol, Cell membrane, Cytoplasm, cytoskeleton, Membrane, Cell junction, adherens junction, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:434"
+],
+[
+"HGNC symbol",
+"ALOX15B"
+],
+[
+"Alias symbols",
+"15-LOX-2"
+],
+[
+"Entrez",
+"247"
+],
+[
+"Ensembl",
+"ENSG00000179593"
+],
+[
+"RefSeq",
+"NM_001039130"
+],
+[
+"UniProt",
+"O15296"
+]
+]
+},
+{
+"label": "ALOX15",
+"class": "Macromolecule",
+"box": [
+445.0,
+1623.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15"
+],
+[
+"Alternative names",
+"12/15-lipoxygenase; Arachidonate 12-lipoxygenase, leukocyte-type; Arachidonate 15-lipoxygenase; Arachidonate omega-6 lipoxygenase; Hepoxilin A3 synthase Alox15; Linoleate 13S-lipoxygenase"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids generating a spectrum of bioactive lipid mediators. It inserts peroxyl groups at C12 or C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing both 12-hydroperoxyeicosatetraenoate/12-HPETE and 15-hydroperoxyeicosatetraenoate/15-HPETE."
+],
+[
+"Location",
+"Cytoplasm, cytosol, Cell membrane, Lipid droplet"
+],
+[
+"HGNC",
+"HGNC:433"
+],
+[
+"HGNC symbol",
+"ALOX15"
+],
+[
+"Alias symbols",
+"15-LOX-1"
+],
+[
+"Entrez",
+"246"
+],
+[
+"Ensembl",
+"ENSG00000161905"
+],
+[
+"RefSeq",
+"NM_001140"
+],
+[
+"UniProt",
+"P16050"
+]
+]
+}
+]
+}
