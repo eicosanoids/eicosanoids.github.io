@@ -43,7 +43,7 @@ Steps that remove something become arcs that lower it. Phosphodiesterase 4B lowe
 
 ## What the model says
 
-With lipopolysaccharide, NF-κB drives both genes and PGE2 is made, while phosphodiesterase 4B keeps cyclic AMP off. When the stimulus goes, the loop either holds itself on through EP2 or switches off, depending on whether cyclic AMP reaches CREB before the messenger RNAs fall (Díaz-Muñoz 2012, Hinz 2000). This is the same result as the rules written for the Process Description map. One node behaves differently. Active and desensitised EP4 switch each other on and off in turn, because a Boolean negative loop of two nodes oscillates. In a cell EP4 stays desensitised while PGE2 is present.
+With lipopolysaccharide, NF-κB drives both genes and PGE2 is made, while phosphodiesterase 4B keeps cyclic AMP off. In mouse macrophages lacking PDE4B the overall level of cyclic AMP did not change (Jin 2005), so this brake may act on a local pool of cyclic AMP, not on the whole cell. When the stimulus goes, the loop either holds itself on through EP2 or switches off, depending on whether cyclic AMP reaches CREB before the messenger RNAs fall (Díaz-Muñoz 2012, Hinz 2000). This is the same result as the rules written for the Process Description map. One node behaves differently. Active and desensitised EP4 switch each other on and off in turn, because a Boolean negative loop of two nodes oscillates. In a cell EP4 stays desensitised while PGE2 is present.
 
 The arc from RELA to PTGS2 mRNA is green because it is disputed. In RAW 264.7 cells the NF-κB site of the PTGS2 promoter was not needed for induction by endotoxin (Wadleigh 2000), while other work found the promoter elements redundant (Mestre 2001).
 

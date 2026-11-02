@@ -1,0 +1,1340 @@
+{
+"nodes": [
+{
+"label": "15-keto-PGE2",
+"class": "SimpleChemical",
+"box": [
+271.0,
+415.0,
+110.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-dehydro-prostaglandin E2"
+],
+[
+"Synonyms",
+"(5Z)-(15S)-11alpha-Hydroxy-9,15-dioxoprosta-13-enoate; (5Z,13E)-11alpha-Hydroxy-9,15-dioxoprost-13-enoate; (5Z,13E)-11alpha-hydroxy-9,15-dioxoprosta-5,13-dienoic acid; 15-Keto-PGE2; 15-Keto-prostaglandin E2; 15-Ketoprostaglandin E2; 15-Oxo-PGE2; 15-deoxy-15-oxo-prostaglandin E2"
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:15547"
+],
+[
+"KEGG",
+"C04707"
+],
+[
+"HMDB",
+"HMDB0003175"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,16-17,19,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t16-,17-,19-/m1/s1"
+],
+[
+"InChIKey",
+"YRTJDWROBKPZNV-KMXMBPPJSA-N"
+]
+]
+},
+{
+"label": "ABCC4",
+"class": "Macromolecule",
+"box": [
+346.0,
+475.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP-binding cassette sub-family C member 4"
+],
+[
+"Alternative names",
+"MRP/cMOAT-related ABC transporter; Multi-specific organic anion transporter B; Multidrug resistance-associated protein 4"
+],
+[
+"Function",
+"ATP-dependent transporter of the ATP-binding cassette (ABC) family that actively extrudes physiological compounds and xenobiotics from cells. Transports a range of endogenous molecules that have a key role in cellular communication and signaling, including cyclic nucleotides such as cyclic AMP (cAMP) and cyclic GMP (cGMP), bile acids, steroid conjugates, urate, and prostaglandins."
+],
+[
+"Location",
+"Basolateral cell membrane, Apical cell membrane"
+],
+[
+"HGNC",
+"HGNC:55"
+],
+[
+"HGNC symbol",
+"ABCC4"
+],
+[
+"Alias symbols",
+"MRP4, EST170205, MOAT-B, MOATB"
+],
+[
+"Entrez",
+"10257"
+],
+[
+"Ensembl",
+"ENSG00000125257"
+],
+[
+"RefSeq",
+"NM_005845"
+],
+[
+"UniProt",
+"O15439"
+]
+]
+},
+{
+"label": "PGE2",
+"class": "SimpleChemical",
+"box": [
+506.0,
+575.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin E2"
+],
+[
+"Synonyms",
+"(15S)-prostaglandin E2; (5Z,11alpha,13E,15S)-11,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprost-13-enoate; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; (5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (E,Z)-(1R,2R,3R)-7-(3-Hydroxy-2-((3S)-(3-hydroxy-1-octenyl))-5-oxocyclopentyl)-5-heptenoic acid; (Z)-7-((1R,2R,3R)-3-hydroxy-2-((S,E)-3-hydroxyoct-1-enyl)-5-oxocyclopentyl)hept-5-enoic acid; Cervidil; Cerviprime; Cerviprost; Dinoproston; Enzaprost E; Glandin-E2; Minprositin E2; Minprostin E2; PGE2; Prepidil; Propess; Prostarmon E; Prostenone; Prostin; Prostin E2; U 12062; U-12,062; U-12062; dinoprostona; dinoprostone; dinoprostonum"
+],
+[
+"Definition",
+"Prostaglandin F2α in which the hydroxy group at position 9 has been oxidised to the corresponding ketone. Prostaglandin E2 is the most common and most biologically potent of mammalian prostaglandins."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15551"
+],
+[
+"KEGG",
+"C00584"
+],
+[
+"HMDB",
+"HMDB0001220"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-17,19,21,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,19+/m0/s1"
+],
+[
+"InChIKey",
+"XEYBRNLFEZDVAW-ARSRFYASSA-N"
+]
+]
+},
+{
+"label": "AA",
+"class": "SimpleChemical",
+"box": [
+366.0,
+695.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"arachidonic acid"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,14Z)-5,8,11,14-icosatetraenoic acid; (5Z,8Z,11Z,14Z)-Icosatetraenoic acid; (5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoic acid; AA; ARA; Arachidonate; Arachidonsaeure; all-cis-5,8,11,14-eicosatetraenoic acid; cis-5,8,11,14-Eicosatetraenoic acid; cis-Delta(5,8,11,14)-eicosatetraenoic acid"
+],
+[
+"Definition",
+"A long-chain fatty acid that is a C20, polyunsaturated fatty acid having four (Z)-double bonds at positions 5, 8, 11 and 14."
+],
+[
+"Formula",
+"C20H32O2"
+],
+[
+"ChEBI",
+"CHEBI:15843"
+],
+[
+"KEGG",
+"C00219"
+],
+[
+"HMDB",
+"HMDB0001043"
+],
+[
+"InChI",
+"InChI=1S/C20H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(21)22/h6-7,9-10,12-13,15-16H,2-5,8,11,14,17-19H2,1H3,(H,21,22)/b7-6-,10-9-,13-12-,16-15-"
+],
+[
+"InChIKey",
+"YZXBAPSDXZZRGB-DOFZRALJSA-N"
+]
+]
+},
+{
+"label": "PGH2",
+"class": "SimpleChemical",
+"box": [
+506.0,
+795.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin H2"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1R,4S,5R,6R)-6-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-2,3-dioxabicyclo[2.2.1]hept-5-yl}hept-5-enoic acid; (5Z,13E)-(15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoic acid; (5Z,9alpha,11alpha,13E,15S)-9,11-epidioxy-15-hydroxyprosta-5,13-dien-1-oic acid; 9,11-Epoxymethano-pgh2; PGH2"
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15554"
+],
+[
+"KEGG",
+"C00427"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18-14-19(17)25-24-18)10-7-4-5-8-11-20(22)23/h4,7,12-13,15-19,21H,2-3,5-6,8-11,14H2,1H3,(H,22,23)/b7-4-,13-12+/t15-,16+,17+,18-,19+/m0/s1"
+],
+[
+"InChIKey",
+"YIBNHAJFJUQSRA-YNNPMVKQSA-N"
+]
+]
+},
+{
+"label": "PTGS2",
+"class": "Macromolecule",
+"box": [
+206.0,
+875.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 2"
+],
+[
+"Alternative names",
+"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
+],
+[
+"HGNC",
+"HGNC:9605"
+],
+[
+"HGNC symbol",
+"PTGS2"
+],
+[
+"Alias symbols",
+"COX2"
+],
+[
+"Entrez",
+"5743"
+],
+[
+"Ensembl",
+"ENSG00000073756"
+],
+[
+"RefSeq",
+"NM_000963"
+],
+[
+"UniProt",
+"P35354"
+]
+]
+},
+{
+"label": "PTGES",
+"class": "Macromolecule",
+"box": [
+766.0,
+875.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase"
+],
+[
+"Alternative names",
+"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
+],
+[
+"Function",
+"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
+],
+[
+"Location",
+"Membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:9599"
+],
+[
+"HGNC symbol",
+"PTGES"
+],
+[
+"Previous symbols",
+"MGST1L1"
+],
+[
+"Alias symbols",
+"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
+],
+[
+"Entrez",
+"9536"
+],
+[
+"Ensembl",
+"ENSG00000148344"
+],
+[
+"RefSeq",
+"NM_004878"
+],
+[
+"UniProt",
+"O14684"
+]
+]
+},
+{
+"label": "PTGS2",
+"class": "NucleicAcidFeature",
+"box": [
+201.0,
+995.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 2"
+],
+[
+"Alternative names",
+"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
+],
+[
+"HGNC",
+"HGNC:9605"
+],
+[
+"HGNC symbol",
+"PTGS2"
+],
+[
+"Alias symbols",
+"COX2"
+],
+[
+"Entrez",
+"5743"
+],
+[
+"Ensembl",
+"ENSG00000073756"
+],
+[
+"RefSeq",
+"NM_000963"
+],
+[
+"UniProt",
+"P35354"
+]
+]
+},
+{
+"label": "PTGS2",
+"class": "NucleicAcidFeature",
+"box": [
+201.0,
+1105.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin G/H synthase 2"
+],
+[
+"Alternative names",
+"Cyclooxygenase-2; PHS II; Prostaglandin H2 synthase 2; Prostaglandin-endoperoxide synthase 2"
+],
+[
+"Function",
+"Dual cyclooxygenase and peroxidase in the biosynthesis pathway of prostanoids, a class of C20 oxylipins mainly derived from arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate, AA, C20:4(n-6)), with a particular role in the inflammatory response. The cyclooxygenase activity oxygenates AA to the hydroperoxy endoperoxide prostaglandin G2 (PGG2), and the peroxidase activity reduces PGG2 to the hydroxy endoperoxide prostaglandin H2 (PGH2), the precursor of all 2-series prostaglandins and thromboxanes."
+],
+[
+"Location",
+"Microsome membrane, Endoplasmic reticulum membrane, Nucleus inner membrane, Nucleus outer membrane"
+],
+[
+"HGNC",
+"HGNC:9605"
+],
+[
+"HGNC symbol",
+"PTGS2"
+],
+[
+"Alias symbols",
+"COX2"
+],
+[
+"Entrez",
+"5743"
+],
+[
+"Ensembl",
+"ENSG00000073756"
+],
+[
+"RefSeq",
+"NM_000963"
+],
+[
+"UniProt",
+"P35354"
+]
+]
+},
+{
+"label": "RELA",
+"class": "Macromolecule",
+"box": [
+486.0,
+995.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Transcription factor p65"
+],
+[
+"Alternative names",
+"Nuclear factor NF-kappa-B p65 subunit; Nuclear factor of kappa light polypeptide gene enhancer in B-cells 3"
+],
+[
+"Function",
+"NF-kappa-B is a pleiotropic transcription factor present in almost all cell types and is the endpoint of a series of signal transduction events that are initiated by a vast array of stimuli related to many biological processes such as inflammation, immunity, differentiation, cell growth, tumorigenesis and apoptosis. NF-kappa-B is a homo- or heterodimeric complex formed by the Rel-like domain-containing proteins RELA/p65, RELB, NFKB1/p105, NFKB1/p50, REL and NFKB2/p52."
+],
+[
+"Location",
+"Nucleus, Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:9955"
+],
+[
+"HGNC symbol",
+"RELA"
+],
+[
+"Previous symbols",
+"NFKB3"
+],
+[
+"Alias symbols",
+"p65"
+],
+[
+"Entrez",
+"5970"
+],
+[
+"Ensembl",
+"ENSG00000173039"
+],
+[
+"RefSeq",
+"NM_021975"
+],
+[
+"UniProt",
+"Q04206"
+]
+]
+},
+{
+"label": "PTGES",
+"class": "NucleicAcidFeature",
+"box": [
+761.0,
+995.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase"
+],
+[
+"Alternative names",
+"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
+],
+[
+"Function",
+"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
+],
+[
+"Location",
+"Membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:9599"
+],
+[
+"HGNC symbol",
+"PTGES"
+],
+[
+"Previous symbols",
+"MGST1L1"
+],
+[
+"Alias symbols",
+"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
+],
+[
+"Entrez",
+"9536"
+],
+[
+"Ensembl",
+"ENSG00000148344"
+],
+[
+"RefSeq",
+"NM_004878"
+],
+[
+"UniProt",
+"O14684"
+]
+]
+},
+{
+"label": "PTGES",
+"class": "NucleicAcidFeature",
+"box": [
+761.0,
+1105.0,
+90.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E synthase"
+],
+[
+"Alternative names",
+"Glutathione peroxidase PTGES; Glutathione transferase PTGES; Microsomal glutathione S-transferase 1-like 1; Microsomal prostaglandin E synthase 1; p53-induced gene 12 protein"
+],
+[
+"Function",
+"Terminal enzyme of the cyclooxygenase (COX)-2-mediated prostaglandin E2 (PGE2) biosynthetic pathway. Catalyzes the glutathione-dependent oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) in response to inflammatory stimuli."
+],
+[
+"Location",
+"Membrane, Cytoplasm, perinuclear region"
+],
+[
+"HGNC",
+"HGNC:9599"
+],
+[
+"HGNC symbol",
+"PTGES"
+],
+[
+"Previous symbols",
+"MGST1L1"
+],
+[
+"Alias symbols",
+"mPGES-1, MGST-IV, PIG12, MGST1-L1, TP53I12"
+],
+[
+"Entrez",
+"9536"
+],
+[
+"Ensembl",
+"ENSG00000148344"
+],
+[
+"RefSeq",
+"NM_004878"
+],
+[
+"UniProt",
+"O14684"
+]
+]
+},
+{
+"label": "PTGER2",
+"class": "Macromolecule",
+"box": [
+1236.0,
+495.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E2 receptor EP2 subtype"
+],
+[
+"Alternative names",
+"Prostanoid EP2 receptor"
+],
+[
+"Function",
+"Receptor for prostaglandin E2 (PGE2). The activity of this receptor is mediated by G(s) proteins that stimulate adenylate cyclase."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9594"
+],
+[
+"HGNC symbol",
+"PTGER2"
+],
+[
+"Alias symbols",
+"EP2, COX-2"
+],
+[
+"Entrez",
+"5732"
+],
+[
+"Ensembl",
+"ENSG00000125384"
+],
+[
+"RefSeq",
+"NM_000956"
+],
+[
+"UniProt",
+"P43116"
+]
+]
+},
+{
+"label": "PTGER4",
+"class": "Macromolecule",
+"box": [
+1486.0,
+495.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Prostaglandin E2 receptor EP4 subtype"
+],
+[
+"Alternative names",
+"Prostanoid EP4 receptor"
+],
+[
+"Function",
+"Receptor for prostaglandin E2 (PGE2). The activity of this receptor is mediated by G(s) proteins that stimulate adenylate cyclase."
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9596"
+],
+[
+"HGNC symbol",
+"PTGER4"
+],
+[
+"Alias symbols",
+"EP4"
+],
+[
+"Entrez",
+"5734"
+],
+[
+"Ensembl",
+"ENSG00000171522"
+],
+[
+"RefSeq",
+"NM_000958"
+],
+[
+"UniProt",
+"P35408"
+]
+]
+},
+{
+"label": "ATP",
+"class": "SimpleChemical",
+"box": [
+1241.0,
+775.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"ATP"
+],
+[
+"Synonyms",
+"ADENOSINE-5'-TRIPHOSPHATE; Adenosine 5'-triphosphate; Adenosine triphosphate; H4atp; adenosine 5'-(tetrahydrogen triphosphate)"
+],
+[
+"Definition",
+"An adenosine 5'-phosphate in which the 5'-phosphate is a triphosphate group. It is involved in the transportation of chemical energy during metabolic pathways."
+],
+[
+"Formula",
+"C10H16N5O13P3"
+],
+[
+"ChEBI",
+"CHEBI:15422"
+],
+[
+"KEGG",
+"C00002"
+],
+[
+"HMDB",
+"HMDB0000538"
+],
+[
+"InChI",
+"InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "cAMP",
+"class": "SimpleChemical",
+"box": [
+1381.0,
+895.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic AMP"
+],
+[
+"Synonyms",
+"ADENOSINE-3',5'-CYCLIC-MONOPHOSPHATE; Adenosine 3',5'-cyclic phosphate; Adenosine 3',5'-phosphate; Cyclic AMP; Cyclic adenylic acid; adenosine 3',5'-(hydrogen phosphate); adenosine 3',5'-cyclic monophosphate; cAMP"
+],
+[
+"Definition",
+"A 3',5'-cyclic purine nucleotide having having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H12N5O6P"
+],
+[
+"ChEBI",
+"CHEBI:17489"
+],
+[
+"KEGG",
+"C00575"
+],
+[
+"HMDB",
+"HMDB0000058"
+],
+[
+"InChI",
+"InChI=1S/C10H12N5O6P/c11-8-5-9(13-2-12-8)15(3-14-5)10-6(16)7-4(20-10)1-19-22(17,18)21-7/h2-4,6-7,10,16H,1H2,(H,17,18)(H2,11,12,13)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"IVOMOUWHDPKRLL-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "PDE4B",
+"class": "Macromolecule",
+"box": [
+1501.0,
+895.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"3',5'-cyclic-AMP phosphodiesterase 4B"
+],
+[
+"Alternative names",
+"DPDE4; PDE32; cAMP-specific phosphodiesterase 4B"
+],
+[
+"Function",
+"Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in mediating central nervous system effects of therapeutic agents ranging from antidepressants to antiasthmatic and anti-inflammatory agents"
+],
+[
+"Location",
+"Cytoplasm, Cell membrane"
+],
+[
+"HGNC",
+"HGNC:8781"
+],
+[
+"HGNC symbol",
+"PDE4B"
+],
+[
+"Previous symbols",
+"DPDE4"
+],
+[
+"Entrez",
+"5142"
+],
+[
+"Ensembl",
+"ENSG00000184588"
+],
+[
+"RefSeq",
+"NM_002600"
+],
+[
+"UniProt",
+"Q07343"
+]
+]
+},
+{
+"label": "AMP",
+"class": "SimpleChemical",
+"box": [
+1656.0,
+1015.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"adenosine 5'-monophosphate"
+],
+[
+"Synonyms",
+"5'-AMP; 5'-Adenosine monophosphate; 5'-Adenylic acid; 5'-O-phosphonoadenosine; ADENOSINE MONOPHOSPHATE; AMP; Adenosine 5'-phosphate; Adenosine-5'-monophosphoric acid; Adenylate; Adenylic acid; Ado5'P; PAdo; adenosine 5'-(dihydrogen phosphate); adenosine phosphate; adenosine-5'P; adenosini phosphas; fosfato de adenosina; pA; phosphate d'adenosine"
+],
+[
+"Definition",
+"A purine ribonucleoside 5'-monophosphate having adenine as the nucleobase."
+],
+[
+"Formula",
+"C10H14N5O7P"
+],
+[
+"ChEBI",
+"CHEBI:16027"
+],
+[
+"KEGG",
+"C00020"
+],
+[
+"HMDB",
+"HMDB0000045"
+],
+[
+"InChI",
+"InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1"
+],
+[
+"InChIKey",
+"UDMBCSSLTHHNCD-KQYNXXCUSA-N"
+]
+]
+},
+{
+"label": "PRKAR1A",
+"class": "Macromolecule",
+"box": [
+1221.0,
+895.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase type I-alpha regulatory subunit"
+],
+[
+"Alternative names",
+"Tissue-specific extinguisher 1"
+],
+[
+"Function",
+"Regulatory subunit of the cAMP-dependent protein kinases involved in cAMP signaling in cells"
+],
+[
+"Location",
+"Cell membrane"
+],
+[
+"HGNC",
+"HGNC:9388"
+],
+[
+"HGNC symbol",
+"PRKAR1A"
+],
+[
+"Previous symbols",
+"PRKAR1, TSE1, PKR1, Prkar1alpha"
+],
+[
+"Alias symbols",
+"CNC1"
+],
+[
+"Entrez",
+"5573"
+],
+[
+"Ensembl",
+"ENSG00000108946"
+],
+[
+"RefSeq",
+"NM_001276289"
+],
+[
+"UniProt",
+"P10644"
+]
+]
+},
+{
+"label": "PRKACA",
+"class": "Macromolecule",
+"box": [
+1221.0,
+1035.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"cAMP-dependent protein kinase catalytic subunit alpha"
+],
+[
+"Function",
+"Phosphorylates a large number of substrates in the cytoplasm and the nucleus. Phosphorylates CDC25B, ABL1, NFKB1, CLDN3, histone H1.4 (H1-4), PSMC5/RPT6, PJA2, RYR2, RORA, SLC6A6, SOX9, UHRF1 and VASP."
+],
+[
+"Location",
+"Cytoplasm, Cell membrane, Membrane, Nucleus, Mitochondrion, Cell projection, cilium, flagellum, Cytoplasmic vesicle, secretory vesicle, acrosome"
+],
+[
+"HGNC",
+"HGNC:9380"
+],
+[
+"HGNC symbol",
+"PRKACA"
+],
+[
+"Alias symbols",
+"PKACa"
+],
+[
+"Entrez",
+"5566"
+],
+[
+"Ensembl",
+"ENSG00000072062"
+],
+[
+"RefSeq",
+"NM_002730"
+],
+[
+"UniProt",
+"P17612"
+]
+]
+},
+{
+"label": "CREB1",
+"class": "Macromolecule",
+"box": [
+1221.0,
+1225.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Cyclic AMP-responsive element-binding protein 1"
+],
+[
+"Function",
+"Phosphorylation-dependent transcription factor that stimulates transcription upon binding to the DNA cAMP response element (CRE), a sequence present in many viral and cellular promoters. Transcription activation is enhanced by the TORC coactivators which act independently of Ser-119 phosphorylation."
+],
+[
+"Location",
+"Nucleus"
+],
+[
+"HGNC",
+"HGNC:2345"
+],
+[
+"HGNC symbol",
+"CREB1"
+],
+[
+"Entrez",
+"1385"
+],
+[
+"Ensembl",
+"ENSG00000118260"
+],
+[
+"RefSeq",
+"NM_134442"
+],
+[
+"UniProt",
+"P16220"
+]
+]
+},
+{
+"label": "PPP1CA",
+"class": "Macromolecule",
+"box": [
+1501.0,
+1105.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Serine/threonine-protein phosphatase PP1-alpha catalytic subunit"
+],
+[
+"Function",
+"Protein phosphatase that associates with over 200 regulatory proteins to form highly specific holoenzymes which dephosphorylate hundreds of biological targets. Protein phosphatase 1 (PP1) is essential for cell division, transcription elongation, and participates in the regulation of glycogen metabolism, muscle contractility and protein synthesis."
+],
+[
+"Location",
+"Cytoplasm, Nucleus, Nucleus, nucleoplasm, Nucleus, nucleolus, Postsynaptic density"
+],
+[
+"HGNC",
+"HGNC:9281"
+],
+[
+"HGNC symbol",
+"PPP1CA"
+],
+[
+"Previous symbols",
+"PPP1A"
+],
+[
+"Alias symbols",
+"PP1A, PP-1A, PP1alpha"
+],
+[
+"Entrez",
+"5499"
+],
+[
+"Ensembl",
+"ENSG00000172531"
+],
+[
+"RefSeq",
+"NM_002708"
+],
+[
+"UniProt",
+"P62136"
+]
+]
+},
+{
+"label": "SLCO2A1",
+"class": "Macromolecule",
+"box": [
+286.0,
+85.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Solute carrier organic anion transporter family member 2A1"
+],
+[
+"Alternative names",
+"OATP2A1; PHOAR2; Prostaglandin transporter; Solute carrier family 21 member 2"
+],
+[
+"Function",
+"Mediates the transport of prostaglandins (PGs, mainly PGE2, PGE1, PGE3, PGF2alpha, PGD2, PGH2) and thromboxanes (thromboxane B2) across the cell membrane. PGs and thromboxanes play fundamental roles in diverse functions such as intraocular pressure, gastric acid secretion, renal salt and water transport, vascular tone, and fever."
+],
+[
+"Location",
+"Cell membrane, Basal cell membrane, Cytoplasm, Lysosome"
+],
+[
+"HGNC",
+"HGNC:10955"
+],
+[
+"HGNC symbol",
+"SLCO2A1"
+],
+[
+"Previous symbols",
+"SLC21A2, MATR1"
+],
+[
+"Alias symbols",
+"PGT, OATP2A1"
+],
+[
+"Entrez",
+"6578"
+],
+[
+"Ensembl",
+"ENSG00000174640"
+],
+[
+"RefSeq",
+"NM_005630"
+],
+[
+"UniProt",
+"Q92959"
+]
+]
+},
+{
+"label": "HPGD",
+"class": "Macromolecule",
+"box": [
+146.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-hydroxyprostaglandin dehydrogenase [NAD(+)]"
+],
+[
+"Alternative names",
+"Eicosanoid/docosanoid dehydrogenase [NAD(+)]; Prostaglandin dehydrogenase 1; Short chain dehydrogenase/reductase family 36C member 1"
+],
+[
+"Function",
+"Catalyzes the NAD-dependent dehydrogenation (oxidation) of a broad array of hydroxylated polyunsaturated fatty acids (mainly eicosanoids and docosanoids, including prostaglandins, lipoxins and resolvins), yielding their corresponding keto (oxo) metabolites. Decreases the levels of the pro-proliferative prostaglandins such as prostaglandin E2 (whose activity is increased in cancer because of an increase in the expression of cyclooxygenase 2) and generates oxo-fatty acid products that can profoundly influence cell function by abrogating pro-inflammatory cytokine expression."
+],
+[
+"Location",
+"Cytoplasm"
+],
+[
+"HGNC",
+"HGNC:5154"
+],
+[
+"HGNC symbol",
+"HPGD"
+],
+[
+"Alias symbols",
+"SDR36C1"
+],
+[
+"Entrez",
+"3248"
+],
+[
+"Ensembl",
+"ENSG00000164120"
+],
+[
+"RefSeq",
+"NM_000860"
+],
+[
+"UniProt",
+"P15428"
+]
+]
+},
+{
+"label": "PGE2",
+"class": "SimpleChemical",
+"box": [
+506.0,
+185.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin E2"
+],
+[
+"Synonyms",
+"(15S)-prostaglandin E2; (5Z,11alpha,13E,15S)-11,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprost-13-enoate; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; (5Z,13E,15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dien-1-oic acid; (E,Z)-(1R,2R,3R)-7-(3-Hydroxy-2-((3S)-(3-hydroxy-1-octenyl))-5-oxocyclopentyl)-5-heptenoic acid; (Z)-7-((1R,2R,3R)-3-hydroxy-2-((S,E)-3-hydroxyoct-1-enyl)-5-oxocyclopentyl)hept-5-enoic acid; Cervidil; Cerviprime; Cerviprost; Dinoproston; Enzaprost E; Glandin-E2; Minprositin E2; Minprostin E2; PGE2; Prepidil; Propess; Prostarmon E; Prostenone; Prostin; Prostin E2; U 12062; U-12,062; U-12062; dinoprostona; dinoprostone; dinoprostonum"
+],
+[
+"Definition",
+"Prostaglandin F2α in which the hydroxy group at position 9 has been oxidised to the corresponding ketone. Prostaglandin E2 is the most common and most biologically potent of mammalian prostaglandins."
+],
+[
+"Formula",
+"C20H32O5"
+],
+[
+"ChEBI",
+"CHEBI:15551"
+],
+[
+"KEGG",
+"C00584"
+],
+[
+"HMDB",
+"HMDB0001220"
+],
+[
+"InChI",
+"InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-17,19,21,23H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,19+/m0/s1"
+],
+[
+"InChIKey",
+"XEYBRNLFEZDVAW-ARSRFYASSA-N"
+]
+]
+}
+]
+}
