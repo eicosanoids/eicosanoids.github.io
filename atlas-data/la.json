@@ -509,6 +509,66 @@
 ]
 },
 {
+"label": "omega-hydroxyceramide",
+"class": "SimpleChemical",
+"box": [
+2715.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"N-omega-hydroxyacylsphingosine"
+],
+[
+"Synonyms",
+"N-omega-hydroxyacylsphing-4-enine"
+],
+[
+"Formula",
+"C20H39NO4R"
+],
+[
+"ChEBI",
+"CHEBI:143559"
+]
+]
+},
+{
+"label": "phospholipid",
+"class": "SimpleChemical",
+"box": [
+615.0,
+15.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"phospholipid"
+],
+[
+"Synonyms",
+"a phospholipid derivative; phospholipids"
+],
+[
+"Definition",
+"A lipid containing phosphoric acid as a mono- or di-ester. The term encompasses phosphatidic acids and phosphoglycerides."
+],
+[
+"ChEBI",
+"CHEBI:16247"
+],
+[
+"KEGG",
+"C00865"
+]
+]
+},
+{
 "id": "LA-01",
 "label": "",
 "class": "Process",

@@ -60,7 +60,7 @@
             </y:GenericNode>
           </data>
         </node>
-        <node id="c1" yfiles.foldertype="group"><data key="ng">
+        <node id="c1" yfiles.foldertype="group"><data key="d0">CHEBI:34159</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">
@@ -139,7 +139,7 @@
             </y:GenericNode>
           </data>
         </node>
-        <node id="c2" yfiles.foldertype="group"><data key="ng">
+        <node id="c2" yfiles.foldertype="group"><data key="d0">CHEBI:34159</data><data key="ng">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GenericGroupNode configuration="com.yworks.sbgn.Complex">

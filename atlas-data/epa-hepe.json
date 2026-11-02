@@ -157,6 +157,126 @@
 ]
 },
 {
+"label": "12(S)-HpEPE",
+"class": "SimpleChemical",
+"box": [
+716.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(S)-HpEPE"
+],
+[
+"Synonyms",
+"(12S)-hydroperoxy-(5Z,8Z,10E,14Z-17Z)-eicosapentaenoic acid; (12S)-hydroperoxy-(5Z,8Z,10E,14Z-17Z)-icosapentaenoic acid; (5Z,8Z,10E,12S,14Z-17Z)-12-hydroperoxyicosa-5,8,10,14,17-pentaenoic acid; (5Z,8Z,10E,12S,14Z-17Z)-12-hydroperoxyicosapentaenoic acid; 12S-HpEPE; 12S-hydroperoxy-5Z,8Z,10E,14Z,17Z-eicosapentaenoic acid"
+],
+[
+"Definition",
+"A 12-HPEPE in which the hydroperoxy group at positions 12 has S-configuration."
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:90996"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-4-5-10-13-16-19(24-23)17-14-11-8-6-7-9-12-15-18-20(21)22/h3-4,7-11,13-14,17,19,23H,2,5-6,12,15-16,18H2,1H3,(H,21,22)/b4-3-,9-7-,11-8-,13-10-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"HDMYXONNVAOHFR-UOLHMMFFSA-N"
+]
+]
+},
+{
+"label": "12(S)-HEPE",
+"class": "SimpleChemical",
+"box": [
+416.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12(S)-HEPE"
+],
+[
+"Synonyms",
+"(5Z,8Z,10E,12S,14Z,17Z)-12-hydroxyicosa-5,8,10,14,17-pentaenoic acid; 12S-HEPE; 12S-hydroxy-5Z,8Z,10E,14Z,17Z-eicosapentaenoic acid"
+],
+[
+"Definition",
+"A 12-HEPE that consists of (5Z,8Z,10E,14Z,17Z)-icosapentaenoic acid in which the 12-hydroxy group has S-configuration."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:88345"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-10-13-16-19(21)17-14-11-8-6-7-9-12-15-18-20(22)23/h3-4,7-11,13-14,17,19,21H,2,5-6,12,15-16,18H2,1H3,(H,22,23)/b4-3-,9-7-,11-8-,13-10-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"MCRJLMXYVFDXLS-UOLHMMFFSA-N"
+]
+]
+},
+{
+"label": "15(S)-HEPE",
+"class": "SimpleChemical",
+"box": [
+1616.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15(S)-HEPE"
+],
+[
+"Synonyms",
+"(5Z,8Z,11Z,13E,15S,17Z)-15-hydroxyicosa-5,8,11,13,17-pentaenoic acid; (5Z,8Z,11Z,13E,15S,17Z)-15-hydroxyicosapentaenoic acid; 15S-HEPE; 15S-hydroxy-5Z,8Z,11Z,13E,17Z-eicosapentaenoic acid"
+],
+[
+"Definition",
+"A 15-HEPE that consists of (5Z,8Z,11Z,13E,17Z)-icosapentaenoic acid in which the 15-hydroxy group has S-configuration."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:88347"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-13-16-19(21)17-14-11-9-7-5-4-6-8-10-12-15-18-20(22)23/h3-5,8-11,13-14,17,19,21H,2,6-7,12,15-16,18H2,1H3,(H,22,23)/b5-4-,10-8-,11-9-,13-3-,17-14+/t19-/m0/s1"
+],
+[
+"InChIKey",
+"WLKCSMCLEKGITB-DBVSHIMFSA-N"
+]
+]
+},
+{
 "label": "LXA5",
 "class": "SimpleChemical",
 "box": [
@@ -185,6 +305,22 @@
 [
 "InChIKey",
 "ZZMKOZNTEJVKRY-MCPYMSAWSA-N"
+]
+]
+},
+{
+"label": "Hepoxilin B4",
+"class": "SimpleChemical",
+"box": [
+716.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"LIPID MAPS",
+"LMFA03090016"
 ]
 ]
 },
@@ -256,9 +392,9 @@
 },
 {
 "authors": "Schwarz M et al.",
-"journal": "Redox Biol",
-"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
 "year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
 "db": "pubmed",
 "id": "36608588"
 }
@@ -298,9 +434,9 @@
 },
 {
 "authors": "Kutzner L et al.",
-"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
-"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
 "year": "2020",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
 "db": "pubmed",
 "id": "32841762"
 },
@@ -339,9 +475,9 @@
 "references": [
 {
 "authors": "Kutzner L et al.",
-"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
-"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
 "year": "2020",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
 "db": "pubmed",
 "id": "32841762"
 }
@@ -372,9 +508,9 @@
 "references": [
 {
 "authors": "Kutzner L et al.",
-"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
-"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
 "year": "2020",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
 "db": "pubmed",
 "id": "32841762"
 }
@@ -405,17 +541,17 @@
 "references": [
 {
 "authors": "Kutzner L et al.",
-"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
-"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
 "year": "2020",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
 "db": "pubmed",
 "id": "32841762"
 },
 {
 "authors": "Peh HY et al.",
-"journal": "FASEB J",
-"title": "15-epi-lipoxin A(5) promotes neutrophil exit from exudates for clearance by splenic macrophages.",
 "year": "2024",
+"title": "15-epi-lipoxin A(5) promotes neutrophil exit from exudates for clearance by splenic macrophages.",
+"journal": "FASEB J",
 "db": "pubmed",
 "id": "38989570"
 }
@@ -446,9 +582,9 @@
 "references": [
 {
 "authors": "Kutzner L et al.",
-"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
-"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
 "year": "2020",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
 "db": "pubmed",
 "id": "32841762"
 }
@@ -480,9 +616,9 @@
 "references": [
 {
 "authors": "Kutzner L et al.",
-"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
-"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
 "year": "2020",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
 "db": "pubmed",
 "id": "32841762"
 }
@@ -513,9 +649,9 @@
 "references": [
 {
 "authors": "Kutzner L et al.",
-"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
-"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
 "year": "2020",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
 "db": "pubmed",
 "id": "32841762"
 }
@@ -547,9 +683,9 @@
 "references": [
 {
 "authors": "Schwarz M et al.",
-"journal": "Redox Biol",
-"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
 "year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
 "db": "pubmed",
 "id": "36608588"
 }
@@ -581,9 +717,9 @@
 "references": [
 {
 "authors": "Schwarz M et al.",
-"journal": "Redox Biol",
-"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
 "year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
 "db": "pubmed",
 "id": "36608588"
 }

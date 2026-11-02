@@ -213,6 +213,50 @@
 ]
 },
 {
+"label": "14S-HDHA",
+"class": "SimpleChemical",
+"box": [
+915.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(14S)-HDoHE"
+],
+[
+"Synonyms",
+"(14S)-HDHA; (14S)-hydroxy-(4Z,7Z,10Z,12E,16Z,19Z)-docosahexaenoic acid; (4Z,7Z,10Z,12E,14S,16Z,19Z)-14-hydroxydocosa-4,7,10,12,16,19-hexaenoic acid; (4Z,7Z,10Z,12E,14S,16Z,19Z)-14-hydroxydocosahexaenoic acid; 14(S)-HDoHE; 14S-HDHA"
+],
+[
+"Definition",
+"A 14-HDoHE in which the stereocentre at position 14 has S-configuration."
+],
+[
+"Formula",
+"C22H32O3"
+],
+[
+"ChEBI",
+"CHEBI:137347"
+],
+[
+"LIPID MAPS",
+"LMFA04000058"
+],
+[
+"InChI",
+"InChI=1S/C22H32O3/c1-2-3-4-5-12-15-18-21(23)19-16-13-10-8-6-7-9-11-14-17-20-22(24)25/h3-4,6-7,10-16,19,21,23H,2,5,8-9,17-18,20H2,1H3,(H,24,25)/b4-3-,7-6-,13-10-,14-11-,15-12-,19-16+/t21-/m0/s1"
+],
+[
+"InChIKey",
+"ZNEBXONKCYFJAF-OUKOMXQNSA-N"
+]
+]
+},
+{
 "label": "7S,14S-diHDHA",
 "class": "SimpleChemical",
 "box": [
@@ -757,9 +801,9 @@
 "references": [
 {
 "authors": "Wendell SG et al.",
-"journal": "J Biol Chem",
-"title": "15-Hydroxyprostaglandin dehydrogenase generation of electrophilic lipid signaling mediators from hydroxy ω-3 fatty acids.",
 "year": "2015",
+"title": "15-Hydroxyprostaglandin dehydrogenase generation of electrophilic lipid signaling mediators from hydroxy ω-3 fatty acids.",
+"journal": "J Biol Chem",
 "db": "pubmed",
 "id": "25586183"
 }

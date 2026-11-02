@@ -71,6 +71,10 @@
 "CHEBI:15627"
 ],
 [
+"LIPID MAPS",
+"LMFA03030001"
+],
+[
 "KEGG",
 "C02198"
 ],
@@ -129,6 +133,46 @@
 [
 "InChIKey",
 "XNRNNGPBEPRNAR-JQBLCGNGSA-N"
+]
+]
+},
+{
+"label": "12(S)-HHTrE",
+"class": "SimpleChemical",
+"box": [
+973.0,
+415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"12S-HHTrE"
+],
+[
+"Synonyms",
+"(5Z,8E,10E,12S)-12-hydroxyheptadeca-5,8,10-trienoic acid; 12-HHTrE; 12S-HHT; 12S-hydroxy-5Z,8E,10E-heptadecatrienoic acid"
+],
+[
+"Definition",
+"A trienoic fatty acid that consists of (5Z,8E,10E)-heptadeca-5,8,10-trienoic acid bearing an additional 12S-hydroxy substituent."
+],
+[
+"Formula",
+"C17H28O3"
+],
+[
+"ChEBI",
+"CHEBI:63977"
+],
+[
+"InChI",
+"InChI=1S/C17H28O3/c1-2-3-10-13-16(18)14-11-8-6-4-5-7-9-12-15-17(19)20/h5-8,11,14,16,18H,2-4,9-10,12-13,15H2,1H3,(H,19,20)/b7-5-,8-6+,14-11+/t16-/m0/s1"
+],
+[
+"InChIKey",
+"KUKJHGXXZWHSBG-WBGSEQOASA-N"
 ]
 ]
 },
@@ -293,6 +337,46 @@
 [
 "InChIKey",
 "SGUKUZOVHSFKPH-YNNPMVKQSA-N"
+]
+]
+},
+{
+"label": "15-oxo-PGI2",
+"class": "SimpleChemical",
+"box": [
+373.0,
+615.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-dehydro-prostaglandin I2"
+],
+[
+"Synonyms",
+"(5Z,13E)-6,9alpha-Epoxy-11alpha-hydroxy-15-oxoprosta-5,13-dienoate; (5Z,13E)-6,9alpha-epoxy-11alpha-hydroxy-15-oxoprosta-5,13-dienoic acid; 15-Keto-pgi2; 15-Ketoprostaglandin I2; 15-deoxy-15-oxo-prostaglandin I2; 15-keto PGI2"
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:15556"
+],
+[
+"KEGG",
+"C04835"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-4-7-14(21)10-11-16-17-12-15(8-5-6-9-20(23)24)25-19(17)13-18(16)22/h8,10-11,16-19,22H,2-7,9,12-13H2,1H3,(H,23,24)/b11-10+,15-8-/t16-,17-,18-,19+/m1/s1"
+],
+[
+"InChIKey",
+"YCLHGWBUIYKBPM-ABXKVQRYSA-N"
 ]
 ]
 },

@@ -209,6 +209,42 @@
 ]
 },
 {
+"label": "11S-HpDHA",
+"class": "SimpleChemical",
+"box": [
+716.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"11S-hydroperoxy-(4Z,7Z,9E,13Z,16Z,19Z)-docosahexaenoate(1-)"
+],
+[
+"Synonyms",
+"(11S)-hydroperoxy-(4Z,7Z,9E,13Z,16Z,19Z)-docosahexaenoate"
+],
+[
+"Formula",
+"C22H31O4"
+],
+[
+"ChEBI",
+"CHEBI:156131"
+],
+[
+"InChI",
+"InChI=1S/C22H32O4/c1-2-3-4-5-6-7-9-12-15-18-21(26-25)19-16-13-10-8-11-14-17-20-22(23)24/h3-4,6-7,10-16,19,21,25H,2,5,8-9,17-18,20H2,1H3,(H,23,24)/p-1/b4-3-,7-6-,13-10-,14-11-,15-12-,19-16+/t21-/m0/s1"
+],
+[
+"InChIKey",
+"HSHRTZVKQSPCGR-OUKOMXQNSA-M"
+]
+]
+},
+{
 "label": "MCTR1",
 "class": "SimpleChemical",
 "box": [
@@ -507,17 +543,17 @@
 },
 {
 "authors": "Schebb NH et al.",
-"journal": "J Lipid Res",
-"title": "Biosynthesis and analytics of specialized pro-resolving mediators: facts and faults.",
 "year": "2026",
+"title": "Biosynthesis and analytics of specialized pro-resolving mediators: facts and faults.",
+"journal": "J Lipid Res",
 "db": "pubmed",
 "id": "42665162"
 },
 {
 "authors": "Hofstetter RK et al.",
-"journal": "J Lipid Res",
-"title": "Validated bioanalysis of oxylipins confirms specialized pro-resolving mediator formation in vitro and in vivo.",
 "year": "2026",
+"title": "Validated bioanalysis of oxylipins confirms specialized pro-resolving mediator formation in vitro and in vivo.",
+"journal": "J Lipid Res",
 "db": "pubmed",
 "id": "42264331"
 }

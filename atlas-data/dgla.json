@@ -341,6 +341,50 @@
 ]
 },
 {
+"label": "PGA1",
+"class": "SimpleChemical",
+"box": [
+315.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin A1"
+],
+[
+"Synonyms",
+"(13E)-(15S)-15-Hydroxy-9-oxoprosta-10,13-dienoate; (13E,15S)-15-hydroxy-9-oxoprosta-10,13-dien-1-oic acid; PGA1"
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:15545"
+],
+[
+"LIPID MAPS",
+"LMFA03010005"
+],
+[
+"KEGG",
+"C04685"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c1-2-3-6-9-17(21)14-12-16-13-15-19(22)18(16)10-7-4-5-8-11-20(23)24/h12-18,21H,2-11H2,1H3,(H,23,24)/b14-12+/t16-,17-,18+/m0/s1"
+],
+[
+"InChIKey",
+"BGKHCLZFGPIKKU-LDDQNKHRSA-N"
+]
+]
+},
+{
 "label": "15-oxo-PGA1",
 "class": "SimpleChemical",
 "box": [
@@ -417,6 +461,50 @@
 [
 "InChIKey",
 "WIWFIKCSWKFLRM-UZTSRZBGSA-N"
+]
+]
+},
+{
+"label": "15-HETrE",
+"class": "SimpleChemical",
+"box": [
+15.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-HETrE"
+],
+[
+"Synonyms",
+"(8Z,11Z,13E)-15-hydroxyeicosa-8,11,13-trienoic acid; (8Z,11Z,13E)-15-hydroxyicosa-8,11,13-trienoic acid; 15-hydroxy-8Z,11Z,13E-eicosatrienoic acid; 15-hydroxy-8Z,11Z,13E-icosatrienoic acid; 15-hydroxyeicosa-8Z,11Z,13E-trienoic acid; 15-hydroxyicosa-8Z,11Z,13E-trienoic acid"
+],
+[
+"Definition",
+"A hydroxyeicosatrienoic acid that consists of 8Z,11Z,13E-icosatrienoic acid bearing an additional 15-hydroxy substituent."
+],
+[
+"Formula",
+"C20H34O3"
+],
+[
+"ChEBI",
+"CHEBI:72644"
+],
+[
+"LIPID MAPS",
+"LMFA03050026"
+],
+[
+"InChI",
+"InChI=1S/C20H34O3/c1-2-3-13-16-19(21)17-14-11-9-7-5-4-6-8-10-12-15-18-20(22)23/h4-5,9,11,14,17,19,21H,2-3,6-8,10,12-13,15-16,18H2,1H3,(H,22,23)/b5-4-,11-9-,17-14+"
+],
+[
+"InChIKey",
+"IUKXMNDGTWTNTP-RHDCIPCHSA-N"
 ]
 ]
 },

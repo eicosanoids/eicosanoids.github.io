@@ -145,6 +145,54 @@
 ]
 },
 {
+"label": "PPARG:15d-PGJ2",
+"class": "Complex",
+"box": [
+237.0,
+489.0,
+104.0,
+140.5
+],
+"props": [
+[
+"Full name",
+"15-deoxy-Delta(12,14)-prostaglandin J2"
+],
+[
+"Synonyms",
+"(5Z,12E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid; 15-Deoxy-PGJ2; 15-Deoxy-delta-12,14-PGJ2; 15-Deoxy-delta-12,14-prostaglandin J2; delta-12,14-15-Deoxy-PGJ2"
+],
+[
+"Definition",
+"A prostaglandin J derivative comprising prostaglandin J2 lacking the 15-hydroxy group and having C=C double bonds at the 12- and 14-positions."
+],
+[
+"Formula",
+"C20H28O3"
+],
+[
+"ChEBI",
+"CHEBI:34159"
+],
+[
+"KEGG",
+"C14717"
+],
+[
+"HMDB",
+"HMDB0005079"
+],
+[
+"InChI",
+"InChI=1S/C20H28O3/c1-2-3-4-5-6-10-13-18-17(15-16-19(18)21)12-9-7-8-11-14-20(22)23/h6-7,9-10,13,15-17H,2-5,8,11-12,14H2,1H3,(H,22,23)/b9-7-,10-6+,18-13+/t17-/m0/s1"
+],
+[
+"InChIKey",
+"VHRUMKCAEVRUBK-GODQJPCRSA-N"
+]
+]
+},
+{
 "label": "15d-PGJ2",
 "class": "SimpleChemical",
 "box": [
@@ -342,6 +390,54 @@
 "db": "pubmed",
 "id": "1324435"
 }
+]
+},
+{
+"label": "PPARG:RXRA:15d-PGJ2",
+"class": "Complex",
+"box": [
+447.0,
+464.8,
+104.0,
+188.5
+],
+"props": [
+[
+"Full name",
+"15-deoxy-Delta(12,14)-prostaglandin J2"
+],
+[
+"Synonyms",
+"(5Z,12E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid; 15-Deoxy-PGJ2; 15-Deoxy-delta-12,14-PGJ2; 15-Deoxy-delta-12,14-prostaglandin J2; delta-12,14-15-Deoxy-PGJ2"
+],
+[
+"Definition",
+"A prostaglandin J derivative comprising prostaglandin J2 lacking the 15-hydroxy group and having C=C double bonds at the 12- and 14-positions."
+],
+[
+"Formula",
+"C20H28O3"
+],
+[
+"ChEBI",
+"CHEBI:34159"
+],
+[
+"KEGG",
+"C14717"
+],
+[
+"HMDB",
+"HMDB0005079"
+],
+[
+"InChI",
+"InChI=1S/C20H28O3/c1-2-3-4-5-6-10-13-18-17(15-16-19(18)21)12-9-7-8-11-14-20(22)23/h6-7,9-10,13,15-17H,2-5,8,11-12,14H2,1H3,(H,22,23)/b9-7-,10-6+,18-13+/t17-/m0/s1"
+],
+[
+"InChIKey",
+"VHRUMKCAEVRUBK-GODQJPCRSA-N"
+]
 ]
 },
 {

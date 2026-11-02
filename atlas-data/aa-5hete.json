@@ -97,6 +97,94 @@
 ]
 },
 {
+"label": "5-oxo-ETE (5-KETE)",
+"class": "SimpleChemical",
+"box": [
+416.0,
+615.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5-oxo-ETE"
+],
+[
+"Synonyms",
+"(6E,8Z,11Z,14Z)-5-Oxoicosa-6,8,11,14-tetraenoic acid; 5-KETE; 5-Oxo-icosa-6,8,11,14-tetraenoic acid; 5-OxoETE; 5-Oxoeicosatetraenoic acid; 5-Oxoicosatetraenoic acid; 5-keto-ETE; 5-ketoeicosatetraenoic acid; 5-oxo, 6t,8c,11c,14c-20:4; 5-oxo-6(E),8(Z),11(Z),14(Z)-eicosatetraenoic acid; 5-oxo-6E,8Z,11Z,14Z-eicosatetraenoic acid; eicosa-5,8,12,14-tetraenoic acid"
+],
+[
+"Definition",
+"An oxoicosatetraenoic acid having a 5-oxo group; and (6E)-, (8Z), (11Z)- and (14Z)-double bonds."
+],
+[
+"Formula",
+"C20H30O3"
+],
+[
+"ChEBI",
+"CHEBI:52449"
+],
+[
+"KEGG",
+"C14732"
+],
+[
+"HMDB",
+"HMDB0010217"
+],
+[
+"InChI",
+"InChI=1S/C20H30O3/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-19(21)17-15-18-20(22)23/h6-7,9-10,12-14,16H,2-5,8,11,15,17-18H2,1H3,(H,22,23)/b7-6-,10-9-,13-12-,16-14+"
+],
+[
+"InChIKey",
+"MEASLHGILYBXFO-XTDASVJISA-N"
+]
+]
+},
+{
+"label": "5(S),20-diHETE",
+"class": "SimpleChemical",
+"box": [
+116.0,
+615.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"5,20-DiHETE"
+],
+[
+"Synonyms",
+"(6E,8Z,11Z,14Z)-5,20-dihydroxyicosa-6,8,11,14-tetraenoic acid; (6E,8Z,11Z,14Z)-5,20-dihydroxyicosatetraenoic acid; 20-Hydroxy-5-HETE; 5,20-dihydroxy-6E,8Z,11Z,14Z-icosatetraenoic acid"
+],
+[
+"Definition",
+"A DiHETE that is 5-HETE carrying an additional hydroxy substituent at position 20."
+],
+[
+"Formula",
+"C20H32O4"
+],
+[
+"ChEBI",
+"CHEBI:90979"
+],
+[
+"InChI",
+"InChI=1S/C20H32O4/c21-18-13-11-9-7-5-3-1-2-4-6-8-10-12-15-19(22)16-14-17-20(23)24/h2-5,8,10,12,15,19,21-22H,1,6-7,9,11,13-14,16-18H2,(H,23,24)/b4-2-,5-3-,10-8-,15-12+"
+],
+[
+"InChIKey",
+"IWYJGYZCHKEPCK-DHYYJNSCSA-N"
+]
+]
+},
+{
 "label": "5(S)-HpETE",
 "class": "SimpleChemical",
 "box": [
@@ -180,9 +268,9 @@
 },
 {
 "authors": "Schwarz M et al.",
-"journal": "Redox Biol",
-"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
 "year": "2023",
+"title": "Side-by-side comparison of recombinant human glutathione peroxidases identifies overlapping substrate specificities for soluble hydroperoxides.",
+"journal": "Redox Biol",
 "db": "pubmed",
 "id": "36608588"
 }
@@ -343,6 +431,90 @@
 "db": "pubmed",
 "id": "2300173"
 }
+]
+},
+{
+"label": "5-oxo-12S-HETE",
+"class": "SimpleChemical",
+"box": [
+416.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(6E,8Z,10E,12S,14Z)-12-hydroxy-5-oxoicosatetraenoic acid"
+],
+[
+"Synonyms",
+"(6E,8Z,10E,12S,14Z)-12-hydroxy-5-oxoicosa-6,8,10,14-tetraenoic acid; 5-oxo-12-HETE; 5-oxo-12-Hydroxy-6,8,11,13-eicosatetraenoic; 8-trans-5-oxo-12-hete"
+],
+[
+"Definition",
+"An icosanoid that is (6E,8Z,10E,14Z)-icosatetraenoic acid substituted at positions 5 and 12 by oxo and hydroxy groups respectively."
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:137749"
+],
+[
+"HMDB",
+"HMDB0062423"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-4-5-6-9-13-18(21)14-10-7-8-11-15-19(22)16-12-17-20(23)24/h6-11,14-15,18,21H,2-5,12-13,16-17H2,1H3,(H,23,24)/b8-7-,9-6-,14-10+,15-11+/t18-/m0/s1"
+],
+[
+"InChIKey",
+"MLZJFLKEKVDNAZ-XPKTZJOPSA-N"
+]
+]
+},
+{
+"label": "5-oxo-15S-HETE",
+"class": "SimpleChemical",
+"box": [
+716.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"(6E,8Z,11Z,13E,15S)-15-hydroxy-5-oxoicosatetraenoic acid"
+],
+[
+"Synonyms",
+"(6E,8Z,11Z,13E,15S)-15-hydroxy-5-oxoicosa-6,8,11,13-tetraenoic acid; 5-Oxo-15-hydroxy-6,8,11,13-eicosatetraenoic acid; 5-oxo-15-HETE"
+],
+[
+"Definition",
+"An icosanoid that is (6E,8Z,11Z,13E)-icosatetraenoic acid substituted at positions 5 and 15 by oxo and hydroxy groups respectively."
+],
+[
+"Formula",
+"C20H30O4"
+],
+[
+"ChEBI",
+"CHEBI:137746"
+],
+[
+"InChI",
+"InChI=1S/C20H30O4/c1-2-3-9-13-18(21)14-10-7-5-4-6-8-11-15-19(22)16-12-17-20(23)24/h5-8,10-11,14-15,18,21H,2-4,9,12-13,16-17H2,1H3,(H,23,24)/b7-5-,8-6-,14-10+,15-11+/t18-/m0/s1"
+],
+[
+"InChIKey",
+"RIUDRKHGFDAKPO-WWWYWCMOSA-N"
+]
 ]
 },
 {

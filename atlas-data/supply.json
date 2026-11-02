@@ -433,6 +433,50 @@
 ]
 },
 {
+"label": "ETA (20:4 n-3)",
+"class": "SimpleChemical",
+"box": [
+915.0,
+215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"all-cis-8,11,14,17-icosatetraenoic acid"
+],
+[
+"Synonyms",
+"(8Z,11Z,14Z,17Z)-eicosa-8,11,14,17-tetraenoic acid; (8Z,11Z,14Z,17Z)-eicosatetraenoic acid; (8Z,11Z,14Z,17Z)-icosa-8,11,14,17-tetraenoic acid; (8Z,11Z,14Z,17Z)-icosatetraenoic acid; (Z,Z,Z,Z)-eicosa-8,11,14,17-tetraenoic acid; (Z,Z,Z,Z)-icosa-8,11,14,17-tetraenoic acid; 8Z,11Z,14Z,17Z-eicosatetraenoic acid; ETA; all-Z-8,11,14,17-eicosatetraenoic acid; all-Z-8,11,14,17-icosatetraenoic acid; all-cis-8,11,14,17-eicosatetraenoic acid; omega-3-arachidonic acid"
+],
+[
+"Definition",
+"An icosatetraenoic acid having four cis double bonds at positions 8, 11, 14 and 17."
+],
+[
+"Formula",
+"C20H32O2"
+],
+[
+"ChEBI",
+"CHEBI:71488"
+],
+[
+"HMDB",
+"HMDB0002177"
+],
+[
+"InChI",
+"InChI=1S/C20H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(21)22/h3-4,6-7,9-10,12-13H,2,5,8,11,14-19H2,1H3,(H,21,22)/b4-3-,7-6-,10-9-,13-12-"
+],
+[
+"InChIKey",
+"HQPCSDADVLFHHO-LTKCOYKYSA-N"
+]
+]
+},
+{
 "id": "SUP-01",
 "label": "",
 "class": "Process",

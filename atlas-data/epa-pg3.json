@@ -261,6 +261,78 @@
 ]
 },
 {
+"label": "PGI3",
+"class": "SimpleChemical",
+"box": [
+15.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"PGI3"
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:165339"
+],
+[
+"LIPID MAPS",
+"LMFA03010045"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-4-7-14(21)10-11-16-17-12-15(8-5-6-9-20(23)24)25-19(17)13-18(16)22/h3-4,8,10-11,14,16-19,21-22H,2,5-7,9,12-13H2,1H3,(H,23,24)/b4-3-,11-10+,15-8-/t14-,16+,17+,18+,19-/m0/s1"
+],
+[
+"InChIKey",
+"NCYSTSFUYSFMEO-OBLTVXDOSA-N"
+]
+]
+},
+{
+"label": "TXA3",
+"class": "SimpleChemical",
+"box": [
+1215.0,
+815.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"TXA3"
+],
+[
+"Formula",
+"C20H30O5"
+],
+[
+"ChEBI",
+"CHEBI:165349"
+],
+[
+"LIPID MAPS",
+"LMFA03030005"
+],
+[
+"InChI",
+"InChI=1S/C20H30O5/c1-2-3-6-9-15(21)12-13-17-16(18-14-20(24-17)25-18)10-7-4-5-8-11-19(22)23/h3-4,6-7,12-13,15-18,20-21H,2,5,8-11,14H2,1H3,(H,22,23)/b6-3-,7-4-,13-12+/t15-,16+,17+,18-,20+/m0/s1"
+],
+[
+"InChIKey",
+"NMZKLLJQNNTBRJ-OIXZZONUSA-N"
+]
+]
+},
+{
 "label": "TXB3",
 "class": "SimpleChemical",
 "box": [
@@ -301,6 +373,134 @@
 [
 "InChIKey",
 "OYPPJMLKAYYWHH-NXJDUNGTSA-N"
+]
+]
+},
+{
+"label": "PGJ3",
+"class": "SimpleChemical",
+"box": [
+615.0,
+1015.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"prostaglandin J3"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1S,5R)-5-[(1E,3S,5Z)-3-hydroxyocta-1,5-dien-1-yl]-4-oxocyclopent-2-en-1-yl}hept-5-enoic acid; (5Z,9Z,13E,15S,17Z)-15-hydroxy-11-oxoprostatetraenoic acid; 15S-hydroxy-11-oxo-5Z,9Z,13E,17Z-prostatetraenoic acid; PGJ3"
+],
+[
+"Definition",
+"A member of the class of prostaglandins J that is (5Z,9Z,13E,17Z)-prostatetraenoic acid carrying hydroxy and oxo substituents at positions 11 and 15 respectively. An intermediate of specialised proresolving mediators"
+],
+[
+"Formula",
+"C20H28O4"
+],
+[
+"ChEBI",
+"CHEBI:140267"
+],
+[
+"LIPID MAPS",
+"LMFA03010180"
+],
+[
+"InChI",
+"InChI=1S/C20H28O4/c1-2-3-6-10-17(21)13-14-18-16(12-15-19(18)22)9-7-4-5-8-11-20(23)24/h3-4,6-7,12-18,21H,2,5,8-11H2,1H3,(H,23,24)/b6-3-,7-4-,14-13+/t16-,17-,18+/m0/s1"
+],
+[
+"InChIKey",
+"DIBKBAMSPPKSTJ-BAILPSPNSA-N"
+]
+]
+},
+{
+"label": "delta12-PGJ3",
+"class": "SimpleChemical",
+"box": [
+615.0,
+1215.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Delta(12)-prostaglandin J3"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1S,5E)-5-[(3S,5Z)-3-hydroxyoct-5-en-1-ylidene]-4-oxocyclopent-2-en-1-yl}hept-5-enoic acid; (5Z,9Z,12E,15S,17Z)-15-hydroxy-11-oxoprostatetraenoic acid; delta(12)-PGJ3; delta-12-PGJ3"
+],
+[
+"Definition",
+"A member of the class of prostaglandins J that is (5Z,9Z,12E,17Z)-prostatetraenoic acid carrying hydroxy and oxo substituents at positions 11 and 15 respectively. An intermediate of specialised proresolving mediators and potent anti-leukemic agent."
+],
+[
+"Formula",
+"C20H28O4"
+],
+[
+"ChEBI",
+"CHEBI:140274"
+],
+[
+"LIPID MAPS",
+"LMFA03010242"
+],
+[
+"InChI",
+"InChI=1S/C20H28O4/c1-2-3-6-10-17(21)13-14-18-16(12-15-19(18)22)9-7-4-5-8-11-20(23)24/h3-4,6-7,12,14-17,21H,2,5,8-11,13H2,1H3,(H,23,24)/b6-3-,7-4-,18-14+/t16-,17-/m0/s1"
+],
+[
+"InChIKey",
+"MSLYURLMFHGOET-OLBAJUCDSA-N"
+]
+]
+},
+{
+"label": "15-deoxy-delta12,14-PGJ3",
+"class": "SimpleChemical",
+"box": [
+615.0,
+1415.0,
+40.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"15-deoxy-Delta(12,14)-prostaglandin J3"
+],
+[
+"Synonyms",
+"(5Z)-7-{(1S,5E)-5-[(2E,5Z)-octa-2,5-dien-1-ylidene]-4-oxocyclopent-2-en-1-yl}hept-5-enoic acid; (5Z,12E,14E,17Z)-11-oxoprosta-5,9,12,14,17-pentaen-1-oic acid; 15-deoxyprostaglandin J3; 15d-PGJ3"
+],
+[
+"Definition",
+"A prostaglandin J derivative comprising prostaglandin J3 lacking the 15-hydroxy group and having C=C double bonds at the 12- and 14-positions. An intermediate of specialised proresolving mediators"
+],
+[
+"Formula",
+"C20H26O3"
+],
+[
+"ChEBI",
+"CHEBI:140223"
+],
+[
+"InChI",
+"InChI=1S/C20H26O3/c1-2-3-4-5-6-10-13-18-17(15-16-19(18)21)12-9-7-8-11-14-20(22)23/h3-4,6-7,9-10,13,15-17H,2,5,8,11-12,14H2,1H3,(H,22,23)/b4-3-,9-7-,10-6+,18-13+/t17-/m0/s1"
+],
+[
+"InChIKey",
+"QFTYCAAGCUOJNG-KRXWQEJVSA-N"
 ]
 ]
 },

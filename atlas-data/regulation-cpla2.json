@@ -1421,6 +1421,42 @@
 ]
 },
 {
+"label": "PLASMA MEMBRANE",
+"class": "",
+"box": [
+15.0,
+15.0,
+1240.0,
+320.0
+],
+"props": [
+[
+"Full name",
+"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate"
+],
+[
+"Synonyms",
+"1,2-Diacyl-sn-glycero-3-phospho-(1'-myo-inositol-4',5'-bisphosphate); 1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4,5-bis(dihydrogen phosphate); 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate; PIP2; PIPP; Phosphatidyl-myo-inositol 4,5-bisphosphate; Phosphatidylinositol-4,5-bisphosphate; PtsIns(4,5)P2; PtsIns-4,5-P2"
+],
+[
+"Definition",
+"A phosphatidylinositol bisphosphate in which the two phosphate groups are at C-4 and C-5 of the inositol moiety which has the 1D-myo configuration."
+],
+[
+"Formula",
+"C11H19O19P3R2"
+],
+[
+"ChEBI",
+"CHEBI:18348"
+],
+[
+"KEGG",
+"C04637"
+]
+]
+},
+{
 "label": "PI(4,5)P2",
 "class": "SimpleChemical",
 "box": [
@@ -2123,6 +2159,46 @@
 ]
 },
 {
+"label": "ENDOPLASMIC RETICULUM",
+"class": "",
+"box": [
+887.0,
+335.0,
+368.0,
+952.0
+],
+"props": [
+[
+"Full name",
+"calcium(2+)"
+],
+[
+"Synonyms",
+"CALCIUM ION; Ca(2+); Ca2+; calcium(2+) ion; calcium(II) cation; calcium, doubly charged positive ion"
+],
+[
+"Formula",
+"Ca"
+],
+[
+"ChEBI",
+"CHEBI:29108"
+],
+[
+"KEGG",
+"C00076"
+],
+[
+"InChI",
+"InChI=1S/Ca/q+2"
+],
+[
+"InChIKey",
+"BHPQYMZQTOCNFJ-UHFFFAOYSA-N"
+]
+]
+},
+{
 "label": "Ca2+",
 "class": "SimpleChemical",
 "box": [
@@ -2333,6 +2409,46 @@
 ]
 ]
 }
+]
+},
+{
+"label": "",
+"class": "Complex",
+"box": [
+1036.8,
+367.0,
+104.0,
+120.0
+],
+"props": [
+[
+"Full name",
+"1D-myo-inositol 1,4,5-trisphosphate"
+],
+[
+"Synonyms",
+"1,4,5-Insp3; 1D-myo-inositol 1,4,5-tris(dihydrogen phosphate); D-MYO-INOSITOL-1,4,5-TRIPHOSPHATE; D-myo-Inositol 1,4,5-trisphosphate; IP3; Inositol 1,4,5-trisphosphate; Ins(1,4,5)P3; InsP3"
+],
+[
+"Formula",
+"C6H15O15P3"
+],
+[
+"ChEBI",
+"CHEBI:16595"
+],
+[
+"KEGG",
+"C01245"
+],
+[
+"InChI",
+"InChI=1S/C6H15O15P3/c7-1-2(8)5(20-23(13,14)15)6(21-24(16,17)18)3(9)4(1)19-22(10,11)12/h1-9H,(H2,10,11,12)(H2,13,14,15)(H2,16,17,18)/t1-,2+,3+,4-,5-,6-/m1/s1"
+],
+[
+"InChIKey",
+"MMWCIQZXVOZEGG-XJTPDSDZSA-N"
+]
 ]
 },
 {
