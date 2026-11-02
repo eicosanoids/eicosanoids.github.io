@@ -649,6 +649,7 @@
 "RvE3"
 ],
 "by": [
+"ALOX15B",
 "ALOX15"
 ]
 },
@@ -660,6 +661,22 @@
 "year": "2012",
 "db": "pubmed",
 "id": "22275352"
+},
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"year": "2020",
+"db": "pubmed",
+"id": "32841762"
+},
+{
+"authors": "Kahnt AS et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Formation of lipoxins and resolvins in human leukocytes.",
+"year": "2023",
+"db": "pubmed",
+"id": "36878381"
 }
 ]
 },
@@ -682,8 +699,9 @@
 "RvE4"
 ],
 "by": [
-"ALOX5",
-"ALOX15"
+"ALOX15",
+"ALOX15B",
+"ALOX5"
 ]
 },
 "references": [
@@ -702,6 +720,30 @@
 "year": "2022",
 "db": "pubmed",
 "id": "35227568"
+},
+{
+"authors": "Kutzner L et al.",
+"journal": "Biochim Biophys Acta Mol Cell Biol Lipids",
+"title": "Human lipoxygenase isoforms form complex patterns of double and triple oxygenated compounds from eicosapentaenoic acid.",
+"year": "2020",
+"db": "pubmed",
+"id": "32841762"
+},
+{
+"authors": "Kahnt AS et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Formation of lipoxins and resolvins in human leukocytes.",
+"year": "2023",
+"db": "pubmed",
+"id": "36878381"
+},
+{
+"authors": "Hofstetter RK et al.",
+"journal": "J Lipid Res",
+"title": "Validated bioanalysis of oxylipins confirms specialized pro-resolving mediator formation in vitro and in vivo.",
+"year": "2026",
+"db": "pubmed",
+"id": "42264331"
 }
 ]
 },
@@ -990,6 +1032,62 @@
 ]
 },
 {
+"label": "ALOX15B",
+"class": "Macromolecule",
+"box": [
+615.0,
+515.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15B"
+],
+[
+"Alternative names",
+"15-lipoxygenase 2; Arachidonate 15-lipoxygenase B; Arachidonate 15-lipoxygenase type II; Linoleate 13-lipoxygenase 15-LOb"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids (PUFAs) generating a spectrum of bioactive lipid mediators (Probable). It inserts peroxyl groups at C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing (15S)-hydroperoxyeicosatetraenoate/(15S)-HPETE (Probable)."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, cytosol, Cell membrane, Cytoplasm, cytoskeleton, Membrane, Cell junction, adherens junction, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:434"
+],
+[
+"HGNC symbol",
+"ALOX15B"
+],
+[
+"Alias symbols",
+"15-LOX-2"
+],
+[
+"Entrez",
+"247"
+],
+[
+"Ensembl",
+"ENSG00000179593"
+],
+[
+"RefSeq",
+"NM_001039130"
+],
+[
+"UniProt",
+"O15296"
+]
+]
+},
+{
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
@@ -1046,67 +1144,11 @@
 ]
 },
 {
-"label": "ALOX5",
-"class": "Macromolecule",
-"box": [
-15.0,
-115.0,
-80.0,
-40.0
-],
-"props": [
-[
-"Full name",
-"Polyunsaturated fatty acid 5-lipoxygenase"
-],
-[
-"Alternative names",
-"Arachidonate 5-lipoxygenase"
-],
-[
-"Function",
-"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
-],
-[
-"Location",
-"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
-],
-[
-"HGNC",
-"HGNC:435"
-],
-[
-"HGNC symbol",
-"ALOX5"
-],
-[
-"Alias symbols",
-"5-LOX"
-],
-[
-"Entrez",
-"240"
-],
-[
-"Ensembl",
-"ENSG00000012779"
-],
-[
-"RefSeq",
-"NM_000698"
-],
-[
-"UniProt",
-"P09917"
-]
-]
-},
-{
 "label": "ALOX15",
 "class": "Macromolecule",
 "box": [
-177.0,
-115.0,
+15.0,
+45.0,
 80.0,
 40.0
 ],
@@ -1154,6 +1196,118 @@
 [
 "UniProt",
 "P16050"
+]
+]
+},
+{
+"label": "ALOX15B",
+"class": "Macromolecule",
+"box": [
+15.0,
+115.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid lipoxygenase ALOX15B"
+],
+[
+"Alternative names",
+"15-lipoxygenase 2; Arachidonate 15-lipoxygenase B; Arachidonate 15-lipoxygenase type II; Linoleate 13-lipoxygenase 15-LOb"
+],
+[
+"Function",
+"Non-heme iron-containing dioxygenase that catalyzes the stereo-specific peroxidation of free and esterified polyunsaturated fatty acids (PUFAs) generating a spectrum of bioactive lipid mediators (Probable). It inserts peroxyl groups at C15 of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) producing (15S)-hydroperoxyeicosatetraenoate/(15S)-HPETE (Probable)."
+],
+[
+"Location",
+"Nucleus, Cytoplasm, cytosol, Cell membrane, Cytoplasm, cytoskeleton, Membrane, Cell junction, adherens junction, Cell junction, focal adhesion"
+],
+[
+"HGNC",
+"HGNC:434"
+],
+[
+"HGNC symbol",
+"ALOX15B"
+],
+[
+"Alias symbols",
+"15-LOX-2"
+],
+[
+"Entrez",
+"247"
+],
+[
+"Ensembl",
+"ENSG00000179593"
+],
+[
+"RefSeq",
+"NM_001039130"
+],
+[
+"UniProt",
+"O15296"
+]
+]
+},
+{
+"label": "ALOX5",
+"class": "Macromolecule",
+"box": [
+15.0,
+185.0,
+80.0,
+40.0
+],
+"props": [
+[
+"Full name",
+"Polyunsaturated fatty acid 5-lipoxygenase"
+],
+[
+"Alternative names",
+"Arachidonate 5-lipoxygenase"
+],
+[
+"Function",
+"Catalyzes the oxygenation of arachidonate ((5Z,8Z,11Z,14Z)-eicosatetraenoate) to 5-hydroperoxyeicosatetraenoate (5-HPETE) followed by the dehydration to 5,6- epoxyeicosatetraenoate (Leukotriene A4/LTA4), the first two steps in the biosynthesis of leukotrienes, which are potent mediators of inflammation. Also catalyzes the oxygenation of arachidonate into 8-hydroperoxyicosatetraenoate (8-HPETE) and 12-hydroperoxyicosatetraenoate (12-HPETE)."
+],
+[
+"Location",
+"Cytoplasm, Nucleus matrix, Nucleus membrane, Cytoplasm, perinuclear region, Cytoplasm, cytosol, Nucleus envelope, Nucleus intermembrane space"
+],
+[
+"HGNC",
+"HGNC:435"
+],
+[
+"HGNC symbol",
+"ALOX5"
+],
+[
+"Alias symbols",
+"5-LOX"
+],
+[
+"Entrez",
+"240"
+],
+[
+"Ensembl",
+"ENSG00000012779"
+],
+[
+"RefSeq",
+"NM_000698"
+],
+[
+"UniProt",
+"P09917"
 ]
 ]
 },

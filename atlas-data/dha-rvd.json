@@ -221,7 +221,7 @@
 "class": "SimpleChemical",
 "box": [
 1215.0,
-807.0,
+815.0,
 40.0,
 40.0
 ],
@@ -792,7 +792,7 @@
 "label": "7-oxo-RvD2",
 "class": "SimpleChemical",
 "box": [
-1515.0,
+1215.0,
 1015.0,
 40.0,
 40.0
@@ -1171,6 +1171,22 @@
 "year": "2016",
 "db": "pubmed",
 "id": "26743932"
+},
+{
+"authors": "Schebb NH et al.",
+"journal": "J Lipid Res",
+"title": "Biosynthesis and analytics of specialized pro-resolving mediators: facts and faults.",
+"year": "2026",
+"db": "pubmed",
+"id": "42665162"
+},
+{
+"authors": "Kahnt AS et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Formation of lipoxins and resolvins in human leukocytes.",
+"year": "2023",
+"db": "pubmed",
+"id": "36878381"
 }
 ]
 },
@@ -1220,6 +1236,22 @@
 "year": "2016",
 "db": "pubmed",
 "id": "26743932"
+},
+{
+"authors": "Schebb NH et al.",
+"journal": "J Lipid Res",
+"title": "Biosynthesis and analytics of specialized pro-resolving mediators: facts and faults.",
+"year": "2026",
+"db": "pubmed",
+"id": "42665162"
+},
+{
+"authors": "Kahnt AS et al.",
+"journal": "Prostaglandins Other Lipid Mediat",
+"title": "Formation of lipoxins and resolvins in human leukocytes.",
+"year": "2023",
+"db": "pubmed",
+"id": "36878381"
 }
 ]
 },
@@ -1283,6 +1315,22 @@
 "year": "2014",
 "db": "pubmed",
 "id": "24696140"
+},
+{
+"authors": "Schebb NH et al.",
+"journal": "J Lipid Res",
+"title": "Biosynthesis and analytics of specialized pro-resolving mediators: facts and faults.",
+"year": "2026",
+"db": "pubmed",
+"id": "42665162"
+},
+{
+"authors": "Shay AE et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Human leukocytes selectively convert 4S,5S-epoxy-resolvin to resolvin D3, resolvin D4, and a cys-resolvin isomer.",
+"year": "2021",
+"db": "pubmed",
+"id": "34911767"
 }
 ]
 },
@@ -1346,6 +1394,22 @@
 "year": "2014",
 "db": "pubmed",
 "id": "24696140"
+},
+{
+"authors": "Schebb NH et al.",
+"journal": "J Lipid Res",
+"title": "Biosynthesis and analytics of specialized pro-resolving mediators: facts and faults.",
+"year": "2026",
+"db": "pubmed",
+"id": "42665162"
+},
+{
+"authors": "Shay AE et al.",
+"journal": "Proc Natl Acad Sci U S A",
+"title": "Human leukocytes selectively convert 4S,5S-epoxy-resolvin to resolvin D3, resolvin D4, and a cys-resolvin isomer.",
+"year": "2021",
+"db": "pubmed",
+"id": "34911767"
 }
 ]
 },
@@ -1861,6 +1925,14 @@
 "year": "2016",
 "db": "pubmed",
 "id": "26019184"
+},
+{
+"authors": "Schebb NH et al.",
+"journal": "J Lipid Res",
+"title": "Biosynthesis and analytics of specialized pro-resolving mediators: facts and faults.",
+"year": "2026",
+"db": "pubmed",
+"id": "42665162"
 }
 ]
 },
@@ -1908,6 +1980,14 @@
 "year": "2013",
 "db": "pubmed",
 "id": "23510485"
+},
+{
+"authors": "Schebb NH et al.",
+"journal": "J Lipid Res",
+"title": "Biosynthesis and analytics of specialized pro-resolving mediators: facts and faults.",
+"year": "2026",
+"db": "pubmed",
+"id": "42665162"
 }
 ]
 },
