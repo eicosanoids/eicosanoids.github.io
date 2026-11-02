@@ -647,8 +647,26 @@
 "year": "1993",
 "db": "pubmed",
 "id": "8250832"
+},
+{
+"authors": "Serhan CN et al.",
+"year": "1990",
+"title": "Lipoxin formation during human neutrophil-platelet interactions. Evidence for the transformation of leukotriene A4 by platelet 12-lipoxygenase in vitro.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "2155925"
+},
+{
+"authors": "Edenius C et al.",
+"year": "1988",
+"title": "Transcellular conversion of endogenous arachidonic acid to lipoxins in mixed human platelet-granulocyte suspensions.",
+"journal": "Biochem Biophys Res Commun",
+"db": "pubmed",
+"id": "2849436"
 }
-]
+],
+"site": "cytosol of the platelet",
+"cells": "platelets from neutrophil LTA4 (transcellular), mixed platelets and granulocytes (human)"
 },
 {
 "id": "re130",
@@ -770,8 +788,17 @@
 "year": "1996",
 "db": "pubmed",
 "id": "8898374"
+},
+{
+"authors": "Fiorucci S et al.",
+"year": "2003",
+"title": "Evidence that 5-lipoxygenase and acetylated cyclooxygenase 2-derived eicosanoids regulate leukocyte-endothelial adherence in response to aspirin.",
+"journal": "Br J Pharmacol",
+"db": "pubmed",
+"id": "12890715"
 }
-]
+],
+"cells": "neutrophils taking 15R-HETE from endothelial cells with aspirin-acetylated COX-2 (human, inhibitors)"
 },
 {
 "id": "re118",
@@ -811,8 +838,26 @@
 "year": "1984",
 "db": "pubmed",
 "id": "6089195"
+},
+{
+"authors": "Serhan CN et al.",
+"year": "1990",
+"title": "Lipoxin formation during human neutrophil-platelet interactions. Evidence for the transformation of leukotriene A4 by platelet 12-lipoxygenase in vitro.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "2155925"
+},
+{
+"authors": "Edenius C et al.",
+"year": "1988",
+"title": "Transcellular conversion of endogenous arachidonic acid to lipoxins in mixed human platelet-granulocyte suspensions.",
+"journal": "Biochem Biophys Res Commun",
+"db": "pubmed",
+"id": "2849436"
 }
-]
+],
+"site": "cytosol of the platelet",
+"cells": "platelets from neutrophil LTA4 (transcellular) (human). Neutrophils alone do not make lipoxins from LTA4"
 },
 {
 "id": "re128",
@@ -1169,8 +1214,26 @@
 "year": "1984",
 "db": "pubmed",
 "id": "6089195"
+},
+{
+"authors": "Serhan CN et al.",
+"year": "1990",
+"title": "Lipoxin formation during human neutrophil-platelet interactions. Evidence for the transformation of leukotriene A4 by platelet 12-lipoxygenase in vitro.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "2155925"
+},
+{
+"authors": "Edenius C et al.",
+"year": "1988",
+"title": "Transcellular conversion of endogenous arachidonic acid to lipoxins in mixed human platelet-granulocyte suspensions.",
+"journal": "Biochem Biophys Res Commun",
+"db": "pubmed",
+"id": "2849436"
 }
-]
+],
+"site": "cytosol of the platelet",
+"cells": "platelets from neutrophil LTA4 (transcellular) (human)"
 },
 {
 "label": "Lipoxin A4 (LXA4)",

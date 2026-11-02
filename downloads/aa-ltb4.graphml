@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -71,7 +71,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.57142857142857" x="-24.8" xml:space="preserve" y="10.9" hasText="true">12-oxo-LTB4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re66"><data key="dref">pubmed:1544505 pubmed:17371808</data><data key="ng">
+    </node><node id="re66"><data key="dcells">neutrophils (most), monocytes, eosinophils (little) (human). Neutrophils also take LTA4 from other cells</data><data key="dsite">cytosol</data><data key="dref">pubmed:1544505 pubmed:17371808 pubmed:6490615 pubmed:377292 pubmed:6324182</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="491.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -85,7 +85,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re60"><data key="dref">pubmed:3012557 pubmed:3006030</data><data key="ng">
+    </node><node id="re60"><data key="dcells">neutrophils, eosinophils (product measured), monocytes, alveolar macrophages, mast cells (human)</data><data key="dsite">nuclear envelope, as the step before</data><data key="dref">pubmed:3012557 pubmed:3006030 pubmed:8245774 pubmed:377292 pubmed:6324182</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -169,7 +169,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re61"><data key="dref">pubmed:3006030 pubmed:2300173</data><data key="ng">
+    </node><node id="re61"><data key="dcells">neutrophils, eosinophils (product measured), monocytes, alveolar macrophages, mast cells (human)</data><data key="dsite">nuclear envelope: on activation 5-lipoxygenase moves there and meets FLAP</data><data key="dref">pubmed:3006030 pubmed:2300173 pubmed:8245774 pubmed:7738170 pubmed:377292 pubmed:6324182 pubmed:11136826</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>

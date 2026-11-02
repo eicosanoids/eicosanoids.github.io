@@ -874,7 +874,9 @@
 "db": "pubmed",
 "id": "12738806"
 }
-]
+],
+"site": "outside the cell, on the plasma membrane",
+"cells": "kidney, lung, intestine, pancreas (DPEP1, mouse knockout)"
 },
 {
 "id": "p_phos",

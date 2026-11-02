@@ -1045,8 +1045,34 @@
 "year": "1997",
 "db": "pubmed",
 "id": "9177185"
+},
+{
+"authors": "Claesson HE et al.",
+"year": "2008",
+"title": "Hodgkin Reed-Sternberg cells express 15-lipoxygenase-1 and are putative producers of eoxins in vivo: novel insight into the inflammatory features of classical Hodgkin lymphoma.",
+"journal": "FEBS J",
+"db": "pubmed",
+"id": "18647347"
+},
+{
+"authors": "Henderson WR et al.",
+"year": "1984",
+"title": "Arachidonic acid metabolism in normal and hypereosinophilic syndrome human eosinophils: generation of leukotrienes B4, C4, D4 and 15-lipoxygenase products.",
+"journal": "Immunology",
+"db": "pubmed",
+"id": "6323307"
+},
+{
+"authors": "Conrad DJ et al.",
+"year": "1992",
+"title": "Specific inflammatory cytokines regulate the expression of human monocyte 15-lipoxygenase.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "1729692"
 }
-]
+],
+"site": "cytosol, moving to membranes when calcium rises",
+"cells": "eosinophils and monocytes after IL-4 (ALOX15). Epithelia of skin, prostate, lung and cornea (ALOX15B, expression) (human)"
 },
 {
 "id": "re110",
@@ -1078,8 +1104,18 @@
 "year": "2008",
 "db": "pubmed",
 "id": "18184802"
+},
+{
+"authors": "Christmas P et al.",
+"year": "2002",
+"title": "Membrane localization and topology of leukotriene C4 synthase.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "12023288"
 }
-]
+],
+"site": "nuclear envelope, the LTC4 synthase of the leukotriene branch",
+"cells": "eosinophils, mast cells (human)"
 },
 {
 "id": "re75",
@@ -1343,8 +1379,18 @@
 "year": "1993",
 "db": "pubmed",
 "id": "8334154"
+},
+{
+"authors": "Claesson HE et al.",
+"year": "2008",
+"title": "Hodgkin Reed-Sternberg cells express 15-lipoxygenase-1 and are putative producers of eoxins in vivo: novel insight into the inflammatory features of classical Hodgkin lymphoma.",
+"journal": "FEBS J",
+"db": "pubmed",
+"id": "18647347"
 }
-]
+],
+"site": "cytosol, moving to membranes when calcium rises",
+"cells": "eosinophils, mast cells, nasal polyps, Reed-Sternberg cells of Hodgkin lymphoma (human)"
 },
 {
 "label": "ALOX15",

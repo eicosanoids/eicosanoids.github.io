@@ -288,7 +288,9 @@
 "db": "pubmed",
 "id": "9792445"
 }
-]
+],
+"site": "plasma membrane, an ATP-driven pump",
+"cells": "cells that make LTC4 and carry MRP1 (shown in transfected human cells)"
 },
 {
 "id": "re64",
@@ -329,8 +331,18 @@
 "year": "1997",
 "db": "pubmed",
 "id": "9139674"
+},
+{
+"authors": "Carter BZ et al.",
+"year": "1998",
+"title": "gamma-glutamyl leukotrienase, a gamma-glutamyl transpeptidase gene family member, is expressed primarily in spleen.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "9774450"
 }
-]
+],
+"site": "outside the cell, on the plasma membrane",
+"cells": "kidney, lung, intestine and lymphoid tissue (GGT5, mouse)"
 },
 {
 "id": "re65",
@@ -372,7 +384,9 @@
 "db": "pubmed",
 "id": "12738806"
 }
-]
+],
+"site": "outside the cell, on the plasma membrane",
+"cells": "kidney, lung, intestine, pancreas (DPEP1, mouse knockout)"
 },
 {
 "id": "re62",
@@ -413,8 +427,42 @@
 "year": "1996",
 "db": "pubmed",
 "id": "8703034"
+},
+{
+"authors": "Christmas P et al.",
+"year": "2002",
+"title": "Membrane localization and topology of leukotriene C4 synthase.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "12023288"
+},
+{
+"authors": "Weller PF et al.",
+"year": "1983",
+"title": "Generation and metabolism of 5-lipoxygenase pathway leukotrienes by human eosinophils: predominant production of leukotriene C4.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "6324182"
+},
+{
+"authors": "Hsieh FH et al.",
+"year": "2001",
+"title": "T helper cell type 2 cytokines coordinately regulate immunoglobulin E-dependent cysteinyl leukotriene production by human cord blood-derived mast cells: profound induction of leukotriene C(4) synthase expression by interleukin 4.",
+"journal": "J Exp Med",
+"db": "pubmed",
+"id": "11136826"
+},
+{
+"authors": "Maclouf J et al.",
+"year": "1990",
+"title": "Transcellular biosynthesis of sulfidopeptide leukotrienes during receptor-mediated stimulation of human neutrophil/platelet mixtures.",
+"journal": "Blood",
+"db": "pubmed",
+"id": "2224131"
 }
-]
+],
+"site": "outer nuclear membrane and endoplasmic reticulum, the active site facing the lumen",
+"cells": "eosinophils, mast cells, monocytes (human). Platelets make it from neutrophil LTA4 (transcellular)"
 },
 {
 "label": "MGST2",

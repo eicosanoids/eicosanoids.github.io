@@ -446,8 +446,34 @@
 "year": "2007",
 "db": "pubmed",
 "id": "17371808"
+},
+{
+"authors": "Rådmark O et al.",
+"year": "1984",
+"title": "Leukotriene A4 hydrolase in human leukocytes. Purification and properties.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "6490615"
+},
+{
+"authors": "Borgeat P et al.",
+"year": "1979",
+"title": "Arachidonic acid metabolism in polymorphonuclear leukocytes: effects of ionophore A23187.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "377292"
+},
+{
+"authors": "Weller PF et al.",
+"year": "1983",
+"title": "Generation and metabolism of 5-lipoxygenase pathway leukotrienes by human eosinophils: predominant production of leukotriene C4.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "6324182"
 }
-]
+],
+"site": "cytosol",
+"cells": "neutrophils (most), monocytes, eosinophils (little) (human). Neutrophils also take LTA4 from other cells"
 },
 {
 "id": "p_phos",

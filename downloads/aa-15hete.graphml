@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -233,7 +233,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re77"><data key="dref">pubmed:8334154 pubmed:9177185</data><data key="ng">
+    </node><node id="re77"><data key="dcells">eosinophils and monocytes after IL-4 (ALOX15). Epithelia of skin, prostate, lung and cornea (ALOX15B, expression) (human)</data><data key="dsite">cytosol, moving to membranes when calcium rises</data><data key="dref">pubmed:8334154 pubmed:9177185 pubmed:18647347 pubmed:6323307 pubmed:1729692</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -247,7 +247,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re110"><data key="dref">pubmed:18184802</data><data key="ng">
+    </node><node id="re110"><data key="dcells">eosinophils, mast cells (human)</data><data key="dsite">nuclear envelope, the LTC4 synthase of the leukotriene branch</data><data key="dref">pubmed:18184802 pubmed:12023288</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="491.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -331,7 +331,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re84"><data key="dref">pubmed:18184802 pubmed:8334154</data><data key="ng">
+    </node><node id="re84"><data key="dcells">eosinophils, mast cells, nasal polyps, Reed-Sternberg cells of Hodgkin lymphoma (human)</data><data key="dsite">cytosol, moving to membranes when calcium rises</data><data key="dref">pubmed:18184802 pubmed:8334154 pubmed:18647347</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>

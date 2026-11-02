@@ -406,8 +406,34 @@
 "year": "2007",
 "db": "pubmed",
 "id": "17371808"
+},
+{
+"authors": "Rådmark O et al.",
+"year": "1984",
+"title": "Leukotriene A4 hydrolase in human leukocytes. Purification and properties.",
+"journal": "J Biol Chem",
+"db": "pubmed",
+"id": "6490615"
+},
+{
+"authors": "Borgeat P et al.",
+"year": "1979",
+"title": "Arachidonic acid metabolism in polymorphonuclear leukocytes: effects of ionophore A23187.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "377292"
+},
+{
+"authors": "Weller PF et al.",
+"year": "1983",
+"title": "Generation and metabolism of 5-lipoxygenase pathway leukotrienes by human eosinophils: predominant production of leukotriene C4.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "6324182"
 }
-]
+],
+"site": "cytosol",
+"cells": "neutrophils (most), monocytes, eosinophils (little) (human). Neutrophils also take LTA4 from other cells"
 },
 {
 "id": "re60",
@@ -447,8 +473,34 @@
 "year": "1986",
 "db": "pubmed",
 "id": "3006030"
+},
+{
+"authors": "Woods JW et al.",
+"year": "1993",
+"title": "5-lipoxygenase and 5-lipoxygenase-activating protein are localized in the nuclear envelope of activated human leukocytes.",
+"journal": "J Exp Med",
+"db": "pubmed",
+"id": "8245774"
+},
+{
+"authors": "Borgeat P et al.",
+"year": "1979",
+"title": "Arachidonic acid metabolism in polymorphonuclear leukocytes: effects of ionophore A23187.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "377292"
+},
+{
+"authors": "Weller PF et al.",
+"year": "1983",
+"title": "Generation and metabolism of 5-lipoxygenase pathway leukotrienes by human eosinophils: predominant production of leukotriene C4.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "6324182"
 }
-]
+],
+"site": "nuclear envelope, as the step before",
+"cells": "neutrophils, eosinophils (product measured), monocytes, alveolar macrophages, mast cells (human)"
 },
 {
 "id": "re71",
@@ -728,8 +780,50 @@
 "year": "1990",
 "db": "pubmed",
 "id": "2300173"
+},
+{
+"authors": "Woods JW et al.",
+"year": "1993",
+"title": "5-lipoxygenase and 5-lipoxygenase-activating protein are localized in the nuclear envelope of activated human leukocytes.",
+"journal": "J Exp Med",
+"db": "pubmed",
+"id": "8245774"
+},
+{
+"authors": "Woods JW et al.",
+"year": "1995",
+"title": "5-Lipoxygenase is located in the euchromatin of the nucleus in resting human alveolar macrophages and translocates to the nuclear envelope upon cell activation.",
+"journal": "J Clin Invest",
+"db": "pubmed",
+"id": "7738170"
+},
+{
+"authors": "Borgeat P et al.",
+"year": "1979",
+"title": "Arachidonic acid metabolism in polymorphonuclear leukocytes: effects of ionophore A23187.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "377292"
+},
+{
+"authors": "Weller PF et al.",
+"year": "1983",
+"title": "Generation and metabolism of 5-lipoxygenase pathway leukotrienes by human eosinophils: predominant production of leukotriene C4.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "6324182"
+},
+{
+"authors": "Hsieh FH et al.",
+"year": "2001",
+"title": "T helper cell type 2 cytokines coordinately regulate immunoglobulin E-dependent cysteinyl leukotriene production by human cord blood-derived mast cells: profound induction of leukotriene C(4) synthase expression by interleukin 4.",
+"journal": "J Exp Med",
+"db": "pubmed",
+"id": "11136826"
 }
-]
+],
+"site": "nuclear envelope: on activation 5-lipoxygenase moves there and meets FLAP",
+"cells": "neutrophils, eosinophils (product measured), monocytes, alveolar macrophages, mast cells (human)"
 },
 {
 "label": "ALOX5AP",

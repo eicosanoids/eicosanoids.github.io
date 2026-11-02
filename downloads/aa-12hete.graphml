@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -139,7 +139,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re116"><data key="dref">pubmed:12881489 pubmed:9044430</data><data key="ng">
+    </node><node id="re116"><data key="dcells">platelets when peroxidase activity is low, neutrophils given 12-HpETE, intestinal epithelium (secreted to the apical side), keratinocytes (human)</data><data key="dsite">cytosol</data><data key="dref">pubmed:12881489 pubmed:9044430 pubmed:11115402 pubmed:15123795 pubmed:15629692</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="591.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -209,7 +209,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re90"><data key="dref">pubmed:11115402 pubmed:9442035</data><data key="ng">
+    </node><node id="re90"><data key="dcells">platelets (human)</data><data key="dsite">cytosol, where glutathione peroxidases 1 and 4 both act</data><data key="dref">pubmed:11115402 pubmed:9442035</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-21.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -223,7 +223,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re96"><data key="dref">pubmed:9618483 pubmed:11368351 pubmed:12881489</data><data key="ng">
+    </node><node id="re96"><data key="dcells">keratinocytes, epidermis, psoriatic scale (human)</data><data key="dref">pubmed:9618483 pubmed:11368351 pubmed:12881489 pubmed:15629692</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="891.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -251,7 +251,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re114"><data key="dref">pubmed:10692117 pubmed:11115402</data><data key="ng">
+    </node><node id="re114"><data key="dcells">platelets when peroxidase activity is low, neutrophils given 12-HpETE (human)</data><data key="dsite">cytosol</data><data key="dref">pubmed:10692117 pubmed:11115402 pubmed:9044430</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="291.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -265,7 +265,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re91"><data key="dref">pubmed:11115402 pubmed:9442035</data><data key="ng">
+    </node><node id="re91"><data key="dcells">platelets (human)</data><data key="dsite">cytosol, where glutathione peroxidases 1 and 4 both act</data><data key="dref">pubmed:11115402 pubmed:9442035</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="3.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -293,7 +293,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re80"><data key="dref">pubmed:2377602 pubmed:2318885</data><data key="ng">
+    </node><node id="re80"><data key="dcells">platelets (human). Eosinophils make a little</data><data key="dsite">cytosol</data><data key="dref">pubmed:2377602 pubmed:2318885 pubmed:4215079 pubmed:6323307</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>

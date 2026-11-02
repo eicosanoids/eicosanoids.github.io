@@ -431,7 +431,9 @@
 "db": "pubmed",
 "id": "9442035"
 }
-]
+],
+"site": "cytosol, where glutathione peroxidases 1 and 4 both act",
+"cells": "platelets (human)"
 },
 {
 "id": "p_hne",

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -47,7 +47,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="32.57142857142857" x="3.7" xml:space="preserve" y="10.9" hasText="true">LTE4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re63"><data key="dref">pubmed:7961706 pubmed:9792445</data><data key="ng">
+    </node><node id="re63"><data key="dcells">cells that make LTC4 and carry MRP1 (shown in transfected human cells)</data><data key="dsite">plasma membrane, an ATP-driven pump</data><data key="dref">pubmed:7961706 pubmed:9792445</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -61,7 +61,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re64"><data key="dref">pubmed:11463821 pubmed:9139674</data><data key="ng">
+    </node><node id="re64"><data key="dcells">kidney, lung, intestine and lymphoid tissue (GGT5, mouse)</data><data key="dsite">outside the cell, on the plasma membrane</data><data key="dref">pubmed:11463821 pubmed:9139674 pubmed:9774450</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="491.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -75,7 +75,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re65"><data key="dref">pubmed:9560193 pubmed:12738806</data><data key="ng">
+    </node><node id="re65"><data key="dcells">kidney, lung, intestine, pancreas (DPEP1, mouse knockout)</data><data key="dsite">outside the cell, on the plasma membrane</data><data key="dref">pubmed:9560193 pubmed:12738806</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="691.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -89,7 +89,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re62"><data key="dref">pubmed:8052639 pubmed:8703034</data><data key="ng">
+    </node><node id="re62"><data key="dcells">eosinophils, mast cells, monocytes (human). Platelets make it from neutrophil LTA4 (transcellular)</data><data key="dsite">outer nuclear membrane and endoplasmic reticulum, the active site facing the lumen</data><data key="dref">pubmed:8052639 pubmed:8703034 pubmed:12023288 pubmed:6324182 pubmed:11136826 pubmed:2224131</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>

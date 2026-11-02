@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="LIPID MAPS" attr.type="string" for="node" id="dlipidmaps"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -127,7 +127,7 @@
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.142857142857142" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="89.57142857142857" x="-24.8" xml:space="preserve" y="10.9" hasText="true">15-oxo-LXA4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re120"><data key="dref">pubmed:8334154 pubmed:8250832</data><data key="ng">
+    </node><node id="re120"><data key="dcells">platelets from neutrophil LTA4 (transcellular), mixed platelets and granulocytes (human)</data><data key="dsite">cytosol of the platelet</data><data key="dref">pubmed:8334154 pubmed:8250832 pubmed:2155925 pubmed:2849436</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-159.0" y="191.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -169,7 +169,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re125"><data key="dref">pubmed:7568157 pubmed:8898374</data><data key="ng">
+    </node><node id="re125"><data key="dcells">neutrophils taking 15R-HETE from endothelial cells with aspirin-acetylated COX-2 (human, inhibitors)</data><data key="dref">pubmed:7568157 pubmed:8898374 pubmed:12890715</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="1191.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -183,7 +183,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re118"><data key="dref">pubmed:8250832 pubmed:6089195</data><data key="ng">
+    </node><node id="re118"><data key="dcells">platelets from neutrophil LTA4 (transcellular) (human). Neutrophils alone do not make lipoxins from LTA4</data><data key="dsite">cytosol of the platelet</data><data key="dref">pubmed:8250832 pubmed:6089195 pubmed:2155925 pubmed:2849436</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -309,7 +309,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re119"><data key="dref">pubmed:8250832 pubmed:6089195</data><data key="ng">
+    </node><node id="re119"><data key="dcells">platelets from neutrophil LTA4 (transcellular) (human)</data><data key="dsite">cytosol of the platelet</data><data key="dref">pubmed:8250832 pubmed:6089195 pubmed:2155925 pubmed:2849436</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="291.0" y="291.0"/>
           <y:Fill transparent="false" hasColor="false"/>

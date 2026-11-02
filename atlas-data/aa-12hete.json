@@ -696,8 +696,34 @@
 "year": "1997",
 "db": "pubmed",
 "id": "9044430"
+},
+{
+"authors": "Sutherland M et al.",
+"journal": "Biochem J",
+"title": "Evidence for the presence of phospholipid hydroperoxide glutathione peroxidase in human platelets: implications for its involvement in the regulatory network of the 12-lipoxygenase pathway of arachidonic acid metabolism.",
+"year": "2001",
+"db": "pubmed",
+"id": "11115402"
+},
+{
+"authors": "Mrsny RJ et al.",
+"year": "2004",
+"title": "Identification of hepoxilin A3 in inflammatory events: a required role in neutrophil migration across intestinal epithelia.",
+"journal": "Proc Natl Acad Sci U S A",
+"db": "pubmed",
+"id": "15123795"
+},
+{
+"authors": "Yu Z et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Mutations associated with a congenital form of ichthyosis (NCIE) inactivate the epidermal lipoxygenases 12R-LOX and eLOX3.",
+"year": "2005",
+"db": "pubmed",
+"id": "15629692"
 }
-]
+],
+"site": "cytosol",
+"cells": "platelets when peroxidase activity is low, neutrophils given 12-HpETE, intestinal epithelium (secreted to the apical side), keratinocytes (human)"
 },
 {
 "id": "re109",
@@ -916,7 +942,9 @@
 "db": "pubmed",
 "id": "9442035"
 }
-]
+],
+"site": "cytosol, where glutathione peroxidases 1 and 4 both act",
+"cells": "platelets (human)"
 },
 {
 "id": "re96",
@@ -964,8 +992,17 @@
 "year": "2003",
 "db": "pubmed",
 "id": "12881489"
+},
+{
+"authors": "Yu Z et al.",
+"journal": "Biochim Biophys Acta",
+"title": "Mutations associated with a congenital form of ichthyosis (NCIE) inactivate the epidermal lipoxygenases 12R-LOX and eLOX3.",
+"year": "2005",
+"db": "pubmed",
+"id": "15629692"
 }
-]
+],
+"cells": "keratinocytes, epidermis, psoriatic scale (human)"
 },
 {
 "id": "re93",
@@ -1053,8 +1090,18 @@
 "year": "2001",
 "db": "pubmed",
 "id": "11115402"
+},
+{
+"authors": "Reynaud D et al.",
+"journal": "Prostaglandins Leukot Essent Fatty Acids",
+"title": "12-HETE and 12-HPETE potently stimulate intracellular release of calcium in intact human neutrophils.",
+"year": "1997",
+"db": "pubmed",
+"id": "9044430"
 }
-]
+],
+"site": "cytosol",
+"cells": "platelets when peroxidase activity is low, neutrophils given 12-HpETE (human)"
 },
 {
 "id": "re91",
@@ -1095,7 +1142,9 @@
 "db": "pubmed",
 "id": "9442035"
 }
-]
+],
+"site": "cytosol, where glutathione peroxidases 1 and 4 both act",
+"cells": "platelets (human)"
 },
 {
 "id": "re115",
@@ -1169,8 +1218,22 @@
 "year": "1990",
 "db": "pubmed",
 "id": "2318885"
+},
+{
+"db": "pubmed",
+"id": "4215079"
+},
+{
+"authors": "Henderson WR et al.",
+"year": "1984",
+"title": "Arachidonic acid metabolism in normal and hypereosinophilic syndrome human eosinophils: generation of leukotrienes B4, C4, D4 and 15-lipoxygenase products.",
+"journal": "Immunology",
+"db": "pubmed",
+"id": "6323307"
 }
-]
+],
+"site": "cytosol",
+"cells": "platelets (human). Eosinophils make a little"
 },
 {
 "label": "ALOX15",

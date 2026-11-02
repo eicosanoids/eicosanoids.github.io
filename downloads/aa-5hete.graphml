@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:y="http://www.yworks.com/xml/graphml">
-  <key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
+  <key attr.name="Cells" attr.type="string" for="node" id="dcells"/><key attr.name="Site" attr.type="string" for="node" id="dsite"/><key attr.name="References" attr.type="string" for="node" id="dref"/><key attr.name="ChEBI" attr.type="string" for="node" id="d0"/>
   <key attr.name="HGNC symbol" attr.type="string" for="node" id="d1"/>
   <key attr.name="HGNC" attr.type="string" for="node" id="d2"/>
   <key attr.name="UniProt" attr.type="string" for="node" id="d3"/>
@@ -75,7 +75,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re74"><data key="dref">pubmed:1326548 pubmed:7929234 pubmed:24056189</data><data key="ng">
+    </node><node id="re74"><data key="dcells">neutrophils; monocytes, lymphocytes and platelets under oxidative stress (human)</data><data key="dsite">endoplasmic reticulum membrane, reversible with NADP+ and NADPH</data><data key="dref">pubmed:1326548 pubmed:7929234 pubmed:24056189 pubmed:8395251 pubmed:15234979</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="491.0"/>
           <y:Fill transparent="false" hasColor="false"/>
@@ -89,7 +89,7 @@
           </y:NodeLabel>
         </y:GenericNode>
       </data>
-    </node><node id="re61"><data key="dref">pubmed:3006030 pubmed:2300173</data><data key="ng">
+    </node><node id="re61"><data key="dcells">neutrophils, eosinophils (product measured), monocytes, alveolar macrophages, mast cells (human)</data><data key="dsite">nuclear envelope: on activation 5-lipoxygenase moves there and meets FLAP</data><data key="dref">pubmed:3006030 pubmed:2300173 pubmed:8245774 pubmed:7738170 pubmed:377292 pubmed:6324182 pubmed:11136826</data><data key="ng">
         <y:GenericNode configuration="com.yworks.sbgn.Process">
           <y:Geometry height="18.0" width="18.0" x="-9.0" y="91.0"/>
           <y:Fill transparent="false" hasColor="false"/>
