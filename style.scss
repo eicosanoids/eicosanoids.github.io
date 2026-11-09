@@ -270,7 +270,7 @@ nav {
   float: right;
   margin-top: 0; // level with the site's name
   font-family: $helveticaNeue;
-  font-size: 21px; // as large as the site's name
+  font-size: 17px; // smaller than the site's name (user, 2026-11-10)
   line-height: 1.25;
 
   @include mobile {
