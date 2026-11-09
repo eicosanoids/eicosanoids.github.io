@@ -187,15 +187,34 @@ img {
 // .masthead
 //
 
+// A line where the top bar ends, across the window; name and menu in the middle of the bar, no subtitle (user,
+// 2026-11-10, as the next Metabolism Regulation version)
 .wrapper-masthead {
-  margin-bottom: 24px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+// The header as wide as the Atlas viewer, its edges on the viewer's
+.wrapper-masthead .container {
+  max-width: none;
+  width: min(100vw / var(--zoom, 1) - 32px, 2000px);
+  padding: 0;
 }
 
 .masthead {
-  padding: 14px 0;
+  display: flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 0;
+  &:before, &:after { display: none; } // the clearfix is not needed in a flex row
+
+  nav { margin: 0 0 0 auto; }
 
   @include mobile {
     text-align: center;
+    flex-direction: column;
+    padding: 8px 0;
+    nav { margin: 6px 0 0; }
   }
 }
 
@@ -232,8 +251,8 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 26px;
-  line-height: 1.35;
+  font-size: 21px;
+  line-height: 1.25;
   letter-spacing: 1px;
 }
 
@@ -249,9 +268,10 @@ img {
 
 nav {
   float: right;
-  margin-top: 15px; // middle of the 54px logo
+  margin-top: 0; // level with the site's name
   font-family: $helveticaNeue;
-  font-size: 17px;
+  font-size: 21px; // as large as the site's name
+  line-height: 1.25;
 
   @include mobile {
     float: none;

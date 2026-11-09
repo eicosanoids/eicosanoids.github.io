@@ -14,7 +14,9 @@ comments, commit messages): the maps are built in "a private repository", whose 
   (https://viewer-source.github.io, since 2026-11-09; `_includes/VERSION` names its commit): never edited here, a change
   is made in the source and copied with its `copy-to-site.sh`. `meta.html`, the page layouts and the styles are copied
   from the Metabolism Regulation website (`VERSION` names the commit).
-- The header (name, subtitle) is `_config.yml`, the menu `_data/nav.yml` (an entry with items is a drop-down).
+- The header is a top bar (user, 2026-11-10, as the next Metabolism Regulation version): the name (`_config.yml`)
+  and the menu (`_data/nav.yml`, an entry with items is a drop-down), a thin line under it, as wide as the viewer; no
+  subtitle (`description` stays for the page's meta description).
   Every page stays in the menu (user, 2026-11-01). No logo in the header (user, 2026-11-01: removed; `images/logo.svg`
   kept, shown again by `avatar:` in `_config.yml`). Tab icons come from the favicon skill (`images/favicon/`).
 
