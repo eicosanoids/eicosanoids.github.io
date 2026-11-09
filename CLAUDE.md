@@ -10,9 +10,10 @@ comments, commit messages): the maps are built in "a private repository", whose 
 
 - Maps, entries, the organisation pages and the click data are copies: `downloads/`, `_maps/`, `pages/`,
   `atlas-data/`, written by the private repository's copy script. Change them there, never here.
-- The viewer (`_includes/atlas-app.html`, `atlas-tags.css`), `meta.html`, the page layouts and the styles are copied
-  from the Metabolism Regulation website (`VERSION` names the commit). A change to the viewer is made there, where the
-  MRegAtlas and the Pattern Atlas use the same code, and copied here.
+- The viewer (`_includes/atlas-app.html`, `_includes/atlas-tags.css`) is a copy of the viewer's source
+  (https://viewer-source.github.io, since 2026-11-09; `_includes/VERSION` names its commit): never edited here, a change
+  is made in the source and copied with its `copy-to-site.sh`. `meta.html`, the page layouts and the styles are copied
+  from the Metabolism Regulation website (`VERSION` names the commit).
 - The header (name, subtitle) is `_config.yml`, the menu `_data/nav.yml` (an entry with items is a drop-down).
   Every page stays in the menu (user, 2026-11-01). No logo in the header (user, 2026-11-01: removed; `images/logo.svg`
   kept, shown again by `avatar:` in `_config.yml`). Tab icons come from the favicon skill (`images/favicon/`).
