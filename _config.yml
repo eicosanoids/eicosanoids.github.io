@@ -40,4 +40,4 @@ exclude:
   - VERSION
 
 # Tab icon version, added to the icon links so browsers fetch a new icon at once
-icon_version: ei127
+icon_version: ei131
