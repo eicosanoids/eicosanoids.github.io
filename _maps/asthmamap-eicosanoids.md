@@ -26,7 +26,7 @@ Phospholipase A2 (cPLA2α and cPLA2γ) releases arachidonic acid from membrane p
 
 **On this page.** The map is also cut into its parts, one per enzyme branch: release, prostanoids, leukotrienes, 12- and 15-lipoxygenase products, lipoxins, cytochrome P450 products and isoprostanes.
 
-**MRegAtlas.** The regulation of eicosanoid production (cPLA2α and its activation, generic, platelet and mast cell) is drawn in the MRegAtlas maps [Eicosanoids (generic)](https://metabolismregulation.github.io/atlas/#eicosanoids), [Eicosanoids (platelet)](https://metabolismregulation.github.io/atlas/#eicosanoids-platelet) and [Eicosanoids (mast cell)](https://metabolismregulation.github.io/atlas/#eicosanoids-mast-cell).
+**MRegAtlas.** The regulation of eicosanoid production (cPLA2α and its activation, generic, platelet and mast cell) is drawn in the MRegAtlas maps [Eicosanoids (generic)](https://mreg-atlas.github.io/atlas/#eicosanoids), [Eicosanoids (platelet)](https://mreg-atlas.github.io/atlas/#eicosanoids-platelet) and [Eicosanoids (mast cell)](https://mreg-atlas.github.io/atlas/#eicosanoids-mast-cell).
 
 ## References
 

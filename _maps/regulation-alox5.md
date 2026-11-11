@@ -22,7 +22,7 @@ Arachidonate 5-lipoxygenase (ALOX5) converts arachidonate, through 5-hydroperoxy
 
 ## Source
 
-The map of the Metabolism Regulation Atlas ([MRegAtlas](https://metabolismregulation.github.io/atlas/)), as published there, with its own labels and references. It is kept here because the regulation it draws belongs to this atlas as well. A change to it is made there.
+The map of the Metabolism Regulation Atlas ([MRegAtlas](https://mreg-atlas.github.io/atlas/)), as published there, with its own labels and references. It is kept here because the regulation it draws belongs to this atlas as well. A change to it is made there.
 
 ## References
 

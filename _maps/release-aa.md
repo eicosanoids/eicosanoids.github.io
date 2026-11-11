@@ -18,7 +18,7 @@ downloads:
   - {label: "GraphML", url: "/downloads/release-aa.graphml"}
   - {label: "SVG", url: "/downloads/release-aa.svg"}
 ---
-Cytosolic phospholipase A2 releases arachidonic acid from membrane phosphatidylcholine (lecithin), the first step of eicosanoid production. Two forms are drawn, cPLA2α (PLA2G4A), the main one in most cells, and cPLA2γ (PLA2G4C). How cPLA2α is activated, by Ca2+ and by phosphorylation, is drawn in the MRegAtlas map [Eicosanoids (generic)](https://metabolismregulation.github.io/atlas/#eicosanoids).
+Cytosolic phospholipase A2 releases arachidonic acid from membrane phosphatidylcholine (lecithin), the first step of eicosanoid production. Two forms are drawn, cPLA2α (PLA2G4A), the main one in most cells, and cPLA2γ (PLA2G4C). How cPLA2α is activated, by Ca2+ and by phosphorylation, is drawn in the MRegAtlas map [Eicosanoids (generic)](https://mreg-atlas.github.io/atlas/#eicosanoids).
 
 ## Source
 

@@ -22,7 +22,7 @@ In platelets, thrombin releases arachidonate for thromboxane and prostaglandin s
 
 ## Source
 
-The map of the Metabolism Regulation Atlas ([MRegAtlas](https://metabolismregulation.github.io/atlas/)), as published there, with its own labels and references. It is kept here because the regulation it draws belongs to this atlas as well. A change to it is made there.
+The map of the Metabolism Regulation Atlas ([MRegAtlas](https://mreg-atlas.github.io/atlas/)), as published there, with its own labels and references. It is kept here because the regulation it draws belongs to this atlas as well. A change to it is made there.
 
 ## References
 
