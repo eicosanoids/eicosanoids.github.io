@@ -38,3 +38,6 @@ exclude:
   - README.md
   - CLAUDE.md
   - VERSION
+
+# Tab icon version, added to the icon links so browsers fetch a new icon at once
+icon_version: ei127
