@@ -1,0 +1,45 @@
+# Builds the site with its data: the page code is here, the files it shows (_maps/, atlas-data/, downloads/, pages/) come
+# from the organisation's private repository `<organisation>-data`, read with the read-only token in the secret DATA_TOKEN,
+# and are put in only for the build, so they are on the site but not in this repository. Runs on a push here and by
+# hand (Actions, Run workflow; started after the data changes).
+name: Build with data
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/${{ github.repository_owner }}-data
+          token: ${{ secrets.DATA_TOKEN }}
+          path: _data_in
+      - name: Put the data in place
+        run: |
+          for d in _maps atlas-data downloads pages; do rm -rf "$d"; cp -r "_data_in/$d" "$d"; done
+          rm -rf _data_in
+      - uses: actions/configure-pages@v5
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@v3
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

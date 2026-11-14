@@ -8,8 +8,10 @@ comments, commit messages): the maps are built in "a private repository", whose 
 
 ## What comes from where
 
-- Maps, entries, the organisation pages and the click data are copies: `downloads/`, `_maps/`, `pages/`,
-  `atlas-data/`, written by the private repository's copy script. Change them there, never here.
+- Maps, entries, the organisation pages and the click data (`downloads/`, `_maps/`, `pages/`, `atlas-data/`) are not in
+  this repository (since 2026-11-14): they are kept in a private data repository, written by the private repository's
+  copy script, and put into the site by the workflow `.github/workflows/build.yml` when it is built (secret
+  `DATA_TOKEN`, read-only). Change them there, never here; after the data changes, run the workflow by hand.
 - The viewer (`_includes/atlas-app.html`, `_includes/atlas-tags.css`) is a copy of the viewer's source
   (https://viewer-source.github.io, since 2026-11-09; `_includes/VERSION` names its commit): never edited here, a change
   is made in the source and copied with its `copy-to-site.sh`. `meta.html`, the page layouts and the styles are copied
@@ -30,5 +32,5 @@ comments, commit messages): the maps are built in "a private repository", whose 
 - The site is kept out of search engines for now (user, 2026-11-01: hidden; noindex on every page, `_config.yml` defaults).
 - Page text as on the Metabolism Regulation map pages: the biology for a reader, no semicolons, no curation notes. The
   Metabolism Regulation Atlas is named MRegAtlas, and links to it are absolute.
-- A push that does not show: look at "pages build and deployment" in Actions; when the deploy step fails with "due to
-  in progress deployment", re-run the failed jobs of the newest run.
+- A push that does not show: look at "Build with data" in Actions (the Pages source is GitHub Actions; a "pages build
+  and deployment" run there means the source was set back to a branch, which deploys the site without its data).
