@@ -2,9 +2,10 @@
 
 This repository is public and builds https://eicosanoids.github.io, the Eicosanoid Atlas: maps of eicosanoids and
 related lipid mediators, their production, receptors and regulation (its own site since 2026-11-01, before that the
-hidden page /eicosanoid-atlas/ of the Metabolism Regulation website). It holds only finished maps and page text, never
-notes, sources or unpublished collaborators' material, and it names no private repository (files, pages, code
-comments, commit messages): the maps are built in "a private repository", whose copy script writes them here.
+hidden page /eicosanoid-atlas/ of the Metabolism Regulation website). It holds the page code only; the maps and page
+text it shows come from a private data repository at build (below). Never notes, sources or unpublished collaborators'
+material, and it names no private repository (files, pages, code comments, commit messages): the maps are built in "a
+private repository".
 
 ## What comes from where
 
